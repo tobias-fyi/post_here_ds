@@ -1,0 +1,576 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+3dasau|2015-07-14 20:49:54|/r/Gifs rules: Please read before submitting or commenting|"# [New to reddit? Click here!](/wiki/reddit_101)
+
+#**.gif, .gifv, .ogg, .mp4, and .webm format submissions only, please!**
+
+#**Submissions cannot contain sound**
+
+**If there is a violation of the rules, *please* click the report button and leave a report, and also [message the moderator team](http://www.reddit.com/message/compose?to=%2Fr%2Fgifs) and report the problem if it requires more detail.**
+
+------------------
+
+1. **Reposts and Crossposts:**
+ * Do not post gifs that have already appeared on /r/gifs . Moderators may allow gifs that have gotten an extremely low score in the past, but *that is not guaranteed.* 
+ * Do not post gifs that have gotten more than 1500 points (at the time of posting) elsewhere on reddit *in the last two weeks*. This includes videos converted to gif formats. Cross-posts after this time are allowed. 
+
+  **[Please use Karma Decay to see if your gif has already been submitted.](http://karmadecay.com/)**  
+ **Frequent violations of this rule may result in a ban.**
+
+  Please help us enforce this rule by reporting offending submissions. Please include a link to the original reddit submission in your report or modmail if you have it.
+   
+ *This rule is meant to keep things fresh. Reposts will be removed, however a good gif that did very badly the first time around may be given a second chance. We also don't wish to discourage cross-posting in general (it's even encouraged by reddiquette), but if something was recently popular elsewhere, we want to let the original post stand on its own for a while before it comes to /r/gifs.*
+
+ *Please note that the cross-post rule applies* ***at the time of posting***. *We don't want to punish users who were within the rules when they made their post. For example, if a post has 1000 points elsewhere, and someone cross-posts it here, but a few hours later the original post has gone past 1500 points, that's fine.*
+
+2. **No Reaction, HIFW, Analogy, Cake Day, or Upvote gifs.** There are already subreddits more suited for this kind of content. (This rule does not apply to comments)  
+   
+ *The [/r/reactiongifs wiki](https://www.reddit.com/r/reactiongifs/wiki/index#wiki_what_is_a_reaction_gif.3F) explains this well. Just because a gif has a reaction in it doesn't make it a reaction gif.*
+
+3. **Do not post gifs that should be videos.** Incredibly long gifs *or content much better suited to video formats* will be removed.  **20 seconds maximum duration.** (This rule does not apply to comments)  
+   
+ *Gifs are a short-form format, so if a gif doesn't provide any benefit, or a video format is preferable, it isn't allowed. For example, these may be removed...*
+ * *Gifs that require audio to be properly appreciated.*
+ * *Gifs with many cuts to different scenes.*
+ * *Gifs with a file size over 15mb.*
+
+4. **Direct image links REQUIRED**. No links to image pages or albums are allowed, your submission must be a single gif image. **Direct links that end in .gif, .gifv, .ogg, .mp4, and .webm format only.** URL-shorteners are **NOT** allowed in posts or comments!  
+  
+ *Image/gallery pages are prone to malicious ads or editing in spam in the text areas, so we require direct linking to prevent this. URL shorteners are on reddit's site-wide spam filter, because you can hide anything in a URL shortener and people have no idea what their browser will open.*
+
+5. **No depictions of real-life harassment or assault in posts or comments.** There are other subreddits dedicated to this kind of content.  
+
+6. **No witch-hunts or brigading in posts or comments.** Do not encourage any online or real-life harassment, and don't encourage people to downvote other posts/comments.  
+  
+ *This includes trying to rile people up over another reddit user's activities. There are always many sides to everything, and we've seen reddit go after the wrong person many times.*
+
+7. ***Nudity, porn, gore, and other obscene material are not allowed in posts or comments - No exceptions.*** Failure to comply will result in removal of post and banning. There are other subreddits dedicated to NSFW content. **Please mark risqué posts and comments as NSFW.**  
+  
+ *Risqué posts (girls in bikinis, for instance) are fine as long as it's tagged as NSFW and isn't overtly sexual. Porn, gore, nudity, and sex acts are bannable offenses in posts or comments. Anything causing grievous bodily harm or death is considered gore, even if there's no gore shown.*
+
+8. **Titles must be descriptive.** Do not make submissions with the title ""This"", ""This is my favorite gif"", etc.
+
+9. **No hate speech of any kind in posts or comments.** Racist, sexist, homophobic, or otherwise abusive submissions or comments will result in an immediate ban.  
+  
+ *Making fun of or belittling any person or people based on race, sex, gender, sexual preference, disability, or other characteristics is likely to get you banned. Language that goes past the standard ""internet tough guy"" banter may result in a removal or ban, depending on the severity.*
+
+10. **Please familiarize yourself with the [official rules](http://www.reddit.com/rules/) and [reddiquette](http://www.reddit.com/wiki/reddiquette).** We will remove any posts or comments violating reddit's official rules (spam, personal information, vote manipulation, etc.) and reddiquette just makes reddit a better place to visit.
+
+---
+
+#**COMMENTS HAVE BEEN LOCKED FOR THIS POST!**
+
+ If you have any questions about the rules, please [contact the moderators.]( http://www.reddit.com/message/compose?to=%2Fr%2Fgifs)"|GifsModerator|False|https://redd.it/3dasau|756|0.79|0|23|1|gifs
+drpt0a|2019-11-04 22:57:04|We are going to be testing some adjustments to the rules.|"Hey, folks!
+
+/r/GIFs is one of the largest communities on Reddit, which has itself grown by leaps and bounds over the course of the past few years. In that time, we've heard a lot of suggestions about how the subreddit could be improved, with a few general themes cropping up. These have included (but were not limited to) the following:
+
+------
+
+1. Please, please, please, please, *please* relax the rules on reposting.
+2. Extend the allowed length of submitted GIFs.
+3. Force everyone here to pronounce ""GIF"" correctly. (The correct pronunciation makes use of the same ""G"" sound present in the word ""garage."") Punish people who mispronounce it by sending them to The Happy Trapezoid.
+4. Seriously, can you do something about that repost-specific rule?
+
+------
+
+In response to these enquiries, we're going to be experimenting with some changes. As such, we encourage everyone to pay attention to how our rules may be adjusted in the coming weeks, as certain shifts might or might not be made permanent (depending on how they impact the subreddit's overall quality). During that time, we would also welcome your feedback, questions, concerns, and speculations about how the moderation team here is actually composed of a few dozen cockatiels that have somehow gotten access to a laptop.
+
+Thank you, as always, for being an /r/GIFs subscriber!"|RamsesThePigeon|False|https://redd.it/drpt0a|113|0.9|0|78|1|gifs
+ekoa8k|2020-01-06 03:44:19|W R O N K L E S|https://i.imgur.com/NKkELdu.gifv|baronvonvaderham|False|https://redd.it/ekoa8k|24630|0.91|1|394|0|gifs
+ekl23b|2020-01-05 23:36:00|A small friend.|https://gfycat.com/illegaldisgustingjoey|grettaaa|False|https://redd.it/ekl23b|44569|0.93|0|819|0|gifs
+ekrras|2020-01-06 09:24:30|run n sploot|https://i.imgur.com/R7mYTjC.gifv|jasontaken|False|https://redd.it/ekrras|830|0.91|0|22|0|gifs
+ekph2m|2020-01-06 05:28:31|Badminton-bot|https://i.imgur.com/1udkqRA.gifv|Ness_69|False|https://redd.it/ekph2m|1466|0.97|0|46|0|gifs
+ekg4bh|2020-01-05 17:37:05|Australian firefighter giving a thirsty koala a drink|https://gfycat.com/tiredornateaustraliansilkyterrier|unnaturalorder|False|https://redd.it/ekg4bh|105019|0.93|11|1400|0|gifs
+ekgy0z|2020-01-05 18:35:00|Tunnel boring machine|https://i.imgur.com/pZAM7q9.gifv|RampChurch|False|https://redd.it/ekgy0z|6817|0.98|0|281|0|gifs
+ekrwg9|2020-01-06 09:40:36|dinnertime|https://i.imgur.com/4el9gdS.gifv|jasontaken|False|https://redd.it/ekrwg9|334|0.9|0|12|0|gifs
+ekh61h|2020-01-05 18:50:42|Being visited by a bird while skydiving|https://gfycat.com/quainthappygoluckylarva|VerySlump|False|https://redd.it/ekh61h|6122|0.95|0|90|0|gifs
+ekuxlw|2020-01-06 14:37:41|Behind the scenes of Twilight|https://gfycat.com/blindhighlevelladybug|Negral|False|https://redd.it/ekuxlw|129|0.89|0|18|0|gifs
+ekf3wu|2020-01-05 16:25:03|A couple of beers|https://i.redd.it/4jmmrcqpkz841.gif|yudoit|False|https://redd.it/ekf3wu|13061|0.93|0|160|0|gifs
+ekvfvk|2020-01-06 15:18:12|High schooler watches his last second shot get the #1 spot on Sportscenter Top 10.|https://gfycat.com/highlevelshoddyaquaticleech|PM_ME_STEAM_K3YS|False|https://redd.it/ekvfvk|97|0.88|0|6|0|gifs
+ekqq95|2020-01-06 07:32:05|meowssage|https://gfycat.com/villainousfirmgermanspaniel-longexposureoftheday-astro-photography|jasontaken|False|https://redd.it/ekqq95|371|0.89|0|6|0|gifs
+ekl7kn|2020-01-05 23:47:08|Affection rejected|https://gfycat.com/similarfavorablecreature|unnaturalorder|False|https://redd.it/ekl7kn|1334|0.94|0|49|0|gifs
+ekn3nk|2020-01-06 02:10:11|Cool park performance|https://gfycat.com/mixedwellgroomedafricangoldencat|Attiken|False|https://redd.it/ekn3nk|658|0.83|0|106|0|gifs
+ektrbc|2020-01-06 12:51:33|95-year-old WW2 veteran Hannes Tuovinen gets to shoot the Maxim machine gun again after a 76 year long break|https://i.imgur.com/eJxsOKT.gifv|kashluk|False|https://redd.it/ektrbc|91|0.89|0|12|0|gifs
+ekw8xv|2020-01-06 16:19:34|Stormtroopers waving|https://i.redd.it/ipb2s93po6941.gif|saltyspoo|False|https://redd.it/ekw8xv|44|0.87|0|1|0|gifs
+ekvwdn|2020-01-06 15:53:19|I taught myself to boomerang a playing card around my head|https://gfycat.com/blankbigheartedkoodoo|notseano|False|https://redd.it/ekvwdn|46|0.8|0|9|0|gifs
+ekwlze|2020-01-06 16:46:11|Ricky Gervais slams Hollywood elite for their political speeches|https://i.imgur.com/viTgIpU.gifv|krstyan|False|https://redd.it/ekwlze|31|0.83|0|4|0|gifs
+ekm17s|2020-01-06 00:47:46|This Color Changing Mug Is Getting Out Of Hand|https://gfycat.com/oldmerryerne|Mythbreaker|False|https://redd.it/ekm17s|445|0.71|0|41|0|gifs
+ekpjjd|2020-01-06 05:35:01|I heard this sub appreciates little hatchlings|https://i.redd.it/giz6oa5ph3941.gif|mrslugo|False|https://redd.it/ekpjjd|173|0.83|0|9|0|gifs
+ekwjzz|2020-01-06 16:42:15|The blue waters of Kali Biru|https://i.imgur.com/9nfJSw9.gifv|hjalmar111|False|https://redd.it/ekwjzz|20|0.92|0|2|0|gifs
+ekeyyd|2020-01-05 16:15:03|Scarlett Johansson photoshoot for Vanity Fair.|https://gfycat.com/impishdapperbasilisk|Sofargonept2|False|https://redd.it/ekeyyd|1878|0.76|0|224|0|gifs
+ekw2xw|2020-01-06 16:06:58|Every year, after Christmas, when the tree goes back in storage...|https://media.giphy.com/media/yrFrXTTTcHIY0/giphy.gif|TossAwayGay92|False|https://redd.it/ekw2xw|20|0.8|0|0|0|gifs
+ekttqb|2020-01-06 12:58:03|Thank your agent, thank your god and *spins* fuck off.|https://i.redd.it/npbrr7uqo5941.gif|Lepube|False|https://redd.it/ekttqb|35|0.71|0|1|0|gifs
+ekw9fh|2020-01-06 16:20:33|How clay babies are made - Clay animation|https://gfycat.com/bouncygrizzledgerenuk|guldies|False|https://redd.it/ekw9fh|17|0.83|0|1|0|gifs
+ek9otz|2020-01-05 07:10:17|To the last atom!|https://i.imgur.com/vhOB8wO.gif|v78|False|https://redd.it/ek9otz|36505|0.9|0|917|0|gifs
+ekraxt|2020-01-06 08:34:18|Thieving Cats|https://gfycat.com/oddballneedyfinch|demmoniks|False|https://redd.it/ekraxt|55|0.84|0|6|0|gifs
+ekuaof|2020-01-06 13:42:21|Preventing you kid from hurting itself in a dumb way while having your lunch- peak motherhood|https://i.imgur.com/cMlLzlT.gifv|Ainsley-Sorsby|False|https://redd.it/ekuaof|18|0.82|0|0|0|gifs
+eku0b6|2020-01-06 13:15:07|George enjoying some cuddles from Mom|https://gfycat.com/slimbetterambushbug|lnfinity|False|https://redd.it/eku0b6|20|0.75|0|4|0|gifs
+ekunsy|2020-01-06 14:14:26|The Resqme keychain|https://i.imgur.com/Sjbgz1L.gifv|Due-Mail|False|https://redd.it/ekunsy|16|0.81|0|8|0|gifs
+ekouv6|2020-01-06 04:33:31|Color-changing light has a cool effect on my pants and socks|https://i.imgur.com/fAwgmSY.gifv|Lupid23|False|https://redd.it/ekouv6|98|0.88|0|5|0|gifs
+ekw5uq|2020-01-06 16:12:59|Hitchhiker/carmech hiding in engine compartment|https://gfycat.com/elderlyfrailharrierhawk|macetfromage|False|https://redd.it/ekw5uq|8|0.78|0|1|0|gifs
+ekucta|2020-01-06 13:47:45|Late Night Cat Jumps|https://i.redd.it/sonwtqxkx5941.gif|Spoapy69|False|https://redd.it/ekucta|13|0.69|0|0|0|gifs
+eksqi4|2020-01-06 11:10:26|50 GIFs for your brief amusement|https://i.imgur.com/6c9EESP.gifv|West-Narwhal|False|https://redd.it/eksqi4|23|0.55|0|29|0|gifs
+ekuft4|2020-01-06 13:55:06|Who says white people can't dance.!?|https://i.redd.it/n7mbs2dwy5941.gif|zZEpicSniper303Zz|False|https://redd.it/ekuft4|11|0.65|0|18|0|gifs
+ek6tdd|2020-01-05 02:43:14|Chris Evans rehearsing for the Elevator Fight Scene in Winter Soldier|https://gfycat.com/zanyinconsequentialfrog|Sofargonept2|False|https://redd.it/ek6tdd|43116|0.91|0|624|0|gifs
+ekjh3d|2020-01-05 21:42:12|Head massage|https://i.redd.it/fo13ph2b51941.gif|nemfoos|False|https://redd.it/ekjh3d|215|0.87|0|8|0|gifs
+ekp4dn|2020-01-06 04:56:41|Secret Garage|https://gfycat.com/scaredfraileasternglasslizard-an-unknown-thought|Ness_69|False|https://redd.it/ekp4dn|60|0.73|0|13|0|gifs
+ekoqvw|2020-01-06 04:23:42|I got it!|https://gfycat.com/lightheartedashamedichidna|mm_sacrilicious|False|https://redd.it/ekoqvw|62|0.84|0|1|0|gifs
+ektdlb|2020-01-06 12:15:02|Full Hard Level|https://i.imgur.com/RXC5Dgn.gifv|fdgfsddfsfdsd|False|https://redd.it/ektdlb|15|0.67|0|2|0|gifs
+eklid0|2020-01-06 00:09:10|Girl fits through catflap|https://i.imgur.com/zthaPaZ.gifv|OddlyGruntled|False|https://redd.it/eklid0|129|0.83|0|28|0|gifs
+ekwhnp|2020-01-06 16:37:36|The cinematography in Homecoming|https://gfycat.com/whichbewitchedbutterfly|Desert_Climate|False|https://redd.it/ekwhnp|5|0.78|0|0|0|gifs
+eku9ev|2020-01-06 13:39:18|The magic jumping X|https://gfycat.com/equatorialtorngonolek|jdstessel|False|https://redd.it/eku9ev|8|0.6|0|7|0|gifs
+ekv3bm|2020-01-06 14:50:49|Made my own gif form my tip to Spain|https://i.redd.it/lj6obi6v86941.gif|LaegoTTV|False|https://redd.it/ekv3bm|8|0.99|0|0|0|gifs
+ekr5l0|2020-01-06 08:18:06|Here how water alien swim(feather star). Dont ask how|https://gfycat.com/ecstaticleftarrowworm|Satyampanchal|False|https://redd.it/ekr5l0|24|0.73|0|8|0|gifs
+ekkck8|2020-01-05 22:45:50|Found the sweet spot|https://i.imgur.com/z7tOxhB.gif|ploobcity|False|https://redd.it/ekkck8|128|0.83|0|4|0|gifs
+ekwvov|2020-01-06 17:04:43|Gotta warm up the tires|https://gfycat.com/ignorantvastcony|MoWaleed|False|https://redd.it/ekwvov|4|1.0|0|0|0|gifs
+ek3t5m|2020-01-04 22:43:52|"A friend's son loves ""red trucks"". For his birthday, I printed him a lithophane."|https://gfycat.com/basicantiquedotterel|alanb87|False|https://redd.it/ek3t5m|46023|0.94|2|266|0|gifs
+ekfrc6|2020-01-05 17:11:30|Model shows just how far the smoke from Australia is reaching...|https://i.imgur.com/9Bxf8iH.gifv|H_G_Bells|False|https://redd.it/ekfrc6|274|0.92|0|26|0|gifs
+ekt8pt|2020-01-06 12:02:13|Small VR sketch for Chinese New Years|https://gfycat.com/lividbleakfantail|VeloxLetum|False|https://redd.it/ekt8pt|7|0.73|0|1|0|gifs
+ekhpbw|2020-01-05 19:28:12|Must go faster. Must go faster.|https://i.imgur.com/QQAJW1z.gifv|TheNeutralParty|False|https://redd.it/ekhpbw|161|0.82|0|11|0|gifs
+ekiq18|2020-01-05 20:38:34|3D Printed Star Wars Lithophane Reveal - Colored|https://gfycat.com/illoldchimneyswift|3D_printed_lithos|False|https://redd.it/ekiq18|130|0.83|0|3|0|gifs
+ekub74|2020-01-06 13:43:35|Lego duck V Pellet gun in slow motion|https://i.redd.it/07xf3fqqw5941.gif|Lord_Rae|False|https://redd.it/ekub74|4|0.73|0|1|0|gifs
+ekm9el|2020-01-06 01:05:16|This holiday VW Bug.|https://i.redd.it/ul16lqkk52941.gif|jraa84|False|https://redd.it/ekm9el|46|0.78|0|3|0|gifs
+ekvoy3|2020-01-06 15:37:49|To free Shrek|https://gfycat.com/palatableglisteningeelelephant|Vba12|False|https://redd.it/ekvoy3|2|0.58|0|0|0|gifs
+ek24i4|2020-01-04 20:39:56|My attempt at a perfect loop with a box|https://i.imgur.com/wM08OJ4.gifv|bananimator|False|https://redd.it/ek24i4|26504|0.93|7|317|0|gifs
+ekgcbp|2020-01-05 17:52:15|Motorcycle Chariot Racing was a real sport in the 1920s|https://gfycat.com/plaintivecontentermine|overspeeed|False|https://redd.it/ekgcbp|159|0.91|0|25|0|gifs
+eknr7m|2020-01-06 03:01:49|Glowing wooden comb|https://i.imgur.com/ryp9tCC.gifv|emily3289|False|https://redd.it/eknr7m|26|0.71|0|5|0|gifs
+ekhmfi|2020-01-05 19:22:22|A Spongebob calendar I got as a 10yo with a magazine in 2007. The front sticker is long gone, but I still set it every day. I'm 22 now and it expired at new years eve|https://i.redd.it/tt5xgdgeg0941.gif|KingMG210|False|https://redd.it/ekhmfi|102|0.82|0|15|0|gifs
+eki4of|2020-01-05 19:57:46|Cat bites other cats tongue|https://i.imgur.com/IV1Z5mW.gifv|Maxx9393|False|https://redd.it/eki4of|78|0.77|0|8|0|gifs
+ekti4n|2020-01-06 12:26:50|Hero Forge|https://i.redd.it/vobmurpoi5941.gif|mirzagha786|False|https://redd.it/ekti4n|4|0.59|0|2|0|gifs
+ekn9jj|2020-01-06 02:22:59|The new year vs me|https://i.redd.it/oe7txidej2941.gif|NeTRoX_AnonymHungary|False|https://redd.it/ekn9jj|18|0.69|0|3|0|gifs
+ejze87|2020-01-04 17:22:17|Hidden basement stairs|https://gfycat.com/bitesizedprestigiousafricanaugurbuzzard|VerySlump|False|https://redd.it/ejze87|21308|0.93|1|825|0|gifs
+ekhhbl|2020-01-05 19:12:25|Thick fog with fireworks above it during New Year's Eve in my town|https://gfycat.com/uniformachingbeardedcollie|StefGit|False|https://redd.it/ekhhbl|69|0.9|0|3|0|gifs
+ejytm4|2020-01-04 16:39:21|Will he make it?|https://gfycat.com/beneficialcarelessbarnowl|VerySlump|False|https://redd.it/ejytm4|55232|0.93|1|424|0|gifs
+ekt2jp|2020-01-06 11:45:03|Bree hanging out on Grandpa's lap|https://gfycat.com/altruisticskinnyaidi|lnfinity|False|https://redd.it/ekt2jp|2|0.63|0|1|0|gifs
+eku8nv|2020-01-06 13:37:20|A little compilation of animals getting shocked|https://i.imgur.com/LEhAi1s.gif|Due-Mail|False|https://redd.it/eku8nv|2|0.5|0|6|0|gifs
+ekjyfj|2020-01-05 22:18:40|Sunrise in Australia - gone fishin' 🎣|https://gfycat.com/negativetediousgar|fumiyukibeppu|False|https://redd.it/ekjyfj|31|0.8|0|9|0|gifs
+ekhx5y|2020-01-05 19:43:24|Baby Sea Turtle's First Swim.|https://i.imgur.com/aUrm0MB.gifv|ZeroEye|False|https://redd.it/ekhx5y|46|0.84|0|2|0|gifs
+ejziak|2020-01-04 17:30:48|Fight in the neighborhood, dog goes the extra mile, curious to find out why|https://gfycat.com/smallminorcaracal|zoonace|False|https://redd.it/ejziak|5875|0.96|0|86|0|gifs
+ek2zld|2020-01-04 21:42:38|Eddie Hall bends frying pan with bare hands|https://i.imgur.com/7pAeuuh.gifv|D5R|False|https://redd.it/ek2zld|2074|0.94|0|185|0|gifs
+eki5zu|2020-01-05 20:00:17|Such sass much wow|https://i.redd.it/sv5hloa5n0941.gif|hxmxd|False|https://redd.it/eki5zu|29|0.73|0|1|0|gifs
+eki4ek|2020-01-05 19:57:11|Distribution center of the flower auction of Aalsmeer, The Netherlands|https://gfycat.com/giftedimpracticalcolt|Jan_Laan|False|https://redd.it/eki4ek|21|0.76|0|5|0|gifs
+ejvj5h|2020-01-04 11:21:16|whoops! didn't see ya there!|https://i.imgur.com/uzAQcBq.gifv|jasontaken|False|https://redd.it/ejvj5h|15601|0.96|0|71|0|gifs
+ekfu41|2020-01-05 17:16:46|Young wolf gets lucky and exchanges tongue action with cougar|https://media.giphy.com/media/JsVeGeyD1DM5GKVmf6/giphy.gif|slowestflashalive|False|https://redd.it/ekfu41|27|0.6|0|26|0|gifs
+ekg0in|2020-01-05 17:29:40|levitate|https://gfycat.com/bighearteddarkcrocodile|dom_vhs_crap|False|https://redd.it/ekg0in|24|0.63|0|6|0|gifs
+ejvtcg|2020-01-04 11:55:39|Pull up, kick, backflip.|http://i.imgur.com/OcKORfQ.gifv|Loveinthemud|False|https://redd.it/ejvtcg|5973|0.95|0|184|0|gifs
+ejwhys|2020-01-04 13:13:49|A beetle generator made by machine-learning thousands of Public Domain illustrations|http://i.imgur.com/Ea1Amw7.gifv|Hayce_|False|https://redd.it/ejwhys|3324|0.96|1|93|0|gifs
+ekeump|2020-01-05 16:06:10|In case you ever wondered what the inside of a small 12v air compressor looks like while running|https://i.imgur.com/XrWTPc2.gifv|bodaciousbum|False|https://redd.it/ekeump|23|0.7|0|10|0|gifs
+ek5ajb|2020-01-05 00:38:09|Tumbleweed Apocalypse|https://gfycat.com/wellgroomedfavoritebird-veryslump|Ness_69|False|https://redd.it/ek5ajb|334|0.9|0|60|0|gifs
+ejwvmb|2020-01-04 13:53:49|Cuttlefish engorges massive fish|https://gfycat.com/hastyearnestindochinahogdeer|grettaaa|False|https://redd.it/ejwvmb|2224|0.95|0|161|0|gifs
+ekek7q|2020-01-05 15:44:26|"""Large Fire Tornado"" by Ivo Schoofs. LuxHelsinki 2020 light festival"|https://i.imgur.com/mCJgv9F.gifv|MagicianArtist|False|https://redd.it/ekek7q|17|0.75|0|2|0|gifs
+ekisar|2020-01-05 20:42:46|"My recent work, ""The Burning Bush"""|https://gfycat.com/yawninggrouchyboilweevil|ElkheartEndeavors|False|https://redd.it/ekisar|7|0.58|0|2|0|gifs
+ek2b18|2020-01-04 20:53:11|Red wine is transparent to near-infrared light|https://i.imgur.com/ry9DeAp.gifv|IamAlso_u_grahvity|False|https://redd.it/ek2b18|545|0.93|0|27|0|gifs
+ekgiwk|2020-01-05 18:04:49|Color changing gin!|https://media.giphy.com/media/TjufrRaJySqiq0szfY/giphy.gif|bencetheother|False|https://redd.it/ekgiwk|12|0.7|0|13|0|gifs
+ek0otl|2020-01-04 18:55:06|An Aussie almost getting mugged on a bridge|https://gfycat.com/infantileclumsybeagle|unnaturalorder|False|https://redd.it/ek0otl|763|0.91|0|53|0|gifs
+ek09kb|2020-01-04 18:23:57|Cat lady|https://i.imgur.com/Ls4aAQh.gifv|OddlyGruntled|False|https://redd.it/ek09kb|783|0.89|0|36|0|gifs
+ejuv2f|2020-01-04 10:00:37|for the lazy cat person|https://i.imgur.com/SowkgMM.gifv|jasontaken|False|https://redd.it/ejuv2f|3646|0.85|0|50|0|gifs
+ek7j1v|2020-01-05 03:44:34|Watching This Firetruck Switch Lanes|https://media.giphy.com/media/Y1jxVCLdyvBME23BWj/giphy.gif|indolgofera|False|https://redd.it/ek7j1v|116|0.89|0|20|0|gifs
+ekp7it|2020-01-06 05:04:31|Starting the new year with a bang|https://gfycat.com/keenheavenlyequine|Zoomerli|False|https://redd.it/ekp7it|2|0.53|0|2|0|gifs
+ek6qvp|2020-01-05 02:37:32|Worst Friend Award|https://i.imgur.com/P5ZFlz4.gifv|Ness_69|False|https://redd.it/ek6qvp|113|0.9|0|4|0|gifs
+ekqtox|2020-01-06 07:42:43|CCTV Footage of the drone strike that Killed Soleimani|https://i.redd.it/1cswcomh44941.gif|DefacedReality|True|https://redd.it/ekqtox|0|0.43|0|4|0|gifs
+ek93xf|2020-01-05 06:08:10|Girl Give Gator a Massage|https://i.imgur.com/Dd7ohon.gifv|DanniCanada|False|https://redd.it/ek93xf|54|0.68|0|53|0|gifs
+ejyhe3|2020-01-04 16:13:15|Friendly playtime|https://i.imgur.com/RfEqMUv.gifv|MC16|False|https://redd.it/ejyhe3|563|0.91|1|34|0|gifs
+ekgajn|2020-01-05 17:49:01|"Yoel Romero, an olympic medalist, does a classic ""hey look over there"" right after being knocked down by his opponent"|https://gfycat.com/impossibleunderstateddaddylonglegs|rethousands|False|https://redd.it/ekgajn|6|0.57|0|4|0|gifs
+ejp12a|2020-01-04 01:02:37|Walking into a fairytale|https://i.imgur.com/0hy8H8s.gifv|raybarks|False|https://redd.it/ejp12a|82232|0.94|3|828|0|gifs
+ek6yee|2020-01-05 02:55:21|Time lapse of Auckland, New Zealand after Australian bushfire smoke arrives.|https://gfycat.com/gleefuluntriedhorsemouse|ctnbehom|False|https://redd.it/ek6yee|77|0.87|0|5|0|gifs
+ekcesd|2020-01-05 12:27:11|AT LEAST I TRY TO DEAL WITH THEM|https://gfycat.com/nervousaggressiveant|ihavepotatoe|False|https://redd.it/ekcesd|8|0.59|0|4|0|gifs
+ekc9zy|2020-01-05 12:12:56|Solving the triangle peg puzzle|https://i.imgur.com/ncOSL5F.gifv|grill_panda|False|https://redd.it/ekc9zy|9|0.62|0|3|0|gifs
+ejnf8c|2020-01-03 23:05:15|Human Sphere|https://i.imgur.com/VWPAIQT.gifv|Ness_69|False|https://redd.it/ejnf8c|14257|0.96|0|186|0|gifs
+ejmjg5|2020-01-03 22:01:39|Flamethrower chasing a drone|https://gfycat.com/falsethinkouprey|VerySlump|False|https://redd.it/ejmjg5|7162|0.95|0|168|0|gifs
+ejxkuh|2020-01-04 14:58:35|Massive wave knocks man off rock at Calif. beach. Lifeguards rescued the man and he will be okay.|https://i.imgur.com/TMsYEsB.gifv|xsited1|False|https://redd.it/ejxkuh|233|0.92|0|52|0|gifs
+ek49fl|2020-01-04 23:17:52|Fireman driving through the Australian wildfires.|https://i.imgur.com/Q23y9pI.gifv|Drown_In_The_Void|False|https://redd.it/ek49fl|45|0.78|0|7|0|gifs
+ek2z87|2020-01-04 21:42:00|Lily Collins Dancing.|https://gfycat.com/frailwhisperedbullmastiff|Sofargonept2|False|https://redd.it/ek2z87|66|0.64|0|18|0|gifs
+ejrfda|2020-01-04 04:08:34|Not sure if this is the real reason for war, but it does make cents.|https://i.imgur.com/mb6Icjj.gifv|not_that_guy_at_work|False|https://redd.it/ejrfda|1555|0.84|0|127|0|gifs
+ejj5fs|2020-01-03 18:07:14|Segway's new S-Pod brings us one step closer to Wall-E|https://i.redd.it/4mw6hxp5tl841.gif|HeroLite|False|https://redd.it/ejj5fs|40296|0.93|1|1138|0|gifs
+ek2esk|2020-01-04 21:00:58|A totally normal russian couple having breakfast with their perfectly ordinary pet|https://i.imgur.com/nP9WHJk.gifv|Ainsley-Sorsby|False|https://redd.it/ek2esk|49|0.82|0|2|0|gifs
+eji9ha|2020-01-03 17:05:32|He's Obviously A Dad!|https://gfycat.com/glitteringsmugeyelashpitviper|Fudgebert|False|https://redd.it/eji9ha|49188|0.9|1|849|0|gifs
+ek78in|2020-01-05 03:18:56|Satellite Images Show Australia's Devastating Wildfires from Space|https://gfycat.com/wetwellmadeelver|lordkelvin13|False|https://redd.it/ek78in|10|0.62|0|3|0|gifs
+ejwez2|2020-01-04 13:05:14|'Slimelapse' of a slime mold growing toward food sources|https://i.imgur.com/uJUuMNb.gifv|Al-Andalusia|False|https://redd.it/ejwez2|82|0.89|0|5|0|gifs
+ejvp4d|2020-01-04 11:41:31|It's Ok, Just Lie Down and Relax 😺🐕|https://i.imgur.com/6KuF9rE.gifv|NetSkullGamer|False|https://redd.it/ejvp4d|106|0.85|0|5|0|gifs
+ekc2ev|2020-01-05 11:48:57|Twin Towers Looping Fountains|https://gfycat.com/distinctscaredalaskankleekai|forgetaboutgelgameks|False|https://redd.it/ekc2ev|0|0.5|0|1|0|gifs
+ejsl2x|2020-01-04 05:49:25|Boat ride in Tràng An, Vietnam|https://gfycat.com/sleepyforkedblackwidowspider|X__Alien|False|https://redd.it/ejsl2x|244|0.94|0|11|0|gifs
+ek1lw1|2020-01-04 20:02:45|Return to Sender|https://gfycat.com/mintynegativeanophelesmosquito|Mee2Meee2|False|https://redd.it/ek1lw1|12|0.71|0|1|0|gifs
+ekht0n|2020-01-05 19:35:36|As exciting as getting a box of Oreos for breakfast|https://i.redd.it/t6e7s9npi0941.gif|cleanends|False|https://redd.it/ekht0n|0|0.44|0|5|0|gifs
+ejq0s4|2020-01-04 02:17:56|Springy Baby|https://gfycat.com/leftminorlhasaapso|grettaaa|False|https://redd.it/ejq0s4|309|0.9|0|25|0|gifs
+ejlpu2|2020-01-03 21:03:42|This guy is Living in 3020.|https://i.imgur.com/nXz6N36.gifv|AadamAtomic|False|https://redd.it/ejlpu2|663|0.9|0|141|0|gifs
+ejukpl|2020-01-04 09:26:02|Took my mom out to a speakeasy and she made a show of opening the secret door.|https://i.imgur.com/bS2qqSG.gifv|gleiberkid|False|https://redd.it/ejukpl|49|0.71|0|12|0|gifs
+ejbm1p|2020-01-03 06:37:10|Irrefutable proof that we descend from apes|https://gfycat.com/phonythriftyboar|Palifaith|False|https://redd.it/ejbm1p|13683|0.9|0|420|0|gifs
+ejx0xt|2020-01-04 14:08:35|UPS Driver Giving Maximum Effort|https://i.imgur.com/LHhcsTe.gifv|Liaomeow|False|https://redd.it/ejx0xt|17|0.55|0|45|0|gifs
+ejrce7|2020-01-04 04:02:02|PNW Light Rays (in Maple Ridge, British Columbia)|https://i.imgur.com/U9NJK71.gifv|raybarks|False|https://redd.it/ejrce7|116|0.93|0|9|0|gifs
+ej9q2s|2020-01-03 03:49:20|third time's a charm|https://i.imgur.com/Uk7VqhU.gifv|Prophettx|False|https://redd.it/ej9q2s|38619|0.95|0|263|0|gifs
+ejmjp1|2020-01-03 22:02:09|Patient doggo gets his fish|https://i.imgur.com/aWOf1Mo.gifv|drak0bsidian|False|https://redd.it/ejmjp1|219|0.84|0|33|0|gifs
+ekcfkk|2020-01-05 12:29:38|Whitespace - a gif only scifi setting|https://1.bp.blogspot.com/-RECo7fINsRI/XhHVtGCno1I/AAAAAAAAFfw/4FOr2SmzQqAkt1uGp4lSjEiK4wBS4Nn9QCLcBGAsYHQ/s1600/20200105_203339.gif|Valianttheywere|False|https://redd.it/ekcfkk|0|0.35|0|1|0|gifs
+ej6s0m|2020-01-03 00:01:52|The head stabilization of the American Kestrel|https://gfycat.com/everyeachbrontosaurus|RTG-rohittugaya|False|https://redd.it/ej6s0m|51066|0.94|2|601|0|gifs
+ejcpow|2020-01-03 08:37:52|knock knock .|https://i.imgur.com/TsdGUWH.gifv|jasontaken|False|https://redd.it/ejcpow|1733|0.93|0|38|0|gifs
+ejra1f|2020-01-04 03:56:47|Smoke from bushfires is so bad it’s turning places from day to night. Video taken at 2:25pm.|https://gfycat.com/klutzydeliciouskingbird|Bobhjay|False|https://redd.it/ejra1f|44|0.85|0|9|0|gifs
+ejrbr8|2020-01-04 04:00:36|Hella cockter|https://i.redd.it/7y7ncuxyqo841.gif|Link747|False|https://redd.it/ejrbr8|39|0.73|0|10|0|gifs
+ejygqs|2020-01-04 16:11:54|Deliffious!|https://i.redd.it/jlv67w5ids841.gif|huskywolfpack|False|https://redd.it/ejygqs|3|0.55|0|1|0|gifs
+ejn0yo|2020-01-03 22:36:27|Filmed an ad that had an explosion in a fridge. Thought it came out well.|https://gfycat.com/aggravatingafraidhochstettersfrog|lava_lump|False|https://redd.it/ejn0yo|102|0.86|0|15|0|gifs
+ejkutx|2020-01-03 20:04:04|Hey Reddit, it's the Guy trying to get on 30 Jumbotrons at 30 NBA games in 30 days! We are 9 for 9!|https://i.imgur.com/8wh6JWr.gifv|Jumbotron_Guy|False|https://redd.it/ejkutx|157|0.7|0|49|0|gifs
+ejfkue|2020-01-03 13:45:05|First evidence found of tool use by seabirds - researchers recorded a puffin using a stick to scratch a part of their body|https://gfycat.com/incompletedecentafricangroundhornbill|Pigoonlet|False|https://redd.it/ejfkue|422|0.9|0|27|0|gifs
+ejdhz6|2020-01-03 10:09:25|Fixed Cats|https://gfycat.com/babyishclumsyamoeba|NicoReekoHiggs|False|https://redd.it/ejdhz6|796|0.96|0|30|0|gifs
+ej7b6c|2020-01-03 00:41:11|46 Year old Kate Beckinsale on James Corden.|https://i.imgur.com/9lmUZRb.gifv|Sofargonept2|False|https://redd.it/ej7b6c|6003|0.8|0|627|0|gifs
+ejcqio|2020-01-03 08:40:40|Oh My God, I Touched You!|https://gfycat.com/unripefoolishgenet|bneck|False|https://redd.it/ejcqio|851|0.92|0|36|0|gifs
+ejh4s7|2020-01-03 15:46:26|Dozens of Kangaroo fleeing Australian bushfires|https://i.imgur.com/Y92PSCx.gifv|Biosample|False|https://redd.it/ejh4s7|216|0.9|0|27|0|gifs
+ejn1bc|2020-01-03 22:37:11|animated picture of the Andromeda Galaxy|https://gfycat.com/linearevendrever-space|Kartingf1Fan|False|https://redd.it/ejn1bc|61|0.85|0|13|0|gifs
+ek5kro|2020-01-05 01:01:22|Lovely ladies: Kelly Preston, Gwyneth Paltrow and Christina Applegate(Who's Hot ,Who's Not?)|https://i.imgur.com/Isgno3S.gifv|penny5|False|https://redd.it/ek5kro|0|0.45|0|5|0|gifs
+ej9w70|2020-01-03 04:03:30|Old man helps cat who got stuck|https://gfycat.com/amusingimpracticaldungbeetle|Here_ToHelp_|False|https://redd.it/ej9w70|1277|0.94|0|50|0|gifs
+ej1el1|2020-01-02 17:44:25|My buddy is trying to get on the Jumbotron at 30 NBA games in 30 cities in 30 days. He's 8/8.|https://i.imgur.com/pQmkcYV.gifv|afikomen1|False|https://redd.it/ej1el1|103132|0.88|5|1936|0|gifs
+ejnkl9|2020-01-03 23:15:59|I built an all-in-one touch panel to control my lights and christmas lights, and it doesn't require the internet to work, meaning no information gathering or reselling.|https://gfycat.com/fantasticwhimsicalguineafowl|tylerdanielson|False|https://redd.it/ejnkl9|31|0.77|0|10|0|gifs
+ejctef|2020-01-03 08:49:40|Old English Sheepdog defending its owner.|https://i.redd.it/mcwx48ug1j841.gif|OfficiousSwine|False|https://redd.it/ejctef|405|0.9|0|10|0|gifs
+ej9rnr|2020-01-03 03:53:04|When the graphics haven't rendered yet|https://gfycat.com/thickflawedfrilledlizard|Here_ToHelp_|False|https://redd.it/ej9rnr|831|0.91|0|32|0|gifs
+ejkdai|2020-01-03 19:31:10|Fire Tornado|https://i.imgur.com/7mOE0uW.gifv|Darvos83|False|https://redd.it/ejkdai|50|0.84|0|6|0|gifs
+ejy4qm|2020-01-04 15:44:54|Morning sun filtered through a glass block window and my cracked open bathroom door|https://gfycat.com/grossdownrighthumpbackwhale|KlondikeGummybear|False|https://redd.it/ejy4qm|3|0.5|0|0|0|gifs
+eiyhyr|2020-01-02 13:54:17|BBCs Dracula billboard is 1000 IQ advertising|https://gfycat.com/dangerousdiscreteeasternglasslizard|lllDUNN|False|https://redd.it/eiyhyr|109907|0.88|4|1364|0|gifs
+ej5876|2020-01-02 22:11:14|[X-post from r/HardcoreNature] Leopard does a backflip to catch a monkey|https://gfycat.com/hideoushomelyaidi|Pardusco|False|https://redd.it/ej5876|1488|0.96|0|55|0|gifs
+ejie9z|2020-01-03 17:14:42|A little rainbow formed in just the right spot, as I was capturing timelapse frames New Year's Day on the edge of the Black Rock Desert|https://gfycat.com/frightenedsparsebronco|jawanda|False|https://redd.it/ejie9z|40|0.87|0|2|0|gifs
+ejehtl|2020-01-03 12:00:15|Baby goat zoomies at Goats of Anarchy Sanctuary|https://gfycat.com/memorableclosedeyas|lnfinity|False|https://redd.it/ejehtl|111|0.85|0|2|0|gifs
+ejms26|2020-01-03 22:18:26|"USA: ""We bombed an Iranian military convoy!"" Iran: ""We will retaliate!!"" Iraq:"|https://i.redd.it/jxno6cpz1n841.gif|The_stooopid_avenger|False|https://redd.it/ejms26|15|0.63|0|4|0|gifs
+ejc784|2020-01-03 07:37:56|Optical Glass Crystal|https://i.imgur.com/prq3SF3.gifv|Ness_69|False|https://redd.it/ejc784|190|0.91|0|27|0|gifs
+ejgk3m|2020-01-03 15:04:37|Maybe adding iron to juice helps the brain?|https://i.redd.it/38d3n4vhuk841.gif|EthWall_Support|False|https://redd.it/ejgk3m|44|0.79|0|23|0|gifs
+eiwqdb|2020-01-02 10:42:11|Australian PM forces bushfire victim to shake his hand for a photo op|https://i.imgur.com/1K62kBU.gifv|aus_researcher|False|https://redd.it/eiwqdb|16391|0.95|3|1030|0|gifs
+ej9trz|2020-01-03 03:57:50|Cat Tries To Steal Food From Dog Regrets It Instantly|https://gfycat.com/grimdentalhackee|NicoReekoHiggs|False|https://redd.it/ej9trz|248|0.91|0|15|0|gifs
+ek1h0x|2020-01-04 19:52:37|I still shall miss the shenanigans of the super best friends.|https://i.imgur.com/IZtHRGY.gif|TetraPony|False|https://redd.it/ek1h0x|0|0.42|0|3|0|gifs
+ejcn1x|2020-01-03 08:28:37|Curious Maine Coon Kittens|https://gfycat.com/goodnatureddigitalchimpanzee|NicoReekoHiggs|False|https://redd.it/ejcn1x|96|0.91|0|10|0|gifs
+ejd2ha|2020-01-03 09:19:49|Victorian bushfire smoke during Friday 3rd Jan. (Kangaroo Island smoke on left)|https://i.redd.it/nwljt2927j841.gif|wile1411|False|https://redd.it/ejd2ha|81|0.92|0|2|0|gifs
+eiyz7r|2020-01-02 14:37:56|A cozy alley I found in Asahikawa, Japan's coldest city|https://i.imgur.com/xNPh2KF.gifv|teemusphoto|False|https://redd.it/eiyz7r|2558|0.97|2|57|0|gifs
+ejdfg0|2020-01-03 10:02:13|First time on (or ever seeing) a sleeping bus in this format. It's surprisingly comfortable...|https://i.redd.it/39jhpcseej841.gif|nehala|False|https://redd.it/ejdfg0|60|0.85|0|15|0|gifs
+ejhch8|2020-01-03 16:01:25|Man streaching his noodle hits a woman in the face|https://i.redd.it/6digpftb0l841.gif|MeloyNguyen|False|https://redd.it/ejhch8|21|0.62|0|6|0|gifs
+ejlpy0|2020-01-03 21:03:56|Excellent|https://media3.giphy.com/media/ViHF25U5lV2ZWZCxlO/giphy.gif?cid=4d1e4f29c96e08105b9b9fd3b027d0c9a082170c09dee272&rid=giphy.gif|DFergPR|False|https://redd.it/ejlpy0|6|0.58|0|1|0|gifs
+eitl5i|2020-01-02 04:55:14|The face of a woman going from 1.5Gs to 7.5Gs and then back down|https://gfycat.com/pinkwastefulfrillneckedlizard|I_Am_Err00r|False|https://redd.it/eitl5i|80900|0.94|5|2600|0|gifs
+ejl366|2020-01-03 20:20:01|My daughter is really starting to look like me|https://media2.giphy.com/media/h8g7eZSHhu2MQaVF9c/giphy.gif?cid=4d1e4f29c4e6687a585074d1176b43f9474d26036c1a4bce&rid=giphy.gif|DFergPR|False|https://redd.it/ejl366|6|0.56|0|2|0|gifs
+ej9j6d|2020-01-03 03:34:05|Just some old people on a giant see-saw.|https://i.imgur.com/5eKStd5.gifv|drak0bsidian|False|https://redd.it/ej9j6d|105|0.89|0|27|0|gifs
+ej8evh|2020-01-03 02:06:29|Paranormal Carpet|https://i.imgur.com/hfArMND.gifv|Ness_69|False|https://redd.it/ej8evh|123|0.86|0|20|0|gifs
+eje7qk|2020-01-03 11:30:29|Tonnes of liquid steel get dumped from a ladle after the valve on the base fails|https://gfycat.com/alarmingunsteadybuffalo|arcedup|False|https://redd.it/eje7qk|15|0.75|0|1|0|gifs
+ej8m4i|2020-01-03 02:22:05|Baby pandas love the basket.|https://gfycat.com/honoreddiscretegannet|terminal_mole|False|https://redd.it/ej8m4i|66|0.93|0|1|0|gifs
+eixi46|2020-01-02 12:12:31|Yosemite National Park, USA|https://gfycat.com/piercingtensealaskanmalamute|samadgr|False|https://redd.it/eixi46|669|0.94|0|26|0|gifs
+eioreu|2020-01-01 22:21:35|Boat vs Wave|https://i.imgur.com/gPNzxe6.gifv|Kartingf1Fan|False|https://redd.it/eioreu|28360|0.95|1|881|0|gifs
+ejdhea|2020-01-03 10:07:52|Startled Cats Compilation|https://gfycat.com/babyishyellowishgypsymoth|bneck|False|https://redd.it/ejdhea|8|0.63|0|2|0|gifs
+ej7hr9|2020-01-03 00:55:14|Car flying off “Devil’s Slide” cliff - Northern California|https://i.imgur.com/Ez3pGOw.gifv|oppositelockgames|True|https://redd.it/ej7hr9|43|0.79|0|42|0|gifs
+ejctyj|2020-01-03 08:51:35|Cute animation of Meiko [Credit:Nippori]|https://i.redd.it/ceccfubv1j841.gif|lonely-monk|False|https://redd.it/ejctyj|5|0.56|0|5|0|gifs
+ejg0su|2020-01-03 14:22:20|Sticking to my resolutions about as well as these cards stick together|https://gfycat.com/anyrewardingilladopsis|jdstessel|False|https://redd.it/ejg0su|3|0.53|0|2|0|gifs
+ejbplh|2020-01-03 06:46:26|Dunno what I did but I did it|https://i.redd.it/sbahzbbpfi841.gif|tymp-anistam|False|https://redd.it/ejbplh|6|0.61|0|1|0|gifs
+eijz42|2020-01-01 16:14:49|A talented snoot|https://gfycat.com/dopeysomberauk|grettaaa|False|https://redd.it/eijz42|35814|0.9|1|319|0|gifs
+ej909s|2020-01-03 02:52:35|Ferris Wheel Hyperlapse|https://i.imgur.com/vgHqfVk.gifv|_GORK|False|https://redd.it/ej909s|11|0.69|0|8|0|gifs
+eizflv|2020-01-02 15:15:38|Emilia Clarke having a giggling fit.|https://gfycat.com/unrulypastelappaloosa|Sofargonept2|False|https://redd.it/eizflv|101|0.69|0|20|0|gifs
+eijndx|2020-01-01 15:46:19|New Year celebrations in Shanghai using drones|https://i.redd.it/64deyy07u6841.gif|d3333p7|False|https://redd.it/eijndx|38460|0.86|0|1028|0|gifs
+eiz2mz|2020-01-02 14:46:04|Metal Gear Doggo sneak skills|https://i.imgur.com/QnUh2LO.gifv|Al-Andalusia|False|https://redd.it/eiz2mz|93|0.77|0|6|0|gifs
+eiikyp|2020-01-01 13:58:08|one giant leap for kittykind|https://i.imgur.com/jAkqYjF.gifv|jasontaken|False|https://redd.it/eiikyp|30936|0.92|1|132|0|gifs
+ej01xq|2020-01-02 16:04:35|Sliding into the new decade like|https://gfycat.com/boilingunpleasantcamel|daddybara|False|https://redd.it/ej01xq|61|0.77|0|6|0|gifs
+eiwl7r|2020-01-02 10:24:21|Making a snowman.|https://i.imgur.com/bl1cN2u.gifv|IronSidesEvenKeel|False|https://redd.it/eiwl7r|163|0.91|0|9|0|gifs
+eiy3pp|2020-01-02 13:15:13|Cows playing with the tree at Wildwood Farm Sanctuary|https://gfycat.com/capitalwhirlwindarizonaalligatorlizard|lnfinity|False|https://redd.it/eiy3pp|64|0.81|0|5|0|gifs
+eihfuo|2020-01-01 11:29:25|My girlfriend lives 300 miles away. I had to work last night so we didn’t think we we’re going to see each other for NYE. I finished early, drove 5 hours, and surprised her at her house. Her reaction was worth it!|https://i.imgur.com/ojuQKvn.gifv|lifebymick|False|https://redd.it/eihfuo|10424|0.9|1|513|0|gifs
+ej0zs5|2020-01-02 17:14:48|Nice way to detect leaks!|https://i.redd.it/ml46kzjvee841.gif|churrascon|False|https://redd.it/ej0zs5|24|0.72|0|23|0|gifs
+eig81l|2020-01-01 08:41:24|Foldable staircase|https://i.redd.it/sb5fhy31q4841.gif|_benjaninja_|False|https://redd.it/eig81l|18261|0.95|0|422|0|gifs
+ejepmg|2020-01-03 12:21:55|Jesse Lingard Gentlemen|https://gfycat.com/ultimatediscretehousefly|trivialgamerboy|False|https://redd.it/ejepmg|0|0.49|0|5|0|gifs
+eifamg|2020-01-01 06:47:27|Behind the Scenes|https://i.imgur.com/8ZkfWY1.gifv|Ness_69|False|https://redd.it/eifamg|47904|0.89|1|579|0|gifs
+eifs3e|2020-01-01 07:45:42|Winding up.|https://i.imgur.com/7xmOML8.gifv|jasontaken|False|https://redd.it/eifs3e|9237|0.96|0|89|0|gifs
+eivowt|2020-01-02 08:33:31|Next level jump rope|https://gfycat.com/diligentelementaryflyingsquirrel|Devon_McMadCray|False|https://redd.it/eivowt|43|0.78|0|4|0|gifs
+ejlepb|2020-01-03 20:42:02|Germany resurrecting hitler for ww3|https://gfycat.com/impartialreflectingandeancat|t_ghosh|False|https://redd.it/ejlepb|0|0.43|0|11|0|gifs
+eiv2zl|2020-01-02 07:21:07|Coming downstairs without stairs|https://i.imgur.com/ZHgEvz8.gifv|_benjaninja_|False|https://redd.it/eiv2zl|54|0.67|0|12|0|gifs
+eil2va|2020-01-01 17:43:12|Nobody is safe.|https://i.imgur.com/EiSNHGX.gifv|thweet_jethuth|False|https://redd.it/eil2va|667|0.93|0|77|0|gifs
+ejli75|2020-01-03 20:48:40|What Trump wants you to think|https://i.redd.it/xlr9kvuylm841.gif|executionersix|False|https://redd.it/ejli75|0|0.31|0|23|0|gifs
+eigzjf|2020-01-01 10:25:57|pupper wheel|https://i.imgur.com/XjNJbmu.gifv|jasontaken|False|https://redd.it/eigzjf|2525|0.92|0|61|0|gifs
+eiuan8|2020-01-02 06:00:29|Sunrise over Lake Michigan in Chicago|https://gfycat.com/spottedniftyasiandamselfly|kytreb|False|https://redd.it/eiuan8|43|0.83|0|2|0|gifs
+eiwuf5|2020-01-02 10:56:02|Australia's Prime Minister forcing an unwanted handshake|https://i.imgur.com/7kfZ1wu.mp4|MyUsernameIsRedacted|False|https://redd.it/eiwuf5|15|0.63|0|3|0|gifs
+eirz30|2020-01-02 02:37:23|Happy New Year! (Pixel Corgi Animation)|https://i.redd.it/87wlrm932a841.gif|mrbrownjeremy|False|https://redd.it/eirz30|58|0.82|0|1|0|gifs
+eic9x5|2020-01-01 01:46:54|A pretty straight forward bull|https://i.redd.it/s1fizty1b4j21.gif|Hustlinbones|False|https://redd.it/eic9x5|6964|0.97|0|483|0|gifs
+eiagog|2019-12-31 23:16:49|A very wholesome friendship|https://gfycat.com/concernedmeekinexpectatumpleco|B1ng0_B0ng0|False|https://redd.it/eiagog|23793|0.96|4|261|0|gifs
+ei9ilt|2019-12-31 22:00:40|Nice piece of parking|https://i.imgur.com/rZLUVYc.gifv|N8theIngr8|False|https://redd.it/ei9ilt|50078|0.93|1|1140|0|gifs
+eip4cu|2020-01-01 22:51:06|Two-faced animated graffiti|https://gfycat.com/ashamedfortunateantarcticgiantpetrel|Deomew|False|https://redd.it/eip4cu|86|0.84|0|4|0|gifs
+ejgs85|2020-01-03 15:21:31|Iphone Vs Steelwool|https://gfycat.com/disastrousdishonestbichonfrise-ant-circle-pit-lamb-of-god-electromagnetic-wave|tchacka5|False|https://redd.it/ejgs85|0|0.37|0|28|0|gifs
+ejayqf|2020-01-03 05:36:08|Gaming at 5AM be like|https://gfycat.com/ornerypassionateemperorpenguin|Uneequa|False|https://redd.it/ejayqf|0|0.45|0|2|0|gifs
+eisbcq|2020-01-02 03:05:07|NYE|https://i.redd.it/fw9t7q8a7a841.gif|its_crussell|False|https://redd.it/eisbcq|26|0.66|0|11|0|gifs
+ei725b|2019-12-31 18:52:28|Junk overtakes San Diego hoarder's home over the years as viewed in Google Street View|http://i.imgur.com/HJHzmcr.gifv|howardkinsd|False|https://redd.it/ei725b|46635|0.95|2|1712|0|gifs
+eipwc4|2020-01-01 23:50:41|"""Here Comes the Moon: NOAA's GOES-16 satellite used its Solar Ultraviolet Imager to capture the Moon passing in front of the Sun on February 5, 2019."" Credit: National Oceanic and Atmospheric Administration (NOAA), United States Department of Commerce, United States of America"|https://www.nesdis.noaa.gov/sites/default/files/here-comes-the-moon.gif|trot-trot|False|https://redd.it/eipwc4|35|0.83|0|3|0|gifs
+eiioy7|2020-01-01 14:10:41|Huge sea lions nearly sink boat|https://laughingsquid.com/wp-content/uploads/2019/12/Two-Sea-Lions-on-a-Boat.gif|tankpuss|False|https://redd.it/eiioy7|146|0.83|0|9|0|gifs
+ei3sef|2019-12-31 14:52:07|Insane trail dog!|https://i.imgur.com/0bfjgjt.gifv|Al-Andalusia|False|https://redd.it/ei3sef|20692|0.94|1|519|0|gifs
+ejd4j7|2020-01-03 09:26:48|What a babe|https://i.imgur.com/hqG65eW.gif|penny5|False|https://redd.it/ejd4j7|0|0.19|0|4|0|gifs
+ei2gus|2019-12-31 12:50:04|Firefighters driving through raging Australian wildfires|https://i.imgur.com/YlmjYU9.gifv|unknown_human|False|https://redd.it/ei2gus|59425|0.96|8|2256|0|gifs
+ei4lvk|2019-12-31 15:56:30|Getting the perfect shot|https://i.imgur.com/MF0QRDl.gifv|RampChurch|False|https://redd.it/ei4lvk|6473|0.95|0|69|0|gifs
+eilih9|2020-01-01 18:16:33|Happy New Year!|https://i.redd.it/4cm5n2lzk7841.gif|yudoit|False|https://redd.it/eilih9|30|0.78|0|6|0|gifs
+ei5o0s|2019-12-31 17:12:56|I can't get enough of this face.|https://i.redd.it/ex1jm8ao40841.gif|malpheres|False|https://redd.it/ei5o0s|3265|0.83|0|168|0|gifs
+eihwm0|2020-01-01 12:33:35|Glass May Cry|https://gfycat.com/yearlyunsightlykinkajou|zPowDev|False|https://redd.it/eihwm0|78|0.7|0|11|0|gifs
+eialjp|2019-12-31 23:27:40|Quentin Tarantino giving Margot Robbie a twirl.|https://gfycat.com/latefemalehorsefly|Sofargonept2|False|https://redd.it/eialjp|815|0.89|0|40|0|gifs
+eiid8s|2020-01-01 13:32:26|Spinning cat.|https://i.redd.it/wu9w8qw966841.gif|iklegemma|False|https://redd.it/eiid8s|58|0.8|0|7|0|gifs
+eihnyk|2020-01-01 12:00:58|Greetings from piggies of all sizes at Prissy and Pop's Helping Hooves Animal Sanctuary|https://gfycat.com/elasticlonelyelver|lnfinity|False|https://redd.it/eihnyk|69|0.83|0|6|0|gifs
+eiiba2|2020-01-01 13:25:43|Pixel art I made inspired by last week's morning eclipse [OC]|https://i.redd.it/6jvrikh056841.gif|v78|False|https://redd.it/eiiba2|53|0.81|0|2|0|gifs
+ei0pyi|2019-12-31 09:32:08|my turn|https://i.imgur.com/P79Y2So.gifv|jasontaken|False|https://redd.it/ei0pyi|38144|0.89|3|526|0|gifs
+ei2u9y|2019-12-31 13:26:47|That's one big tortoise!|https://i.imgur.com/5uB9aoi.gifv|chemistrynerd1994|False|https://redd.it/ei2u9y|4275|0.97|0|230|0|gifs
+eikx4l|2020-01-01 17:31:06|Never thought I'd hear this in a Disney movie.|https://i.imgur.com/DavUEqg.gifv|Capgunkid|False|https://redd.it/eikx4l|19|0.67|0|5|0|gifs
+ei20ox|2019-12-31 12:00:57|Watching from under her blanket|https://gfycat.com/crazyboilingargali|lnfinity|False|https://redd.it/ei20ox|3357|0.94|0|77|0|gifs
+ei58e3|2019-12-31 16:42:03|Contrast is one hell of a drug|https://gfycat.com/parallelincompletebagworm|ElChino999|False|https://redd.it/ei58e3|1335|0.91|0|44|0|gifs
+ei4aly|2019-12-31 15:32:38|It’s New Years Eve. Deal with it.|https://gfycat.com/decimalsociablefoxhound|I_Am_Err00r|False|https://redd.it/ei4aly|1615|0.91|0|39|0|gifs
+ei304k|2019-12-31 13:42:21|Being a fisherman is a hard job|http://i.imgur.com/bbhQ00Z.gifv|Kartingf1Fan|False|https://redd.it/ei304k|2251|0.97|0|231|0|gifs
+eibh34|2020-01-01 00:37:16|Slow Motion Flame|https://i.imgur.com/apTP1tA.gifv|Ness_69|False|https://redd.it/eibh34|214|0.94|1|5|0|gifs
+eik5pb|2020-01-01 16:30:15|Kicking off the New Year's Eve drinking...|https://66.media.tumblr.com/0c4eb3fbc6acaa853cb6e763969f65b1/tumblr_phd6s9WMkE1v7q31oo1_500.gifv?fbclid=IwAR3wrO8Sj1lkbVIzNC4xMHGX6-_GQSAq_2fEDM13h18ZASIlC6IVECg14es.gif|Rob1150|False|https://redd.it/eik5pb|9|0.61|0|1|0|gifs
+ehzmws|2019-12-31 07:22:14|There is an art to chilling, this handsome chap has perfected it.|https://i.redd.it/mpn1lvpc7x741.gif|xindigothoughtsx|False|https://redd.it/ehzmws|3011|0.96|0|28|0|gifs
+ei4yid|2019-12-31 16:22:00|Hiking in Switzerland|https://gfycat.com/firstbonybluegill|unnaturalorder|False|https://redd.it/ei4yid|541|0.93|0|35|0|gifs
+ei2fof|2019-12-31 12:46:23|This artist’s unique style of clay animation|https://gfycat.com/highactiveamericantoad|unaviable|False|https://redd.it/ei2fof|1038|0.93|0|17|0|gifs
+ehuwqp|2019-12-31 00:30:59|Cool reflex game|https://i.imgur.com/yWRP1Zt.gifv|Ness_69|False|https://redd.it/ehuwqp|55806|0.95|2|530|0|gifs
+eiervo|2020-01-01 05:51:54|Happy new year!|https://i.imgur.com/PGs275M.gif|explorer_76|False|https://redd.it/eiervo|36|0.7|0|5|0|gifs
+ei5xdr|2019-12-31 17:31:06|Dogs in wheelchairs playing fetch|https://imgur.com/6WSKoZy.gifv|MarsNirgal|False|https://redd.it/ei5xdr|186|0.89|0|13|0|gifs
+eisip5|2020-01-02 03:22:13|Speedy Watermelon Eater|https://i.redd.it/83t9endbaa841.gif|macpig|False|https://redd.it/eisip5|0|0.47|0|12|0|gifs
+eikxhk|2020-01-01 17:31:53|From a video my friends and I made 11 years ago. Came across it and had to share.|https://i.redd.it/x6tvm7h0d7841.gif|_-Boredatwork-_|False|https://redd.it/eikxhk|4|0.52|0|3|0|gifs
+eixkmu|2020-01-02 12:20:13|STFU|https://i.redd.it/u402isjquc841.gif|zmunk19|False|https://redd.it/eixkmu|0|0.22|0|2|0|gifs
+eid2jx|2020-01-01 03:02:25|Football Coach Herm Edwards gets cereal poured on him in celebration|https://i.imgflip.com/3kwsya.gif|zachwilson23|False|https://redd.it/eid2jx|25|0.68|0|4|0|gifs
+ehqwr5|2019-12-30 19:41:01|Homemade Snow Shovel|https://i.imgur.com/6ADGFhf.gifv|OddlyGruntled|False|https://redd.it/ehqwr5|56414|0.86|5|1308|0|gifs
+ehtahq|2019-12-30 22:28:38|A highly effective bug catcher|https://i.imgur.com/sRFKXuH.gifv|unnaturalorder|False|https://redd.it/ehtahq|5110|0.96|0|64|0|gifs
+ehupcv|2019-12-31 00:14:55|Sailor walking on his ship during heavy waves|https://gfycat.com/lightheartedelatedamphiuma|Kartingf1Fan|False|https://redd.it/ehupcv|3138|0.95|0|108|0|gifs
+ei0nzt|2019-12-31 09:25:46|Loving Parents|https://gfycat.com/finewholebonobo|rameshsky|False|https://redd.it/ei0nzt|414|0.92|0|8|0|gifs
+ei02tu|2019-12-31 08:12:54|Play with me!|https://i.imgur.com/K648EXC.gifv|jasontaken|False|https://redd.it/ei02tu|451|0.91|0|5|0|gifs
+ei84h8|2019-12-31 20:10:15|Tučepi, Croatia|https://i.redd.it/x74415s0z0841.gif|leebarguss|False|https://redd.it/ei84h8|49|0.82|0|3|0|gifs
+ei5ltu|2019-12-31 17:08:40|Sir, may I see some ID?|https://i.imgur.com/6iIx7Ot.gifv|andrerav|False|https://redd.it/ei5ltu|65|0.78|0|2|0|gifs
+ei98pk|2019-12-31 21:38:10|Dog with a pillow.|https://i.redd.it/j93cobh2g1841.gif|grzybek337|False|https://redd.it/ei98pk|29|0.78|0|0|0|gifs
+ei7y9q|2019-12-31 19:57:14|Me running away from the last decade into the new!|https://media.giphy.com/media/RihsCHDmlsoq0ulFkr/giphy.gif|MonkeyChaser|False|https://redd.it/ei7y9q|39|0.71|0|11|0|gifs
+eic5zi|2020-01-01 01:37:12|Happy new year :)|https://i.redd.it/qh94qo08c8741.gif|SpacePistachio|False|https://redd.it/eic5zi|13|0.6|0|1|0|gifs
+eih8sy|2020-01-01 11:02:35|New Years Day, Australia.|https://thumbs.gfycat.com/GaseousTastyIndianglassfish-mobile.mp4|Piggles_Hunter|False|https://redd.it/eih8sy|4|0.59|0|2|0|gifs
+eho7tz|2019-12-30 16:31:44|When grandma takes Naginata class too seriously|https://i.imgur.com/SVjey7A.gifv|Dlatrex|False|https://redd.it/eho7tz|6194|0.95|0|210|0|gifs
+ehmaqs|2019-12-30 13:53:44|One of the cutest argument|https://gfycat.com/nastycheapchanticleer|AcceptableJunket|False|https://redd.it/ehmaqs|30984|0.88|2|327|0|gifs
+ei4pja|2019-12-31 16:03:56|Women unleash the force|https://i.imgur.com/EZuLaEy.gifv|chemistrynerd1994|False|https://redd.it/ei4pja|58|0.73|0|8|0|gifs
+ei4j1c|2019-12-31 15:50:38|The drifter|https://i.redd.it/ao1fmec2qz741.gif|hetestolz|False|https://redd.it/ei4j1c|51|0.78|0|17|0|gifs
+ei7q3w|2019-12-31 19:40:01|2020 starts...right meow!|https://gfycat.com/liveflimsybedbug|dmstudio|False|https://redd.it/ei7q3w|25|0.7|0|0|0|gifs
+ei30t4|2019-12-31 13:44:16|Adam Savage's Favorite Things 2019|https://i.redd.it/el6omtr8yy741.gif|Spencerforhire83|False|https://redd.it/ei30t4|67|0.81|0|8|0|gifs
+ei5hp9|2019-12-31 17:00:49|Peacock tree with flare - Philadelphia Zoo|https://i.redd.it/av87ur2l20841.gif|Kingzer15|False|https://redd.it/ei5hp9|32|0.81|0|0|0|gifs
+ehurq1|2019-12-31 00:20:01|Preparing squid looks like something out of a sci-fi B movie. Rubber, plastic and some gooey stuff glued together|https://i.imgur.com/VjVgXhY.gifv|try_compelled|False|https://redd.it/ehurq1|656|0.91|0|82|0|gifs
+ehmpy7|2019-12-30 14:32:53|Strike A Pose|https://gfycat.com/infantilepowerlesshornet|AcceptableJunket|False|https://redd.it/ehmpy7|4337|0.95|0|76|0|gifs
+ehkipa|2019-12-30 10:34:40|Clean swipe|https://i.redd.it/rt345xkr0r741.gif|d3333p7|False|https://redd.it/ehkipa|39763|0.89|0|579|0|gifs
+ehs5ca|2019-12-30 21:06:33|Customizing a hat with hydro dipping|https://limitlane.com/wp-content/uploads/2019/12/535604.gif|Dembelo|False|https://redd.it/ehs5ca|1071|0.92|0|83|0|gifs
+ei2qzb|2019-12-31 13:17:53|The moment firefighters are overun by fire, Australia|https://i.redd.it/fjjp36fqyy741.gif|SyphilisIsABitch|False|https://redd.it/ei2qzb|51|0.78|0|7|0|gifs
+ei0pct|2019-12-31 09:30:16|I Train My Hoomans Well.|https://gfycat.com/abandoneddefensivecollie-fridaymorning-beautiful-yearend-nature|Financedta|False|https://redd.it/ei0pct|104|0.81|0|9|0|gifs
+ehwwnv|2019-12-31 03:10:41|A bit of bushfire smoke, from fires extending from Sydney to Melbourne, reaches New Zealand|https://i.redd.it/fylkkkg5yv741.gif|AttitudeChicken|False|https://redd.it/ehwwnv|270|0.93|0|21|0|gifs
+ei62nk|2019-12-31 17:41:34|Happy New Year 2020 Reddit !|https://i.redd.it/rww7uqpu90841.gif|Mlabs13|False|https://redd.it/ei62nk|19|0.61|0|2|0|gifs
+ei5ha8|2019-12-31 17:00:03|Satellite gif of Australian fires & formation of pyro-cumulonimbus clouds ~12 hour period|https://i.imgur.com/vuFUjMY.gifv|VertigoFall|False|https://redd.it/ei5ha8|19|0.79|0|0|0|gifs
+ehv82m|2019-12-31 00:54:53|Rocket Bicycle - 0 to 333 km/h (207 mph) in 4.8 seconds|https://i.imgur.com/rlYKJ07.gifv|xsited1|False|https://redd.it/ehv82m|326|0.94|0|66|0|gifs
+ehkm7c|2019-12-30 10:46:32|HELP! HE IS GETTING KITTYNAPPED! Oh nevermind I saved him|https://i.redd.it/6vnz5daw2r741.gif|MrDeKer|False|https://redd.it/ehkm7c|4992|0.93|0|85|0|gifs
+eik86c|2020-01-01 16:35:58|Priest finds Jesus – or vice versa|https://i.redd.it/8mrq9rpm27841.gif|rrfrankie|False|https://redd.it/eik86c|0|0.41|0|2|0|gifs
+ehwtlg|2019-12-31 03:03:42|Dodging Meteor Hammers|https://gfycat.com/qualifiedharmoniouskillerwhale|ihavepotatoe|False|https://redd.it/ehwtlg|192|0.89|0|28|0|gifs
+ei4n9d|2019-12-31 15:59:23|No need for solar power, gas or electric power when you have hurricane power!|https://gfycat.com/shadyseparateibizanhound-umbrella-bicycle-funny|Human02211979|False|https://redd.it/ei4n9d|17|0.74|0|1|0|gifs
+ei28w3|2019-12-31 12:26:14|Cool Timelapse of Clouds Over The Sierra Nevada [OC]|https://gfycat.com/speedyunkemptakitainu|Wild_NDN|False|https://redd.it/ei28w3|33|0.74|0|0|0|gifs
+eirak6|2020-01-02 01:42:11|SHOCKED!!|https://i.redd.it/izewrn9is9841.gif|kenkenthepro06|False|https://redd.it/eirak6|0|0.12|0|4|0|gifs
+ei2tzx|2019-12-31 13:26:05|When reality catches up with you|https://i.redd.it/fu9w3yp90z741.gif|Liekensth|False|https://redd.it/ei2tzx|21|0.79|0|2|0|gifs
+eie865|2020-01-01 04:59:56|Precision Jugger - No Meteor Hammers|https://gfycat.com/meanthirdfoxhound|ihavepotatoe|False|https://redd.it/eie865|0|0.5|0|5|0|gifs
+eineq2|2020-01-01 20:38:21|Happy New Year Watch.... Who fits this Beauty ??|https://i.redd.it/yc88wti5a8841.gif|pbn1|False|https://redd.it/eineq2|0|0.28|0|6|0|gifs
+eidbpt|2020-01-01 03:27:20|Successful Saber|https://gfycat.com/deepadmiredgermanspitz|31173x|False|https://redd.it/eidbpt|0|0.48|0|2|0|gifs
+ehzom9|2019-12-31 07:27:23|Siggi loves to play fetch, Hopper doesn't get it|https://media.giphy.com/media/llgfLkSpaF1XnC4CtW/giphy.gif|presswanders|False|https://redd.it/ehzom9|37|0.79|0|3|0|gifs
+ehn0j9|2019-12-30 14:58:23|My coworker brought his *totally legit* Rolex Daytona to work today...|https://i.imgur.com/wYI1FvW.gifv|Dizmodo|False|https://redd.it/ehn0j9|777|0.94|0|154|0|gifs
+ehffl7|2019-12-30 02:06:42|Baby tiger sneaks up on its mom|https://gfycat.com/maturefixedgrassspider|AcceptableJunket|False|https://redd.it/ehffl7|46435|0.91|3|356|0|gifs
+ei1622|2019-12-31 10:23:48|Two Guys Two Ropes|https://gfycat.com/widetediousindianpangolin|Devon_McMadCray|False|https://redd.it/ei1622|25|0.65|0|5|0|gifs
+einsi5|2020-01-01 21:06:32|A good shot.|https://i.redd.it/mnc10pebf8841.gif|yudoit|False|https://redd.it/einsi5|0|0.27|0|7|0|gifs
+ehvubv|2019-12-31 01:43:31|A little free flow saber spinning. Clears the mind, energizes the soul!|https://gfycat.com/knobbyembarrassedhornshark|SweatyVelvet86|False|https://redd.it/ehvubv|91|0.67|0|44|0|gifs
+eijml9|2020-01-01 15:44:13|where is this gif from?|https://i.redd.it/4b6a84g6s6841.gif|Sehkh|False|https://redd.it/eijml9|0|0.31|0|6|0|gifs
+ehy9i4|2019-12-31 05:07:56|Wobbling manhole cover|https://i.imgur.com/5C8dSvb.gifv|Xyeeyx|False|https://redd.it/ehy9i4|39|0.81|0|23|0|gifs
+ehf6ok|2019-12-30 01:46:19|A kind Australian cyclist giving a thirsty koala some water during the heat wave|https://gfycat.com/healthylightclam|unnaturalorder|False|https://redd.it/ehf6ok|8586|0.96|1|263|0|gifs
+ehoocj|2019-12-30 17:04:50|Not sure who was more excited to snuggle on the couch...|https://media.giphy.com/media/VDMho3NMKruUTj7Bdy/giphy.gif|creative_im_not|False|https://redd.it/ehoocj|314|0.88|0|16|0|gifs
+eifefr|2020-01-01 06:59:39|Drop The Spiderman On New Years|https://gfycat.com/brilliantbowedchanticleer|nitrokitty|False|https://redd.it/eifefr|0|0.41|0|0|0|gifs
+ehma2i|2019-12-30 13:51:49|[X-post from r/HardcoreNature] How the Golden Wheel Spider got its name|https://gfycat.com/welcomefailingchimpanzee|Pardusco|False|https://redd.it/ehma2i|444|0.92|0|43|0|gifs
+ehc8gy|2019-12-29 21:58:50|A floating bridge|https://i.imgur.com/sileUxb.gifv|Kartingf1Fan|False|https://redd.it/ehc8gy|14010|0.96|0|558|0|gifs
+ehrgm7|2019-12-30 20:18:54|Tree Split and Fall.|https://i.imgur.com/V0kTmjt.gifv|BiggestKeys|False|https://redd.it/ehrgm7|114|0.85|0|32|0|gifs
+ehndli|2019-12-30 15:27:40|Beer Bong Gone Wrong|https://gfycat.com/fondweirdaustrianpinscher|grettaaa|False|https://redd.it/ehndli|263|0.84|0|14|0|gifs
+ehfsjf|2019-12-30 02:37:04|Cat Goes Into Overload At The Sight Of Some Chicks|https://gfycat.com/conventionalfrankarawana|Mh13|False|https://redd.it/ehfsjf|2762|0.95|0|61|0|gifs
+eht25c|2019-12-30 22:12:00|Penguins getting fed at the zoo today|https://i.imgur.com/S9g2QXZ.gifv|Waseland|False|https://redd.it/eht25c|62|0.86|0|6|0|gifs
+eha3g5|2019-12-29 19:20:08|Gibbon gets a piggy back|https://i.imgur.com/mvg9Ak0.gifv|OddlyGruntled|False|https://redd.it/eha3g5|47130|0.94|0|719|0|gifs
+ehumj2|2019-12-31 00:08:29|Big Waves|https://i.imgur.com/2QqEIsM.gifv|Kartingf1Fan|False|https://redd.it/ehumj2|45|0.79|0|9|0|gifs
+ei81es|2019-12-31 20:03:51|Missed deadline.|https://gfycat.com/dazzlingbadbigmouthbass|professed|False|https://redd.it/ei81es|1|0.53|0|2|0|gifs
+ehtrgd|2019-12-30 23:03:00|This is car|https://gfycat.com/sanesaneandeancondor|XVll-L|False|https://redd.it/ehtrgd|37|0.83|0|15|0|gifs
+eh7sej|2019-12-29 16:23:51|Strong Floor Sweeper|https://gfycat.com/hoarsetheseclam|AcceptableJunket|False|https://redd.it/eh7sej|52395|0.95|0|883|0|gifs
+ehbvgf|2019-12-29 21:32:15|damn rubberneckers causing a traffic jam|https://i.redd.it/pgo0v1f45n741.gif|SnortingCoffee|False|https://redd.it/ehbvgf|3195|0.93|0|36|0|gifs
+ehdt2i|2019-12-29 23:57:13|An easier way of going home|https://gfycat.com/barrensophisticatedborzoi|Slazo-v2|False|https://redd.it/ehdt2i|1781|0.91|0|162|0|gifs
+eicyou|2020-01-01 02:51:43|Hot hoopin jesus|https://i.redd.it/zlr4eqb003841.gif|chicken_noodles_|False|https://redd.it/eicyou|0|0.38|0|2|0|gifs
+ehowtv|2019-12-30 17:21:27|Burning Octopus|https://gfycat.com/thoughtfulslipperyisabellineshrike-burning-man-techno|NeoShoker|False|https://redd.it/ehowtv|51|0.81|0|3|0|gifs
+ei87n6|2019-12-31 20:17:10|It's been a great year!|https://i.redd.it/9cbz2kam11841.gif|Framesequence|False|https://redd.it/ei87n6|0|0.42|0|0|0|gifs
+eh6ifj|2019-12-29 14:30:25|John Wick with lightsabers.|https://i.imgur.com/NEaGRbC.gifv|Capgunkid|False|https://redd.it/eh6ifj|8963|0.95|2|162|0|gifs
+eh5bpi|2019-12-29 12:16:27|So that's how the dog has been getting out|https://i.imgur.com/5GeOwSe.gifv|shittymorph|False|https://redd.it/eh5bpi|39373|0.91|2|495|0|gifs
+ehamfd|2019-12-29 19:59:51|Babushkas going for the big haul|https://gfycat.com/littleunfitflyingfish|Palifaith|False|https://redd.it/ehamfd|2046|0.94|0|185|0|gifs
+eica3d|2020-01-01 01:47:21|Kelly Preston is so sexy|https://i.imgur.com/Kvn26OS.gifv|penny5|False|https://redd.it/eica3d|0|0.44|0|6|0|gifs
+eh4v9k|2019-12-29 11:15:59|Animated version of cat with peculiar jumping style|https://gfycat.com/aggressivethinfinch|warpod|False|https://redd.it/eh4v9k|37968|0.87|6|324|0|gifs
+ehqp98|2019-12-30 19:26:55|Sun Explosion|https://i.imgur.com/D6SBQpI.gifv|awocadolo|False|https://redd.it/ehqp98|14|0.66|0|4|0|gifs
+ehld78|2019-12-30 12:14:52|Training for celebrating New Year is like.... :)))) I am finishing this old year in my style. Wish ya all best for 2020.|https://gfycat.com/limpingillfatedbichonfrise|fx_mania|False|https://redd.it/ehld78|47|0.65|0|13|0|gifs
+ehff5s|2019-12-30 02:05:47|Did someone ask for a saw blade|https://i.imgur.com/blH7gZg.gifv|BiffChildFromBangor|False|https://redd.it/ehff5s|298|0.91|0|44|0|gifs
+ehqp7l|2019-12-30 19:26:49|Pendulum|https://thumbs.gfycat.com/ShorttermImperfectKoala-mobile.mp4|tchacka5|False|https://redd.it/ehqp7l|10|0.78|0|0|0|gifs
+ehixyo|2019-12-30 07:28:30|the lime in this fizzy drink keeps trying to escape|https://i.redd.it/gxzbgt3z2q741.gif|natekohl|False|https://redd.it/ehixyo|73|0.84|0|4|0|gifs
+ehjy64|2019-12-30 09:26:46|Turnabout is fair play.|https://i.vgy.me/5b0nza.gif|gabenika|False|https://redd.it/ehjy64|52|0.77|0|5|0|gifs
+eh1bmw|2019-12-29 04:12:41|This cat's peculiar jumping style|https://gfycat.com/fatalacrobaticfireant|AcceptableJunket|False|https://redd.it/eh1bmw|50036|0.89|1|456|0|gifs
+ehlzbq|2019-12-30 13:22:16|Ocean resin paperweight|https://i.imgur.com/KB9QEOk.gifv|emily3289|False|https://redd.it/ehlzbq|17|0.65|0|0|0|gifs
+eh0b0e|2019-12-29 02:40:26|Ketchup Efficiency|https://gfycat.com/harmlessglossyhalibut|AcceptableJunket|False|https://redd.it/eh0b0e|39299|0.91|0|1019|0|gifs
+ehi19t|2019-12-30 05:54:57|Everybody was Kung-Fu fighting...|https://gfycat.com/flustereddelightfuleft|ehoyle73|False|https://redd.it/ehi19t|47|0.79|0|8|0|gifs
+ehhwih|2019-12-30 05:42:20|How's you vacation going? Nothing out of the usual!|https://i.redd.it/5teedd8kkp741.gif|klikiper|False|https://redd.it/ehhwih|42|0.8|0|6|0|gifs
+eh3h3r|2019-12-29 08:04:12|What kind of sorcery is this human?|https://gfycat.com/athleticcornygavial|Palifaith|False|https://redd.it/eh3h3r|2201|0.92|1|26|0|gifs
+eh8cq6|2019-12-29 17:08:07|Smol, Sleepy Otter pup gives a tiny wave|https://gfycat.com/masculinesizzlingindri|grettaaa|False|https://redd.it/eh8cq6|357|0.88|0|8|0|gifs
+egyrn1|2019-12-29 00:27:34|Tower neatly collapsing|https://gfycat.com/lawfulenragedivorybilledwoodpecker|Palifaith|False|https://redd.it/egyrn1|10669|0.93|0|294|0|gifs
+egw0is|2019-12-28 20:47:38|Sneaky topfan|https://i.redd.it/h2qwdc97sf741.gif|MakarovPsy4|False|https://redd.it/egw0is|28577|0.9|0|559|0|gifs
+eh72ko|2019-12-29 15:23:12|The closest we'll get to real Lightsabers|https://i.imgur.com/o6INnjn.gifv|Al-Andalusia|False|https://redd.it/eh72ko|195|0.79|0|55|0|gifs
+eh712h|2019-12-29 15:19:35|Super Fast Hands|https://gfycat.com/tightrapidamazonparrot|supremegalacticgod|False|https://redd.it/eh712h|183|0.9|0|6|0|gifs
+ehk9w6|2019-12-30 10:05:50|Winter sunset from Sardinia|https://gfycat.com/welldocumentedmedicalhoneybadger|alexgiampa98|False|https://redd.it/ehk9w6|4|0.64|0|0|0|gifs
+egx9ix|2019-12-28 22:24:59|Smol dreams.|https://gfycat.com/viciousvalidgaur|grettaaa|False|https://redd.it/egx9ix|3604|0.93|1|36|0|gifs
+eh8j30|2019-12-29 17:22:08|Kids, I have a phenomenal idea, sit down|https://i.redd.it/9igc5jakwl741.gif|realPipes|False|https://redd.it/eh8j30|92|0.88|0|10|0|gifs
+egtfm8|2019-12-28 17:28:01|The “tape” in “measuring tape” contains the letters for “eat”; coincidence?|https://gfycat.com/passionatewhichchrysalis|I_Am_Err00r|False|https://redd.it/egtfm8|60895|0.83|3|1001|0|gifs
+eh1wgi|2019-12-29 05:08:15|I drew this pixel art animation using only 7 colors and called it Dry Thunderstorm [OC]|https://i.redd.it/ju939znl9i741.gif|v78|False|https://redd.it/eh1wgi|687|0.94|0|21|0|gifs
+egzmn6|2019-12-29 01:40:20|Bigfoot footage: stabilized|https://i.imgur.com/sXKgU02.gif|nobboi|False|https://redd.it/egzmn6|1119|0.92|0|171|0|gifs
+eh7rni|2019-12-29 16:22:11|It snowed in Joshua Tree NP the other day|https://gfycat.com/dishonestelasticgreatargus|daddybara|False|https://redd.it/eh7rni|76|0.88|0|5|0|gifs
+eh5tiv|2019-12-29 13:18:04|Peepaboo|https://gfycat.com/thoroughdifferentglowworm|b12ftw|False|https://redd.it/eh5tiv|123|0.85|0|1|0|gifs
+ehacrw|2019-12-29 19:39:21|Floop|https://i.imgur.com/xlsu5BB.gifv|FloRogan|False|https://redd.it/ehacrw|35|0.73|0|3|0|gifs
+eh8n08|2019-12-29 17:30:27|A 'Pup' Talk|https://gfycat.com/firmenchantedbabirusa|TheGodPickle144|False|https://redd.it/eh8n08|52|0.68|0|2|0|gifs
+egrdfx|2019-12-28 14:33:03|Passing On Skills|https://gfycat.com/incompatiblepassionateichidna|AcceptableJunket|False|https://redd.it/egrdfx|13235|0.97|0|208|0|gifs
+egtovy|2019-12-28 17:48:25|The way this ink dries|https://gfycat.com/biodegradablemintybighorn|askmyname92|False|https://redd.it/egtovy|4522|0.94|0|123|0|gifs
+egr5rv|2019-12-28 14:12:39|When Referees TROLLS Players|https://gfycat.com/jollywarpedblackwidowspider|AcceptableJunket|False|https://redd.it/egr5rv|50481|0.85|0|1372|0|gifs
+eh6ry5|2019-12-29 14:56:59|Better every loop|https://gfycat.com/angrymiserablecranefly|RickyMemes|False|https://redd.it/eh6ry5|70|0.76|0|6|0|gifs
+eh534e|2019-12-29 11:45:29|Cows enjoying a snow day at Farm Sanctuary|https://gfycat.com/decimalcreamyblacklab|lnfinity|False|https://redd.it/eh534e|117|0.87|0|5|0|gifs
+eh6bs6|2019-12-29 14:12:31|Cash Meowny|https://gfycat.com/conscioussimpleantelope|supremegalacticgod|False|https://redd.it/eh6bs6|75|0.82|0|3|0|gifs
+ehbn74|2019-12-29 21:15:22|A gif I made myself a year back of Kirby barfing in a TerminalMontage video.|https://i.redd.it/zch7pysg1n741.gif|Schnoz_LTT|False|https://redd.it/ehbn74|16|0.64|0|2|0|gifs
+eh75ql|2019-12-29 15:31:14|Over it|https://media2.giphy.com/media/YT2FMJ5jhT2D6yUEkP/giphy.gif?cid=4d1e4f29df643247ac7158d6916333e3fa0aec75afdec3a7&rid=giphy.gif|felinesandfries|False|https://redd.it/eh75ql|49|0.84|0|0|0|gifs
+eh46yb|2019-12-29 09:42:40|Just some animation i did the other day.|https://i.redd.it/waifhrokmj741.gif|Lesnikov_Aleksei|False|https://redd.it/eh46yb|122|0.8|0|6|0|gifs
+egrovj|2019-12-28 15:02:43|10/10 dive|https://i.imgur.com/rjwgPvl.gifv|JustAN0body|False|https://redd.it/egrovj|3127|0.95|0|158|0|gifs
+eh3m1r|2019-12-29 08:22:15|I don’t understand yet relate on an emotional level|https://i.imgur.com/dzBlGd4.gif|pitterpatter-96|False|https://redd.it/eh3m1r|111|0.88|0|10|0|gifs
+egovz7|2019-12-28 09:33:14|Here, you dropped something|https://gfycat.com/welcomeresponsibleirishwolfhound|Palifaith|False|https://redd.it/egovz7|10455|0.97|0|164|0|gifs
+egnumb|2019-12-28 07:23:10|Not Without Me!|https://gfycat.com/openvigilantbull|AcceptableJunket|False|https://redd.it/egnumb|12937|0.95|0|165|0|gifs
+eh3por|2019-12-29 08:35:44|Najaf protesters release lanterns to affirm that the demonstrations are peaceful|https://gfycat.com/harshfemininegadwall|DangerouslyReactive|False|https://redd.it/eh3por|64|0.88|0|1|0|gifs
+egv8he|2019-12-28 19:48:49|Best imaginary friends.|https://i.imgur.com/O2zMxDh.gifv|CptArius|False|https://redd.it/egv8he|565|0.87|0|62|0|gifs
+eh7kos|2019-12-29 16:06:23|Thantos and Gamorant|https://gfycat.com/honoredmealyflyingfish|A_a_ronJ|False|https://redd.it/eh7kos|9|0.58|0|0|0|gifs
+eh2zs4|2019-12-29 07:03:41|Me petting my friends baby Yoda thinking it doesn't bite|https://i.redd.it/twolrrz2ui741.gif|iNebuchadnezzar|False|https://redd.it/eh2zs4|46|0.68|0|10|0|gifs
+eh083s|2019-12-29 02:33:15|Some Good Instincts|https://i.redd.it/d3dtp9tuhh741.gif|SilasOII|False|https://redd.it/eh083s|76|0.8|0|2|0|gifs
+egyar6|2019-12-28 23:48:29|GoT plane|https://gfycat.com/soliddapperbluegill-sophie-turner|Balzalderak|False|https://redd.it/egyar6|107|0.72|0|12|0|gifs
+egkl9m|2019-12-28 02:07:35|Orangutan trusts their caretaker completely|https://gfycat.com/positivehilariousindigobunting|AcceptableJunket|False|https://redd.it/egkl9m|7793|0.98|0|125|0|gifs
+egysh1|2019-12-29 00:29:31|How they get bikes out the Amsterdam canals|https://i.imgur.com/VWlPKKX.gifv|Kartingf1Fan|False|https://redd.it/egysh1|90|0.92|0|16|0|gifs
+egidww|2019-12-27 23:01:19|“Yeah, I can’t come out tonight, I’m super busy staying wild.”|https://gfycat.com/harddismalalaskanhusky|I_Am_Err00r|False|https://redd.it/egidww|112603|0.9|11|1207|0|gifs
+egjnk3|2019-12-28 00:45:19|46 Year old Kate Beckinsale.|https://i.imgur.com/it5DvpC.gifv|Sofargonept2|False|https://redd.it/egjnk3|18609|0.85|0|1023|0|gifs
+eh1rmp|2019-12-29 04:55:11|Cat Step|https://media.tenor.com/images/6bd0f87c1360c5615737d027e4269500/tenor.gif|Zmenace23|False|https://redd.it/eh1rmp|33|0.78|0|8|0|gifs
+egmfnb|2019-12-28 04:55:51|Too Many Keys|https://i.imgur.com/dnmq0TJ.gifv|Ness_69|False|https://redd.it/egmfnb|2045|0.94|1|57|0|gifs
+egog7q|2019-12-28 08:36:49|I turned my entire office ceiling into an LED panel, and finished the Arduino powered touch controls today|https://gfycat.com/WeakPinkCreature|C0LT0GRAPHY|False|https://redd.it/egog7q|702|0.91|0|51|0|gifs
+egroz7|2019-12-28 15:03:00|Jellyfish vs. air ring|https://i.imgur.com/xkyM0q7.gifv|Al-Andalusia|False|https://redd.it/egroz7|142|0.93|0|11|0|gifs
+eget27|2019-12-27 18:29:21|Bowling loop|https://gfycat.com/improbablevalidamazonparrot|TeisTom|False|https://redd.it/eget27|7983|0.92|1|121|0|gifs
+egmmf9|2019-12-28 05:13:43|Electric Hydrofoil Surfboard|https://i.imgur.com/LdWTseI.gifv|Ness_69|False|https://redd.it/egmmf9|618|0.94|0|67|0|gifs
+egcc6h|2019-12-27 15:17:49|Dog reacts to clown mask|https://gfycat.com/insignificantpastelgrosbeak|AcceptableJunket|False|https://redd.it/egcc6h|14193|0.93|1|139|0|gifs
+egxlk6|2019-12-28 22:51:54|First attempt at animation in Procreate... Little rough around the edges, but I’m excited to keep trying!|https://i.imgur.com/UnZU4WT.gifv|davetell2|False|https://redd.it/egxlk6|20|0.65|0|8|0|gifs
+egxvhp|2019-12-28 23:13:50|Monkey goes back for and resuscitates its friend that has been electrocuted on a train track|https://i.redd.it/yqejlwgeig741.gif|allthekos|False|https://redd.it/egxvhp|18|0.62|0|10|0|gifs
+egba68|2019-12-27 13:41:09|A graceful jump.|https://i.imgur.com/IOXZMyr.gifv|Drown_In_The_Void|False|https://redd.it/egba68|62288|0.89|2|466|0|gifs
+egp5t5|2019-12-28 10:08:37|Go-karting on a frozen stream|https://i.redd.it/250zyckmhc741.gif|EN123|False|https://redd.it/egp5t5|188|0.91|0|26|0|gifs
+egvjyh|2019-12-28 20:12:10|Somehow I managed to record a gif instead of a video, and it's fantastic!|https://i.redd.it/x73h6qbxlf741.gif|CrucifiedTitan|False|https://redd.it/egvjyh|20|0.67|0|9|0|gifs
+egclih|2019-12-27 15:40:12|Smart honey badger finds ways to escape every enclosure that is made for him.|https://gfycat.com/unhappyshorttermkilldeer-honey-badger-organism-classification|AcceptableJunket|False|https://redd.it/egclih|5482|0.96|0|177|0|gifs
+egfosx|2019-12-27 19:35:16|Bacteriophage Puppet|https://i.imgur.com/blxe5Fr.gifv|Hayce_|False|https://redd.it/egfosx|1908|0.95|0|227|0|gifs
+egbj2x|2019-12-27 14:05:06|Falling asleep on the job|https://gfycat.com/thankfulskinnybluebird|grettaaa|False|https://redd.it/egbj2x|5983|0.94|0|51|0|gifs
+egwsof|2019-12-28 21:48:16|Red&White flags|https://i.imgur.com/EIFcucW.mp4|mirandanielcz|False|https://redd.it/egwsof|9|0.74|0|1|0|gifs
+egdvje|2019-12-27 17:19:39|Gritty giving a rival fan some Christmas presents.|https://i.imgur.com/lHrgKwO.gifv|virohm|False|https://redd.it/egdvje|1234|0.91|1|95|0|gifs
+egpgxn|2019-12-28 10:49:27|He was born!|https://i.redd.it/0pauhe9atc741.gif|yudoit|False|https://redd.it/egpgxn|34|0.69|0|10|0|gifs
+egcrzn|2019-12-27 15:55:01|Alpaca Soft Springy Stepper|https://gfycat.com/hardsolidfoxterrier|grettaaa|False|https://redd.it/egcrzn|1094|0.94|0|23|0|gifs
+ege2vo|2019-12-27 17:35:18|Shouldering responsibilities for 2020|https://gfycat.com/recklesspertinentchimneyswift|Tipex|False|https://redd.it/ege2vo|755|0.93|0|11|0|gifs
+egjym7|2019-12-28 01:12:40|Automatic Food Slicer|https://gfycat.com/aridbadasiaticmouflon|Ness_69|False|https://redd.it/egjym7|168|0.92|0|38|0|gifs
+eg5orl|2019-12-27 03:32:29|Curious cows investigate a strange visitor in their field|https://gfycat.com/snappyhairyafricanclawedfrog|AcceptableJunket|False|https://redd.it/eg5orl|59666|0.92|7|1133|0|gifs
+egb15y|2019-12-27 13:14:26|The Open Book Fountain in Budapest|https://i.imgur.com/2S7RICc.gifv|aloofloofah|False|https://redd.it/egb15y|1267|0.92|1|27|0|gifs
+egogmy|2019-12-28 08:38:31|Double Dutch SKILLS|https://gfycat.com/unsteadydetailedantlion|Devon_McMadCray|False|https://redd.it/egogmy|32|0.76|0|2|0|gifs
+egoq39|2019-12-28 09:12:36|Cat and cat dad zoomies|https://i.redd.it/96zg8ukbcc741.gif|ravens_revenge|False|https://redd.it/egoq39|24|0.69|0|1|0|gifs
+egjznr|2019-12-28 01:15:14|Horse Jumps Backward|https://gfycat.com/deliriousspiffychimpanzee|Youbekay|False|https://redd.it/egjznr|98|0.82|0|37|0|gifs
+ego4vl|2019-12-28 07:57:35|A GIF of the artwork I made [Original Content]|https://i.redd.it/5xfvdqmwyb741.gif|Amangupta003|False|https://redd.it/ego4vl|26|0.76|0|2|0|gifs
+eg6j8q|2019-12-27 04:49:28|Cat lifts up like a car jack when it gets butt rubs|https://gfycat.com/sourangelicchinchilla|unnaturalorder|False|https://redd.it/eg6j8q|3203|0.94|0|101|0|gifs
+egdrte|2019-12-27 17:11:45|Stabilization|https://i.redd.it/xe9ggysuk7741.gif|VLStetson|False|https://redd.it/egdrte|295|0.95|0|10|0|gifs
+eg2xdy|2019-12-26 23:39:00|Hey! That's my baby!|https://gfycat.com/AdvancedLiveBrocketdeer|TheGodPickle144|False|https://redd.it/eg2xdy|21298|0.87|0|454|0|gifs
+egfbds|2019-12-27 19:07:10|First attempt.|https://i.redd.it/oniil3fe58741.gif|Umangacee297|False|https://redd.it/egfbds|121|0.7|0|11|0|gifs
+egj85z|2019-12-28 00:09:47|Driving through wilderness, B.C|https://i.redd.it/2x3zumofn9741.gif|AverageJoeLetsGrow|False|https://redd.it/egj85z|46|0.85|0|4|0|gifs
+egd32v|2019-12-27 16:19:15|I timelapsed the 2019 eclipse in Abu Dhabi. The scenery was phenomenal! Higher quality video in the comments.|https://imgur.com/8Y5QgvU.gifv|trizephyr|False|https://redd.it/egd32v|187|0.9|0|5|0|gifs
+egll6a|2019-12-28 03:36:28|Re-lativity|https://i.redd.it/84y5usadla741.gif|TheAgora1|False|https://redd.it/egll6a|15|0.61|0|6|0|gifs
+eg9ydg|2019-12-27 11:10:44|I’m really confused where he was planning on stepping next|https://gfycat.com/oilyuntidyarabianoryx|I_Am_Err00r|False|https://redd.it/eg9ydg|366|0.87|0|26|0|gifs
+eg4qr7|2019-12-27 02:09:25|It snowed in Joshua Tree National Park Today|https://gfycat.com/grizzledpertinentindianjackal|daddybara|False|https://redd.it/eg4qr7|1646|0.76|0|170|0|gifs
+efxcww|2019-12-26 16:23:13|Armadillo's armor not tickle-proof|https://i.imgur.com/UZpdXLw.gifv|Al-Andalusia|False|https://redd.it/efxcww|86928|0.94|15|1475|0|gifs
+eggdku|2019-12-27 20:26:26|cool bird|https://i.imgur.com/ktVHTfT.gifv|suo133|False|https://redd.it/eggdku|41|0.78|0|3|0|gifs
+eggw72|2019-12-27 21:05:40|The best position?|https://gfycat.com/yellowheartfeltdanishswedishfarmdog|Geweldenaar|False|https://redd.it/eggw72|38|0.74|0|1|0|gifs
+ega3xy|2019-12-27 11:30:01|Typical morning bike ride|https://i.imgur.com/CogGNJr.gifv|Al-Andalusia|False|https://redd.it/ega3xy|163|0.86|0|35|0|gifs
+egj06w|2019-12-27 23:51:01|EPL 19-20 in a nutshell|https://i.redd.it/ri8nt4pzj9741.gif|skchyou|False|https://redd.it/egj06w|16|0.66|0|3|0|gifs
+ege1tj|2019-12-27 17:32:57|Any landing you can walk away from is a good landing?|https://i.redd.it/7iqrkuuno7741.gif|wargamer620|False|https://redd.it/ege1tj|47|0.84|0|3|0|gifs
+egknib|2019-12-28 02:13:03|Pup wraps a present|https://gfycat.com/tintedcapitalkrill|MyFatHamsterSteve|False|https://redd.it/egknib|8|0.62|0|2|0|gifs
+eg9km4|2019-12-27 10:24:09|Prince George terrifies the Queen with his pudding stabbing technique|https://media.giphy.com/media/QTCfGEEPAIYk3utKt9/giphy.gif|PM_ME_COOL_THINGS_|False|https://redd.it/eg9km4|157|0.83|0|24|0|gifs
+eglk2w|2019-12-28 03:33:43|Don't feed your Baby Yoda after midnight...|https://i.redd.it/waqnrz0vna741.gif|Nicholas_Garber|False|https://redd.it/eglk2w|2|0.53|0|1|0|gifs
+egibtc|2019-12-27 22:56:43|Beyblade Batte Personified|https://gfycat.com/illfatedlikelyclumber|fcon201313|False|https://redd.it/egibtc|14|0.63|0|7|0|gifs
+eg8qok|2019-12-27 08:43:25|Screen protection installation|https://i.imgur.com/FAxEPeI.gifv|Ness_69|False|https://redd.it/eg8qok|152|0.85|0|24|0|gifs
+efu5tw|2019-12-26 10:57:10|Yellow Jello On A Blue Board|https://i.imgur.com/X85vxTV.gifv|OddlyGruntled|False|https://redd.it/efu5tw|56723|0.83|1|838|0|gifs
+egdv2u|2019-12-27 17:18:36|They made the komodo 3000 into a real thing lmao|https://i.redd.it/3kec9bp2m7741.gif|lejonetfranMX|False|https://redd.it/egdv2u|29|0.7|0|6|0|gifs
+efz3xw|2019-12-26 18:40:58|Hole in One|https://gfycat.com/scentedlightheartedkarakul|grettaaa|False|https://redd.it/efz3xw|980|0.91|0|27|0|gifs
+egi0ec|2019-12-27 22:31:27|Now you see me|https://i.redd.it/g4jmlalx59741.gif|apt73|False|https://redd.it/egi0ec|5|0.56|0|1|0|gifs
+eg7q1g|2019-12-27 06:45:46|With 10 seconds on the clock a QB accidentally punches a ref and gets ejected instead of trying to win the game.|https://media.giphy.com/media/lQCdR7qlKYq9ozBfhj/giphy.gif|shaka_sulu|False|https://redd.it/eg7q1g|64|0.81|0|28|0|gifs
+eftkkr|2019-12-26 09:41:02|This is called Luca's wheat. It is a Hungarian tradition. You plant some wheat at the 13th of December (it is Luca's nameday) and it will grow like this in just 11 days. (I took more than one picture per day on average)|https://i.redd.it/rsi600bk7y641.gif|scarface64|False|https://redd.it/eftkkr|2930|0.96|0|116|0|gifs
+eg1cyu|2019-12-26 21:35:45|I invented a gift opener for kids!|https://i.imgur.com/JzJz5Df.gifv|UselessDuckCompany|False|https://redd.it/eg1cyu|263|0.69|0|89|0|gifs
+efyd6s|2019-12-26 17:43:16|Beer guy|https://i.redd.it/nc1in9ill0741.gif|ejacolwf|False|https://redd.it/efyd6s|514|0.81|0|127|0|gifs
+eg3sqi|2019-12-27 00:49:31|Insert Moana soundtrack|https://gfycat.com/kindzealousafricangroundhornbill|Cli33ord|False|https://redd.it/eg3sqi|91|0.85|0|9|0|gifs
+eg7wgk|2019-12-27 07:05:06|Grinch almost stole Christmas until these two good boys stopped him.|https://media.giphy.com/media/M8pCRzc1h2xqyka0Ae/giphy.gif|shaka_sulu|False|https://redd.it/eg7wgk|25|0.68|0|9|0|gifs
+eg7e0a|2019-12-27 06:12:01|A few years ago, I finished my Electrician Apprenticeship. Enjoy my toy so that you don't have to. (Seriously, don't try this unless you know fully what you are doing)|https://i.redd.it/e13j5um6b4741.gif|WolfieVonD|False|https://redd.it/eg7e0a|32|0.74|0|12|0|gifs
+eg4531|2019-12-27 01:18:21|🌸Flower in the resin cube|https://i.imgur.com/pHnmGno.gifv|emily3289|False|https://redd.it/eg4531|65|0.85|0|8|0|gifs
+eg2zt3|2019-12-26 23:44:03|Committing Snowicide|https://imgur.com/PJTE4nu.gif|5D_Chessmaster|False|https://redd.it/eg2zt3|84|0.81|0|5|0|gifs
+efyhvf|2019-12-26 17:53:16|Macaw Love|https://gfycat.com/thoughtfulwarpedlamprey|grettaaa|False|https://redd.it/efyhvf|208|0.9|0|10|0|gifs
+eg02a5|2019-12-26 19:55:16|this is awesome|https://k62.kn3.net/taringa/6/6/4/8/1/5/the_evil_demon/EE6.gif|AlexPascu007|False|https://redd.it/eg02a5|109|0.61|0|16|0|gifs
+eg3rcb|2019-12-27 00:46:08|When white people get results from 23 and me|https://media.giphy.com/media/f7H30vtUwijGcRL4EF/giphy.gif|Ramrod312|False|https://redd.it/eg3rcb|38|0.57|0|21|0|gifs
+efkcoe|2019-12-25 19:06:25|Laminar flow|https://gfycat.com/imaginarybewitchediberiannase|ajaybabu200025|False|https://redd.it/efkcoe|55797|0.88|7|1254|0|gifs
+eg03v3|2019-12-26 19:58:37|Laughed so hard at this|https://media.giphy.com/media/l41K20yoSgNDdTpK0/giphy.gif|Uhhlaneuh|False|https://redd.it/eg03v3|68|0.69|0|31|0|gifs
+efujyu|2019-12-26 11:47:26|Slacklining|https://gfycat.com/temptingillegalkillerwhale|andersoonasd|False|https://redd.it/efujyu|227|0.85|0|38|0|gifs
+efvgix|2019-12-26 13:32:10|Steep Road|https://gfycat.com/kindlylinedibisbill|jaspion1|False|https://redd.it/efvgix|144|0.83|0|44|0|gifs
+efz2ny|2019-12-26 18:38:14|Next time you think your wasting too much time scrolling on reddit, just think about how much time this guy wasted learning how to do this...|https://i.redd.it/9sr15mbev0741.gif|Gimpyface|False|https://redd.it/efz2ny|51|0.68|0|27|0|gifs
+efhvn2|2019-12-25 15:43:59|ʸᵃʷⁿ|https://i.imgur.com/nTF7PH5.gifv|ForTheWin72|False|https://redd.it/efhvn2|8339|0.97|0|67|0|gifs
+efh3tb|2019-12-25 14:32:36|My Christmas magic trick that changed my best friend for life into my future wife... best xmas gift ever.|https://gfycat.com/accomplishedwangecko|jdstessel|False|https://redd.it/efh3tb|25877|0.82|7|563|0|gifs
+efg7fz|2019-12-25 12:57:29|The force is strong in this one|https://i.redd.it/27d33rgp1s641.gif|Gimpyface|False|https://redd.it/efg7fz|26445|0.91|0|192|0|gifs
+efi2zj|2019-12-25 16:01:31|Hurdles olympic 2020!|https://gfycat.com/harmoniousimmaterialchrysomelid|vladgrinch|False|https://redd.it/efi2zj|5179|0.94|0|72|0|gifs
+efnkrb|2019-12-25 23:35:36|It's time to top up the blinker fluid|https://gfycat.com/immensehomelyhare|ChimpyChompies|False|https://redd.it/efnkrb|1060|0.93|0|60|0|gifs
+efkye9|2019-12-25 19:55:17|A hungry belly has no ears|https://i.redd.it/sher3gk84u641.gif|VLStetson|False|https://redd.it/efkye9|1996|0.92|0|37|0|gifs
+efjx4w|2019-12-25 18:31:35|Winter in NYC.|https://imgur.com/us7Gvle.gif|buronALB|False|https://redd.it/efjx4w|2460|0.94|0|48|0|gifs
+effcvh|2019-12-25 11:10:53|I'm so fast|https://i.redd.it/sng4qbioir641.gif|DrunkOnSocks|False|https://redd.it/effcvh|46834|0.92|3|529|0|gifs
+efgd1s|2019-12-25 13:15:09|Best Friends at Woodstock Farm Sanctuary|https://gfycat.com/giddyoptimisticblueshark|lnfinity|False|https://redd.it/efgd1s|3689|0.96|0|52|0|gifs
+efue2p|2019-12-26 11:26:16|This circle thingy|https://i.redd.it/1v2wayf7qy641.gif|PorkfatWilly|False|https://redd.it/efue2p|57|0.77|0|9|0|gifs
+efwktg|2019-12-26 15:19:09|Robot vacuum VS Christmas tree|https://i.redd.it/x2jsc8gqvz641.gif|beta_b0t|False|https://redd.it/efwktg|23|0.65|0|4|0|gifs
+eft963|2019-12-26 09:00:04|An 8.5 oz Red Bull fits perfectly into a 32 oz hydro flask. Credits Twitter: First We Feast|https://gfycat.com/earnestincompletearcticduck|mihir_3008|False|https://redd.it/eft963|67|0.79|0|20|0|gifs
+efbm17|2019-12-25 03:53:35|World's coolest kite|https://gfycat.com/unknownleftarmedcrab|Copps|False|https://redd.it/efbm17|40320|0.95|2|330|0|gifs
+efujbs|2019-12-26 11:45:06|Zoomies at Animal Place Sanctuary|https://gfycat.com/malepastjunco|lnfinity|False|https://redd.it/efujbs|19|0.62|0|1|0|gifs
+efu3sk|2019-12-26 10:49:41|enjoy|https://gfycat.com/beneficialoccasionalkingbird|cam1xx|False|https://redd.it/efu3sk|20|0.6|1|6|0|gifs
+efrxli|2019-12-26 06:25:19|The Fresno/Yosemite airport security camera caught a girl sneak onto the runway, stole a jet, and crashed it into a building. Too bad the cameras the airport use makes everything look like Minecraft.|https://media.giphy.com/media/YPbnDE4qeDsdLuIRfn/giphy.gif|shaka_sulu|False|https://redd.it/efrxli|44|0.8|0|15|0|gifs
+efgl2p|2019-12-25 13:40:10|Need to pickup a few things at the market. Need a grocery cart? Naw, Im good|https://i.imgur.com/LZxcDEO.gif|timthedriller|False|https://redd.it/efgl2p|738|0.94|0|26|0|gifs
+efo75t|2019-12-26 00:31:03|Trying to be a good Secret Santa for my cat|https://i.imgur.com/ZlzY63L.gifv|paulitaperezb|False|https://redd.it/efo75t|101|0.82|0|0|0|gifs
+ef8h1m|2019-12-24 23:00:51|Gave myself a longer life this year for Christmas! Happy Holidays :)|https://m.imgur.com/DUKAABS.gifv|omarthaherfit|False|https://redd.it/ef8h1m|141832|0.85|50|2865|0|gifs
+efktfj|2019-12-25 19:44:11|Rubbing the baby belly|https://gfycat.com/coldfatalasianconstablebutterfly|grettaaa|False|https://redd.it/efktfj|204|0.87|0|18|0|gifs
+effmbb|2019-12-25 11:45:16|Sisterly Love|https://gfycat.com/understatedprestigioushoopoe|lnfinity|False|https://redd.it/effmbb|664|0.89|0|13|0|gifs
+efllah|2019-12-25 20:47:48|Smol Merry Xmas from Parrot couple|https://gfycat.com/fluffyfinishedleafhopper|grettaaa|False|https://redd.it/efllah|91|0.79|0|7|0|gifs
+ef6h4p|2019-12-24 20:15:32|Making 3D Smiley Face In The Snow|https://gfycat.com/generalrarehairstreakbutterfly|mtimetraveller|False|https://redd.it/ef6h4p|11682|0.95|0|126|0|gifs
+ef6xk1|2019-12-24 20:52:03|Flirting at the intersection|https://limitlane.com/wp-content/uploads/2019/12/313705.gif|Daidernaw|False|https://redd.it/ef6xk1|9047|0.93|0|329|0|gifs
+efmkga|2019-12-25 22:09:06|I made this sci-fi style chess set [OC]|https://gfycat.com/respectfulwastefulacaciarat-light-up-chess-induction-whoahdude-science-cool|Sarbaaz|False|https://redd.it/efmkga|48|0.7|0|10|0|gifs
+efqsvi|2019-12-26 04:30:35|Gave Harry an Invisibility Cloak for Christmas|https://i.imgur.com/viKT0pU.gif|TheMasonX|False|https://redd.it/efqsvi|14|0.63|0|8|0|gifs
+efpd58|2019-12-26 02:16:23|A friend of mine made this gif using Java&GLSL shaders!|https://i.redd.it/9pf6b6h10w641.gif|StormsRider|False|https://redd.it/efpd58|18|0.66|0|2|0|gifs
+ef3s3n|2019-12-24 16:48:42|Husky slightly mis-judges where the ball is going to be|https://gfycat.com/sinfulevengecko|unnaturalorder|False|https://redd.it/ef3s3n|24138|0.95|0|202|0|gifs
+efgw1g|2019-12-25 14:11:37|SpotMini Dies on Stage|https://i.imgur.com/zxOCk3l.gif|physicsgoat|False|https://redd.it/efgw1g|156|0.92|0|26|0|gifs
+efk3lf|2019-12-25 18:46:08|Oh, hell no! Subbed. Better quality (i hope)|https://gfycat.com/giantdifferentantipodesgreenparakeet|birdstream|False|https://redd.it/efk3lf|65|0.73|0|5|0|gifs
+efd7t7|2019-12-25 06:40:53|Made me wish Benihana served brunch|https://media.giphy.com/media/WsQx8FxSuu0WRzcEXw/giphy.gif|shaka_sulu|False|https://redd.it/efd7t7|360|0.9|0|23|0|gifs
+efldbr|2019-12-25 20:29:21|Lake Tahoe, CA|https://media3.giphy.com/media/FrpMDaR34BcbK/giphy.gif?cid=4d1e4f29cbdd778000491a17a04beebac46653deb5068198&rid=giphy.gif|vishnusnavel|False|https://redd.it/efldbr|27|0.77|0|0|0|gifs
+efl3eb|2019-12-25 20:06:47|Didn't get any snow this christmas but this great sunset more than made up for it|https://gfycat.com/thirstyexcitablechrysalis|runningchild|False|https://redd.it/efl3eb|24|0.81|0|0|0|gifs
+efh31o|2019-12-25 14:30:46|Merry Christmas Reddit! (from u/JojoDude and u/JefferySick)|https://gfycat.com/definitecoolbushsqueaker|JojoDude|False|https://redd.it/efh31o|65|0.71|0|8|0|gifs
+ef1gti|2019-12-24 13:39:18|Messing with the local OG street cat|https://gfycat.com/hospitablegleamingfennecfox|WhenMachinesCry|False|https://redd.it/ef1gti|8771|0.97|0|225|0|gifs
+efl9gq|2019-12-25 20:20:20|British Christmas Pudding (slow Mo)|https://gfycat.com/admirablekindlyjavalina|Jordan_Vuko|False|https://redd.it/efl9gq|23|0.72|0|0|0|gifs
+eezy6j|2019-12-24 10:56:48|Our new fridge lets you see inside without opening the door by knocking on it.|https://i.imgur.com/RPMHcSV.gifv|bannnanananaa|False|https://redd.it/eezy6j|49904|0.84|3|1874|0|gifs
+efbtk6|2019-12-25 04:13:54|Excellent Recovery|https://i.redd.it/pxmrecd9gp641.gif|Letsview0789|False|https://redd.it/efbtk6|250|0.8|0|11|0|gifs
+effos2|2019-12-25 11:53:39|Christmas amaryllis|https://i.redd.it/isx7vsabqr641.gif|cinnamon-teal|False|https://redd.it/effos2|62|0.81|0|1|0|gifs
+efgu6p|2019-12-25 14:06:33|Merry Christmas from Hawaii 2019|https://gfycat.com/idealisticgiantchick|HeroLite|False|https://redd.it/efgu6p|37|0.82|0|3|0|gifs
+efitm5|2019-12-25 17:03:00|Santa Surf|https://i.redd.it/xc53i5dh9t641.gif|yudoit|False|https://redd.it/efitm5|22|0.77|0|0|0|gifs
+efcggs|2019-12-25 05:18:06|Merry Legomas!|https://i.redd.it/k4ehop4qrp641.gif|jorwyn|False|https://redd.it/efcggs|165|0.87|0|22|0|gifs
+efkjib|2019-12-25 19:21:48|another year, another classic British christmas pudding|https://gfycat.com/crazyordinaryivorybilledwoodpecker|Jordan_Vuko|False|https://redd.it/efkjib|10|0.62|0|6|0|gifs
+ef8v7j|2019-12-24 23:34:19|"To those of you watching Jim Carrey's ""The Grinch Who Stole Christmas"" this year with your family, here is the actress who played Cindy Lou Who as she is today"|https://townsquare.media/site/390/files/2016/04/Taylor-Momsen-takes-off-coat.gif|chrispdx|True|https://redd.it/ef8v7j|306|0.82|0|65|0|gifs
+efllc1|2019-12-25 20:47:54|Decade is coming to a close. What is your hands-down, absolute favourite .gif|https://i.redd.it/bvxe5x5mdu641.gif|NurRayArt|False|https://redd.it/efllc1|5|0.55|0|8|0|gifs
+efj9gf|2019-12-25 17:38:42|Season's Greetings!|https://i.redd.it/e57eujjoft641.gif|mesh-net|False|https://redd.it/efj9gf|9|0.66|0|0|0|gifs
+eevl43|2019-12-24 03:40:01|Made this Rocketship Lamp. Got the idea from another one of Reddit's lovely subs.|https://i.redd.it/vyt11qp85i641.gif|StevenEMAW|False|https://redd.it/eevl43|43232|0.92|7|267|0|gifs
+ef3yrk|2019-12-24 17:02:43|Rarely seen mating dance of the North American Mountain Biker|https://i.imgur.com/lhFKwRn.gifv|RampChurch|False|https://redd.it/ef3yrk|689|0.9|0|20|0|gifs
+efe3kt|2019-12-25 08:29:00|Thunderstorm straight from a horror film|https://i.redd.it/qboqeqbqpq641.gif|jbyleveld|False|https://redd.it/efe3kt|23|0.67|0|9|0|gifs
+ef5cph|2019-12-24 18:47:22|Merry Chr...Ooo POM POM|https://gfycat.com/DirtyBigheartedGemsbuck|TheGodPickle144|False|https://redd.it/ef5cph|249|0.84|0|3|0|gifs
+ef4top|2019-12-24 18:07:17|Practicing turning my drawings into gifs!|https://media.giphy.com/media/emNGNUizONeQy7gmqN/giphy.gif|PonchoMcGee|False|https://redd.it/ef4top|240|0.88|0|21|0|gifs
+ef7yvs|2019-12-24 22:17:51|Tartar Sauce|https://i.redd.it/9q9uen7qon641.gif|volunteervancouver|False|https://redd.it/ef7yvs|107|0.86|0|9|0|gifs
+ef4jfo|2019-12-24 17:45:38|food food food!|https://i.imgur.com/MQ6fhxb.gifv|thweet_jethuth|False|https://redd.it/ef4jfo|191|0.87|0|13|0|gifs
+eeq1uz|2019-12-23 20:28:17|Bobcat face plant|https://gfycat.com/deepwhisperedinsect|gator426428|False|https://redd.it/eeq1uz|38611|0.94|1|363|0|gifs
+ef70lz|2019-12-24 20:59:06|Santa upped his logistics game|https://media.giphy.com/media/ZcdTLaFm8KWeKDD36D/giphy.gif|stghwk|False|https://redd.it/ef70lz|93|0.8|0|18|0|gifs
+ef7vr9|2019-12-24 22:10:34|Resolved to the down slides...|https://i.imgur.com/rodcpVt.gifv|FletcherLynch|False|https://redd.it/ef7vr9|53|0.85|0|22|0|gifs
+ef2xka|2019-12-24 15:42:51|I made this for my son last year after being inspired by the popular tree ornament.|https://thumbs.gfycat.com/PastTestyBlackfish-size_restricted.gif|Mfsmitty|False|https://redd.it/ef2xka|171|0.85|0|9|0|gifs
+eeorgc|2019-12-23 18:53:23|Something fishy|https://i.imgur.com/Ry76Owt.gifv|WeBrother|False|https://redd.it/eeorgc|21438|0.93|1|228|0|gifs
+ef5fgh|2019-12-24 18:53:18|poor dog was born without brakes|https://i.imgur.com/js9T3q3.gifv|drink_or_die|False|https://redd.it/ef5fgh|73|0.82|0|5|0|gifs
+eeux0j|2019-12-24 02:44:09|Jabu the elephant out for a stroll sporting his leg brace|https://gfycat.com/nastydistantatlasmoth|I_Am_Err00r|False|https://redd.it/eeux0j|1160|0.96|0|28|0|gifs
+eemr0q|2019-12-23 16:27:52|Cat helping out their little friend|https://gfycat.com/jovialclearcutasiaticgreaterfreshwaterclam|unnaturalorder|False|https://redd.it/eemr0q|10471|0.95|1|195|0|gifs
+ef1vn4|2019-12-24 14:16:30|Mermaid resin cube|https://i.imgur.com/GI1xZih.gifv|emily3289|False|https://redd.it/ef1vn4|99|0.84|0|9|0|gifs
+ef0ray|2019-12-24 12:28:11|Merry Christmas! 🛳️|https://gfycat.com/tastycorrupthagfish|mil3z|False|https://redd.it/ef0ray|134|0.86|0|11|0|gifs
+eewk7s|2019-12-24 05:01:16|The Look of Determination|https://gfycat.com/spitefulspotlessfireant|Zokon|False|https://redd.it/eewk7s|514|0.86|0|39|0|gifs
+ef7cx6|2019-12-24 21:27:37|Hermit crab shell swap. My kids needed proof of its gross worm butt.|https://i.redd.it/r3eixc7tfn641.gif|wutangwingchun|False|https://redd.it/ef7cx6|22|0.74|0|9|0|gifs
+eezvjd|2019-12-24 10:48:27|The exercise|https://i.redd.it/ydgv3uxr9k641.gif|ApXv|False|https://redd.it/eezvjd|127|0.74|0|10|0|gifs
+ef0ghd|2019-12-24 11:55:29|Close Call|https://i.redd.it/bce1kvyklk641.gif|Ness_69|False|https://redd.it/ef0ghd|103|0.79|0|7|0|gifs
+ef7ll9|2019-12-24 21:47:19|Pufferfish eating a carrot 128px|https://i.redd.it/jwmhj6dlym641.gif|TRIPSLORD|False|https://redd.it/ef7ll9|8|0.54|0|6|0|gifs
+eehull|2019-12-23 08:24:27|Best Friends|https://i.redd.it/3ozoax23fc641.gif|Ness_69|False|https://redd.it/eehull|39348|0.95|1|212|0|gifs
+eewl7e|2019-12-24 05:03:30|Charming.|https://gfycat.com/healthysilentindochinahogdeer|najam9849|False|https://redd.it/eewl7e|179|0.85|0|9|0|gifs
+eekykd|2019-12-23 14:01:52|Once a year she comes out to wish you a Merry Christmas|http://i.imgur.com/7HEzECP.gifv|PlastidePanda|False|https://redd.it/eekykd|2900|0.94|0|28|0|gifs
+eekeuw|2019-12-23 13:09:00|Giannis Antetokounmpo giving away his game shoes to a fan|https://gfycat.com/arcticsinfulaustraliancattledog|Sumit316|False|https://redd.it/eekeuw|3420|0.94|0|179|0|gifs

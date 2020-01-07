@@ -1,0 +1,560 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+ef4p2y|2019-12-24 17:57:30|EarthPorn Best of 2019 Awards - Nomination Thread|"Hey everyone, thanks for reading and being a member of EarthPorn.
+
+Since it's December reddit is getting ready to celebrate the New Year by awarding the best content from 2019. [You can read about it over in /r/bestof2019](https://www.reddit.com/r/bestof2019/comments/e9u7pz/its_time_to_kick_off_the_best_of_awards_for_2019/).
+
+---
+
+Last year we picked geographical locations for the categories, you can find the awards post [here](https://www.reddit.com/r/EarthPorn/comments/ae34is/earthporn_best_of_2018_awards_thread/). This year we thought we'd let ourselves get inspired by biomes! (Note that not all of them will be defined biomes by biologists, and we dont claim so either.) **Bear in mind that the submission needs to have been made to /r/EarthPorn during the year of 2019.** Nominate your favourite submissions by providing a link to the thread on EarthPorn in the comments below (under the appropriate category please.) With that in mind here are the categories.
+
+---
+
+# Categories
+
+* Beach (tropical island, but also rougher beaches like in Iceland)
+* Coniferous Forest
+* Deciduous Forest
+* Tropical Forest / Jungle
+* Desert / High Plateaus
+* Grasslands
+* Lake
+* Mountain
+* Tundra / Taiga
+* Best Non-OC Contributor
+
+---
+
+*How voting will work:*
+
+This thread will be set to contest mode. This means that all comments will be sorted randomly and no scores will be displayed. There will be top level comments containing the categories only, and one for general discussion, all others will be removed. **DO NOT LEAVE COMMENT REPLIES TO NOMINATIONS**
+
+Please reply to the **top level comment under the category with appropriate links for your nomination**. Please only nominate a submission once *per* category. If you see the one you wanted to add please upvote it (this is how you vote on each category). At the end we will check all the vote numbers to determine the winner in each category.
+
+**You may only nominate submissions made in 2019.**
+
+**Voting will last until January 20, 2020.**
+
+---
+
+*How to find something to nominate*
+
+You can nominate your own submissions or someone else's. A good starting point would be the top posts from 2019. Note that some of the previews suggest the post was deleted, but if you click through most of them do exist.
+
+* [Entire Year](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1546297200&end=1577746800&size=1000)
+* [January](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1546297200&end=1548975600&size=100)
+* [February](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1548975600&end=1551394800&size=100)
+* [March](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1551394800&end=1554069600&size=100)
+* [April](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1554069600&end=1556661600&size=100)
+* [May](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1556661600&end=1559340000&size=100)
+* [June](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1559340000&end=1561932000&size=100)
+* [July](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1561932000&end=1564610400&size=100)
+* [August](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1564610400&end=1567288800&size=100)
+* [September](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1567288800&end=1569880800&size=100)
+* [October](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1569880800&end=1572562800&size=100)
+* [November](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1572562800&end=1575154800&size=100)
+* [December](https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=earthporn&searchtype=posts&search=true&start=1575154800&end=1577833200&size=100)
+
+---
+
+The winners of each category will take home [coins as awarded to each subreddit from the admins.](https://www.reddit.com/r/bestof2019/comments/e9u7zt/moderators_request_your_coins/) **Each winner will receive 4,000 coins good for 2+ months of reddit platinum.**
+
+Thanks again for reading and good luck everyone!"|t0asti|False|https://redd.it/ef4p2y|48|0.91|0|50|1|earthporn
+ekv4eh|2020-01-06 14:53:19|Views like this are just one of the benefits to backpacking in the North Cascade (OC) [1335x2000] @ross_schram|https://i.redd.it/mf8gxm0a96941.jpg|debuggerfly|False|https://redd.it/ekv4eh|1628|0.99|0|16|0|earthporn
+eknjw9|2020-01-06 02:45:29|Catching morning light in Brookings, OR [OC][2458x3072] IG- Andrew_Calder|https://i.redd.it/njhnk8cgn2941.jpg|Andrew_Calder|False|https://redd.it/eknjw9|19099|0.98|0|114|0|earthporn
+ekq5dj|2020-01-06 06:33:18|The majestic Na’Pali Cost of Kauai [3180x3976] [OC]|https://i.redd.it/rru82ux2s3941.jpg|bhishman|False|https://redd.it/ekq5dj|4023|0.99|0|32|0|earthporn
+ekso0z|2020-01-06 11:03:26|A little pity please for this lonely tree! (Canada - Vancouver) [1963 x 1105][OC]|https://i.redd.it/eqv9n0w545941.jpg|inkvine83|False|https://redd.it/ekso0z|1043|0.98|0|38|0|earthporn
+eku4kj|2020-01-06 13:26:34|Nothing better than the first light of sunrise after hiking through the dark, North Jeolla Province, South Korea [OC] [2048x1326]|https://i.redd.it/6i6lwhxht5941.jpg|NathanielMerz|False|https://redd.it/eku4kj|629|0.99|0|6|0|earthporn
+ekvwp3|2020-01-06 15:53:57|East Texas Swamps [OC][2048x1365]|https://i.redd.it/s9ot2vtzj6941.jpg|brianwlackey|False|https://redd.it/ekvwp3|263|1.0|0|17|0|earthporn
+ekivo3|2020-01-05 20:49:15|Sunrise and full moonset in the Tetons in October late fall. (875x1081) [OC]|https://i.redd.it/cr7urmhwv0941.jpg|1_naturephoto|False|https://redd.it/ekivo3|18575|0.98|0|110|0|earthporn
+eku0yc|2020-01-06 13:16:55|Navajo Land, Arizona (6000x4000) OC|https://i.imgur.com/jBsWzOo.jpg|Outofasuitcase|False|https://redd.it/eku0yc|334|0.99|0|2|0|earthporn
+ekr5ie|2020-01-06 08:17:53|White Sands National Park felt as though I was looking out over a vast white sea [OC][1334x1334]|https://i.redd.it/70rf0xira4941.jpg|navidj|False|https://redd.it/ekr5ie|643|0.99|0|9|0|earthporn
+ekupel|2020-01-06 14:18:26|Quepos, Costa Rica [4032X3024] [OC]|https://i.redd.it/ylqkbeby26941.jpg|lkb1kinase|False|https://redd.it/ekupel|189|0.99|0|3|0|earthporn
+ekgc44|2020-01-05 17:51:47|Waterfall near Flam, Norway [OC] 2992x4222|https://i.redd.it/5xtf5wonzz841.jpg|iam-trashbitch|False|https://redd.it/ekgc44|14748|0.98|0|93|0|earthporn
+ekti2c|2020-01-06 12:26:39|Plitvice Lakes National Park, Croatia [4032x3024] [OC]|https://i.redd.it/ecdmzn45j5941.jpg|Amochator_|False|https://redd.it/ekti2c|196|0.98|0|3|0|earthporn
+ekjsx1|2020-01-05 22:07:36|Finally made the trip down to Natural Bridges in Brookings, Oregon [OC] [4032 x 3024]|https://i.redd.it/egnkjikv91941.jpg|hcjacobs10|False|https://redd.it/ekjsx1|2965|0.99|1|21|0|earthporn
+ekh0sg|2020-01-05 18:40:27|Aerial view of Downpatrick Head, Mayo, Ireland [OC] 3455x4319|https://i.redd.it/k085iwiw80941.jpg|GaryCPhoto|False|https://redd.it/ekh0sg|6511|0.99|0|49|0|earthporn
+ekvjqp|2020-01-06 15:26:30|Forest fog France [OC] [3072x6080]|https://i.redd.it/9n2k7oq4f6941.jpg|peter-bone|False|https://redd.it/ekvjqp|100|0.97|0|0|0|earthporn
+eksbae|2020-01-06 10:25:22|Beautiful Stream at Waiorongomai Valley, New Zealand [OC] [4032x3024]|https://i.redd.it/kzes9quhx4941.jpg|blueskux24|False|https://redd.it/eksbae|233|0.99|0|1|0|earthporn
+ekv90j|2020-01-06 15:03:32|Sea ​​eye, Zakopane, PL [1366x611] [OC]|https://i.redd.it/w68s6bsla6941.jpg|buki1991|False|https://redd.it/ekv90j|81|0.94|0|1|0|earthporn
+eklita|2020-01-06 00:10:06|Burlington, Newfoundland, Canada. 3056x4592 [OC]|https://i.redd.it/2nd2kv9qv1941.jpg|bootlegbillyboot|False|https://redd.it/eklita|1154|0.99|0|32|0|earthporn
+ekrcd5|2020-01-06 08:38:28|Mount Hood, Oregon [OC][3120x4160]|https://i.redd.it/49mch5pee4941.jpg|wilywarewolf|False|https://redd.it/ekrcd5|204|0.97|0|4|0|earthporn
+ekvrgf|2020-01-06 15:43:08|You would never expect to find this kind of landscape in Belgium [1200x800][OC]|https://i.redd.it/lmli2da3i6941.jpg|Aliaume|False|https://redd.it/ekvrgf|54|0.99|0|1|0|earthporn
+ekc5ig|2020-01-05 11:59:12|Random unnamed mountain on a hiking trail during a moody afternoon in Kyrgyzstan (1281x1920)[OC]|https://i.redd.it/d3jbpqz49y841.jpg|cryptodesign|False|https://redd.it/ekc5ig|20685|0.97|0|166|0|earthporn
+ekszgp|2020-01-06 11:36:11|The Dolomites [5000 x 2230] [OC]|https://i.redd.it/fcha1e74a5941.jpg|Atellani|False|https://redd.it/ekszgp|96|0.95|0|5|0|earthporn
+ekt7mb|2020-01-06 11:59:23|Mikro Papigo, Greece [OC] [4560 × 3648]|https://i.redd.it/crjxo7d8e5941.jpg|chrisburrc|False|https://redd.it/ekt7mb|85|0.96|0|2|0|earthporn
+eksoeq|2020-01-06 11:04:30|Hundafoss, Iceland [3000x2000][OC]|https://i.redd.it/cpmp91zg45941.jpg|wildplanetblog|False|https://redd.it/eksoeq|94|0.97|0|1|0|earthporn
+eklwva|2020-01-06 00:38:58|Yosemite National Park [OC] [2048x1263]|https://i.redd.it/dh8u85he02941.jpg|evverg|False|https://redd.it/eklwva|619|0.99|0|8|0|earthporn
+ekvdiy|2020-01-06 15:13:04|Jewel Pass, Alberta - [OC][4000x6000]|https://i.redd.it/kiyb54ksc6941.jpg|hmack87|False|https://redd.it/ekvdiy|44|0.94|0|0|0|earthporn
+ekmlh1|2020-01-06 01:30:58|Milford Sound, New Zealand [OC] 3912x2934|https://i.redd.it/oc254caj22941.jpg|jonimius|False|https://redd.it/ekmlh1|498|0.98|0|6|0|earthporn
+ekqxj5|2020-01-06 07:54:11|Mazunte, Oaxaca. (2436x1125)[OC]|https://i.redd.it/i33r2v8j64941.jpg|linzer815|False|https://redd.it/ekqxj5|147|0.97|0|5|0|earthporn
+ekt7dv|2020-01-06 11:58:45|Vikos, Greece [OC] [4560 × 3648]|https://i.redd.it/qy3612v1e5941.jpg|chrisburrc|False|https://redd.it/ekt7dv|64|0.92|0|1|0|earthporn
+ekwjub|2020-01-06 16:41:59|Mount Rainier from the Clearwater Wilderness, WA [OC][4000x6000]|https://i.redd.it/9z9dea9ps6941.jpg|papageorgio120|False|https://redd.it/ekwjub|29|0.95|0|1|0|earthporn
+ekn27z|2020-01-06 02:07:05|Turret Arch through North Window Arch, Arches NP, Utah [OC] [4000x2668]|https://i.redd.it/myp4xgpkg2941.jpg|Rob_Phillips_Photo|False|https://redd.it/ekn27z|372|0.98|0|8|0|earthporn
+ekoqot|2020-01-06 04:23:17|Hanging Lake Valley CO (4032x3024) [OC]|https://i.redd.it/1dxbpwrv43941.jpg|henhooks|False|https://redd.it/ekoqot|243|0.97|0|5|0|earthporn
+ekv0se|2020-01-06 14:44:58|The Canadian Rockies from Banff National Park, Alberta [5996x4002] [OC]|https://i.redd.it/e8fraazf06941.jpg|michaeljkchoi|False|https://redd.it/ekv0se|37|0.86|0|0|0|earthporn
+eksqt5|2020-01-06 11:11:19|Taken along the Schynige Platte hike in Switzerland [4593 x 5692] [OC]|https://i.redd.it/nn95dp6a55941.jpg|chaka160|False|https://redd.it/eksqt5|64|0.92|0|1|0|earthporn
+eked5o|2020-01-05 15:29:15|The peak of Chile’s Torre Monzino [OC][4096x4096]|https://i.redd.it/51qmokrsaz841.jpg|MrMotherBoy|False|https://redd.it/eked5o|2535|0.99|0|20|0|earthporn
+eksp7f|2020-01-06 11:06:49|Loch Lomand Scotland - reflection of sky [2759 X 3391] [OC]|https://i.redd.it/dtexrwjw45941.jpg|Scotland1297|False|https://redd.it/eksp7f|60|0.91|0|8|0|earthporn
+ekuz1v|2020-01-06 14:41:07|Beginnings of a new dune in Death Valley National Park, CA [OC][4055x5406]|https://i.redd.it/f46uxr8x66941.jpg|larmbruster|False|https://redd.it/ekuz1v|31|0.86|0|0|0|earthporn
+ekim5r|2020-01-05 20:31:02|One of the many beautiful coastlines of the Faroe Islands [OC] [2992x3992] IG: dom_reardon_photo|https://i.redd.it/97bvp2ewr0941.jpg|DomCraggoo|False|https://redd.it/ekim5r|813|0.98|0|6|0|earthporn
+ekh6b4|2020-01-05 18:51:13|Denali National Park, Alaska [OC] [2000x3556] Insta@ericm888|https://i.redd.it/7ov23sbma0941.jpg|mydune|False|https://redd.it/ekh6b4|1086|0.99|0|11|0|earthporn
+ekrl9z|2020-01-06 09:06:09|My last sunset in the Grand Canyon after rafting down the Colorado River for a month. [7325 x 4547] [OC]|https://i.redd.it/94mcb4oii4941.jpg|theclimate|False|https://redd.it/ekrl9z|72|0.96|0|1|0|earthporn
+ekv7ok|2020-01-06 15:00:44|Iceland - Gullfos (unedited) [OC] (4608 x 2184)|https://i.redd.it/crtofmsma6941.jpg|lexievv|False|https://redd.it/ekv7ok|25|0.89|0|0|0|earthporn
+ekraji|2020-01-06 08:33:09|Mt. Hood and the Cascade Range, Oregon [OC] [4032x3024]|https://i.redd.it/uamhh4fhd4941.jpg|n55_6mt|False|https://redd.it/ekraji|74|0.94|0|0|0|earthporn
+ekr9sh|2020-01-06 08:30:59|Majestic cloud view from the top of Triglav (2.864m), Slovenia [OC] [4000x5000] IG - JonasTogo|https://i.redd.it/vpfhesfpc4941.jpg|jonastogo|False|https://redd.it/ekr9sh|75|0.95|0|2|0|earthporn
+ekwkah|2020-01-06 16:42:47|Mornin Snowshoe, Spray Lakes Alberta, Canada [2400 x 3440] (OC).|https://i.redd.it/qsgze37us6941.jpg|Giantomato|False|https://redd.it/ekwkah|17|0.95|0|0|0|earthporn
+ekpa7i|2020-01-06 05:11:11|Mt Cook, New Zealand, as seen through Hooker Valley. [OC] 2112x4608|https://imgur.com/mWoEPoJ|WhyIDoIt|False|https://redd.it/ekpa7i|129|0.99|0|2|0|earthporn
+ekcftc|2020-01-05 12:30:22|Yellowstone is paradise, except for that whole super volcano thing, Hayden Valley, Yellowstone [OC] [3000x1500]|https://i.redd.it/mqswgo3ney841.jpg|NathanielMerz|False|https://redd.it/ekcftc|3088|0.98|1|28|0|earthporn
+eksni5|2020-01-06 11:01:56|Iceland 🇮🇸 Highlands at 5 am in July 2019 [2183x2088] [OC] IG: glacionaut|https://i.redd.it/pj1ek83145941.jpg|jay_march_|False|https://redd.it/eksni5|45|0.88|0|0|0|earthporn
+ekj90f|2020-01-05 21:20:20|Denali National Park, Alaska - Afternoon with Alpenglow @ -32°F [3456x5184] OC|https://i.redd.it/vt7p02e011941.jpg|chloroformaurora|False|https://redd.it/ekj90f|540|0.98|0|6|0|earthporn
+ekwr94|2020-01-06 16:56:27|Sunrises over monument valley. The sun breaking the horizon behind the famous monument gave way to amazing sun streaks that lit up the land just perfectly. (5408x3600) [OC]|https://i.redd.it/imdkhfv9v6941.jpg|1_naturephoto|False|https://redd.it/ekwr94|14|0.89|0|1|0|earthporn
+eko2zq|2020-01-06 03:28:01|Sunrise amidst misty mountains in Karnataka, India (3264 × 1836) [OC]|https://i.redd.it/mg4ad8rpu2941.jpg|rabbit_collar|False|https://redd.it/eko2zq|151|0.99|0|6|0|earthporn
+ekozmf|2020-01-06 04:44:55|Lena Lake Olympic National Forest, WA [OC] [1125x2436]|https://i.redd.it/etfuxhnr83941.jpg|Rottenbeef52|False|https://redd.it/ekozmf|116|0.97|0|2|0|earthporn
+ekwtl4|2020-01-06 17:01:01|Woke up at 2am to hike 3 miles and see the sunrise hit the torres towers in Torres del Paine, Chile [OC] [1365x2048]|https://i.redd.it/l1bgspxtv6941.jpg|Rememberbhn|False|https://redd.it/ekwtl4|13|0.94|0|0|0|earthporn
+ekwujk|2020-01-06 17:02:46|Alpenglow in Banff National Park @switchbackimages [OC] [3648x4560]|https://i.redd.it/66d7c6xdw6941.jpg|TravelingTJ|False|https://redd.it/ekwujk|12|0.93|0|0|0|earthporn
+ekk664|2020-01-05 22:33:33|Alberta Falls in Rocky Mountain National Park, Colorado [3276x4096] [OC]|https://i.redd.it/f91bios4e1941.jpg|horrorscoper|False|https://redd.it/ekk664|321|0.97|0|1|0|earthporn
+ekkkbv|2020-01-05 23:00:58|12 Apostles along the Great Ocean Road in Victoria, Australia [OC] 4032x3024|https://i.redd.it/27ape6zaj1941.jpg|skyonfirephotos|False|https://redd.it/ekkkbv|279|0.98|0|3|0|earthporn
+ektz46|2020-01-06 13:12:09|An iceberg that resembles a polar bear, drifting into the ocean. Iceland (6633X4422)|https://i.imgur.com/GdyxHs6.jpg|Denversmostwanted|False|https://redd.it/ektz46|21|0.86|0|2|0|earthporn
+ekurnm|2020-01-06 14:23:39|Prismas basalticos, Hidalgo MX [OC][2048x1536] @NewJersey2020|https://i.redd.it/b5bmuh0x36941.jpg|NewJersey2020|False|https://redd.it/ekurnm|17|0.88|0|0|0|earthporn
+ekvw4q|2020-01-06 15:52:44|After Rice Harvest in Taitung, Taiwan. (2736 × 1824) [OC]|https://i.redd.it/vg43m7ioj6941.jpg|manaluuu|False|https://redd.it/ekvw4q|14|0.88|0|0|0|earthporn
+eki2id|2020-01-05 19:53:28|May your evening be as beautiful as this, From my solo trip to GOA, INDIA (OC) [4160x3120]|https://i.redd.it/30you23yl0941.jpg|ColdLavaCake|False|https://redd.it/eki2id|466|0.96|0|11|0|earthporn
+ekl0fl|2020-01-05 23:32:37|Waterfalls on a windy, rainy day at Milford Sound, NZ [4545 x 2773] [OC]|https://i.redd.it/3gcwwfcqo1941.jpg|fizzymagic|False|https://redd.it/ekl0fl|223|0.98|0|2|0|earthporn
+eklu6p|2020-01-06 00:33:29|Blue Hen Falls in Cuyahoga Valley National Park, Ohio [OC][1440 x 1137]|https://i.redd.it/qckb5tlvz1941.jpg|Igorius|False|https://redd.it/eklu6p|172|0.98|0|5|0|earthporn
+ekpvak|2020-01-06 06:06:23|Garibaldi Provincial Park, BC, Canada [4000x2646][OC]|https://i.redd.it/nen4pqb7n3941.jpg|whererusteve|False|https://redd.it/ekpvak|61|0.96|0|1|0|earthporn
+eku8l7|2020-01-06 13:37:10|Montserrat mountain range [OC][4032x3024]|https://i.redd.it/e7hybh9hv5941.jpg|GeriBP|False|https://redd.it/eku8l7|14|0.84|0|0|0|earthporn
+ek79gk|2020-01-05 03:21:10|White Sands, NM is absolutely stunning at sunset [OC][2000x1329]|https://i.redd.it/pkq4bxwwov841.jpg|navidj|False|https://redd.it/ek79gk|22828|0.97|2|200|0|earthporn
+ekdt8z|2020-01-05 14:42:20|Bowfiddle Rock, Portnockie, Scotland [OC] - I took this photo just after sunset at the beginning of blue hour last night - what a beautiful place (3603x4804)|https://i.imgur.com/FTLhpMp.jpg|joeflask|False|https://redd.it/ekdt8z|1018|0.98|0|22|0|earthporn
+ekhfvr|2020-01-05 19:09:47|Glen Onoko Falls, Jim Thorpe, PA (4032 x 2268) [OC]|https://i.redd.it/puv4nxk4e0941.jpg|ca1ca|False|https://redd.it/ekhfvr|429|0.98|0|9|0|earthporn
+ekr9ta|2020-01-06 08:31:04|It wouldn't be the north coast of Ireland without a couple of grey clouds. [OC] [4608x3456]|https://i.redd.it/z8wtjjl3d4941.jpg|Cofi365|False|https://redd.it/ekr9ta|38|0.87|0|2|0|earthporn
+ekqmb1|2020-01-06 07:20:15|Valley of Fire, Nevada [3274 × 4092] [OC]|https://i.redd.it/ptds9c3g04941.jpg|pangalactictowel|False|https://redd.it/ekqmb1|44|0.92|0|3|0|earthporn
+ekdvm0|2020-01-05 14:48:08|Cerro Torres through the clouds, Patagonia in Black and White. (1496 x 2048) [OC]|https://i.redd.it/qx1m1y5h3z841.jpg|DevoPast|False|https://redd.it/ekdvm0|900|0.99|0|16|0|earthporn
+ekeng9|2020-01-05 15:51:17|Ancient moss covered stunted oak woodland, Piles Copse Dartmoor UK (OC) (5472 x 3648)|https://i.redd.it/cc6ey3xeez841.jpg|almcdade|False|https://redd.it/ekeng9|710|0.99|0|7|0|earthporn
+eknk4f|2020-01-06 02:46:00|Battleship Rock in Petrified Forest National Park [OC][2268x2268] IG: el_rangerr|https://i.redd.it/brztcmuhn2941.jpg|lethrwawy|False|https://redd.it/eknk4f|89|0.95|0|0|0|earthporn
+ekbp6y|2020-01-05 11:06:27|Icelandic nights {OC} (1500x1000)|https://i.redd.it/s0uk7c6xzx841.jpg|william_patino|False|https://redd.it/ekbp6y|1541|0.99|0|9|0|earthporn
+ekpwsd|2020-01-06 06:10:17|Hoodoos in Bryce Canyon National Park, Utah [OC] [1080x864] IG: @John.Dilag|https://i.redd.it/j27hkpzzn3941.jpg|villain_94|False|https://redd.it/ekpwsd|38|0.91|0|1|0|earthporn
+eklfzf|2020-01-06 00:04:16|Wayag Island, Raja Ampat [OC] [1334 x 750]|https://i.redd.it/qu3nzuhku1941.jpg|englishteacher1212|False|https://redd.it/eklfzf|113|0.99|0|2|0|earthporn
+ekoxca|2020-01-06 04:39:47|Yosemite National Park December 2019 [OC] [6000 x 4000]|https://i.redd.it/ej1t77iu73941.jpg|kittenathiestscience|False|https://redd.it/ekoxca|47|0.92|0|1|0|earthporn
+ekp8xz|2020-01-06 05:08:06|Banff, Canada Mountainrange (4032×2034) [OC]|https://i.redd.it/z1n1e1ewc3941.jpg|LVLupIRL|False|https://redd.it/ekp8xz|42|0.9|0|2|0|earthporn
+ekmppc|2020-01-06 01:39:55|Wallaman Falls, Queensland, Australia [OC] [5665x3777]|https://i.redd.it/kow6pn7qb2941.jpg|HenkBatsbef|False|https://redd.it/ekmppc|73|0.96|0|3|0|earthporn
+eko12l|2020-01-06 03:23:33|Sunset Cliffs Natural Park, San Diego [7016x3563][OC]|https://i.redd.it/iqzxun28u2941.jpg|bob_the_builder12321|False|https://redd.it/eko12l|54|0.91|0|0|0|earthporn
+ekohri|2020-01-06 04:02:31|One Snowy Night, Eagle Mountain, UT [4898x3265] [OC]|https://i.redd.it/t88e9tp613941.jpg|TheFireNation42|False|https://redd.it/ekohri|38|0.92|0|3|0|earthporn
+eko91l|2020-01-06 03:41:39|Snowy hike to Dream Lake, Rocky Mountain National Park, CO [OC][4032x3024]|https://i.redd.it/7ie0g2kex2941.jpg|crsn00|False|https://redd.it/eko91l|46|0.92|0|0|0|earthporn
+ekntpu|2020-01-06 03:07:16|Rocky Mountain National Park, CO [OC] [4032x2266]|https://i.imgur.com/m0yyJbs.jpg|slothierthanyou|False|https://redd.it/ekntpu|48|0.93|0|0|0|earthporn
+ekpqmd|2020-01-06 05:53:57|Outside Socorro, NM, USA [4608x3456], [OC ]|https://i.redd.it/b2pvkbtwk3941.jpg|cactuscat78|False|https://redd.it/ekpqmd|28|0.83|0|2|0|earthporn
+ekp0vc|2020-01-06 04:48:03|Laguna Atravesada, Patagonia, Argentina. Over 2000 meters high (5632x4224) [OC]|https://i.redd.it/2f06mqb993941.jpg|ZhestkayaRuka|False|https://redd.it/ekp0vc|33|0.88|0|0|0|earthporn
+ekl5qm|2020-01-05 23:43:28|Raja Ampat [1334 x 750] [OC]|https://i.redd.it/epceapevq1941.jpg|englishteacher1212|False|https://redd.it/ekl5qm|86|0.97|0|1|0|earthporn
+ekgn1q|2020-01-05 18:13:13|Mt Rainier lightly snow capped [oc] 2932x4388|https://i.redd.it/aptdwy1240941.jpg|hvactoolreview|False|https://redd.it/ekgn1q|225|0.99|0|0|0|earthporn
+ekjzfs|2020-01-05 22:20:34|Sunrise at Würzjoch, Italy [OC][1670x1114] IG: @holysh0t|https://i.redd.it/eyddfez4c1941.jpg|holy-shot|False|https://redd.it/ekjzfs|108|0.98|0|3|0|earthporn
+ekk35t|2020-01-05 22:27:51|A frozen waterfall near Hirschegg, Austria [3332x4899] [OC]|https://i.redd.it/93dl4kjhd1941.jpg|titaalik|False|https://redd.it/ekk35t|106|0.98|0|2|0|earthporn
+ekh85r|2020-01-05 18:54:54|Something is afoot in Mordor. Dolomites, Italy [OC][2000x1335]|https://i.redd.it/rf48m5x250941.jpg|DBElephant|False|https://redd.it/ekh85r|200|0.97|0|6|0|earthporn
+ekl0he|2020-01-05 23:32:42|Hiking the Tannheim Valley, Austria. [OC] [2160x3840]|https://i.redd.it/5bz6ya82p1941.jpg|Saftschubbse|False|https://redd.it/ekl0he|77|0.97|0|1|0|earthporn
+eks0zd|2020-01-06 09:54:22|Khaliya Top, Munsyari, Uttarakhand, India. [OC] (1280x960)|https://i.redd.it/ed0ss5yyr4941.jpg|DrKau20|False|https://redd.it/eks0zd|11|0.87|0|0|0|earthporn
+ekowls|2020-01-06 04:38:00|Great Smoky Mountains National Park living up to its name [OC] (2800x2000)|https://i.redd.it/7x33zplg73941.jpg|JaronChurchwell|False|https://redd.it/ekowls|28|0.92|0|0|0|earthporn
+ekrq19|2020-01-06 09:20:43|Grampians National Park, Victoria, Australia (5185x3456) [OC]|https://i.redd.it/9o34vq3jl4941.jpg|mrmorumotto|False|https://redd.it/ekrq19|12|0.82|0|1|0|earthporn
+ekoddh|2020-01-06 03:51:17|Winter sunset at The Great Salt Lake [3000 x 1396] [OC] IG @JustinMPoe|https://i.redd.it/23c9y9t3z2941.jpg|JustinPoe|False|https://redd.it/ekoddh|33|0.93|0|1|0|earthporn
+ekhsl0|2020-01-05 19:34:40|Eshaness, Shetland - LooKinG dOwN over the stormy Atlantic in the Shetland Islands [OC] (2960x3947)|https://i.imgur.com/DYkTOXR.jpg|joeflask|False|https://redd.it/ekhsl0|136|0.98|0|2|0|earthporn
+ekm7hl|2020-01-06 01:01:17|Wissahickon Valley Park, PA [OC] [2436x1125]|https://i.redd.it/4zyb7m7v42941.jpg|araudabaugh|False|https://redd.it/ekm7hl|47|0.93|0|2|0|earthporn
+ekq85q|2020-01-06 06:40:55|Beautiful Botanical Beach - Victoria, B.C, Canada [resolution: 960x540] [OC]|https://i.redd.it/ef5sqeqgt3941.jpg|bananalobbybullshizz|False|https://redd.it/ekq85q|17|0.84|0|0|0|earthporn
+ekky21|2020-01-05 23:27:51|"Grand Prismatic Springs Yellowstone National Park|OC|Res: 4032 x 2236"|https://i.redd.it/6rkclie6o1941.jpg|Frankyisawerewolf|False|https://redd.it/ekky21|58|0.94|0|0|0|earthporn
+ekkq0s|2020-01-05 23:11:54|I had a wonderful hiking trip with a beautiful sunset, agree? IG: Farbik [OC], Palatinate Forest, [3936x5916]|https://i.redd.it/8ip8k2bcl1941.jpg|farbikphotography|False|https://redd.it/ekkq0s|63|0.92|0|0|0|earthporn
+ekk1op|2020-01-05 22:25:04|Sunset in the German Alps [5784x3409] [OC]|https://i.redd.it/tcoty3uzc1941.jpg|titaalik|False|https://redd.it/ekk1op|64|0.95|0|4|0|earthporn
+ekiem7|2020-01-05 20:16:31|Fire Wave, Valley of Fire, NV [3619 × 4524] [oc]|https://i.redd.it/mvns3ys0q0941.jpg|pangalactictowel|False|https://redd.it/ekiem7|86|0.97|0|3|0|earthporn
+eklbv3|2020-01-05 23:55:29|Snowdonia, Wales 6016x4016 [OC]|https://i.redd.it/p6evrrf4t1941.jpg|Inmyprime-|False|https://redd.it/eklbv3|42|0.93|0|1|0|earthporn
+ekl36e|2020-01-05 23:38:16|Lake Galena at Peace Valley Park PA (1792x828)[OC]|https://i.redd.it/jc9ve2o1q1941.jpg|bubbybeno|False|https://redd.it/ekl36e|44|0.91|0|4|0|earthporn
+ekj14w|2020-01-05 21:00:05|Malibu sure does know how to make a night one of the best I've seen... ever. [OC] [3616x5403] Malibu, California|https://i.redd.it/fnh6sdkfx0941.jpg|ituohy|False|https://redd.it/ekj14w|68|0.94|0|2|0|earthporn
+ekhe2g|2020-01-05 19:06:15|One of the most underrated waterfall in Oregon [OC] [4000x6016]|https://i.redd.it/ju3zusz4d0941.jpg|OPBRO|False|https://redd.it/ekhe2g|92|0.94|0|3|0|earthporn
+ekohp3|2020-01-06 04:02:22|Northern California [OC] [2160x2160]|https://i.redd.it/kfykgm6613941.jpg|embracetherun|False|https://redd.it/ekohp3|18|0.84|0|0|0|earthporn
+eko5ms|2020-01-06 03:33:41|Amongst the pines. Mississippi River regional Park. [OC] [6000X4000]|https://i.redd.it/d44itl50w2941.jpg|Gardingphotograph|False|https://redd.it/eko5ms|17|0.82|0|1|0|earthporn
+ek4zlo|2020-01-05 00:14:07|Sunset at the Cliffs of Moher, County Clare, Ireland [OC] 4472x5590|https://i.redd.it/l8754vijru841.jpg|GaryCPhoto|False|https://redd.it/ek4zlo|2867|0.99|0|37|0|earthporn
+ekgstb|2020-01-05 18:24:33|Elbow Falls, Alberta, Canada (1500x1000)[OC]|https://i.redd.it/3s7nf69360941.jpg|LVLupIRL|False|https://redd.it/ekgstb|87|0.94|0|2|0|earthporn
+ekm432|2020-01-06 00:53:51|Otter Hole Falls, Norvin Green State Forest, NJ [OC] 3406x2553|https://i.redd.it/ulglaxra32941.jpg|coolwubla|False|https://redd.it/ekm432|25|0.86|0|0|0|earthporn
+eklcut|2020-01-05 23:57:34|Cape Town, South Africa [OC] [5120 x 3840]|https://i.redd.it/vwip6d9ht1941.jpg|Anke_qi|False|https://redd.it/eklcut|29|0.88|0|5|0|earthporn
+ekieb0|2020-01-05 20:15:56|Dream lake at Rocky Mountain National Park, Colorado. OC [4032x3024]|https://i.redd.it/hgn9aueyp0941.jpg|wandercravings|False|https://redd.it/ekieb0|53|0.93|0|0|0|earthporn
+ekhsti|2020-01-05 19:35:10|Seattle's Water Supply, Cedar River Watershed - North Bend, WA [OC] [3812x2333]|https://i.imgur.com/uAzEQWc.jpg|ml3000|False|https://redd.it/ekhsti|60|0.93|0|0|0|earthporn
+ekids5|2020-01-05 20:14:54|Amazing view during a Sunday stroll in Braunwald, Glarus, Switzerland [OC] [3200x2136]|https://i.redd.it/aiau65urp0941.jpg|calamansi_love|False|https://redd.it/ekids5|55|0.93|0|0|0|earthporn
+eke9xn|2020-01-05 15:21:55|Joshua Tree, CA [1536x2048] [OC]|https://i.redd.it/1jqy255i9z841.jpg|tacofort|False|https://redd.it/eke9xn|129|0.94|0|8|0|earthporn
+ekkgcd|2020-01-05 22:53:05|From the Ritzlihorn to the Wildgärst in the Swiss Alps [12000 x 3710] [OC]|https://i.redd.it/p1m25n1vh1941.jpg|Atellani|False|https://redd.it/ekkgcd|32|0.85|0|0|0|earthporn
+ekbg89|2020-01-05 10:36:09|Downpatrick Head, County Mayo, Ireland[OC] 6121x4085|https://i.redd.it/5rbvwxqiux841.jpg|GaryCPhoto|False|https://redd.it/ekbg89|291|0.97|0|10|0|earthporn
+ek11do|2020-01-04 19:20:37|Magical scene in Wistman's Wood, Dartmoor, England. [OC] [2160x2160]|https://i.redd.it/bv3eieo4bt841.jpg|ben_fyfe|False|https://redd.it/ek11do|6508|0.99|0|96|0|earthporn
+ejyho0|2020-01-04 16:13:50|A Massive piece of ice as seen from the sky in Greenland (1920x1919)[OC]|https://i.redd.it/x42k3uutds841.jpg|cryptodesign|False|https://redd.it/ejyho0|25662|0.97|1|278|0|earthporn
+ekjpsw|2020-01-05 22:01:04|Fallen rowanberries, hail, and moss [OC][2667x4000]|https://i.redd.it/5uagexfj81941.jpg|pilt|False|https://redd.it/ekjpsw|35|0.87|0|0|0|earthporn
+ekhh76|2020-01-05 19:12:16|Clear Morning Sky at Cerro Pelado, Costa Rica [OC] 4024 x 3024|https://i.redd.it/yeks20ele0941.jpg|Sebas181|False|https://redd.it/ekhh76|52|0.89|0|3|0|earthporn
+ekhi0m|2020-01-05 19:13:44|View of Nicoya Gulf from Monteverde, Costa Rica [OC] [4032x1960]|https://i.redd.it/6ekt1e6se0941.jpg|BlackEyeDia|False|https://redd.it/ekhi0m|53|0.9|0|2|0|earthporn
+ekegf5|2020-01-05 15:36:20|A photo of the dead sea shrinking years after year 3992 X 2242 px [OC]|https://i.redd.it/ekpuc28vbz841.jpg|rebeccaminx95|False|https://redd.it/ekegf5|98|0.96|0|14|0|earthporn
+ekgbwo|2020-01-05 17:51:21|On the north coast of Croatia [3024×3024] [OC]|https://i.redd.it/rfk1191500941.jpg|pizzapatana|False|https://redd.it/ekgbwo|66|0.93|0|0|0|earthporn
+ekifu4|2020-01-05 20:18:51|Gold found, ten minutes prior to sunset at Pacific Spirit Park, Vancouver, British Columbia [OC] 2268 x 4032|https://i.redd.it/zlyi88ngq0941.jpg|peteuknz|False|https://redd.it/ekifu4|40|0.87|0|0|0|earthporn
+ekfaj5|2020-01-05 16:38:28|Woodburn Forest, Carrickfergus, Northern Ireland. [5984x3989] (OC)|https://i.redd.it/a4q8t7tvmz841.jpg|AtheistvsGod|False|https://redd.it/ekfaj5|81|0.95|0|2|0|earthporn
+ekfh7l|2020-01-05 16:51:33|Snowfall in Auli, India [OC][4608x2112]|https://i.redd.it/5w6hso9hpz841.jpg|gaurav1911|False|https://redd.it/ekfh7l|73|0.96|0|0|0|earthporn
+ekexbp|2020-01-05 16:11:45|Just a little sunset walk, Nationalpark Donauauen, Austria [OC], [6000x3376]|https://i.redd.it/8g6ntgechz841.jpg|wolfix17|False|https://redd.it/ekexbp|70|0.92|0|1|0|earthporn
+ekdx2p|2020-01-05 14:52:08|Salta, Argentina. [5184x3456] [OC]|https://i.redd.it/pmxjn1254z841.jpg|sandokanok|False|https://redd.it/ekdx2p|84|0.94|0|1|0|earthporn
+ekezfd|2020-01-05 16:16:08|Begin Again, Joshua Tree, California, [OC] [1219X1600]|https://i.redd.it/d1ki6b95jz841.jpg|corboamnesiac|False|https://redd.it/ekezfd|63|0.91|0|1|0|earthporn
+ekdqyb|2020-01-05 14:36:56|Moody morning at Badwater Basin (Death Valley) [OC][2048x1723]|https://i.redd.it/qk8eg0bc1z841.jpg|tmsvdw|False|https://redd.it/ekdqyb|87|0.95|0|3|0|earthporn
+ekgfk8|2020-01-05 17:58:51|Mesquite Flat Sand Dunes, Death Valley, CA [5845x3653] [OC]|https://i.redd.it/yal1rc7o00941.jpg|larmbruster|False|https://redd.it/ekgfk8|50|0.92|0|1|0|earthporn
+ekhrk0|2020-01-05 19:32:43|Yellowstone National Park, Wyoming - Jan 4, 2020 [4320 x 2432] [OC]|https://i.redd.it/kxqro3o4i0941.jpg|whattruck|False|https://redd.it/ekhrk0|33|0.83|0|1|0|earthporn
+ekglel|2020-01-05 18:09:58|Sunset at Big Bend National Park, Texas [OC][1682x2493]|https://i.imgur.com/0LWs3iX.jpg|the0rthopaedicsurgeo|False|https://redd.it/ekglel|43|0.89|0|1|0|earthporn
+ekeab1|2020-01-05 15:22:46|Aberglaslyn, Snowdonia, Wales [OC] [4023x2268]|https://i.redd.it/8ao8wu7n9z841.jpg|chewbaccafangirl|False|https://redd.it/ekeab1|60|0.92|0|1|0|earthporn
+ekdtzo|2020-01-05 14:44:08|Nudey Beach, Fitzroy Island, Queensland, AU [OC][2606x6128]|https://i.redd.it/2k02x3so2z841.jpg|thebigpotatoe1|False|https://redd.it/ekdtzo|67|0.91|0|4|0|earthporn
+ek42dd|2020-01-04 23:03:00|Frozen Waterfall Hanging Lake CO (4032x3024)[OC]|https://i.redd.it/6lzyn3wteu841.jpg|henhooks|False|https://redd.it/ek42dd|1214|0.99|0|12|0|earthporn
+ekhs53|2020-01-05 19:33:51|Yellowstone National Park, Wyoming - Jan 4, 2020 [4320 x 2432] [OC]|https://i.redd.it/sdi1172ci0941.jpg|whattruck|False|https://redd.it/ekhs53|25|0.88|0|6|0|earthporn
+ekc4wf|2020-01-05 11:57:17|Folgefonnaglacier in Southern Norway 🇳🇴 [OC] [2235x1932] IG: glacionaut|https://i.redd.it/zcidewrz8y841.jpg|jay_march_|False|https://redd.it/ekc4wf|104|0.96|0|1|0|earthporn
+ekeiho|2020-01-05 15:40:47|Winter sunset, Switzerland [OC] 3968x2976|https://i.redd.it/zkwo5f8vcz841.jpg|dadka88|False|https://redd.it/ekeiho|49|0.9|0|2|0|earthporn
+ek5qib|2020-01-05 01:14:38|"Dead Man’s Cove Ilwaco, Washington|OC|Res: 3010x4020"|https://i.redd.it/oorluxcb2v841.jpg|Frankyisawerewolf|False|https://redd.it/ek5qib|686|0.98|0|7|0|earthporn
+ekfov9|2020-01-05 17:06:47|Yellowstone Falls from Artist’s Point, Yellowstone National Park [5949x3966] [OC]|https://i.redd.it/qzqr7pj7sz841.jpg|kapalmer9|False|https://redd.it/ekfov9|37|0.91|0|2|0|earthporn
+ekhv8l|2020-01-05 19:39:58|Yellowstone National Park, Wyoming - Dec 22, 2019 [4320 x 2432] [OC]|https://i.redd.it/ia51nqlaj0941.jpg|whattruck|False|https://redd.it/ekhv8l|22|0.85|0|8|0|earthporn
+ek319r|2020-01-04 21:46:03|The Island of Kalsoy, Faroe Islands [OC] [3712x5568] IG: @dom_reardon_photo|https://i.redd.it/iiwq0yuz0u841.jpg|DomCraggoo|False|https://redd.it/ek319r|1275|0.99|0|17|0|earthporn
+ekfgrs|2020-01-05 16:50:44|Lagoa do Fogo - A crater in the Azores (5654x3759) [OC]|https://i.redd.it/ajld5fkzoz841.jpg|03755|False|https://redd.it/ekfgrs|30|0.91|0|0|0|earthporn
+ekeptx|2020-01-05 15:56:17|Judean Desert, Southern District, Israel. [OC] [2722x4096]|https://i.redd.it/i0nq1zomfz841.jpg|chewbaccafangirl|False|https://redd.it/ekeptx|41|0.9|0|0|0|earthporn
+ekfw4m|2020-01-05 17:20:51|In the middle of Austin Texas. [OC] [1920x1080]|https://i.redd.it/i0qf1oepuz841.jpg|nbjmcclellan|False|https://redd.it/ekfw4m|28|0.89|0|3|0|earthporn
+ek6ppo|2020-01-05 02:34:52|Bonneville Salt Flats, Utah (4608x3456) [OC]|https://i.redd.it/7h2khk8ngv841.jpg|okaemykae|False|https://redd.it/ek6ppo|440|0.98|0|3|0|earthporn
+ek8scc|2020-01-05 05:37:03|Rocky Mountain National Park. (3057x4585) [OC]|https://i.redd.it/es2oznk5dw841.jpg|Logana512|False|https://redd.it/ek8scc|252|0.97|0|8|0|earthporn
+ekfgjo|2020-01-05 16:50:17|Pines on a crag. Vosges France [OC] [3968x2976]|https://i.redd.it/codyd589pz841.jpg|peter-bone|False|https://redd.it/ekfgjo|27|0.86|0|0|0|earthporn
+ek7b1t|2020-01-05 03:25:02|"Just outside of Leavenworth, Washington|OC|Res: 4032 x 2268"|https://i.redd.it/7bgxo6zkpv841.jpg|Frankyisawerewolf|False|https://redd.it/ek7b1t|311|0.97|0|13|0|earthporn
+ek7uao|2020-01-05 04:12:37|Zion National Park, UT in January. [4032 x 3024] [OC]|https://i.redd.it/88jexul2yv841.jpg|Sela71442|False|https://redd.it/ek7uao|256|0.98|0|4|0|earthporn
+ekdtf1|2020-01-05 14:42:39|Shawangunks, New York [oc][2400x1600]|https://i.redd.it/b19vxavh2z841.jpg|adam17th|False|https://redd.it/ekdtf1|35|0.88|0|0|0|earthporn
+ekdzjs|2020-01-05 14:58:15|Pallas fells in Muonio, Finland [OC] [1080x1922]|https://i.redd.it/j7rpotzz4z841.jpg|eippo|False|https://redd.it/ekdzjs|33|0.91|0|0|0|earthporn
+ekeio2|2020-01-05 15:41:08|Centralia Washington [OC] [3024x4032]|https://i.redd.it/cstsi4cxcz841.jpg|theIronheaded|False|https://redd.it/ekeio2|27|0.76|0|1|0|earthporn
+ekcycd|2020-01-05 13:23:14|[OC] Lake Louise Ski Resort in Alberta Canada on Boxing Day. If you look closely, you can see Chateau Lake Louise at the base of the right mountain. 4032 x 2735.|https://i.imgur.com/MGqiOVp.jpg|Charlie_Mack|False|https://redd.it/ekcycd|39|0.88|0|0|0|earthporn
+eju1ah|2020-01-04 08:20:53|First sunrise of 2020 - Mesa Arch - Canyonlands, Utah [3264x2448] [OC]|https://i.redd.it/2j10gzj51q841.jpg|holypythonme|False|https://redd.it/eju1ah|26845|0.96|2|145|0|earthporn
+ekeu81|2020-01-05 16:05:18|Hraunfossar waterfall, Iceland [4898x3265] [OC]|https://imgur.com/4GvQfYb|Nonees|False|https://redd.it/ekeu81|23|0.83|0|0|0|earthporn
+ekmbo1|2020-01-06 01:10:10|Sunset at the Lost Dutchman State Park - Phoenix, AZ [OC] [1364 x 2048]|https://www.flickr.com/photos/jeffreyabong/49306888767/in/dateposted-public/|akiratheoni|False|https://redd.it/ekmbo1|5|0.8|0|1|0|earthporn
+ekfpmi|2020-01-05 17:08:17|Sandia de Christa Mountains, Albuquerque, NM [OC][2048x1536]|https://i.redd.it/6927pqhkqz841.jpg|daveCadaqu|False|https://redd.it/ekfpmi|15|0.86|0|2|0|earthporn
+ekd5pf|2020-01-05 13:42:46|Foggy morning, Sarasota, FL [2048 x 1138] [OC]|https://i.redd.it/n77677xsry841.jpg|MadAdam88|False|https://redd.it/ekd5pf|27|0.88|0|0|0|earthporn
+ekj13o|2020-01-05 21:00:01|The Sonoran desert under snow AZ [OC] 4032x3024|https://i.redd.it/rsfl7rhtx0941.jpg|Ryan_Extra|False|https://redd.it/ekj13o|9|0.79|0|5|0|earthporn
+eka8pc|2020-01-05 08:11:42|The Swiss Alps right before sunset. [OC] [2448 x 3264]|https://i.redd.it/infb1a4k4x841.jpg|PeterCantGetTheJoke|False|https://redd.it/eka8pc|68|0.92|0|1|0|earthporn
+ek1642|2020-01-04 19:30:29|Just before sunrise at Folly Beach, SC [OC] (3960x4950)|https://i.redd.it/5ggox89uct841.jpg|stinsonc|False|https://redd.it/ek1642|672|0.99|0|12|0|earthporn
+ekbhrk|2020-01-05 10:41:32|Midday at Yosemite valley, California [OC] [5979x3986]|https://i.redd.it/oudhwvqgvx841.jpg|yipleonardo|False|https://redd.it/ekbhrk|44|0.98|0|0|0|earthporn
+ejxnw2|2020-01-04 15:05:44|Northern lights over the Tombstone range, Yukon (Canada) [OC][2048x2048]|https://i.redd.it/kfjz9iwn1s841.jpg|tmsvdw|False|https://redd.it/ejxnw2|1543|0.98|0|11|0|earthporn
+ek9cym|2020-01-05 06:33:33|Hallet Peak in Rocky Mountain National Park. never ever get tired of being here. [4102 x 2730] [OC]|https://i.redd.it/7q8vs0xwmw841.jpg|ivorytoasttt4888|False|https://redd.it/ek9cym|73|0.95|0|2|0|earthporn
+ekay8f|2020-01-05 09:36:38|Engulfed by Clouds - Iceland [OC][6000 x 4000]|https://i.redd.it/wkp7hmpfjx841.jpg|GungieBum|False|https://redd.it/ekay8f|38|0.89|0|0|0|earthporn
+ejwvcp|2020-01-04 13:53:01|The end of Glacier Grey in Patagonia [OC][4096x3276]|https://i.redd.it/wwxw0wwnor841.jpg|MrMotherBoy|False|https://redd.it/ejwvcp|1615|0.99|0|7|0|earthporn
+ekbcgw|2020-01-05 10:23:07|Yushan, Taiwan. (OC) (4898x3265)|https://i.redd.it/0l7enwv6sx841.jpg|icemanvr6|False|https://redd.it/ekbcgw|38|0.89|0|0|0|earthporn
+ekc1lt|2020-01-05 11:46:45|Basalt Columns at Reynisfjara Beach, South Iceland [3000x2000][OC]|https://i.redd.it/5xfqwwz37y841.jpg|wildplanetblog|False|https://redd.it/ekc1lt|24|0.9|0|10|0|earthporn
+ek9rzt|2020-01-05 07:19:25|Upper Gardens of The Grotto in Portland, Oregon [OC][2481x4032]|https://i.redd.it/591rfcpevw841.jpg|Puffin_Professor|False|https://redd.it/ek9rzt|56|0.9|0|0|0|earthporn
+ekbmg4|2020-01-05 10:57:23|Mt. Otake just outside Tokyo - autumn or winter? [OC] [3024x4032]|https://i.redd.it/uyqgsdx9yx841.jpg|cambostock|False|https://redd.it/ekbmg4|27|0.91|0|0|0|earthporn
+ek3aaz|2020-01-04 22:04:17|Taken in Jan 2016 near Girdwood, AK. Turnagain Arm [1920×1080] [OC]|https://i.redd.it/bxud6pmd4u841.jpg|K3nFr0st|False|https://redd.it/ek3aaz|281|0.99|0|6|0|earthporn
+ek84lr|2020-01-05 04:37:30|Anza Borrega State Park, CA [OC] [5298x2744]|https://i.redd.it/zp6cmhoh2w841.jpg|brematale111|False|https://redd.it/ek84lr|80|0.96|1|9|0|earthporn
+ek2knf|2020-01-04 21:12:21|"Witch’s Hat|Vasquez Rocks|California|Res:3025x4010"|https://i.redd.it/5kj4pez3vt841.jpg|Frankyisawerewolf|False|https://redd.it/ek2knf|302|0.98|0|10|0|earthporn
+ek9328|2020-01-05 06:05:44|Landscape Arch - Arches National Park, USA (6000x4000) [OC]|https://i.redd.it/6rp6c1d4iw841.jpg|aurloqt|False|https://redd.it/ek9328|58|0.93|0|1|0|earthporn
+ek5x1i|2020-01-05 01:29:12|Winter's silence, South Frontenac, Ontario Canada [3024x4032] (OC)|https://i.redd.it/25fremtu4v841.jpg|lovelyb1ch66|False|https://redd.it/ek5x1i|130|0.98|0|2|0|earthporn
+ek0wme|2020-01-04 19:10:46|Fresh snow falls on Heather Lake - Mount Baker National Forest, Verlot, Washington. [4032x3024] [OC]|https://i.imgur.com/xRKJPsl.jpg|aaronhs|False|https://redd.it/ek0wme|407|0.99|0|6|0|earthporn
+ejx3ib|2020-01-04 14:14:48|Katpana Desert, Skardu - Highest cold desert in the world [1080x1350] [OC]|https://i.redd.it/ux1zchy0sr841.jpg|justanotherzee|False|https://redd.it/ejx3ib|1032|0.98|0|14|0|earthporn
+ekbmd0|2020-01-05 10:57:05|Natural layering in Spain 4000 X 6000 px [OC]|https://i.redd.it/5v92432uux841.jpg|rebeccaminx95|False|https://redd.it/ekbmd0|21|0.87|0|1|0|earthporn
+ek4yzc|2020-01-05 00:12:37|King Valley, Yuma County Arizona - on the south side of the Kofa Mountains. February 2010. [OC] [3738x2284]|https://i.redd.it/tltc2tj2ru841.jpg|OlafIowa|False|https://redd.it/ek4yzc|131|0.99|0|1|0|earthporn
+ek3rkv|2020-01-04 22:40:40|Krimml Waterfalls, Austria [OC][2400x3000]|https://i.redd.it/h4ox04npau841.jpg|ChristophZee|False|https://redd.it/ek3rkv|169|1.0|0|7|0|earthporn
+ek6q7h|2020-01-05 02:35:59|Lake on the other side.. Tabur's Hill, Malaysia [2304x1728] [OC]|https://i.redd.it/p9f10xetgv841.jpg|rasyidredo|False|https://redd.it/ek6q7h|79|0.97|0|2|0|earthporn
+ek6pic|2020-01-05 02:34:20|"Crater Lake near Klamath, Oregon|OC|Res: 3575x15270"|https://i.redd.it/x2zx681igv841.jpg|Frankyisawerewolf|False|https://redd.it/ek6pic|63|0.94|0|2|0|earthporn
+ek0bu8|2020-01-04 18:28:29|Sunset at Solana Beach, CA [OC] [1080x1350]|https://i.redd.it/2chi51gt1t841.jpg|valledweller33|False|https://redd.it/ek0bu8|271|0.98|0|6|0|earthporn
+ek8n5c|2020-01-05 05:23:47|"Mt. Rainier wilderness area in Washington|OC|Res: 4032 x 2268"|https://i.redd.it/yv6h1mwraw841.jpg|Frankyisawerewolf|False|https://redd.it/ek8n5c|35|0.9|0|1|0|earthporn
+ejzky3|2020-01-04 17:35:51|Made a last minute travel detour to the Asturias in northern Spain to hike the Ruta del Cares on a rainy January day. It was well worth the effort. (4000X6000)[OC]|https://i.redd.it/uvdhs419ss841.jpg|Quasargyle|False|https://redd.it/ejzky3|308|0.99|0|2|0|earthporn
+ek9ck5|2020-01-05 06:32:23|Beautiful sunset in Kotdwar [OC] [4608×3456]|https://i.redd.it/urfkh2awmw841.jpg|touseef499|False|https://redd.it/ek9ck5|28|0.88|0|0|0|earthporn
+ek75nv|2020-01-05 03:12:27|Sunset at Horseshoe Bend, AZ. [OC][1080x858]|https://i.redd.it/80x5rjvcnv841.jpg|Diltz89|False|https://redd.it/ek75nv|49|0.88|0|3|0|earthporn
+ek1kqx|2020-01-04 20:00:28|Here’s a picture I took of this gorgeous landscape during ‘hampta pass’ trecking in Manali, Himachal Pradesh, India. [3024×4032] [OC]|https://i.redd.it/b7jnk34ait841.jpg|nixhtha|False|https://redd.it/ek1kqx|182|0.99|0|8|0|earthporn
+ek9hq4|2020-01-05 06:47:42|Near 雪山, China [OC][5184x3456]|https://i.redd.it/ew396h5rpw841.jpg|Asian-Squat|False|https://redd.it/ek9hq4|23|0.91|0|0|0|earthporn
+ejyqjo|2020-01-04 16:32:53|[OC] [3373x2530] Artist Point, Washington|https://i.redd.it/3mrxq4a8hs841.jpg|duvalduplicity|False|https://redd.it/ejyqjo|324|0.99|0|4|0|earthporn
+ek333i|2020-01-04 21:49:33|Oasis in the High Desert, CA [OC] [1080x1620]|https://i.redd.it/qjl6tvfp1u841.jpg|valledweller33|False|https://redd.it/ek333i|118|0.99|0|5|0|earthporn
+ejxnpw|2020-01-04 15:05:23|Wooden Archway. San Juan Island, Washington [4898x3265] [OC]|https://imgur.com/Gx0BAiv|Nonees|False|https://redd.it/ejxnpw|366|0.98|0|2|0|earthporn
+ek6dy9|2020-01-05 02:07:57|Rare sight of a puddle in the midst of the Kings Canyon, Australia after a rainy day. Taken late 2018 [OC] [1080x1080]|https://i.redd.it/1jsw82lubv841.jpg|4l1ster|False|https://redd.it/ek6dy9|45|0.86|0|0|0|earthporn
+ekdwq0|2020-01-05 14:51:17|Sandy Hook Park at Gateway Ntl Recreation Area, NJ [4032x1908] [OC]|https://i.redd.it/dn2n6kd14z841.jpg|screaming_eagle_23|False|https://redd.it/ekdwq0|4|0.67|0|0|0|earthporn
+ek8zpg|2020-01-05 05:56:49|I don't think many people know about Mendoza (Argentina), so here you have a picture of this beautiful mountain desert [4608x3456] [OC]|https://i.redd.it/nm0dtiingw841.jpg|clara__p|False|https://redd.it/ek8zpg|19|0.95|0|1|0|earthporn
+ejkkpi|2020-01-03 19:44:59|Glacier National Park, Montana US, July 2019 [OC] [3200 x 2134 ]|https://i.redd.it/87w7q7pkam841.jpg|C_360|False|https://redd.it/ejkkpi|19482|0.98|0|276|0|earthporn
+ek3kg4|2020-01-04 22:25:28|"Feather Falls near Oroville, CA|OC|Res:3010x4020"|https://i.redd.it/i36gidc58u841.jpg|Frankyisawerewolf|False|https://redd.it/ek3kg4|51|0.93|0|3|0|earthporn
+ejxb8m|2020-01-04 14:35:12|Fairy Pools in Schottland on the Isle of Skye [6000x4000] (OC)|https://i.redd.it/cwj8za2wvr841.jpg|buesivenom|False|https://redd.it/ejxb8m|210|0.99|0|6|0|earthporn
+ek0qtg|2020-01-04 18:59:14|Lenticular clouds above the Harz mountains in Germany (1080x1350) (oc)|https://i.redd.it/6ox5tsjc7t841.jpg|Tristan_100k|False|https://redd.it/ek0qtg|88|0.98|0|1|0|earthporn
+ek1yuu|2020-01-04 20:28:36|A floating Island Palawan, Philippines [4898x3265] [OC]|https://imgur.com/IPhpLVk|Nonees|False|https://redd.it/ek1yuu|65|0.94|0|1|0|earthporn
+ek65zd|2020-01-05 01:49:29|The Platte River. Crane Meadows Wildlife Refuge. [OC] [6000X4000]|https://i.redd.it/hzbn0jpi8v841.jpg|Gardingphotograph|False|https://redd.it/ek65zd|23|0.93|0|0|0|earthporn
+ek58pq|2020-01-05 00:34:13|Tre Cime Di Lavaredo after a thunderstorm, Dolomites - Italy[6016x4016] [OC]|https://i.redd.it/nacdue38uu841.jpg|RicardoFilipe|False|https://redd.it/ek58pq|26|0.9|0|0|0|earthporn
+ek1vo7|2020-01-04 20:22:02|In the Peruvian Andes, Cusco, Peru [OC] [3200x1865]|https://i.redd.it/a4tojvxmlt841.jpg|calamansi_love|False|https://redd.it/ek1vo7|51|0.95|0|0|0|earthporn
+ek23wu|2020-01-04 20:38:47|Yellowstone National Park, Wyoming - Nov 17, 2019 [4089x 2301] [OC]|https://i.redd.it/zmwx1rhyot841.jpg|whattruck|False|https://redd.it/ek23wu|50|0.93|0|4|0|earthporn
+ejnunt|2020-01-03 23:36:33|Here’s a picture I took in the Lake District in the UK while on holiday with my family it’s the reflection in a river flipped I thought it looked pretty cool [1024x1365] [OC]|https://i.redd.it/acby4gdvfn841.jpg|Hazanoid|False|https://redd.it/ejnunt|2448|0.96|0|69|0|earthporn
+ejxqe4|2020-01-04 15:11:41|Takakkaw Falls, British Columbia [OC] [1538 x 2048]|https://i.redd.it/bjmroudr2s841.jpg|Igorius|False|https://redd.it/ejxqe4|117|0.99|0|4|0|earthporn
+ek2962|2020-01-04 20:49:14|"Busey Woods|Champaign, Il|OC|Res:3010x4020"|https://i.redd.it/7ozk6skzqt841.jpg|Frankyisawerewolf|False|https://redd.it/ek2962|39|0.91|0|4|0|earthporn
+ejwa9e|2020-01-04 12:50:43|Desert twilight, Bardenas Reales, Spain [OC] [801x1200]|https://i.redd.it/5yted9pkdr841.jpg|kevin_teerlynck|False|https://redd.it/ejwa9e|168|0.98|0|3|0|earthporn
+ek1gd5|2020-01-04 19:51:21|Fog forest of Madeira without fog [OC][1080x1350] IG: @holysh0t|https://i.redd.it/fewyeo0kgt841.jpg|holy-shot|False|https://redd.it/ek1gd5|42|0.92|0|2|0|earthporn
+ek0bad|2020-01-04 18:27:22|Beautiful afternoon scenes in the French Alps, Val Thorens [4608x3456][OC]|https://i.redd.it/sd5njyqn1t841.jpg|Shakshouk|False|https://redd.it/ek0bad|51|0.94|0|0|0|earthporn
+ek21cg|2020-01-04 20:33:34|Red Rock Canyon Open Space, Colorado [OC] [4000x6000]|https://i.redd.it/i1xv8tq6ot841.jpg|Lucubratrix|False|https://redd.it/ek21cg|31|0.9|0|1|0|earthporn
+ek3f0n|2020-01-04 22:14:02|Incredible view of the Leman lake, Vevey, Switzerland. [OC] [4956x1492]|https://i.redd.it/a9vkmoqb5u841.jpg|Vufur|False|https://redd.it/ek3f0n|26|0.91|0|0|0|earthporn
+ek3w89|2020-01-04 22:50:12|Frozen over stream in Hanging Lake Canyon (4032x3024)[OC]|https://i.redd.it/g76pkk6kcu841.jpg|henhooks|False|https://redd.it/ek3w89|22|0.82|0|0|0|earthporn
+ejo0pq|2020-01-03 23:48:37|Nature's Road; a beautiful riverscape near Palfau, Austria [4160x6240] [OC]|https://i.redd.it/hpqp5bt2in841.jpg|Flubberkoekje|False|https://redd.it/ejo0pq|1512|0.99|0|9|0|earthporn
+ejq1h5|2020-01-04 02:19:21|Winter in Massachusetts, USA [4032x3024] [OC]|https://i.redd.it/22bhdcny8o841.jpg|idxExplorer|False|https://redd.it/ejq1h5|879|0.99|0|18|0|earthporn
+ek3fy5|2020-01-04 22:16:02|"Photo of the ""frozen"" Volga River, taken in Ulyanovsk, Russia [6000x4000] [OC]"|https://i.redd.it/8ti1j5jg6u841.jpg|medii14|False|https://redd.it/ek3fy5|19|0.87|0|0|0|earthporn
+ejxrmx|2020-01-04 15:14:24|Toroweap Overlook, Grand Canyon National Park- ancestral home of the Southern Paiute people. October, 2008.[OC] [3888x2592]|https://i.redd.it/9dwsjz333s841.jpg|OlafIowa|False|https://redd.it/ejxrmx|71|0.93|0|2|0|earthporn
+ek2ub6|2020-01-04 21:32:06|Tahquamenon Falls at sunrise back in August [OC] [5983x3817]|https://i.redd.it/57qan9ejyt841.jpg|DogsCantLookUpp|False|https://redd.it/ek2ub6|21|0.9|0|0|0|earthporn
+ejwyey|2020-01-04 14:01:57|There's more to Glencoe, Scotland, than Buachaille Etive Mòr. [5472 × 3648] [OC]|https://i.redd.it/awndxx6bqr841.jpg|mrtrunin|False|https://redd.it/ejwyey|81|0.97|0|0|0|earthporn
+ejwb1l|2020-01-04 12:53:06|Pai Canyon, Thailand - 3024x4032 [OC]|https://i.redd.it/wrib2is0er841.jpg|TheGuyNextDoor94|False|https://redd.it/ejwb1l|99|0.99|0|2|0|earthporn
+ek1a9n|2020-01-04 19:39:00|Alps, Switzerland [3264x2448] [OC]|https://i.redd.it/h12v0dmget841.jpg|tako7312|False|https://redd.it/ek1a9n|28|0.89|0|0|0|earthporn
+ejtmbx|2020-01-04 07:34:00|Cracker Lake [OC] [1080×1080]|https://i.redd.it/lqvcpw24tp841.jpg|J_e_m_|False|https://redd.it/ejtmbx|251|0.96|0|4|0|earthporn
+ejr0lr|2020-01-04 03:35:54|Flying over the Namibian desert. [OC] [5423x6496]|https://i.redd.it/56kz3438mo841.jpg|Sterendude|False|https://redd.it/ejr0lr|496|0.99|0|17|0|earthporn
+ejw3j7|2020-01-04 12:29:16|The seven Churfirsten peaks as seen from Flumserberg, Switzerland last week [3932x2886] [OC]|https://i.redd.it/y6kzi3yp9r841.jpg|kaphi|False|https://redd.it/ejw3j7|94|0.99|0|5|0|earthporn
+ejepp8|2020-01-03 12:22:10|Quit my job - Time to travel - Fitz Roy from Lago Sucia [1366*2048] [OC]|https://i.redd.it/6lovn43g3k841.jpg|iTransparenTi|False|https://redd.it/ejepp8|23429|0.94|1|499|0|earthporn
+ejvb3j|2020-01-04 10:55:20|Annapurna II & III at dawn [OC] 5807x3699|https://i.redd.it/ohu1g9cqsq841.jpg|HiOnLifeSaran|False|https://redd.it/ejvb3j|115|0.99|0|5|0|earthporn
+ejipw1|2020-01-03 17:37:28|Waterfall tucked away in Oregon's Columbia River Gorge [OC] [4480x5600]|https://i.redd.it/beibh8ttnl841.jpg|camerasncoffee|False|https://redd.it/ejipw1|3062|0.99|0|29|0|earthporn
+ejqm96|2020-01-04 03:04:18|Mist Rising Off A Still Lake One Early Summer Morning, Canadian Rockies, Alberta. [OC] [2760x3456]|https://i.redd.it/7r387f1zgo841.jpg|erikbmx|False|https://redd.it/ejqm96|471|0.99|0|6|0|earthporn
+ek16qq|2020-01-04 19:31:48|Grand Canyon southern rim [OC] (1793x828).|https://i.redd.it/cmtsf556dt841.jpg|connorschrank|False|https://redd.it/ek16qq|22|0.85|0|0|0|earthporn
+ejzg8t|2020-01-04 17:26:37|High Atlas Mts on the road to Boumalne Dades [OC] [3200x1800]|https://i.redd.it/vuokumqjqs841.jpg|ineffable_earth|False|https://redd.it/ejzg8t|26|0.93|0|3|0|earthporn
+ejt8yz|2020-01-04 06:54:39|Liberty Bell Mountain, WA, US [OC][4032x3024]|https://i.redd.it/75cqxupvlp841.jpg|JohnnyUte|False|https://redd.it/ejt8yz|186|0.98|0|0|0|earthporn
+ejrzms|2020-01-04 04:55:23|Mount Saint Helens and Mount Adams peeking behind the Tatoosh Mountain Range - Paradise, Washington State (OC) (5263x2170)|https://i.redd.it/i760abin0p841.jpg|ethanlington|False|https://redd.it/ejrzms|269|0.98|0|1|0|earthporn
+ejpowd|2020-01-04 01:52:49|We had some beautiful frost on the Saskatchewan landscape in December, taken near White City [2048x1365][OC]|https://i.redd.it/n9qyx6e04o841.jpg|s_aspinall|False|https://redd.it/ejpowd|466|0.99|0|10|0|earthporn
+ejzp4y|2020-01-04 17:43:48|Holei sea arch near Volcanoes National Park - Kalapana, Hawaii [1677x1297] [OC]|https://i.redd.it/tmwge4zbts841.jpg|lggIes|False|https://redd.it/ejzp4y|25|0.87|0|0|0|earthporn
+ejitj7|2020-01-03 17:44:29|Tahquamenon Falls - A wintry landscape from Northern Michigan! [OC] [1385 X 2048]|https://i.redd.it/4t7t0f7rol841.jpg|shelbydiamondstar|False|https://redd.it/ejitj7|2240|0.99|0|35|0|earthporn
+ek0y1n|2020-01-04 19:13:34|A desolate alpine view (S. Bavaria)[OC][3264x2448]|https://i.redd.it/asyrfb6x9t841.jpg|b0kett0|False|https://redd.it/ek0y1n|19|0.85|0|0|0|earthporn
+ejuah0|2020-01-04 08:50:50|River Ob, Russia [3008x2000] [OC]|https://i.redd.it/7gmrqnus6q841.jpg|thorfinnn|False|https://redd.it/ejuah0|114|0.98|0|3|0|earthporn
+ejf7m8|2020-01-03 13:10:29|A foggy pine forest before sunrise that looks like something from Stranger Things, Imhanri Pine Forest, South Korea [OC] [2300x1150]|https://i.redd.it/kv6yub18ck841.jpg|NathanielMerz|False|https://redd.it/ejf7m8|5806|0.98|1|33|0|earthporn
+ejxn44|2020-01-04 15:03:54|Lüneburger Heide, Germany [5502×3227] [OC]|https://i.redd.it/oucs99ua1s841.jpg|T_T_Kreischwurst|False|https://redd.it/ejxn44|35|0.96|0|0|0|earthporn
+ejzafb|2020-01-04 17:14:02|Double Rainbow Over The Coast - Cornwall UK, Jan 2020 [OC] [4608x2112]|https://i.redd.it/u6vyveblos841.jpg|slothsan|False|https://redd.it/ejzafb|23|0.89|0|1|0|earthporn
+ejn7yy|2020-01-03 22:50:12|Overlook at the end of Lindy Point trail, Davis West Virginia [OC] [3840 × 2160]|https://i.redd.it/r7451h4n7n841.jpg|vlpvictor|False|https://redd.it/ejn7yy|665|0.98|0|11|0|earthporn
+eji0y4|2020-01-03 16:48:45|Autumn in the Dolomites [OC][1080x1350] IG: @holysh0t|https://i.redd.it/20fwsl56fl841.jpg|holy-shot|False|https://redd.it/eji0y4|1993|0.99|0|7|0|earthporn
+ejwu1j|2020-01-04 13:49:13|Yellowstone National Park, Wyoming - Nov 10, 2019 [4320 x 2432] [OC]|https://i.redd.it/uaxv87hynr841.jpg|whattruck|False|https://redd.it/ejwu1j|39|0.95|0|0|0|earthporn
+ejxoqi|2020-01-04 15:07:50|Arenal Volcano in La Fortuna, Costa Rica [OC] [2048x1536]|https://i.redd.it/976jh1c22s841.jpg|BlackEyeDia|False|https://redd.it/ejxoqi|30|0.89|0|0|0|earthporn
+ejw0yp|2020-01-04 12:20:52|Taken June 2016, Isabel Pass, right off of Richardson Highway between Delta Junction, AK and Fort Greely, AK [1920x1080] [OC]|https://i.redd.it/fhh75sha8r841.jpg|K3nFr0st|False|https://redd.it/ejw0yp|53|0.97|0|0|0|earthporn
+ejgbfg|2020-01-03 14:46:23|Florida doesn’t make it on here much, but there are some incredibly beautiful places in this state even though it’s flat. Manatee Springs, Florida [2788×4032] [OC]|https://i.imgur.com/XMiDmf2.jpg|I_play_trombone_AMA|False|https://redd.it/ejgbfg|2951|0.97|0|100|0|earthporn
+ejufvi|2020-01-04 09:09:31|Smoky sunrise in the Border Ranges National Park, NSW Australia [OC][5621 × 3752]|https://i.redd.it/7zwtgr74aq841.jpg|theandylaurel|False|https://redd.it/ejufvi|80|0.96|0|4|0|earthporn
+ejsazt|2020-01-04 05:23:21|Cape San Agustin [OC] [2959x3947]|https://i.redd.it/kcqtr8cr5p841.jpg||False|https://redd.it/ejsazt|159|0.98|0|2|0|earthporn
+ejq4w5|2020-01-04 02:26:45|Zion National Park - Pine Creek Canyoneering - 3/19. [3583*5374] [OC]|https://i.redd.it/9z96qlp9ao841.jpg|hinchonos|False|https://redd.it/ejq4w5|258|0.98|0|1|0|earthporn
+ejygdb|2020-01-04 16:11:09|View from my uncles house in Trysil, Norway. [OC] (3648x2736)|https://i.redd.it/28a0dledds841.jpg|VerikenVR|False|https://redd.it/ejygdb|20|0.91|0|3|0|earthporn
+ejlp2y|2020-01-03 21:02:17|View from Bergsbotn, Senja, Norway [3000x4027][OC]|https://i.redd.it/f2swv0ixnm841.jpg|wildplanetblog|False|https://redd.it/ejlp2y|678|0.99|0|3|0|earthporn
+ejzw6k|2020-01-04 17:57:38|Hiking trail in Canada [1440 x 1440] [OC]|https://i.redd.it/qp6pz5idws841.jpg|Samtheman362|False|https://redd.it/ejzw6k|16|0.8|0|4|0|earthporn
+ejw37y|2020-01-04 12:28:11|A windy morning on Lago Nordenskjōld in Torres del Paine National Park - Patagonia, Chile - [OC] [4898x3265]|https://i.redd.it/viba01gl9r841.jpg|bravewasso|False|https://redd.it/ejw37y|38|0.94|0|0|0|earthporn
+ejk2vm|2020-01-03 19:11:26|Norway, 15 minutes in train from Oslo, nature in her better shape [4587x3456] [OC]|https://i.redd.it/3sukqqgm4m841.jpg|Sigmarito|False|https://redd.it/ejk2vm|923|0.98|0|6|0|earthporn
+ejv2wu|2020-01-04 10:27:24|Gatklettur Rock Formation, Arnarstapi, Iceland [3000x2000][OC]|https://i.redd.it/l3u96o7inq841.jpg|wildplanetblog|False|https://redd.it/ejv2wu|52|0.96|0|1|0|earthporn
+ejzouo|2020-01-04 17:43:16|Bullhead Lake - Chequamegon National Forest Northern Wisconsin (OC) [7344x1858]|https://i.redd.it/gf5ab0wsts841.jpg|JackpineSavage|False|https://redd.it/ejzouo|13|0.9|0|1|0|earthporn
+ejsxv6|2020-01-04 06:23:45|Dungeness River with the Olympic Mountains far in the distance on a rainy winter day - Sequim, WA [OC] [4608x2592]|https://i.imgur.com/GtcZj59.jpg|roy_stalin|False|https://redd.it/ejsxv6|103|0.97|0|3|0|earthporn
+ejwb39|2020-01-04 12:53:15|Taken Mar 2016 just south of Anchorage, AK overlooking the mouth of Turnagain Arm. [1920×1080] [OC]|https://i.redd.it/zp9olkf2er841.jpg|K3nFr0st|False|https://redd.it/ejwb39|34|0.9|0|0|0|earthporn
+ejls1a|2020-01-03 21:07:45|The Iguazú Falls (Argentina/Brazil) look like something out of Jurassic Park [4608x3456] [OC]|https://i.redd.it/poynhgicpm841.jpg|the--loz|False|https://redd.it/ejls1a|566|0.98|0|6|0|earthporn
+ejytv5|2020-01-04 16:39:52|OC calm in slovakian forests 4032x3024|https://i.redd.it/zzrjfc4his841.jpg|midget_the_negan|False|https://redd.it/ejytv5|15|0.84|0|0|0|earthporn
+ejuyi0|2020-01-04 10:12:01|Mt Erebus, Ross Island, Antarctica. The southernmost active volcano in the world. [OC] [6000x3630]|https://i.redd.it/uao9c2ktkq841.jpg|Sgt_lovejoy|False|https://redd.it/ejuyi0|48|0.95|0|3|0|earthporn
+ejuc7q|2020-01-04 08:57:01|Cave Point, Door County, Wisconsin 1031x775 [OC]|https://i.redd.it/0snh658x7q841.jpg|cobainseahorse89|False|https://redd.it/ejuc7q|55|0.94|0|7|0|earthporn
+ejvgbw|2020-01-04 11:11:42|Beautiful view @ Gudvangen fjords in Norway 🇳🇴 [OC] [1706x960]|https://i.redd.it/zvvaof8yvq841.jpg|pomalo_mp|False|https://redd.it/ejvgbw|36|0.96|0|0|0|earthporn
+ejtyl5|2020-01-04 08:11:51|University of Chittagong, Bangladesh. [OC] [3024x4032]|https://i.redd.it/yefbmvgrzp841.jpg|Angelsdontkill_|False|https://redd.it/ejtyl5|63|0.95|0|0|0|earthporn
+ejt36e|2020-01-04 06:38:47|[OC] Lye Brook Falls Trail - Manchester, VT [3024x4032]|https://i.imgur.com/UU6YxCS.jpg|Cheezis_Chrust|False|https://redd.it/ejt36e|82|0.95|0|0|0|earthporn
+ejv6mf|2020-01-04 10:40:35|Double arches , Moab . 4880 x 3650 (OC)|https://i.redd.it/zthh4r7eqq841.jpg|Power181440|False|https://redd.it/ejv6mf|35|0.85|0|0|0|earthporn
+ejv5iz|2020-01-04 10:36:53|Swiss Alps before sunset, taken yesterday from Crap Sogn Gion, Laax, Switzerland. [2736x1896][OC].|https://i.redd.it/2qndmilqpq841.jpg|floatingsaltmine|False|https://redd.it/ejv5iz|29|0.97|0|1|0|earthporn
+ejm4rv|2020-01-03 21:32:48|Sunrise at Zabriskie Point, Death Valley National Park, USA [OC][3695 × 5542]|https://i.redd.it/x8niwslltm841.jpg|shmchksh|False|https://redd.it/ejm4rv|365|0.99|0|10|0|earthporn
+ejsrde|2020-01-04 06:06:02|"Connery Pond Adirondacks in upstate New York|OC|Res:3013x4023"|https://i.redd.it/41huxruedp841.jpg|Frankyisawerewolf|False|https://redd.it/ejsrde|75|0.95|0|4|0|earthporn
+ejptz8|2020-01-04 02:03:48|Sunset at Red Canyon Park, Colorado [OC] [900 x 1350]|https://i.redd.it/mkweycv46o841.jpg|Jkrauthphotography|False|https://redd.it/ejptz8|147|0.97|0|6|0|earthporn
+ejtacu|2020-01-04 06:58:37|Zion National Park, UT [OC][8192x1856]|https://i.redd.it/vopwkxcomp841.jpg|JohnnyUte|False|https://redd.it/ejtacu|56|0.97|0|0|0|earthporn
+ejug7f|2020-01-04 09:10:34|Cave Point, Door County, Wisconsin [1031x775] [OC]|https://i.redd.it/hlyohfacaq841.jpg|cobainseahorse89|False|https://redd.it/ejug7f|36|0.96|0|0|0|earthporn
+ejvi6k|2020-01-04 11:17:48|Taken June 2016 near Gerstle River, 1392 Alaska Highway, Delta Junction, Alaska looking towards Isabel Pass. [1920x1080] [OC]|https://i.redd.it/gb9858h1xq841.jpg|K3nFr0st|False|https://redd.it/ejvi6k|22|0.84|0|0|0|earthporn
+ejijdi|2020-01-03 17:24:29|A busy bee taking of from a flower in beautiful Alpnachstad, Switzerland. Took this picture summer 2019 [OC] [3024x3780]|https://i.redd.it/fqck4iojll841.jpg|blaabear|False|https://redd.it/ejijdi|530|0.98|0|8|0|earthporn
+ejnojv|2020-01-03 23:24:08|The desert wind whispered to me, 'you yourself are heaven and hell.' Katpana desert, Baltistan, Pakistan [OC][2000x2500]|https://i.redd.it/emcidbrncn841.jpg|usman031345|False|https://redd.it/ejnojv|162|0.97|0|0|0|earthporn
+ejkchi|2020-01-03 19:29:37|Last night's sunset on the California coast in San Francisco [OC] [2000x1600] IG: @pmully94|https://i.redd.it/wjideh3k7m841.jpg|petey-pablo|False|https://redd.it/ejkchi|324|0.98|0|7|0|earthporn
+ej7ys3|2020-01-03 01:31:53|My favorite from last months visit to Torres Del Paine, Patagonia, A photographers dream destination, OC, [4010x2441]|https://i.redd.it/tmzfno67vg841.jpg|Seaguy7|False|https://redd.it/ej7ys3|15931|0.97|2|135|0|earthporn
+ejnomo|2020-01-03 23:24:16|Natural Bridge, Western Australia [3264 x 2448] [OC]|https://i.redd.it/g4a95vaqdn841.jpg|Sneakiest-turtle-eva|False|https://redd.it/ejnomo|127|0.98|0|0|0|earthporn
+ejerl7|2020-01-03 12:27:20|Romania, calimani national park (3000x4000) [OC]|https://i.redd.it/w9ap11bi4k841.jpg|Justinfromheaven|False|https://redd.it/ejerl7|945|0.98|0|9|0|earthporn
+ejsxqr|2020-01-04 06:23:27|Brückl, Austria [OC] [2048 × 1536]|https://i.redd.it/ridkfkpigp841.jpg|mattadamsapple|False|https://redd.it/ejsxqr|33|0.93|0|0|0|earthporn
+ejtu3l|2020-01-04 07:58:03|Mythic Lake Stymphalia in Greece (Attiki) [ 4032 x 3024 ] [OC]|https://i.redd.it/gyp4py7exp841.jpg|supercaptainglobule|False|https://redd.it/ejtu3l|23|0.93|0|0|0|earthporn
+ejretw|2020-01-04 04:07:23|Great Sand Dunes National Park (OC) (1334x750)|https://i.redd.it/l32ciat8so841.jpg|TheSwedeguy|False|https://redd.it/ejretw|46|0.91|0|3|0|earthporn
+ejr6gx|2020-01-04 03:48:49|Cathedral Rock, Sedona Arizona (OC) (1334x750)|https://i.redd.it/jo7ekq7xoo841.jpg|maxo3006|False|https://redd.it/ejr6gx|47|0.9|0|0|0|earthporn
+ejks7v|2020-01-03 19:59:19|Goðafoss, North Iceland in a blizzard [OC] [6000 × 4000]|https://i.redd.it/0ukfbny2dm841.jpg|Zhana-Aul|False|https://redd.it/ejks7v|171|0.98|0|4|0|earthporn
+ejatju|2020-01-03 05:23:08|Sunset at Mount Assiniboine, Canada. (2400x1600)[OC]|https://i.redd.it/a8w8qlam0i841.jpg|AdditionalCan6|False|https://redd.it/ejatju|2752|0.99|0|15|0|earthporn
+ejotes|2020-01-04 00:45:41|Candlestick Tower, Canyonlands National Park, Utah. November 2018 [OC] [4480 x 6720]|https://i.redd.it/tn9huekbrn841.jpg|Pontifex_Crocodylus|False|https://redd.it/ejotes|69|0.94|0|2|0|earthporn
+ejlg10|2020-01-03 20:44:30|[OC] [1080 X 1350] Himalayan Mountains during my trek to Kuari Pass (Uttarakhand, India)|https://i.redd.it/ac6jwzc8lm841.jpg|khan-isa|False|https://redd.it/ejlg10|137|0.98|0|1|0|earthporn
+ejh3s2|2020-01-03 15:44:28|The Watcher / Glowing Mountain, El Chalten, Patagonia, Argentina [OC] [1184 x 1600]|https://i.redd.it/6chh2h9g3l841.jpg|corboamnesiac|False|https://redd.it/ejh3s2|315|0.98|0|2|0|earthporn
+ejrbsk|2020-01-04 04:00:40|♥️ December in Santa Cruz, CA [3024x4032] [OC]|https://i.redd.it/zsb9svf1ro841.jpg|shawnnotjohn|False|https://redd.it/ejrbsk|32|0.89|0|0|0|earthporn
+ejojwz|2020-01-04 00:27:03|Walking up to Seljalandsfoss, Iceland. [OC] [9000x6000]|https://i.redd.it/rdmzmboynn841.jpg|medicinalcoffee57|False|https://redd.it/ejojwz|66|0.95|0|4|0|earthporn
+ejev9x|2020-01-03 12:37:48|Knuckles Mountain Range, Sri Lanka. Untouched beauty. [OC] [3024x4032]|https://i.redd.it/h8vfmqn76k841.jpg|travellingmedic|False|https://redd.it/ejev9x|540|0.98|0|13|0|earthporn
+ejnjrb|2020-01-03 23:14:14|Amazing light in the forrest at the base of Conic Hill, Balmaha today [OC] [4000 x 6000]|https://i.redd.it/5mz6ay7wbn841.jpg|betawaxxx|False|https://redd.it/ejnjrb|72|0.95|0|0|0|earthporn
+ejjzg7|2020-01-03 19:05:03|Red-Streaked Sky in Fimmvorduhals, Iceland [OC][5200 x 3400]|https://i.redd.it/hjw46uuy2m841.jpg|GungieBum|False|https://redd.it/ejjzg7|149|0.98|0|3|0|earthporn
+ejoj2q|2020-01-04 00:25:25|One of the most spectacular views I have ever come across. Yoho National Park, British Columbia [OC] [2048 x 1538]|https://i.redd.it/di8zrkimon841.jpg|Igorius|False|https://redd.it/ejoj2q|55|0.94|0|5|0|earthporn
+eji1en|2020-01-03 16:49:39|Aurora's green carpet over snowy Senja 💚🌌 [1275x1600][OC]|https://i.redd.it/o43kiti7fl841.jpg|ruslan_merzlyakov|False|https://redd.it/eji1en|219|0.98|0|4|0|earthporn
+ejdlga|2020-01-03 10:20:40|Himalayan Mountain Range View from Hatu Peak in Narkanda, India (3812x2716)[OC]|https://i.redd.it/jfew84qvhj841.jpg|goridez|False|https://redd.it/ejdlga|700|0.99|0|6|0|earthporn
+ejqxg5|2020-01-04 03:28:59|Glacier National Park [OC] (4608x2184)|https://i.redd.it/mliv1i1elo841.jpg|Adam_For_Real91|False|https://redd.it/ejqxg5|28|0.88|0|0|0|earthporn
+ejgvv2|2020-01-03 15:28:52|Golden hour just beginning at Vestrahorn in Iceland [2000x1308] [OC]|https://i.redd.it/xg8ny1xuzk841.jpg|mindreda|False|https://redd.it/ejgvv2|254|0.98|0|1|0|earthporn
+ejm99e|2020-01-03 21:41:19|A dream trip come true. Gem Lake, Rocky Mountain National Park, CO. [4032x2268][OC]|https://i.redd.it/58715badvm841.jpg|MarkJM92|False|https://redd.it/ejm99e|75|0.95|0|0|0|earthporn
+ejau68|2020-01-03 05:24:43|Banff Bational Park, Canada [3024×4032] [OC]|https://i.redd.it/whp6puky0i841.jpg|blthmsphlp|False|https://redd.it/ejau68|1639|0.98|0|27|0|earthporn
+ejnnvo|2020-01-03 23:22:44|Forest Deep: West Hills/Tualatin Mtns, Oregon [OC] [2400x1600]|https://i.redd.it/45rpyeq2dn841.jpg|timpdx|False|https://redd.it/ejnnvo|54|0.9|0|1|0|earthporn
+ejoiyi|2020-01-04 00:25:10|Talofa!Ofu Island Manua. OC 1378x 980|https://i.redd.it/svrzhonlon841.jpg|SiiLaLuce|False|https://redd.it/ejoiyi|46|0.93|0|0|0|earthporn
+ej44k8|2020-01-02 20:55:00|Taken about an hour after sunset the atmosphere turned really magical with subtle colours and a slight layer of fog at the heather fields in Hilversum, the Netherlands (1280x1920)[OC]|https://i.redd.it/rifq99jyhf841.jpg|cryptodesign|False|https://redd.it/ej44k8|12408|0.98|3|80|0|earthporn
+ejm6ue|2020-01-03 21:36:48|Misty Tatras, Zakopane, Poland [2172x1629] [OC]|https://i.redd.it/xup60fw0tm841.jpg|polishBurek|False|https://redd.it/ejm6ue|67|0.94|0|3|0|earthporn
+ejmzdb|2020-01-03 22:33:17|Windy drifter. Newport OR. (OC) (3420x4232)|https://i.redd.it/ps89mefm4n841.jpg|-butt_chug-|False|https://redd.it/ejmzdb|57|0.95|0|2|0|earthporn
+ejmdxe|2020-01-03 21:50:18|Sunset falls over Boreas Pass, CO, smoke in the distance from wildfires. [3024x4032] [OC]|https://i.redd.it/ybqgw5zywm841.jpg|fortifiedblonde|False|https://redd.it/ejmdxe|52|0.93|0|0|0|earthporn
+ej90ef|2020-01-03 02:52:52|Bryce Canyon National Park, Utah [3024×4032][OC]|https://i.redd.it/7wwmnez0ah841.jpg|RainManK|False|https://redd.it/ej90ef|1836|0.98|0|27|0|earthporn
+ejhdo3|2020-01-03 16:03:48|Not your classic Patagonia shot, but I thought this was a unique perspective on such a well photographed location [OC][3855x4472]|https://i.redd.it/dcl8bz547l841.jpg|MrMotherBoy|False|https://redd.it/ejhdo3|150|0.97|0|3|0|earthporn
+ejna7f|2020-01-03 22:54:51|Diamond Beach, Iceland [7365x6000] [OC]|https://i.redd.it/89qjpkjf8n841.jpg|B_r_u_n_o|False|https://redd.it/ejna7f|45|0.88|0|0|0|earthporn
+ejiw52|2020-01-03 17:49:35|That Wanaka Tree looking very moody, Wanaka New Zealand [OC] [1541x2046] @GarrettBaespflug|https://i.redd.it/buaw9ow0ql841.jpg|such_a_tommy_move|False|https://redd.it/ejiw52|103|0.97|0|6|0|earthporn
+ejizhp|2020-01-03 17:55:59|A shot in southeast Kansas on Christmas eve. [4032x3024] [OC]|https://i.redd.it/qioywyq5rl841.jpg|Fairly_Original|False|https://redd.it/ejizhp|104|0.97|0|7|0|earthporn
+ejfdg2|2020-01-03 13:25:44|A very (rare) snowy Yucca Valley, CA. 12/27/2019 [OC] [4032x3024]|https://i.redd.it/2bvoay8yek841.jpg|iamoceanic|False|https://redd.it/ejfdg2|235|0.99|0|9|0|earthporn
+ejnj0n|2020-01-03 23:12:40|Loch Lomand from Conic Hill this morning [OC] [6000 x 4000]|https://i.redd.it/zft40d9lbn841.jpg|betawaxxx|False|https://redd.it/ejnj0n|37|0.89|0|1|0|earthporn
+ejk4fm|2020-01-03 19:14:30|Kolob Canyon NP after a snowstorm[4032x3024][OC]|https://i.redd.it/zv1ov3o15m841.jpg|tsk1979|False|https://redd.it/ejk4fm|71|0.94|0|1|0|earthporn
+ejqc2f|2020-01-04 02:41:47|Alexandria Bay Noosa Heads 4032x3024 [OC]|https://i.redd.it/se8bmkzyco841.jpg|Ocean4011|False|https://redd.it/ejqc2f|19|0.82|0|0|0|earthporn
+ejlzku|2020-01-03 21:22:26|Sunset on the southern Oregon coast. [OC] [2048 x 1365]|https://i.redd.it/43tty7mmrm841.jpg|Pnwhkrn2dogs|False|https://redd.it/ejlzku|46|0.91|0|6|0|earthporn
+ejj47h|2020-01-03 18:04:57|Vancouver's North Shore Mountains at sunset, from a ferry ride across Howe Sound [2305 × 1537][OC]|https://i.redd.it/x4bqkakdsl841.jpg|altxg|False|https://redd.it/ejj47h|76|0.91|0|4|0|earthporn
+ejjoha|2020-01-03 18:44:06|A Swedish forest is lika a cozy livingroom. [OC][3200x1800]|https://i.redd.it/3zjtqvyqzl841.jpg|AspLeaf|False|https://redd.it/ejjoha|68|0.93|0|7|0|earthporn
+ejkv4a|2020-01-03 20:04:37|Cook Canyon is a shaded canyon with a happy little stream in the front range of the San Gabriel Mountains (1512 x 2016) [OC]|https://i.redd.it/n57j7n1sdm841.jpg|darkpyschicforce|False|https://redd.it/ejkv4a|52|0.92|0|0|0|earthporn
+ejknqo|2020-01-03 19:50:40|Winter in Yosemite Valley. [OC] [Yosemite National Park] [3024x4032]|https://i.redd.it/83ema4nmbm841.jpg|Smaug_themighty|False|https://redd.it/ejknqo|54|0.91|0|1|0|earthporn
+ejj0to|2020-01-03 17:58:31|Everything about this place is amazing, cannot wait to go back with a decent camera Seljalandsfoss, Iceland [OC] [5616 x 3744]|https://i.redd.it/a7rle46grl841.jpg|justinjuliet|False|https://redd.it/ejj0to|74|0.91|0|9|0|earthporn
+ejctr4|2020-01-03 08:50:57|Mt Fuji and half moon, at dusk [OC][3024x4032]|https://i.redd.it/3ezbvrzw1j841.jpg|BeachSamurai|False|https://redd.it/ejctr4|387|0.98|0|4|0|earthporn
+ejmwq7|2020-01-03 22:28:02|Torneträsk, Sweden [OC][3072x2048]|https://i.redd.it/ozwk54hm3n841.jpg|pilt|False|https://redd.it/ejmwq7|31|0.91|0|0|0|earthporn
+ejhxhg|2020-01-03 16:42:06|Madeira, Faial Mar Aprila 2019. First travel with my mirrorless camera. [4608x3456], [OC]|https://i.redd.it/p33nm1hkdl841.jpg|Kayldan|False|https://redd.it/ejhxhg|90|0.97|0|1|0|earthporn
+ejhuol|2020-01-03 16:36:35|The Nā Pali Coast viewed through the clouds. Kauai, HI [OC] [4000 X 5000] IG: @kyle.fredrickson|https://i.redd.it/te7hv76vcl841.jpg|MrGoomba7|False|https://redd.it/ejhuol|91|0.97|0|4|0|earthporn
+ejgtj0|2020-01-03 15:24:09|Wailua falls, Kauai. [OC] [1280x1920]|https://i.redd.it/dun1tbr20l841.jpg|chasing_luminance|False|https://redd.it/ejgtj0|101|0.98|0|0|0|earthporn
+ejofop|2020-01-04 00:18:42|Just a quick stop off in Benton, Maine, so happy to live here 2160x1620 oc|https://i.redd.it/yiwx1r1gnn841.jpg|germancactus91|False|https://redd.it/ejofop|19|0.84|0|0|0|earthporn
+ejnag8|2020-01-03 22:55:25|Little Tahoma and the White River Valley, Mt Rainier National Park, Washington [OC] [5184x3456]|https://i.redd.it/mnda14cj8n841.jpg|Bigbadpsychdaddy|False|https://redd.it/ejnag8|23|0.86|0|0|0|earthporn
+ejlldx|2020-01-03 20:55:06|Four Hole Swamp, SC [3072x4096][OC]|https://i.redd.it/g4gvmyy3nm841.jpg|Congaree_Swampert|False|https://redd.it/ejlldx|37|0.88|0|1|0|earthporn
+ejroje|2020-01-04 04:29:39|Deer Lodge Tennessee. [OC] 4096X2304|https://i.redd.it/dazwyl87wo841.jpg|On-My-Way-Out|False|https://redd.it/ejroje|6|0.8|0|0|0|earthporn
+ejmsxb|2020-01-03 22:20:15|Capelinhos, Faial Island, Azores [OC] [1200x800]|https://i.redd.it/k17hl8hl1n841.jpg|WanderWithMe|False|https://redd.it/ejmsxb|24|0.92|0|2|0|earthporn
+ejmbmp|2020-01-03 21:45:57|Okanogan-Wenatchee National Forest, Washington State [4898x3265] [OC]|https://imgur.com/MaMsR6w|Nonees|False|https://redd.it/ejmbmp|27|0.87|0|1|0|earthporn
+ejpoko|2020-01-04 01:52:07|Forces of Nature (part 3). This is sort of interesting. That lower branch from a California Live Oak has swept the earth beneath it bare with an assist from the wind at the Deukmejian Wilderness Park. (2016 x 1512) [OC]|https://i.redd.it/iqpajc9l3o841.jpg|darkpyschicforce|False|https://redd.it/ejpoko|11|0.84|0|1|0|earthporn
+ejd2it|2020-01-03 09:19:57|Calm before the first snow - Bavaria, Germany [OC] [4177 * 3342]|https://i.redd.it/o79a2b6q6j841.jpg|Xhycv|False|https://redd.it/ejd2it|222|0.97|0|4|0|earthporn
+ej1qem|2020-01-02 18:08:06|Black winter river in Ähtäri, Finland [6229x4153] [OC]|https://i.redd.it/9cl9gn5kle841.jpg|fieldOfThunder|False|https://redd.it/ej1qem|4367|0.99|1|24|0|earthporn
+ejg6i8|2020-01-03 14:35:40|Cloudy and cold at Mount Jaizkibel - Hondarribia, Spain OC [6000x4000]|https://i.redd.it/i9l49e6frk841.jpg|lasagneitor|False|https://redd.it/ejg6i8|87|0.97|0|0|0|earthporn
+ej4ipd|2020-01-02 21:22:00|Great Ocean Road in Victoria, Australia [3500x2333] [OC]|https://i.redd.it/ncofpq5umf841.jpg|carlsligh|False|https://redd.it/ej4ipd|2039|0.99|0|37|0|earthporn
+ejlf2g|2020-01-03 20:42:44|The beach of a small town, Gran Canaria [OC][4000x3000]|https://i.redd.it/ymxsbmpwkm841.jpg|joelg_19|False|https://redd.it/ejlf2g|27|0.9|0|0|0|earthporn
+ejm05j|2020-01-03 21:23:32|Sunset over Monarch Pass [6000x2681] [OC]|https://i.redd.it/rd0m20czqm841.jpg|JamieLamby|False|https://redd.it/ejm05j|23|0.87|0|0|0|earthporn
+ej61vg|2020-01-02 23:09:38|Mount Everest seen from a distance in Tibet [OC] [3271 x 1840]|https://i.redd.it/x8xigme76g841.jpg|mn265|False|https://redd.it/ej61vg|1354|0.99|0|15|0|earthporn
+ejdoh7|2020-01-03 10:30:06|Winter in beautiful Bavaria in Germany [OC] [1970x1725] Insta: glacionaut|https://i.redd.it/4j04ms6mjj841.jpg|jay_march_|False|https://redd.it/ejdoh7|157|0.99|0|3|0|earthporn
+ejkxtq|2020-01-03 20:09:50|First hike of the year at Montaña de Ora State Park, CA (4032 x 3034) OC|https://i.redd.it/w7pis1x0fm841.jpg|marrr_13|False|https://redd.it/ejkxtq|26|0.86|0|3|0|earthporn
+ejm6nh|2020-01-03 21:36:28|One of my favorite sunrise shots from the trip, taken beneath Mt. Travers on the Travers-Sabine Circuit in Nelson Lakes, New Zealand. [OC] [4000 x 3000]|https://i.redd.it/ofnwmakhum841.jpg|alihuerta|False|https://redd.it/ejm6nh|21|0.86|0|0|0|earthporn
+ejn7w6|2020-01-03 22:50:04|Icelandic Geyser's at sunrise [1620x1080] [OC]|https://i.redd.it/kxqy23xm7n841.jpg|Padiwak|False|https://redd.it/ejn7w6|16|0.88|0|0|0|earthporn
+ejkts2|2020-01-03 20:02:15|There's a mountain behind those clouds, I swear - Oregon, US [4903x3922] [OC]|https://i.redd.it/7tu8myzndm841.jpg|pchmura8|False|https://redd.it/ejkts2|24|0.83|0|3|0|earthporn
+ej2wk4|2020-01-02 19:30:51|Golden hour sunlight in the mist, Peak District [OC] [6000x4000]|https://i.redd.it/4vu4pw763f841.jpg|Rocstar85|False|https://redd.it/ej2wk4|2481|0.99|0|29|0|earthporn
+ejjs0v|2020-01-03 18:50:45|A random beach in Maui, Hawaii on a Rainy Day [4000*5000] [OC]|https://i.redd.it/2fiasq4s0m841.jpg|brownstrom|False|https://redd.it/ejjs0v|32|0.87|0|0|0|earthporn
+ejlogv|2020-01-03 21:01:03|Blencathra Summit , lake District UK [4032x3024] [OC]|https://i.redd.it/zvc1opb6om841.jpg|thecheekymonkey|False|https://redd.it/ejlogv|20|0.85|0|2|0|earthporn
+eji5n1|2020-01-03 16:58:08|Shaver Lake, CA. B&W [OC] 5472 x 3648|https://i.imgur.com/PKUhRfg.jpg|88Challenger|False|https://redd.it/eji5n1|42|0.9|0|0|0|earthporn
+ejjqdl|2020-01-03 18:47:40|North Yorkshire, England. [4122x2832] [OC]|https://i.redd.it/lhdulyxd0m841.jpg|golden-gopher7|False|https://redd.it/ejjqdl|29|0.85|0|0|0|earthporn
+ejc278|2020-01-03 07:22:10|Stunning color over the Shark Fin Cove, Davenport, CA [OC] [2560 × 1707] - Ig @sal.op|https://i.redd.it/jbuti54yli841.jpg|chikinshoiek|False|https://redd.it/ejc278|237|0.99|0|5|0|earthporn
+ejis8e|2020-01-03 17:42:04|Joshua trees in bloom, March, 2008 - Joshua Tree National Park [3250x2236] [OC]|https://i.redd.it/oyuikpckol841.jpg|OlafIowa|False|https://redd.it/ejis8e|37|0.93|0|0|0|earthporn
+ejfw2e|2020-01-03 14:11:44|Near Hector Lake in Banff National Park, CA [OC][3036x4048]|https://i.redd.it/uzcyq65tmk841.jpg|2187simms|False|https://redd.it/ejfw2e|64|0.95|0|0|0|earthporn
+eixaql|2020-01-02 11:49:04|A beautiful river valley in Bavaria, Germany [OC][1080x1350]|https://i.redd.it/grc5rdgqsc841.jpg|holy-shot|False|https://redd.it/eixaql|21106|0.97|1|131|0|earthporn
+eji3uy|2020-01-03 16:54:26|Canyonlands Sunrise [OC][4608x3072][IG:andrewattsbro]|https://i.redd.it/6u9jtla2gl841.jpg|watts2988|False|https://redd.it/eji3uy|39|0.87|0|1|0|earthporn
+ejesca|2020-01-03 12:29:31|Shimmering Lights - Weinheim/Germany [OC][1807 x 1205]|https://i.redd.it/6gwytcyt4k841.jpg|inkvine83|False|https://redd.it/ejesca|76|0.97|0|2|0|earthporn
+ejkjkt|2020-01-03 19:42:56|[OC] [4032×3024] facing west from the top of Lyons peak in San Diego county|https://i.redd.it/yz690qe8am841.jpg|Silent0wl01|False|https://redd.it/ejkjkt|18|0.87|0|0|0|earthporn
+eiyjlq|2020-01-02 13:58:34|Glen Canyon Utah (6000x4000) OC|https://i.imgur.com/9ifiCWA.jpg|Outofasuitcase|False|https://redd.it/eiyjlq|5789|0.99|0|93|0|earthporn
+ej15bb|2020-01-02 17:25:59|The first Sonoran sunset of 2020 was nothing short of magical in southern Arizona [oc] [2500x1406]|https://i.imgur.com/QPYPeEF.jpg|Eleminohp|False|https://redd.it/ej15bb|2355|0.99|0|39|0|earthporn
+ejkxa1|2020-01-03 20:08:52|A wave rolling through. Big Sur, CA [5568x3712] [OC]|https://i.redd.it/s1fsew1vem841.jpg|BobbySurfer2019|False|https://redd.it/ejkxa1|17|0.8|0|0|0|earthporn
+ejinnj|2020-01-03 17:33:09|Looking out from Grey's Peak in Colorado [OC][6000x4000]|https://i.redd.it/6vjhpk4oml841.jpg|krallsm|False|https://redd.it/ejinnj|25|0.87|0|0|0|earthporn
+ejlaqb|2020-01-03 20:34:31|Always coming back here from London, no tourists at all, Beskidy Mountains, Poland [1767x1178][OC]|https://i.redd.it/8ylvqw1vim841.jpg|zthrx|False|https://redd.it/ejlaqb|14|0.77|0|0|0|earthporn
+ejkng3|2020-01-03 19:50:06|Rocky Oregon Coast [OC] [2651x3314]|https://i.redd.it/vvmd8ppibm841.jpg|the-letter-5|False|https://redd.it/ejkng3|15|0.76|0|0|0|earthporn
+ejholm|2020-01-03 16:24:53|[OC] (640 x 480) White Mountains, Lincoln, New Hampshire, NH|https://i.redd.it/e3mww92xal841.jpg|wildeyepuppet|False|https://redd.it/ejholm|30|0.86|0|1|0|earthporn
+ejh7p5|2020-01-03 15:52:13|Cliffside Beach at Waimea, HI [4096x3072] [OC]|https://i.redd.it/c0odhk235l841.jpg|ticklemonster911|False|https://redd.it/ejh7p5|34|0.84|0|0|0|earthporn
+ejgo5p|2020-01-03 15:12:59|Paria Canyon, Utah/Arizona [OC] [4912 x 3264]|https://i.redd.it/2g8sjrdvxk841.jpg|jsbe222|False|https://redd.it/ejgo5p|37|0.91|0|0|0|earthporn
+ejmhaf|2020-01-03 21:57:14|A Snow Covered Track and A Pine Tree [OC] [5146x3456]|https://i.redd.it/1fb5wqtyxm841.jpg|NothingToSeeHere4132|False|https://redd.it/ejmhaf|9|0.84|0|0|0|earthporn
+ej85kf|2020-01-03 01:46:17|First sunrise of the next decade at Yosemite [OC] [6720x4480]|https://i.redd.it/j2pcrvjoxg841.jpg|rileybyington|False|https://redd.it/ej85kf|410|0.99|0|6|0|earthporn
+ejirpk|2020-01-03 17:41:02|Sunrise - Noyo Harbor, Fort Bragg, California [OC] [4016x5016]|https://i.redd.it/bvd3qcufol841.jpg|alongthetrail|False|https://redd.it/ejirpk|20|0.91|0|0|0|earthporn
+ejanzd|2020-01-03 05:09:14|Mt Hood under the stars [3000 x 1769] [OC] Instagram @JustinMPoe|https://i.redd.it/17ei1tv4yh841.jpg|JustinPoe|False|https://redd.it/ejanzd|208|0.97|0|3|0|earthporn
+ejdx00|2020-01-03 10:57:23|Reflections in the river. A blissful evening. [OC] [1080x720] Location: Shoyok River, Khaplu, Gilgit-Baltistan, Pakistan.|https://i.redd.it/wybb9rchoj841.jpg|shaheen6091|False|https://redd.it/ejdx00|66|0.9|0|2|0|earthporn
+ejews5|2020-01-03 12:41:46|Summer evening in Jotunheimen - Norway (OC)[4000x6016]|https://i.redd.it/n2voes1t6k841.jpg|bernklh|False|https://redd.it/ejews5|48|0.9|0|0|0|earthporn
+ejhf0w|2020-01-03 16:06:16|Enjoying winter for the first time this year, Nationalpark Kalkalpen, Austria [OC], [5909x3325]|https://i.redd.it/otniv88w6l841.jpg|wolfix17|False|https://redd.it/ejhf0w|24|0.9|0|0|0|earthporn
+ejcb4e|2020-01-03 07:49:55|Saarschleife, Germany [OC] [1920 x 1080]|https://i.redd.it/19ofxc11ri841.jpg|chalkbag31|False|https://redd.it/ejcb4e|107|0.99|0|4|0|earthporn
+ejl3dk|2020-01-03 20:20:24|Flying above the clouds in a Helicopter in Maui (HI, USA) [OC] (708 x 944)|https://i.redd.it/sak37r4vem841.jpg|TravelManiacUSA|False|https://redd.it/ejl3dk|11|0.8|0|3|0|earthporn
+ej97q6|2020-01-03 03:08:52|Gates of the Arctic National Park, Alaska [OC] [2000x1333]|https://i.redd.it/0jceozrsch841.jpg|autpops|False|https://redd.it/ej97q6|238|0.99|0|0|0|earthporn
+ejaqz2|2020-01-03 05:16:39|Grand Falls, AZ [4032×3024][OC]|https://i.redd.it/5zanb61ozh841.jpg|RainManK|False|https://redd.it/ejaqz2|160|0.98|0|4|0|earthporn
+ejh04r|2020-01-03 15:37:32|Eiger’s iconic north face, Grindelwald Switzerland. [1900x2400] [OC]|https://i.redd.it/vyrgpcug2l841.jpg|ryfierro8220|False|https://redd.it/ejh04r|20|0.84|0|0|0|earthporn
+ej9m53|2020-01-03 03:40:33|Havasupai Reservation [3024 x 4023] [OC]|https://i.redd.it/qu68t02jih841.jpg|macfredough|False|https://redd.it/ej9m53|172|0.98|0|2|0|earthporn
+ejfl7k|2020-01-03 13:46:06|A view from the top, Southerndown, South Wales, UK [OC] (576x432)|https://imgur.com/YKLIgDK|Entropy84|False|https://redd.it/ejfl7k|26|0.88|0|0|0|earthporn
+eiyg4d|2020-01-02 13:49:20|First post of the new decade for me. Elbow Falls in Alberta, Canada [OC] [1452x2048]|https://i.redd.it/a5iid0t8ed841.jpg|5impl3jack|False|https://redd.it/eiyg4d|2220|0.98|0|10|0|earthporn
+ejcr22|2020-01-03 08:42:26|Agathla Peak, AZ. 30 mins after sunset. [7812x9000] [OC]|https://i.redd.it/pcpzhaqe0j841.jpg|jeretait|False|https://redd.it/ejcr22|61|0.93|0|3|0|earthporn
+ejh6f3|2020-01-03 15:49:37|Taft Point at Yosemite at sunset, California (6000x4000) [OC]|https://i.redd.it/xim9a2zf4l841.jpg|yipleonardo|False|https://redd.it/ejh6f3|18|0.85|0|0|0|earthporn
+eiwr10|2020-01-02 10:44:15|Green Airglow appearing in the night sky behind the mountains of Vestrahorn, Iceland [1950x1410] [OC]|https://i.redd.it/2xkqam63hc841.jpg|jetclarke|False|https://redd.it/eiwr10|3771|0.98|0|34|0|earthporn
+ejbvbr|2020-01-03 07:02:22|My first sunset photo of 2020. Stumbled upon this scene while driving through the Fort Hall Reservation in SE Idaho. [oc][6715x4482]|https://i.redd.it/vjxqnhz0ii841.jpg|fyonyou|False|https://redd.it/ejbvbr|71|0.94|0|0|0|earthporn
+ejg1ro|2020-01-03 14:24:35|Autumn morning in Germany [OC] [1920x1080]|https://i.redd.it/oua56oexok841.jpg|RandomSh_t|False|https://redd.it/ejg1ro|19|0.82|0|0|0|earthporn
+ejbytj|2020-01-03 07:12:16|Evenings in Antarctica [OC][4032 × 3024] @dallatheexplorer|https://i.redd.it/9h7q2hhzji841.jpg|dallathe|False|https://redd.it/ejbytj|68|0.95|0|2|0|earthporn
+ej0d7b|2020-01-02 16:28:32|Gore Range Sunset [OC][1080x1080]|https://i.redd.it/vyex1zhn6e841.jpg|Rob_Phillips_Photo|False|https://redd.it/ej0d7b|976|0.99|0|14|0|earthporn
+ejc2lp|2020-01-03 07:23:28|Pinnacles National Park California, hidden bridge, taken around sunset [4584x9038] [OC]|https://i.redd.it/bonwtfq4mi841.jpg|junk5ighter|False|https://redd.it/ejc2lp|59|0.93|0|2|0|earthporn
+ej8ave|2020-01-03 01:57:56|Mount Katahdin 2017 [OC][1920x2400]|https://i.redd.it/igrlj6q80h841.jpg|sunshine_365_|False|https://redd.it/ej8ave|166|0.98|0|4|0|earthporn
+ejb8x2|2020-01-03 06:01:57|Freezing moonlit night in Lapland, Finland 12/2016 [OC] [2700x1802] IG: @mpxmark|https://i.redd.it/hte7e2rr7i841.jpg|mpmark|False|https://redd.it/ejb8x2|77|0.96|0|3|0|earthporn
+eiw3mw|2020-01-02 09:24:37|A good day for a hike up to Torres del Paine, Chile [OC] [2814 × 2814] @dallatheexplorer|https://i.redd.it/y52o2d9o2c841.jpg|dallathe|False|https://redd.it/eiw3mw|4100|0.99|0|36|0|earthporn
+ejeb5h|2020-01-03 11:40:45|Bone chillingly cold, yet gorgeous sunset at Crater Lake, Oregon [OC] (4608x2176)|https://i.redd.it/asgni4z7wj841.jpg|Erathes|False|https://redd.it/ejeb5h|26|0.84|0|0|0|earthporn
+ej55xo|2020-01-02 22:06:51|Freshly snowed on peak, Austria [OC] [2736 x 3648]|https://i.redd.it/3nq9phc0vf841.jpg|El-Cucuy77|False|https://redd.it/ej55xo|308|0.99|0|2|0|earthporn
+ej22qn|2020-01-02 18:33:07|I’ve said it time and time again, Texas is beautiful you just need to know where to look! Pedernales Falls State Park. [OC] [3981x4976]|https://i.redd.it/abqc5vpvse841.jpg|BusyRunninErins|False|https://redd.it/ej22qn|558|0.97|0|12|0|earthporn
+ejawwq|2020-01-03 05:31:39|I had to see it to believe it. Fire Wave in Valley of Fire National Park, NV [OC][981x1488] IG: Andrew_Calder|https://i.redd.it/xktf7n2d2i841.jpg|Andrew_Calder|False|https://redd.it/ejawwq|74|0.93|0|6|0|earthporn
+ej3e4j|2020-01-02 20:04:54|"McWay Falls in Big Sur, California - Last Sunset of 2019 | OC [1920 x 2400] @c.by.eva"|https://i.redd.it/pfe7q7329f841.jpg|c-by-eva|False|https://redd.it/ej3e4j|392|0.98|0|11|0|earthporn
+ejc2ez|2020-01-03 07:22:53|Monument Valley Sun Set [OC] [6680x4453]|https://i.redd.it/jf1clgdqli841.jpg|MechBugs|False|https://redd.it/ejc2ez|46|0.93|0|4|0|earthporn
+ejda4j|2020-01-03 09:45:13|Tenryu-ji Temple, Japan [OC] [3840 x 2160]|https://i.redd.it/97yn3jplbj841.jpg|superb_soup|False|https://redd.it/ejda4j|28|0.84|0|0|0|earthporn
+ejbbho|2020-01-03 06:08:49|Limahuli Stream, Kauai, Hawaii (OC) [3513 x 1903]|https://i.redd.it/xzgk6jru8i841.jpg|usernamefunnynumber|False|https://redd.it/ejbbho|45|0.92|0|0|0|earthporn
+ejd1fs|2020-01-03 09:16:23|Massif des Écrins - French Alps - Dec.2019 [OC] [4128x2322]|https://i.redd.it/pohkoprg6j841.jpg|BenbenLeader|False|https://redd.it/ejd1fs|26|0.86|0|0|0|earthporn
+ej6czf|2020-01-02 23:32:01|From the top of Burg Hochosterwitz in Launsdorf, Austria [OC] [2048 × 1536]|https://i.redd.it/alzwbam6ag841.jpg|mattadamsapple|False|https://redd.it/ej6czf|146|0.99|0|4|0|earthporn
+ejaanb|2020-01-03 04:37:27|[OC] Dillon Falls, Deschutes River, OR 1920x1080|https://i.redd.it/r3h02grosh841.jpg|MCGaming1991|False|https://redd.it/ejaanb|51|0.9|0|0|0|earthporn
+ej95bn|2020-01-03 03:03:52|Right after a wave crash in Montaña de Oro, by Karom Rivera (2048x787)[OC]|https://i.redd.it/8jm9qkzubh841.jpg|Vabrynnn|False|https://redd.it/ej95bn|69|0.94|0|0|0|earthporn
+ej56ce|2020-01-02 22:07:35|[OC] Bearwallow Mountain, NC [1920x1080p]|https://i.redd.it/3y9z09q4vf841.jpg|Adamjefferis|False|https://redd.it/ej56ce|165|0.98|0|5|0|earthporn
+ej12bb|2020-01-02 17:19:54|The Milky Way rising over Two Jack Lake during July in Alberta, Canada [OC][5962x8943]|https://i.redd.it/gwcdawbkfe841.jpg|KirbyJW|False|https://redd.it/ej12bb|384|0.98|0|1|0|earthporn
+ej8q1z|2020-01-03 02:30:34|North Shore of Oahu [OC] [4608x2184]|https://i.redd.it/q7fgu5t16h841.jpg|xandergamble|False|https://redd.it/ej8q1z|71|0.92|0|3|0|earthporn
+ej0pk7|2020-01-02 16:54:34|Last light of 2019 on Mt. Rainier, WA [2025x1350] [OC] ig @erikyoung_photography|https://i.redd.it/nhs22vuabe841.jpg|BonsaiLXIV|False|https://redd.it/ej0pk7|399|0.99|0|6|0|earthporn
+ejdcz2|2020-01-03 09:54:23|Beautiful sunset over private property, Michigan. OC, [1334x750]|https://i.redd.it/ldv4dnr8dj841.jpg|thanosfoot|False|https://redd.it/ejdcz2|17|0.78|0|3|0|earthporn
+eiq6i8|2020-01-02 00:13:36|Eva Lake, Revelstoke, BC [OC] [4032x3024]|https://i.redd.it/5d6t3ouoc9841.jpg|ChefSean69|False|https://redd.it/eiq6i8|31012|0.97|2|263|0|earthporn
+ej7iam|2020-01-03 00:56:24|Just a walk in my Tennessee woods. [OC] 3701X2304|https://i.redd.it/a103trx7pg841.jpg|On-My-Way-Out|False|https://redd.it/ej7iam|84|0.94|0|12|0|earthporn
+ej4x7n|2020-01-02 21:49:59|Flowing away, Gesäuse, Austria. [OC][2048x1367]|https://i.redd.it/em70on3srf841.jpg|Sakaarnis|False|https://redd.it/ej4x7n|148|0.99|0|5|0|earthporn
+ejabre|2020-01-03 04:40:01|Zion UT today after a light dusting [OC]4032x1960.|https://i.redd.it/yqoq4wm5th841.jpg|Elduderino82|False|https://redd.it/ejabre|36|0.9|0|0|0|earthporn
+ej2cge|2020-01-02 18:52:18|Majestic Mount Rainier in Washington State (OC) (5735x3956)|https://i.redd.it/542vtgo3we841.jpg|ethanlington|False|https://redd.it/ej2cge|223|0.99|0|2|0|earthporn
+ej45v2|2020-01-02 20:57:22|Cenote Azul in Quintana Roo, MX [OC] (1600x1200)|https://i.redd.it/o1n11w3mif841.jpg|Purdyburdie|False|https://redd.it/ej45v2|149|0.97|0|6|0|earthporn
+ej9wdn|2020-01-03 04:03:58|Kananaskis Country, Alberta, Canada [OC] [4103x2735]|https://i.redd.it/r1pbveepmh841.jpg|ugraham|False|https://redd.it/ej9wdn|39|0.88|0|2|0|earthporn
+ej563p|2020-01-02 22:07:09|Goðafoss, Iceland [OC] [5304x6630]|https://i.redd.it/a2y5ngpzuf841.jpg|SimenGjelsvik|False|https://redd.it/ej563p|115|0.99|0|2|0|earthporn
+ejbr1x|2020-01-03 06:50:26|Cathedral Cove, Coromandel NZ [OC] [1334x750]|https://i.redd.it/3btpuhdfgi841.jpg|ForeignLight|False|https://redd.it/ejbr1x|21|0.91|0|2|0|earthporn
+ej8fdn|2020-01-03 02:07:31|A beautiful abstract lake view from the top Ontario, Canada. [OC][1080x1350] IG: germanbankov|https://i.redd.it/awi5al3t1h841.jpg|germanbankov|False|https://redd.it/ej8fdn|51|0.9|0|2|0|earthporn
+ej1406|2020-01-02 17:23:25|Hoarfrost covered trees during sunrise, Southern Germany [OC][1600x1068]|https://i.redd.it/nt8zrtx8ge841.jpg|DBElephant|False|https://redd.it/ej1406|242|1.0|0|12|0|earthporn
+eja03m|2020-01-03 04:12:31|Letchworth State Park, Castile NY [4032x3024] [OC]|https://i.redd.it/13i4jog8oh841.jpg|Track_man|False|https://redd.it/eja03m|32|0.85|0|3|0|earthporn
+ejbmou|2020-01-03 06:39:01|Alaska, 1620×1080 oc|https://i.redd.it/zkis4lxdei841.jpg|pictureperfectalaska|False|https://redd.it/ejbmou|25|0.83|0|1|0|earthporn
+eizex7|2020-01-02 15:14:05|Sending some summer vibes against the cold winter - Weinheim - Germany [1675 x 1117][OC]|https://i.redd.it/x0enn719td841.jpg|inkvine83|False|https://redd.it/eizex7|362|0.99|0|3|0|earthporn
+ej9p9u|2020-01-03 03:47:29|Quilotoa Lake, Ecuador. Trying to pick up photography as a hobby. Would appreciate suggestions/tips. [OC] [8898 x 3856]|https://i.redd.it/n07qy6qrjh841.jpg|GeoStormV2|False|https://redd.it/ej9p9u|35|0.86|0|1|0|earthporn
+ej11xt|2020-01-02 17:19:08|Bracing for the storm (Torres del Paine) [OC][2812x5000]|https://i.redd.it/ihhpe68mfe841.jpg|MrMotherBoy|False|https://redd.it/ej11xt|241|0.99|0|6|0|earthporn
+eja6tm|2020-01-03 04:28:28|Tenryu-ji Temple, Japan [OC] [3840 x 2160]|https://i.redd.it/xoxj4603rh841.jpg|superb_soup|False|https://redd.it/eja6tm|27|0.88|0|0|0|earthporn
+ejcgj8|2020-01-03 08:06:57|Lionshead , Cape Town, South Africa [OC] [1920 x 1080]|https://i.redd.it/nh2q99w2ui841.jpg|chalkbag31|False|https://redd.it/ejcgj8|13|0.79|0|0|0|earthporn
+ej19ic|2020-01-02 17:34:19|Joshua Tree National Park, CA covered in over a foot of snow. [OC] [3991x5979]|https://i.redd.it/mk9ijisdie841.jpg|_thecrazyadventurist|False|https://redd.it/ej19ic|200|0.99|0|3|0|earthporn
+ej8775|2020-01-03 01:49:49|North Tahoe Mountain Range [OC] [5184x3456]|https://i.redd.it/zik1k9rkyg841.jpg|NothingToSeeHere4132|False|https://redd.it/ej8775|40|0.89|0|0|0|earthporn
+ej72ze|2020-01-03 00:24:45|Overlooking the Dead Sea atop Mount Masada, Israel [OC][1920x1080]|https://i.redd.it/3kxy7weljg841.jpg|lil_tasty15|False|https://redd.it/ej72ze|57|0.93|0|0|0|earthporn
+ej3dfa|2020-01-02 20:03:31|[OC][4032x3024] Castle mountain behind Rockbound Lake, Banff, Canada|https://i.redd.it/m73akgix8f841.jpg|DaveMacaroni|False|https://redd.it/ej3dfa|116|0.99|0|4|0|earthporn
+eiwljt|2020-01-02 10:25:30|Wörthersee, Austria [OC] [3859x2573]|https://i.redd.it/aijql7jkdc841.jpg|ins0mniacdude|False|https://redd.it/eiwljt|671|0.99|0|15|0|earthporn
+ej17na|2020-01-02 17:30:37|Banner Peak on an icy cold morning, Ansel Adams Wilderness, California [OC][3880x4849]|https://i.redd.it/56du2ttfhe841.jpg|enigmo81|False|https://redd.it/ej17na|173|0.99|0|5|0|earthporn
+ejb97z|2020-01-03 06:02:44|[OC] Beautiful and unexpected fungus and Mold in my side garden. Vestavia, AL [4160x3120]|https://i.redd.it/c6p2amvw7i841.jpg|RichAstronaut|False|https://redd.it/ejb97z|17|0.81|0|2|0|earthporn
+ej50r5|2020-01-02 21:56:53|Searching for Wonderland. Washougal, WA (OC) [2592x3872]|https://i.imgur.com/GMXEmwO.jpg|the_bearded_bastard|False|https://redd.it/ej50r5|78|0.94|0|3|0|earthporn
+eivnil|2020-01-02 08:28:24|[OC] Maharashtra, India from 30000 feet. [1334x750]|https://i.redd.it/dmjplwazsb841.jpg|trapbike101|False|https://redd.it/eivnil|898|0.99|0|10|0|earthporn
+eja0q3|2020-01-03 04:14:05|Sunset over the Teton River, Teton, Idaho, USA. [6552 × 4914] [OC]|https://i.redd.it/c1ihh0ofoh841.jpg|neardumps|False|https://redd.it/eja0q3|20|0.88|0|0|0|earthporn
+eiypby|2020-01-02 14:13:11|Riisitunturi, Kuusamo, Finland [OC] [1920x1281]|https://i.redd.it/n8pdxw9cid841.jpg|pke82|False|https://redd.it/eiypby|274|0.98|0|6|0|earthporn
+ej159h|2020-01-02 17:25:54|Continuing today's German beauty pics, Burgbach Wasserfall, in the Black Forest region near Bad Rippoldsau-Schapbach, Germany [OC][2160x3840]|https://i.imgur.com/LVo1rnT.jpg|bandofgypsies|False|https://redd.it/ej159h|153|0.99|0|5|0|earthporn
+eiou9t|2020-01-01 22:29:17|Mount Everest, Nepal [OC] [1840x2460]|https://i.redd.it/kpeqhsr3u8841.jpg|bondibeach2205|False|https://redd.it/eiou9t|6452|0.98|0|56|0|earthporn
+ej2e73|2020-01-02 18:55:45|Colca Canyon, Peru [OC][6000x4000]|https://i.redd.it/2pwq0h3twe841.png|oksurenowwhat|False|https://redd.it/ej2e73|101|0.98|0|1|0|earthporn
+ej8atn|2020-01-03 01:57:51|Rallarveien (the navvy road), between Abisko (SE) and Rombaksbotn (NO) [OC][3072x1957]|https://i.redd.it/thpq2obvzg841.jpg|pilt|False|https://redd.it/ej8atn|27|0.94|0|0|0|earthporn
+eizime|2020-01-02 15:22:20|"[OC]""Dragon's Eye"" in Antelope Canyon, AZ, US [4032 X 3024]"|https://i.redd.it/ba8wxlucud841.jpg|Jungle_Fiddle|False|https://redd.it/eizime|186|0.97|0|4|0|earthporn
+ej5dbz|2020-01-02 22:21:11|Beautiful waterfall in mountains of North Carolina (4032 x 3024) [OC]|https://i.redd.it/q2x55g3kxf841.jpg|zenatron36|False|https://redd.it/ej5dbz|50|0.95|0|0|0|earthporn
+ej5uwr|2020-01-02 22:55:40|Emerald Lake Trail, Rocky Mountain National Park [OC] [2436 x 1125]. Also the location of my engagement 💍!|https://i.redd.it/fpnghq3p3g841.jpg|skyybooper|False|https://redd.it/ej5uwr|44|0.95|0|5|0|earthporn
+ej606u|2020-01-02 23:06:23|[OC] [1080 X 1350] Star trails over Panchachuli peak from Munsiyari (Uttarakhand, India)|https://i.redd.it/2eepwevm5g841.jpg|khan-isa|False|https://redd.it/ej606u|42|0.92|0|2|0|earthporn
+eipbr0|2020-01-01 23:06:32|My best photo of 2019, a classic sunset on El Capitan, Yosemite.[OC][3664x5863]@pjphotoscapes|https://i.redd.it/jelw761h09841.jpg|Oxus007|False|https://redd.it/eipbr0|4241|0.98|0|33|0|earthporn
+ej6xff|2020-01-03 00:13:14|I beautiful day for walking the trails of Fyre Park (Northwest Olympia WA) And had to take some pictures. [OC] (4032x3024)|https://i.redd.it/89lgd7oihg841.jpg|Phantazium|False|https://redd.it/ej6xff|29|0.92|0|2|0|earthporn
+ej50od|2020-01-02 21:56:42|Doonbeg Bay, Ireland [OC] 5456x3632|https://i.redd.it/up9v6wv6sf841.jpg|throwawaygmcclt|False|https://redd.it/ej50od|48|0.94|0|0|0|earthporn
+ej63na|2020-01-02 23:13:06|Cold winter day, Bavaria, Germany [OC][5376x3024]|https://i.redd.it/g4pr3fks6g841.jpg|TheOnlySmaug|False|https://redd.it/ej63na|40|0.93|0|0|0|earthporn
+ej2lhl|2020-01-02 19:09:35|Morning glow in the Escalante Desert [OC][7952 x 4970]|https://i.redd.it/fss5qgobze841.jpg|adutton1|False|https://redd.it/ej2lhl|74|0.93|0|2|0|earthporn
+eiypwt|2020-01-02 14:14:27|Sprawling roots, Northern Ireland [OC] [4032x3024]|https://i.redd.it/4htfcmtmid841.jpg|DonDino1|False|https://redd.it/eiypwt|170|0.97|0|5|0|earthporn
+eiqy1e|2020-01-02 01:14:22|Hieroglyphic Trail Superstition Mountains Gold Canyon AZ (OC) (3024x4032)|https://i.redd.it/gdy8ibvjn9841.jpg|Joeyzona48|False|https://redd.it/eiqy1e|2005|0.99|0|17|0|earthporn
+ej6b7k|2020-01-02 23:28:25|[OC] Norris Lake, TN [1920x1080p]|https://i.redd.it/sip5j8aj9g841.jpg|Adamjefferis|False|https://redd.it/ej6b7k|32|0.95|0|5|0|earthporn
+eix0li|2020-01-02 11:15:50|Outback Australia is so beautiful and nothing man-made for hundreds of km, taken near Panawonica, Western Australia [3648 x 2736] [OC]|https://i.redd.it/auboh2wumc841.jpg|rizzle1996|False|https://redd.it/eix0li|294|0.96|0|20|0|earthporn
+eja9nw|2020-01-03 04:35:10|Arabian Sea at sunset @ Dwarka, Gujarat, India [OC] [3399x3024]|https://i.redd.it/8v8thxz2sh841.jpg|rhesusmonkey85|False|https://redd.it/eja9nw|11|0.81|0|0|0|earthporn
+ej5l0v|2020-01-02 22:36:32|Godrays @ Hachijojima Islands, Tokyo [OC] [3024x3024]|https://i.redd.it/gcluor0b0g841.jpg|superpixell|False|https://redd.it/ej5l0v|35|0.9|0|0|0|earthporn
+ej33fm|2020-01-02 19:44:18|A starry night over Mt. Whitney and the Eastern Sierras in California. [2180 x 1453][OC] instagram: @liamsear.photo|https://i.redd.it/gi096cke5f841.jpg|guitar805|False|https://redd.it/ej33fm|61|0.93|0|0|0|earthporn
+ej2g4b|2020-01-02 18:59:35|Taken on the Oregon Coastline [OC] [2549x3823]|https://i.redd.it/4nnem8glxe841.jpg|the-letter-5|False|https://redd.it/ej2g4b|61|0.93|0|1|0|earthporn
+ej1fhg|2020-01-02 17:46:16|New Years Eve at Zabriskie Point, Death Valley CA [OC] [1000 × 1599]|https://i.redd.it/y93uzbmake841.jpg|InkognitoV|False|https://redd.it/ej1fhg|83|0.97|0|1|0|earthporn
+ej4c5l|2020-01-02 21:09:12|[OC] Crater Lake, OR 1920x1080|https://i.redd.it/kh5f4y3pkf841.jpg|MCGaming1991|False|https://redd.it/ej4c5l|40|0.95|0|2|0|earthporn
+ej3ft2|2020-01-02 20:08:01|Terrestrial Confluence - Valahnúkur, Iceland [OC][5300 x 4000]|https://i.redd.it/iaz4oxtb8f841.jpg|GungieBum|False|https://redd.it/ej3ft2|45|0.89|0|1|0|earthporn
+ej2lvf|2020-01-02 19:10:14|Spiti Valley, India. One of the most Serene and beautiful New Year for me... [OC] [4608x3456]|https://i.imgur.com/XijrdzI.jpg|reallyConfusedPanda|False|https://redd.it/ej2lvf|54|0.94|0|0|0|earthporn
+ej7hcf|2020-01-03 00:54:18|Roughting Linn Waterfall, Northern England. [OC] [3,654x4,654]|https://i.imgur.com/kD6bcQs.jpg|TheGruesomeTwosome|False|https://redd.it/ej7hcf|17|0.95|0|1|0|earthporn
+ej49gf|2020-01-02 21:04:07|View from the top of Narangala, Sri Lanka [OC] [4032 x 3024]|https://i.redd.it/7hz4w88tjf841.jpg|travellingmedic|False|https://redd.it/ej49gf|35|0.97|0|0|0|earthporn
+ej72tb|2020-01-03 00:24:24|Morning sun shines through tree leaves in Kakopetria, Cyprus. 1824x4000 [OC]|https://i.redd.it/i6fs3a9jjg841.jpg|Const1357|False|https://redd.it/ej72tb|18|0.86|0|0|0|earthporn
+eixay1|2020-01-02 11:49:43|Westendorf, Tirol, Austria [3024 x 4032] [OC]|https://i.redd.it/n89g455osc841.jpg|xMic|False|https://redd.it/eixay1|179|1.0|0|2|0|earthporn
+eixyf8|2020-01-02 13:00:56|Cloudy Morning at Mountains, Manali, HP [2880x3840][OC]|https://i.redd.it/opt2f2895d841.jpg|ASAmd|False|https://redd.it/eixyf8|145|0.98|0|2|0|earthporn
+ej9uo5|2020-01-03 04:00:03|Sunset at Beluga point, Alaska (1079×1079) oc|https://photos.app.goo.gl/FycYNXwYgDsn2vkW8|Generalali28|False|https://redd.it/ej9uo5|9|0.86|0|2|0|earthporn
+eiugy9|2020-01-02 06:17:06|A nice snap taken in French Polynesia [oc] 1600x914|https://i.imgur.com/gQAd4XT.jpg|SciFiHiFive|False|https://redd.it/eiugy9|492|0.99|0|7|0|earthporn
+eiz3tb|2020-01-02 14:48:49|Meteora, Greece [OC] [4032x3024]|https://i.redd.it/bic0w0trod841.jpg|rhysnomer|False|https://redd.it/eiz3tb|100|0.97|0|1|0|earthporn
+ej07um|2020-01-02 16:17:24|Lake Laramon under a starry night sky, The Alps, France [OC][6000x4000]|https://i.redd.it/drrwiaoz3e841.jpg|Gladeryn|False|https://redd.it/ej07um|76|0.95|0|3|0|earthporn
+ej4xu3|2020-01-02 21:51:09|Last Light on Half Dome - The final sundown of 2019 in Yosemite [OC] [1620x1252] @pmully94|https://i.redd.it/pg8it7o1sf841.jpg|petey-pablo|False|https://redd.it/ej4xu3|25|0.91|0|0|0|earthporn
+ej48s9|2020-01-02 21:02:54|[OC] Shenandoah NP Clouds [4256x2832]|https://i.redd.it/j9amwj0bjf841.jpg|duckcatdesign|False|https://redd.it/ej48s9|27|0.87|0|0|0|earthporn
+ej1zqy|2020-01-02 18:27:07|Navajo Nation Snow North of Chinle, AZ [OC] [789x1052]|https://i.redd.it/6axcoawqre841.jpg|nowell29|False|https://redd.it/ej1zqy|45|0.93|0|0|0|earthporn
+ej0gth|2020-01-02 16:36:23|Kananaskis, AB [OC][3385x5077]|https://i.redd.it/slier1a18e841.jpg|hmack87|False|https://redd.it/ej0gth|59|0.94|0|0|0|earthporn
+eix69f|2020-01-02 11:34:47|Views at the heaven's gate, Sa Pa Vietnam [OC] (4608x3456)|https://i.redd.it/jx8e6qq8qc841.jpg|basr98|False|https://redd.it/eix69f|143|0.99|0|0|0|earthporn
+eii83w|2020-01-01 13:14:24|Another Master Oogway Tree, Jeolla Province, South Korea [OC] [3000x1500]|https://i.redd.it/69qn02v236841.jpg|NathanielMerz|False|https://redd.it/eii83w|30803|0.96|3|156|0|earthporn
+ej2zxo|2020-01-02 19:37:26|Waimea Canyon, Kauai [OC] [5616x3744]|https://i.redd.it/xavaj6n94f841.jpg|Meatgortex|False|https://redd.it/ej2zxo|33|0.93|0|0|0|earthporn
+eiyutk|2020-01-02 14:26:49|[OC] Barters Island, Coastal Maine [1900x1262]|https://i.imgur.com/svHUXvJ.jpg|Cheezis_Chrust|False|https://redd.it/eiyutk|80|0.95|0|1|0|earthporn
+ej41d2|2020-01-02 20:49:00|Perfect silence in Adirondack Park, NY, USA [OC] [2560x1440]|https://i.redd.it/3fbty0v1gf841.jpg|KingAksel-XII|False|https://redd.it/ej41d2|23|0.9|0|1|0|earthporn
+ej6ipv|2020-01-02 23:43:26|Barrios de Luna (Spain) [OC] [2560x1370]|https://i.redd.it/umnznjr8cg841.jpg|andresbena20|False|https://redd.it/ej6ipv|14|0.89|0|0|0|earthporn
+ej06rh|2020-01-02 16:15:01|From Under the Double Arch, Arches National Park [OC] [5472x3648] IG: @kar.photo|https://i.redd.it/gzj821s74e841.jpg|kylefornia_roll|False|https://redd.it/ej06rh|53|0.93|0|0|0|earthporn
+ej2w27|2020-01-02 19:29:47|Grey days above Skógafoss, Iceland [OC] [5616 x 3744]|https://i.redd.it/9yehjupo1f841.jpg|justinjuliet|False|https://redd.it/ej2w27|28|0.89|0|0|0|earthporn
+eiy4du|2020-01-02 13:17:04|Looking out from Jungfrau, Switzerland [OC] (4608x2592)|https://i.redd.it/hadjjprg8d841.jpg|wozza00|False|https://redd.it/eiy4du|88|0.97|0|3|0|earthporn
+ej3e4d|2020-01-02 20:04:53|Sunset at Saint Martin's Island, Bangladesh (3456x4608) [OC]|https://i.redd.it/fktcvjq89f841.jpg|ab1d_rahman|False|https://redd.it/ej3e4d|28|0.94|0|0|0|earthporn
+ej4q48|2020-01-02 21:36:28|Les Deux Alpes, France [3632 x 2702] [OC]|https://i.redd.it/tjwv1420pf841.jpg|MrJeeves123|False|https://redd.it/ej4q48|16|0.91|0|0|0|earthporn
+ej1rty|2020-01-02 18:10:55|River gorge near Wells Gray Provincial Park, British Columbia, Canada [OC][1920x1280]|https://i.redd.it/04zjhlmtne841.jpg|Flemingfamilyfarm|False|https://redd.it/ej1rty|35|0.9|0|0|0|earthporn
+eikckw|2020-01-01 16:46:16|A cave in my hometown of Nynäshamn, Sweden [OC] [1920x1920]|https://i.redd.it/8832bnbr47841.jpg|philipslotte|False|https://redd.it/eikckw|3983|0.99|0|46|0|earthporn
+ej2fmk|2020-01-02 18:58:38|Eternal ice at Jökulsárlón [OC] [2400x1600]|https://i.imgur.com/XSA46XP.jpg|SeGnagflow|False|https://redd.it/ej2fmk|27|0.85|0|0|0|earthporn
+ej36se|2020-01-02 19:50:45|Took this at Carega, Italy. [OC] (1024x768)|https://i.redd.it/8fl6kjfq6f841.jpg|Pier14|False|https://redd.it/ej36se|20|0.9|0|0|0|earthporn
+eiu9bj|2020-01-02 05:56:49|Matterhorn at sunset with the moon [OC] [5616x3744]|https://i.redd.it/slzt07mw1b841.jpg|Meatgortex|False|https://redd.it/eiu9bj|272|0.98|0|7|0|earthporn
+ej2m24|2020-01-02 19:10:35|Forces of nature in miniature - Runoff water erodes the soft earth around harder rocks creating little pebble topped pillars (2016 x 1512) [OC]|https://i.redd.it/cw02z3pzye841.jpg|darkpyschicforce|False|https://redd.it/ej2m24|23|0.94|0|1|0|earthporn
+ej2oh5|2020-01-02 19:15:07|Hudson river, New York [oc][2400x1600]|https://i.redd.it/55k13ebd0f841.jpg|adam17th|False|https://redd.it/ej2oh5|23|0.96|0|0|0|earthporn
+eilw8m|2020-01-01 18:45:21|Ocean Trail, Bar Harbor, Maine. 1334x750 [OC]|https://i.redd.it/clz5jfi2q7841.jpg|THORICisBAD|False|https://redd.it/eilw8m|1983|0.98|0|28|0|earthporn
+ej1eb1|2020-01-02 17:43:55|Penitentiary Glen Reservation - Kirtland, Ohio [OC] 7952 x 5304|https://live.staticflickr.com/65535/49317226202_22a8d11877_k.jpg|Drano4sho|False|https://redd.it/ej1eb1|26|0.86|0|0|0|earthporn
+eiz2wo|2020-01-02 14:46:40|"Badwater Reflection | Death Valley NP [2400x1600] [oc]"|https://i.redd.it/zvzpko4hod841.jpg|trey_ver|False|https://redd.it/eiz2wo|45|0.91|0|0|0|earthporn

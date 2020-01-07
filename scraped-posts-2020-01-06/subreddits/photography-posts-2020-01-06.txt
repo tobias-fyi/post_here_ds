@@ -1,0 +1,1373 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+eajgl1|2019-12-14 13:01:49|r/photographs Best of 2019: Nomination Post|"This past year brought on the revitalization of r/photographs, a sub for the r/photography community to share their work!
+
+To celebrate all the talent shared this past year, we will be holding a “Best of 2019” contest. Please make your nominations in this thread.
+___
+
+**To nominate your favourite images from the past year, please comment as follows:**
+
+> **Genre:** Landscape, Travel, Portrait, Street/Documentary, Wildlife, Cityscape/Architecture, Abstract, Other
+
+> **Username:** /u/*usernamehere*
+
+> **Photo Title:** Title and link to the post on r/photographs. *Please be sure to link the post, not the direct image link.*
+
+**Any comment not formatted as such will be removed. Any non-nomination comments will also be removed. Only one nomination per comment.**
+
+Using Reddit markdown and unsure of how to format? [Read this](https://www.reddit.com/r/HFY/wiki/ref/faq/formatting_guide).
+
+*You may nominate yourself up to two times. Please limit your nominations to no more than ten total.*
+
+___
+
+**Need some inspiration or reminders of what has been posted in 2019?** 
+
+Have a look at the: 
+
+* [Top from the past year sort](https://www.reddit.com/r/photographs/top/?sort=top&t=year)
+
+* [Monthly Prompt tag](https://old.reddit.com/r/photographs/search/?sort=top&q=flair%3AMonthly%2BPrompt&restrict_sr=on&t=year)
+
+___
+
+**Nominations will remain open until ~~January 2, 2020~~ January 8, 2020. A voting thread to be posted shortly thereafter.**
+
+Note for clarification: This is just the nomination thread. Winners will not be chosen in this thread. If you have any questions about the process, please direct them to this thread in /r/metaphotography: [r/photographs Best of 2019 Nomination Discussion Thread](https://redd.it/eajtn8)
+
+Prizes to be announced.
+
+___
+
+**[EDIT]** Nominations have been extended to January 8, 2020!"|clondon|False|https://redd.it/eajgl1|35|0.87|0|81|1|photography
+ekt7uk|2020-01-06 12:00:02|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2020 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/ekt7uk|84|0.91|0|347|1|photography
+eku5kq|2020-01-06 13:29:18|Community Thread: 01/06/2020|"What are you up to? Share with your e-friends! What's that shiny new piece of equipment?
+
+Show off cool stuff you've created. We want to see and discuss your pictures, videos, website...or anything, really!
+
+If you've got interesting links to stuff created by someone else we'd love to discuss that too!"|AutoModerator|False|https://redd.it/eku5kq|93|0.97|0|109|1|photography
+ekniwo|2020-01-06 02:43:27|Do you have any other artistic skills besides photography?|"I want to get a sense of how many people here draw, paint, etc. 
+
+* Do you find it useful in your photography, as far as your understanding of artistic concepts goes? For example, does knowing how to draw people transfer over to knowing how to pose people in real life? Does it make lighting an easier concept to grasp?
+
+* Did you start before or after you got serious with photography?
+
+* How long have you been doing each?"|UnablePineapple|False|https://redd.it/ekniwo|181|0.94|0|153|1|photography
+ekirgd|2020-01-05 20:41:08|What is your favourite photograph by another photographer?|I’m new to photography and I’m looking for some really interesting photo to study, share your favourites :)|RufusSpikes|False|https://redd.it/ekirgd|319|0.94|0|197|1|photography
+ekdq7u|2020-01-05 14:35:04|What is the oldest camera you regularly use?|"And what is your current go-to digital camera?
+
+I currently use a Leica IIIa and a Canon Rebel SL2."|KeeperofQueensCorgis|False|https://redd.it/ekdq7u|297|0.95|0|384|1|photography
+ekjzm1|2020-01-05 22:20:54|Pros and Cons about the brand / kit you're using!|"**I'm interested in hearing about your experience with the brands which you use, what you mainly photograph, if you've switched, and what you would say are the pros / cons. I've had a look online and I'm only able to find reviews for specific products and not brands as a whole, so I'd be interested to hear your advice!** 
+
+I wont try to dress this up - I'm looking at purchasing a [Canon EF 100-400mm f/4.5-5.6L IS II USM](https://www.canon.co.uk/lenses/ef-100-400mm-f-4-5-5-6l-is-ii-usm-lens/) since my telephoto lense no longer provides me enough reach or clarity, and I'm afraid of 'brand lock in'. I'm currently only around £700 deep in Canon, purchasing the new lense will plunge me into the brand for the foreseeable future. I'll start!
+
+___
+
+Brand: Canon
+
+* Canon EOS 800D
+* Canon 18-55 kit lense
+* Canon 55-250mm IS (from 2007 - now discontinued). 
+
+Pros:
+
+* Lightweight and extremely portable
+* 800D with the 18-55 has decent autofocus for when I'm on the move
+* Cropped sensor gives me a bit more reach out of my lenses
+* Canon seem to have lots of choice in lenses and accessories
+
+Cons:
+
+* Canon lenses seem to be relatively expensive
+* No 4k / 120fps video
+* Mediocre performance in handheld lowlight 
+
+___
+
+I'm excited to hear from you all! For reference, some of my shots can be found [here](https://napuepics.wordpress.com/)"|Sodu|False|https://redd.it/ekjzm1|55|0.78|0|101|1|photography
+ekhp9s|2020-01-05 19:28:05|What is your time lapse work flow?|I recently began shooting hyperlapses on my drone and am pretty overwelmed by the amount of storage it takes up. For photos and video, I generally keep everything since storage is cheap and deleting files is a pain. However, one 30 second time lapse takes up about 10 gb's. I am curious how people who shoot lots of time lapses handle deciding what to keep, what to work with, what to delete, etc.|judefinisterra|False|https://redd.it/ekhp9s|65|0.9|0|14|1|photography
+ek1vx9|2020-01-04 20:22:27|Advice for beginner photographers for 2020 (very long)|"I often reply to the question ""what advice do you have for beginners?"" I've saved, edited and expanded my answer over many months. Seeing that it's a new year and a lot of folks have recently gotten cameras, I thought it might be helpful to submit this as its own post. 
+
+* Let's begin with the most difficult one: Understand that the image the camera captured is not the same as the subject in front of you. It's actually different. Often I think beginners see something interesting, point the camera at it, and press the shutter. ""I took a picture of a good subject, therefore it must be a good photo."" But the photo is more than the subject, it is a fully-realized 2-D composition. Learn to see the *entire image you took*. Look at the background, the foreground, the corners, the center the perimeter, everything. How do all the parts work together? Where is empty space, and where is busy space, and how do those relate to each other in a purely visual way? Learn to see how (for example) railroad tracks or a fence visually become a line which lead your eye to a certain spot, or how a lamp becomes a bright spot which attracts your eye, or how an object on the left balances an object on the right. Struggle to see the entire 2D image as a unified composition. Your photo is similar to a painting, in the sense that the placement of every element should be deliberately chosen. (This is actually much, much more difficult than it might seem at first to even understand, much less to master, so don't feel bad if you don't get it right away).
+
+* This piece of advice comes from a photo workshop I took with Jack Dykinga: ""work the scene."" Don't just take one photo of a thing. Take several. Take several more. Try different angles. Try closer. Further. The goal here is to make it better. Then make it even better. Then, dammit, make it still better. The goal here isn’t to “spray and pray” by shooting randomly and hoping something good comes of it. The goal is to thoughtfully, to incrementally take better and better shots of your subject. And to give yourself multiple options to choose from, in a deliberate way. It might only be later, in post that it becomes apparent that the vertical orientation works better than the horizontal orientation, for example.
+
+* Another bit of advice from Jack Dykinga: in landscape photography, look for edges. Where the sea meets the sand, where the seaweed ends and the rock begins, etc.
+
+* When you see something interesting to photograph, think about what in particular interests you about it. Is it the color? The symmetry? the ugliness? The beauty? The majesty of the sea? The cuteness of the kitten? The speed of the racing car? Try to emphasize that through your height, your shutter speed, your lens choice, your distance from the subject, everything. Everything should be a choice, and should contribute to the image.
+
+* Don't hold your device a certain way because that is the device's default (vertically for smartphones or horizontally for most cameras). Hold it the way that works best for the subject. Often that means vertical for portraits and horizontal for landscapes, but not always. Maybe try both vertical and horizontal for a given image. Maybe a square composition works best. Really look at the scene, see what orientation works better for the shot in front of you.
+
+
+* ""Rule of thirds"" is great, but it's not an ironclad rule to be imposed everywhere. It’s just one compositional technique of many. There's also bilateral symmetry, radial symmetry, patterns, leading lines, framing, negative space, contrasting color, foreground/background, lots more. They often work together. Thread about [rule of thirds here](https://old.reddit.com/r/AskPhotography/comments/cbw2b7/do_you_usually_shoot_using_the_rule_of_thirds/)
+
+* Lighting is everything in photography (well, nearly so!). When the light is bad, it might be best to put your camera aside. Take out the camera when the light is good. Don't be afraid to add light, if you need to. Change your position, if the light is better that way. Go outdoors when the sun is low, not when the sun is high in the sky. I'd bet at least seven of out ten threads about ""how is this picture taken"" or ""how can I process this better"" are really questions about lighting, not processing techniques, as many beginners seem to think.
+
+* In portraiture, don't just bullseye the head in the dead-center of the frame, especially for verticals. Consider the empty (negative) space that results above the subject's head. Do you really need that? Does it contribute to the story? Consider cropping dead space which doesn't help tell the story. Consider the relationship of the subject to the background. Does the background tell their story (their work tools, their dorm room)? I tend to think just a little bit of background is enough. On the other hand, sometimes a lot of background helps tell the story. Arnold Newman is a master of the off-center portrait with a lot of background, [here are some examples](https://mymodernmet.com/arnold-newmans-incredible/). If the person is small (or large) in the frame does that contribute to the story you're telling?
+
+* The basics of photography are the ""exposure triangle:"" aperture, shutter speed, and ISO. Now, you don't really have to learn these, you can set your camera to do that automatically, and that's fine. No judgement. But you'll never have full control over making your image, and you'll limit what you can and cannot achieve if you don't understand this. (google around for tutorials, this post is not about that, but it seemed so foundational that it needed mentioning).
+
+* Don't just learn about photography, you need to physically practice operation of the camera. Like a pianist or typist, who has to know how to use the keyboard without thinking about it. But the goal is not simply to be skilled at using the keyboard, the goal is to play a piece of music fluidly without the keyboard getting in the way. You do need to practice, and your practice can be just sitting in the backyard with family and taking portraits. Or taking photos of your dog, or flowers in the backyard. These may not be great or even good photos, but that's fine. You don't have to show them to anybody, or even keep them at all; the goal is to practice operating the camera so that it's as natural as driving a car or playing a piano.
+
+* By the same token, a good photo isn't simply about technical excellence. In the same way a good story is enhanced by the author's interesting word choices but not *just* about that, a good photo is technically adept but also tells a story or evokes emotion or enables the viewer to see something in a new way.
+
+* When you get something that you have put a lot of effort into, post it to /r/photocritique for feedback. Not ""my first portrait"", but maybe ""my 80th and best portrait"". If I'm going to put effort into a critique, I want to have a sense that you put at least some decent effort in creating the image. (I mean, if it's a truly beginner shot, I could just paste this post as my reply!)
+
+* When you're not actively shooting, google for photo tips, read and watch tutorials, check out books from the library, join a photo club in your town. After you are confident you well understand the basics of how to operate your camera (shutter speed, aperture, and ISO, how to set them, and how they relate to each other), sign up for a workshop or class. All the best learning experiences I have had have been shooting live in the field with more experienced photographers.
+
+* Don't only look at ""how to"" tutorials. Look at photography. Look at paintings. Go to art museums and galleries. Look at composition. Painting is a really interesting model, because the painter obviously controls every element of the image. Photography isn't really much different, because ...
+
+* A good photograph can come from serendipity, but it also very often comes from decisions made before the shoot, during the shoot, and after the shoot. The difference between ""making"" an intentional photograph and ""taking"" a snapshot is the intention. Control all the variables as much as you can. You choose when to shoot, in terms of what time of year, what time of day, what specific moment. You choose where to stand, which gear to modify the situation, etc etc. Make it, don't take it.
+
+* As far as post-processing, my philosophy is “I don’t care what the camera captured. I want to see the scene that was in your head when you took the picture.” Don’t be afraid to edit the image to make it look how you want it to look like. Make the grey sky blue, make the bricks contrasty, make those freckles into a motley black texture, add Godzilla to the scene, if that's what your creative heart desires.
+
+* People will often advise you [not to overdo post-processing](https://old.reddit.com/r/AskPhotography/comments/ci03dd/what_aspects_of_post_processing_do_you_wish_you/ev11ach/?context=3). I say: hogwash. When you are a beginner, you *should* overdo everything. What does ""too much HDR"" look like? Too much saturation? Too much contrast? Vibrance? Clarity?  By doing ""too much"" you learn what the tools do. It's better to do ""too much"" than not to do enough. Conversely, if you are too conservative and are constantly afraid of overdoing things, you won't have as good an understanding of what the tools do, what is enough, and what is ""too much"". Maybe adding a little more clarity will help the image; don't be afraid to try it. Don't limit your creativity before you even begin. Don't be timid. Be bold! That's the path to creativity.
+
+I'll leave you with the well-known quote from NPR host Ira Glass:
+
+>  “Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.”"|kickstand|False|https://redd.it/ek1vx9|1677|0.97|2|81|1|photography
+ekjibz|2020-01-05 21:44:51|street photography? Not mine at all|"Sorry for my failures in advance, not native - Greetings from Austria! After I started serious photography at the beginning of 2018, I collected much experience in these 2 years, for the very basics I made a course at a friend of my mother, watched many, many videos and read in forums. After a few months I was able to shoot manually with my newly aquiered 70D, shot over 15,000 pictures in 2018 and 2019, but I didn‘t stop learning online and got better and better, and I‘m still learning new things nearly every day.
+
+So now to the title: In these 2 years, I tried many genres of photography: from macro-planespotting, many different diciplines. After a time I recogniced that I love to do events, and in my free time, landscapes and nature. Regulary I shoot portraits, which I also like. There are some genres I like more, others I like less, but until now there is only 1, I can’t be friends with. Street Photography!
+
+I tried it at least 10 times or more. I watched dozens of videos, as I did with events or portraits, but I can‘t find anything interesting about it. In my home city-Vienna I barely find interesting scenes, and If I do, they aren’t interesting anymore in editing and just look boring. So my motivation for street is declining every time I try, and today, I think it was the last time I tried. Was in Vienna for a couple of hours, 10 shots - all boring. I simply can’t get warm with it. 
+That’s my story hope you liked it a little bit. 
+Maybe you have tips to get myself into street photography, would be happy to hear some!
+
+Felix"|felix05_|False|https://redd.it/ekjibz|8|0.71|0|16|1|photography
+ek9ydk|2020-01-05 07:39:38|Professional photographers who have moved across the county mid-career, how did you prepare for it?|"I will likely be moving out of state in 10 months. I’m pretty worried about the transition though. I’ve been building and growing my business for the last 3 years where I live now, and the thought having to do it all over and rebuild my clientele stresses me out. 
+
+Has anyone had a similar experience?"|michaeljphoto_|False|https://redd.it/ek9ydk|42|0.85|0|10|1|photography
+ejusa5|2020-01-04 09:51:20|I Made My Own Image Sensor! (And Digital Camera)|https://www.youtube.com/watch?v=PaXweP73NT4|shian243|False|https://redd.it/ejusa5|528|0.97|0|31|0|photography
+ekaht9|2020-01-05 08:41:18|Photo box?|"I still get prints of photos, they aren’t just in the cloud. I do not just print to frame them There is something about the tactile experience of viewing prints. I keep my photos in my late grandmother’s round hat box. Where do you keep yours? 
+
+
+I’m also a scrapbook nerd."|slashleyyy89|False|https://redd.it/ekaht9|6|0.79|0|4|1|photography
+ejuol7|2020-01-04 09:39:12|Olympus Dual-Ibis is simply out-of-charts|"New to the system, I recently got an OM-D E-M5 Mark III with a 12-100 f/4 IS pro.
+
+Before purchasing, I read a lot about how good the IBIS on those machines where, and that the 2 two lenses that offer joint Ibis (the 12-100 and the 300 Pro) offered unrivaled 6.5 Stops of stabilization.
+
+I was already used to have excelent IS with my former  canon lenses (had a 18-135 IS STM) where I could get 1/30 sharp shots at the long end, being a bit careful, and 1/15 on the short end.
+
+On the OM-D, after doing some tests, I was baffled : I could get 80% of keepers at ¡¡ 2 seconds !! of shutter speed, and 100% of them at 1 second. The funny thing is that it seems it doesn't matter very much on which focal length you are shooting with : performance is the same at 12mm and at 100mm
+
+I have soon started to realize the possibilities of this incredible performance, allowing to get shots on low light with base ISO (no added noise) and without tripod.
+
+Yesterday I had the occasion to try this shot I have had in mind for years : no possibility on putting a tripod (it's forbidden) or gorillapod (no suitable space for that). So it ended being a 2 seconds exposure at base ISO 200 and f/11 aperture.
+
+When we consider low-light photography, not everything is ISO performance. Personally this will be WAY more useful in my real-life shooting, than having cleaner high ISO (I'm thinking about FF cameras with no IBIS like the RP, with regular IS lenses)
+
+&#x200B;
+
+[Plaça Espanya, Barcelona, Spain](https://preview.redd.it/0k7rdb9veq841.jpg?width=1600&format=pjpg&auto=webp&s=731d007c3b702e5e9a3c4ed094242a36abb2f49c)
+
+Hope this will be helpful to anyone considering to acquire new gear ;)"|llondru-es|False|https://redd.it/ejuol7|280|0.95|0|53|1|photography
+ek8n0i|2020-01-05 05:23:28|What are the risks of buying used camera on eBay? Is it easy to get a refound if something doesn work right? I would really appreciate the help from anyone who knows something about this or has experience :)||maarleeey|False|https://redd.it/ek8n0i|4|0.63|0|23|1|photography
+ek2nw6|2020-01-04 21:18:52|My experience with imagequix and why I decided to leave|"On mobile. Sorry for formatting and the rant. 
+
+I’ve been a user of imagequix for several years, pushing my bulk photography through publisher, then switching to Blueprint this year. 
+
+This is when the trouble started. 
+
+In the years of use, I had fantastic customer service with questions, marketing, and tech support. It wasn’t until I switched over to their new system that the cracks began to show.  I would have to reach out to them for support on a weekly basis. Between refunds, the software not working as intended, or help with the new tools I felt like I was always on the phone putting out another dumpster fire. 
+
+During one of these... cracks, when waking up, I found imagequix was selling my digital files for a dollar. During this time several orders had been made and I had lost income. 
+
+Here’s my account in an email to Tim (Tim McCain
+Chief Revenue Officer) on Nov 20, 2019:
+
+
+Hi Tim and Alex,
+I've been a user of Image Quix for several years now and have recently switched over from using Publisher to Blueprint. While creating galleries and adjusting pricelists felt very similar I must say, the user experience has been abysmal. 
+
+While using Blueprint for several galleries, digital downloads became available for $1. While trying to find a fix, there was no $1 download to be found in my pricelist. At this time I shut down the live galleries, effectively killing any sales  in addition to the discounted downloads.
+
+After calling customer support and promised a call back, I never received one. It wasn't until I called a third time and refused a call back- I demanded to wait on hold until someone would become available. 
+At this time Kalyn said, while she wasn't an expert in the software she would do her best to resolve the situation. It was clear during a screen share she experienced the same issues I was having. My pricelist showed no dollar downloads while they continued to show as available to purchase. The only difference is she had tech support available at her disposal to share screengrabs and their knowledge and fixes in the background. 
+
+After our phone call, which lasted over an hour, it seems the issue has finally been resolved. 
+
+As a customer of Image Quix, to say I'm extremely disappointed by the customer service, lack of returned phone calls, and support would be an understatement.
+Considering this is clearly an Image Quix issue, I'm asking for compensation based on the lost sales from this major malfunction. 
+
+The response I received was fast:
+
+‘I will get with alex and kalyn to determine a proper direction.
+
+I have been completely out of the loop on this let me Dig in.’
+
+It was at this point our emails had been completely forgotten. Considering this was during the holidays, I gave a generous month with no reply. This was when I sent off the follow up email, calling Tim out on his inaction and lack of response. It was made abundantly clear they had no intention of fixing their softwares mistake and ignoring my request. Based on this, I’ve decided to change to another photo hosting site. 
+
+Here’s the response I received:
+
+‘I understand your decision and would like at least to offer my apology 
+
+I have had some personal things going on as of late, no excuse, I should have followed up. ‘
+
+Nothing else. No admission of anything, no response to fixing anything. 
+
+
+I could add what I replied, although I doubt it would make a difference. In the years I’ve used imagequix it seems as soon as photolynx purchased them, everything went downhill. 
+
+My hope is this, if you plan on using imagequix, shop around."|ckisela|False|https://redd.it/ek2nw6|8|0.86|0|1|1|photography
+ek4alv|2020-01-04 23:20:26|Advice needed on how to be a great photography customer|"Hi there!
+
+I just hired someone for headshots for the first time and I just wanted some advice on how to not be an annoying customer.
+
+I am self conscious and bad at posing for pics but i need headshots lol! advice for that welcome as well
+
+Thanks"|bobrossbooty|False|https://redd.it/ek4alv|3|0.65|0|4|1|photography
+ejkdg4|2020-01-03 19:31:27|Getting screwed by Getty.|"About 2 years ago I put in an application to sell my photos on Getty. 
+
+I was rejected, but invited to sell on istock. 
+
+So I start posting to istock and other places like eye em, and other Getty partners. 
+
+Well turns out they are taking most of my work, and selling it via Getty images. But giving me istock commissions. 
+
+
+They are selling the image for $450 as a full size image. 
+
+And I am getting maybe 20 cents or whatever I get from eye em.
+
+
+Anyone else having issues with this?"|skatephotographer|False|https://redd.it/ejkdg4|660|0.96|0|100|1|photography
+ek0ve6|2020-01-04 19:08:22|Lost all my photos, recovered them, they're a mess. How can I remove duplicates?|"Long story short, I deleted photos I thought were backed up in two places. They weren't backed up in two places and I didn't notice for quite some time.
+
+I ran an undelete app on the drive in question and it uncovered the lost pics and so very much more. Somehow all my images ended up being reproduced at least 5-6 times in various formats and file sizes. And since the recovered file names don't match the original file names, plus a lot of other metadata is messed up like dates and times, it is difficult to identify duplicates and which should be kept.
+
+I'm wondering if anyone knows of software that can scan a folder for images and identify duplicates based on the images themselves rather than file metadata. That would save me so much damn work."|eriksrx|False|https://redd.it/ek0ve6|6|0.82|0|16|1|photography
+ek2xk7|2020-01-04 21:38:43|eGPU's & Photography|"&#x200B;
+
+Is there any compelling reason to use an eGPU (with older Macs) for retouching?"|11201ny|False|https://redd.it/ek2xk7|3|0.63|0|24|1|photography
+ekci79|2020-01-05 12:37:45|What's up with Ken Rockwell?|It seems like you either love or hate him. What's up with this, and do you think it even matters?|Slammernanners|False|https://redd.it/ekci79|0|0.42|0|21|1|photography
+ejrm9v|2020-01-04 04:24:18|Stunning Chronophotos of Powerful Osprey in Mid-Hunt|https://mymodernmet.com/osprey-chronography-chen-chengguang/|realityhacker55|False|https://redd.it/ejrm9v|28|0.83|0|5|0|photography
+ejimf3|2020-01-03 17:30:40|Complete specifications and new images leak of the 1DX Mark III|https://www.canonnews.com/complete-specifications-and-new-images-leak-of-the-1dx-mark-iii|m_Th|False|https://redd.it/ejimf3|80|0.94|0|90|0|photography
+ejux0q|2020-01-04 10:07:04|After 2 rolls with my AE-1, I'm starting to think a disposable camera might be better...|"Hey /photography, I'bought my first camera last year in 2019 and just got my 2nd roll developed and emailed to me from london drugs. I did not fully spool my 2nd roll to the very end but not sure that is the cause of at least half my shots being blurry. I am new so can someone give me pointers on how to shoot in a grayish winter without flash? I like the appeal of a disposable right now with the flash, and no control on shutter speed and focus.
+
+also: for those with glasses, should I try to wear my glasses when shooting so I can focus my target better?
+
+thanks and have a nice 2020"|megasworth|False|https://redd.it/ejux0q|3|0.56|0|18|1|photography
+ejn4ve|2020-01-03 22:44:10|BOOOOOOOM’s Fav Photos Found In 2019: 64 Photos By 64 Photographers|https://www.booooooom.com/2019/12/30/64-photos-by-64-photographers/?fbclid=IwAR3UeSBCBmggvgxVY-U72e-lc5_y3kU3LsJCEgR3x5rp42-4lTKmiYKGPA0|crimenently|False|https://redd.it/ejn4ve|17|0.9|0|14|0|photography
+ej658s|2020-01-02 23:16:18|Trespassing...AGAIN. I'm going to start charging|"I have a business located on private property tucked back off the main road. We have a spa so I pay people to keep the grounds looking nice all of the time for our clients to enjoy.  Well photographers very regularly will bring their paying clients into my property because they dont have the space of their own to take pictures without getting other people in the photos. They dont just use the areas away from my actual building they will literally have them start posting on our front porch/patio. I've asked them several times to leave in front of their guests to embarrass them but that doesn't seem to work they still come back. One person even said once "" I know you said to keep off the property but the other place I was going to take them was being used.""
+I wouldn't mind if they used the space if they helped pay for upkeep.  I've been thinking of charging a fee to help pay for upkeep as some will move our outdoor furniture and leave without putting it back.
+So my question is do any photographers actually pay for outdoor space they use for  photo shoots on private property or does everyone just trespass?
+If you do pay What does the average photographer pay to go on private property?
+
+Edit: Thanks to everyone who took time  to respond.
+
+Today I had an other tresspassor. I spoke with her and she said she would take professional photos of my spa in trade for letting her use the space these past few times as she is one that comes back often. 
+Im going to add a fee to my webite to create a win win for everyone.  I'll look at getting a waiver or insurance to protect me."|Whogives_a|False|https://redd.it/ej658s|987|0.94|0|287|1|photography
+ejirr9|2020-01-03 17:41:06|r/photographs Top Post December 2019: /u/JimiDel|"Each month, we will be featuring the most upvoted post of r/photographs along with an introduction to the photographer. 
+___
+**[December 2019's top post](https://redd.it/easpyh) is from /u/JimiDel.**
+
+[""My Neighbor, a Vietnam Vet with stories for days.""](https://i.redd.it/dmcwc7hzap441.jpg)
+
+From the photographer:
+
+>My name is James Del, I'm an irishman livng in Southern California! I started shooting last year and it's quickly become an obsession. Follow me on Instagram at [@Valued_Cust0mer](https://www.instagram.com/valued_cust0mer/), I'd love to network with more creatives!
+
+About the photo:
+
+> I used to give this man guitar lessons a few years ago. There was no way he was ever going to be able to play fluently, his fingers were too worn and stiff from a life of manual labor. That was never the point though, the guitar lessons were just a reason for him to get out of the house and chat with someone for a few hours. In the past few years I hadn't seen him much, he was in and out of hospital with multiple issues but we reconnected recently when he saw I was offering free headshots for my friends while I practice my new hobby. I jumped at the chance to go to his house and hang out. This was the first picture I took of him, he's sitting in an arm chair so I had to kneel down and get close (30mm lens) and fired off a few shots using 1 $10 softbox located to the right at about 45degrees. As we hung out more that day I recorded video of him telling stories of his time in Vietnam. Funny and Tragic. He's a real life hero, I'm proud to call this dude my friend and i'm so glad I got to take his picture that day!
+
+Congrats to /u/JimiDel! Feel free to ask him about his work here. 
+___
+For your chance to be featured here on r/photography, submit your work over at r/photographs.
+
+**[Don't forget to nominate your favourite photo from 2019 here!](https://www.reddit.com/r/photography/comments/eajgl1/rphotographs_best_of_2019_nomination_post/)**"|clondon|False|https://redd.it/ejirr9|20|0.89|0|1|1|photography
+ejwnh2|2020-01-04 13:30:41|Help with stock images|So I'm trying to get into selling my photos so naturally I tried stock photo sites and even though I've tried multiple sites (Shutterstock, IStock) none of my photos have been purchased. Yet I know those photos meet the standards because I've had clients approve them. So I was wondering if there is a way to try get my photos out there? Would greatly appreciate any help!|mindless2007|False|https://redd.it/ejwnh2|0|0.42|0|10|1|photography
+ejjcng|2020-01-03 18:20:53|The SLR Rules Above All: KEH's Best-Selling Cameras Of The Decade (2010-2019)|https://www.keh.com/blog/the-slr-still-rules-them-all-our-best-selling-cameras-of-the-decade-2010-2019/|ejaculatingphallus|False|https://redd.it/ejjcng|17|0.71|0|22|0|photography
+ek017g|2020-01-04 18:07:18|10 Things Photographers Need to Stop Doing in 2020|https://fstoppers.com/originals/10-things-photographers-need-stop-doing-2020-442451|Ganzo_The_Great|False|https://redd.it/ek017g|0|0.26|0|9|0|photography
+ejehpd|2020-01-03 12:00:02|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2020 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/ejehpd|21|0.84|0|757|1|photography
+ejf51z|2020-01-03 13:03:45|I'm so confused? What a switch.|"A photographer agreed to shoot with me he asked me to come up with some ideas and find a stylist so I did. I set up a detailed moodboard and he loved it. I also found a great stylist they both knew each other and when I messaged them separately  they were super responsive. I put them in a group chat to discuss the dates of the shoot and nobody answered. It's frustrating when you set something up and put time into it only to be ignored. I messaged the stylist separately and he says that he is too busy with school even though before he had a lot of availability and then I messaged the photographer and he says something like , "" I'm off good luck "" . Like wtf? I did nothing wrong and everything was fine and to give such a response. I literally did nothing and wasn't badgering them for anything. I know I should get over it but I'm like wtf?how did it go from super enthusiastic to just nothing. Just to add I'm not a bad model, I've shot with many photographers and have been professionally modelling for over 5 years now and I'm very kind hence why this is bothering me a little.
+
+Edit: Thank you so much to all the photographer's /models who messaged me or gave me advice in the comments. Knowing it's a common thing is both reassuring and frustrating. I think it got to me a bit more because I am a sensitive person and  I put a lot of time into it and just expected some polite behaviour back . I appreciate it a lot . Just got to get the fuck over it haha."|gabbyrenataa|False|https://redd.it/ejf51z|20|0.74|0|25|1|photography
+ejrl2k|2020-01-04 04:21:24|National Geographic: Our Photographers' Favorite Cameras [2011]|https://www.nationalgeographic.com/travel/travel-photographers-favorite-cameras/|bobthebonobo|False|https://redd.it/ejrl2k|0|0.5|0|4|0|photography
+ej3ohk|2020-01-02 20:24:23|How I Photographed Carla House, One of My Favorite Shoots of 2019|https://apalmanac.com/architecture/how-i-photographed-carla-house-one-of-my-favorite-shoots-of-2019-7957|kolnidur|False|https://redd.it/ej3ohk|277|0.95|0|25|0|photography
+ejmj1e|2020-01-03 22:00:51|A friend wants me to take wedding pics for him...|"I have a very limited experience with photography. I have dabbled with the manual setting of Canon cameras, and I am able to get the ISO, F, and shutter speed where I want them for the shot. I have never taken a class or course in Photography, and my only real experience is when I had to take pictures for my class in a professionalism class. 
+I do have a friend who’s a photographer by trade who has a very impressive portfolio, including paid professional work doing weddings, Bat-mitzvahs, sport events, and other work. He has agreed to come out and help take the photos for the friend. 
+
+The problem...
+The friend who wants the wedding pictures states that he wants me to take the photos because it’d mean a lot to him because they’d be taken by a friend. However, I know I don’t have the skills -let alone the qualifications- to do this solo. He and his fiancé have agreed to a “Name-My-Price” agreement, but we have yet to work out the details (we are to discuss options later this week). 
+It seems as though that he doesn’t want to pay the $5K-$10K for a professional, but I don’t want to have my friend help out without paying him at LEAST enough for him to cover his expenses to come out here (approx $1,400+ food +whatever he could be making back home)
+My question is, would it be a dick move to charge my friend for this? I can’t give him a good product otherwise. 
+
+Note: I’m fine not charging him for my time (because I’m not qualified), but I don’t want to bring a friend across the ocean and end up charging him for it."|a1man57|False|https://redd.it/ejmj1e|0|0.5|0|16|1|photography
+eiyj0t|2020-01-02 13:57:08|Photography Lost & Found 2020|"Photography gear, by its portable nature, does run the risk of getting lost or stolen just like anything else. We understand that it sucks tremendously when this happens, so in an effort to help reunite lost gear with its owners, we are introducing a yearly ""Lost and Found"" post which will be permanently linked in the sidebar and link menus throughout the sub. 
+
+PLEASE READ THE FOLLOWING GUIDELINES CAREFULLY:
+
+1. *This is not a place for discussion of any kind.* The only comments that should appear below are comments which follow the found-item template. Any discussion comments or found-item comments that do not follow the template will be removed. 
+
+2. This is not the place to ask the community in general if anyone has found a particular item. If a user finds a piece of gear and posts about it, they will be redirected here to comment following the template for found items. If your item does not appear here, it is safe to say that it has not been found. 
+
+3. Please be considerate. This should go without saying, but if you find a piece of gear, do understand that it has an owner who would really like to have it back - whether it's simply an SD card filled with vacation photos or a brand new Canon camera. So please don't sell it or keep it for yourself. Post about it here.
+
+4. *Do not post serial numbers!* This is what we'll use to verify ownership. That is, if you find a piece of gear the owner should be able to confirm the serial number on that piece of gear to prove it's theirs. 
+
+FOUND ITEM TEMPLATE
+
+When you find a piece of gear, please use this template when posting a comment to add it to the lost and found. 
+
+---
+**ITEM FOUND:** Put the name of the found item(s) here.
+
+**LOCATION FOUND:** Put the location of where you found the item. Start with the specific physical location, followed by the city, state, and country. 
+
+**TIME/DATE FOUND:** The approximate date and time you found the item. 
+
+**PHOTOS:** If any photos were recovered along with the gear - especially if they contain photos of identifiable people - upload a small handful of them to the image host of your choice and link them here. (This also should go without saying, but if you discover a camera with ""sensitive"" photos, *DO NOT POST THEM AND DO NOT KEEP THEM*.) 
+
+**CONTACT:** If you want a user to contact you via direct-message on Reddit, simply link your /u/username page. Otherwise, enter whatever contact information you want. (Please don't post a phone number unless you absolutely understand the consequences of doing so.)
+
+---
+
+Here's an example:
+
+---
+
+**ITEM FOUND:** Nikon D5300 with 18-55mm Lens
+
+**LOCATION FOUND:** Historic Fourth Ward Park (by the waterfall), Atlanta Georgia, United States
+
+**TIME/DATE FOUND:** Saturday, November 5, 1955 10:00 PM
+
+**PHOTOS:** https://link.to.image_host/album
+
+**CONTACT:** user@email.tld
+
+---"|AutoModerator|False|https://redd.it/eiyj0t|231|0.93|0|8|1|photography
+ejdo4u|2020-01-03 10:29:01|What will you describe as light or simple photo editing?|"I see a lot of tech reviewers using the term “light or simple photo editing” but my questions is, what really defines that term and what does it include?
+
+&#x200B;
+
+Sorry if this is not the right community to post this. 
+
+Thank you in advance."|AndreHoejgaard|False|https://redd.it/ejdo4u|6|0.73|0|34|1|photography
+ejdiv6|2020-01-03 10:12:11|Instant photography, how do you avoid expensive wastage|Having just received a mini 70 instax camera for Christmas I am very conscious of the cost of the photos. It's like going back to the old days of 35mm film. You can't keep clicking away as it will cost a fortune. My question is, to instant film users, what do you take photos of, how do you decide ultimately what is a good subject, and afterwards what do you do with your photos?|spook68|False|https://redd.it/ejdiv6|2|0.67|0|9|1|photography
+eizo33|2020-01-02 15:34:34|The Most Powerful Moments in Photojournalism in 2019|https://www.artsy.net/article/artsy-editorial-powerful-moments-photojournalism-2019|Periklis_|False|https://redd.it/eizo33|33|0.91|0|1|0|photography
+eijdgv|2020-01-01 15:20:12|This Photographer Goes to the Ends of the Earth to Capture Rarely Viewed Animals|https://www.smithsonianmag.com/travel/photographer-goes-ends-earth-capture-rarely-viewed-animals-180973872/|ccurzio|False|https://redd.it/eijdgv|1004|0.96|0|56|0|photography
+eilky9|2020-01-01 18:21:50|This Photographer Spent The Day In Flooded Venice And Captured How Different The City Looks|https://postmunch.com/this-photographer-spent-the-day-in-flooded-venice-and-captured-how-different-the-city-looks/1953/|LunarCookie|False|https://redd.it/eilky9|343|0.96|0|70|0|photography
+eiyp9o|2020-01-02 14:13:01|First time concert photography! Any tips?|"Hello r/photography!
+
+I was given the chance to take some photos at a tiny event with three punk rock/ post hardcore/etc. bands. The location is not really big but whenever they play a concert there are a lot of people, so I won't have much space to go around as it is very tiny and crowded. It's also my first time taking photos at a concert with little available light. Most of the light will be from the stage lights. If It's possible I would prefer using no flash and just use the colorful lightning from the stage.
+
+I have a Canon 6D with a basic zoom objective (& I can borrow a flash). I know that's maybe not the best equipment for such an event - but I'll have to work with what I have.
+
+So if any of you have some tips for me how I can capture the mood and the movement of the band with what I am given, I would really appreciate it! Thank you so so much! 
+
+(Forgive me my english - It's not my native language)"|stuffedpizza|False|https://redd.it/eiyp9o|6|0.89|0|24|1|photography
+ej4jlh|2020-01-02 21:23:42|Photography stash and archives; what have you done with it?|"Hello fellow photographers! As I sat here making my new folder for the year 2020 I looked back at my other folders going all the way back to 2006 and wondered, ""gee, I haven't touched those photos in ages. I should make some room."" Right after this thought I realized, shit that is A LOT of photos to go back to. 
+
+This prompted me to come here and start a discussion to see what other photographers do with this and how you handle this many images and hard drive space? =P
+
+Happy 2020 everyone and I wish you all the best photo opportunities this coming decade."|thextianbay|False|https://redd.it/ej4jlh|1|0.6|0|8|1|photography
+eiub3u|2020-01-02 06:01:44|How much does proximity play in how often you shoot?|"Hey all,
+
+With 2020 starting off one of my main goals for the year is to go out more often and take more photos. When I originally picked up the hobby, I was living in Asia and was always motivated to go out and shoot, primarily because it didn't take much effort to walk around and find something. Now that I've moved back home in Canada, I was originally ecstatic to shoot my home, but slowly found myself putting less and less effort into photography. I'm just not sure if it's because i've become lazy from working full-time, or I find it easier to wake up and play games.
+
+So r/photography what say you? What did you do to motivate yourself if this has happened to you? Does this phase usually go away? Would love to read your stories and what not."|rchae94|False|https://redd.it/eiub3u|11|0.78|0|24|1|photography
+ejdtry|2020-01-03 10:47:05|Gear Guy - Billie Eilish Music Video Parody|https://www.youtube.com/watch?v=N3p9ez9JmLs|ThatPortraitGuy|False|https://redd.it/ejdtry|0|0.32|0|2|0|photography
+eioou4|2020-01-01 22:14:21|Photography lovers of Reddit: Which Photographers' Work Should I Check Out in 2020 and Why?||throughthewoods4|False|https://redd.it/eioou4|33|0.89|0|32|1|photography
+eivj8e|2020-01-02 08:13:46|EXTENDING BEST OF 2019 NOMINATIONS|/r/photographs/comments/eiviqi/extending_best_of_2019_nominations/|clondon|False|https://redd.it/eivj8e|6|0.73|0|1|0|photography
+eiq47b|2020-01-02 00:08:23|What will be the biggest Photography advance of the 2020’s?||MrNewVegas2077|False|https://redd.it/eiq47b|21|0.83|0|80|1|photography
+eiadon|2019-12-31 23:10:04|Photojournalist's Body Found Stabbed and Beaten and Camera Stolen After Photographing Anti-Government Protests|https://www.theguardian.com/world/2019/dec/31/chile-photographer-albertina-martinez|LeicaM6guy|False|https://redd.it/eiadon|1797|0.98|0|111|0|photography
+eilezo|2020-01-01 18:09:09|The criteria that different types of photographers use to buy cameras|https://youtu.be/Nwu-SdbaSrg|csbphoto|False|https://redd.it/eilezo|28|0.84|0|13|0|photography
+eifkjl|2020-01-01 07:19:35|52 week photography prompt challenge|"Happy New Year, r/photography friends! (somethingsomethingroarin'20s.) 
+
+You may recognize me from my incessant need to ramble about [color](https://www.reddit.com/r/photography/comments/7um56b/color_theory_for_photographers_an_introduction/) and [composition](https://www.reddit.com/r/photography/comments/c961o1/compositional_guidelines/), potentially oversharing in the Community Threads, or even as a mod of this fine establishment. 
+
+Last year I hosted a weekly prompt challenge on my instagram. It went *okay*. After receiving feedback on the difficulties of keeping up with little preparation time, inconsistent announcement posts, and well, some people just being not on instagram, I made some pretty big changes this year and I'm inviting you all to take part. 
+
+**[Here is all the information, and how to take part!](https://www.clondon.me/blog/52weeks0)**
+
+Side note: this is all for fun (no 10min long sponsored by Squarespace Youtube videos here), a little inspiration, and hopefully a way for us to all engage with/learn from other photographers. 
+
+Let's do this thing!"|clondon|False|https://redd.it/eifkjl|156|0.97|1|44|1|photography
+eik80e|2020-01-01 16:35:37|These were the most-clicked-on cameras in 2019: Digital Photography Review|https://www.dpreview.com/articles/1494535757/these-were-the-most-clicked-on-cameras-in-2019|ITheodorou|False|https://redd.it/eik80e|19|0.79|0|11|0|photography
+eihnp3|2020-01-01 12:00:03|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2019 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/eihnp3|24|0.9|0|465|1|photography
+eiykoy|2020-01-02 14:01:24|Will camera's have subscription based options in camera's in the future?|"With everything becoming more and more about subscriptions instead of buying it once and having it, and now I see that Nikon z6/z7 have [ProRes RAW® Upgrade](https://www.nikonusa.com/en/nikon-products/mirrorless-cameras/firmware-updates/index.page#accordion-01).
+
+So I started wondering, now that mirrorless is coming up more and more, everything will be elektronic in the future, instead of mechanical. New features will come through updates instead of new bodies.
+
+So how I see it, is that instead of buying a camera and having all of it's features, like have a d7200, you will pay for upgrades within that body.
+
+So right now if you have a d750, you have to wait for a d760 with more focusing points, better LCD, faster focusing, more resolution, ...whatever else you can upgrade in cameras.But eventually in mirrorless cameras you will have a body that can do all of the latest tech-stuff, but just disabled by default. And unless you pay for stuff, you get some default camera options. Want bigger resolution? Quicker focusing? Eye-AF? Animal AF? Built-in stacking/panorama/...? -> upgrade your subscription.
+
+So then you wont have a d5000 series, d7000 series, d700 series, and so on, but you will have a z9 for 1200 dollars, and you can choose between 3 monthly/yearly subscriptions for whatever your needs/wants are.
+
+&#x200B;
+
+I know a lot of things are also limited by the actual hardware.
+
+Do you guys think this will eventually happen? Or how do you see this?"|denzelvb|False|https://redd.it/eiykoy|0|0.35|0|23|1|photography
+eiih0m|2020-01-01 13:45:07|Monthly Deals Thread: January 2020|Know of any new deals on photography equipment? Have a freebie you'd like to share with your fellow /r/photography users? Are you clued into a current or upcoming sale? Then feel free to share your finds here!|AutoModerator|False|https://redd.it/eiih0m|13|0.9|0|1|1|photography
+eio3nf|2020-01-01 21:29:48|Questions on Photography Book Publishing|"Dear r/photography,
+
+I would like to inquire about photography book publishing with a few questions:
+
+1) Typically, how many individual photos would be required for a photography book by a single author?
+
+2) I know a thing or two about conventional book publishing, does photography book publishing differ from that in some aspect?
+
+3) What kind of book has better change of getting accepted by a publisher, what do they consider ""hot""?
+
+I kindly appreciate answers!"|sprgsml|False|https://redd.it/eio3nf|3|1.0|0|5|1|photography
+eicqgy|2020-01-01 02:29:51|Don't forgot to update your copyright information!|Here's your friendly annual reminder to update your in camera copyright to 2020 if you include the year in yours!  Anything else would be so 2010's!|patric023|False|https://redd.it/eicqgy|64|0.89|0|9|1|photography
+ei531o|2019-12-31 16:31:09|The best photographs of 2019 – and the stories behind them|https://www.theguardian.com/culture/2019/dec/31/best-photographs-2019-stories-behind-them|bscarr|False|https://redd.it/ei531o|352|0.93|0|39|0|photography
+eijrtw|2020-01-01 15:57:10|Don’t forget you can do your own 52 week challenge!|"There are few 52 week challenges and I never have participated in one. I don’t know why and maybe next year I will because the wealth of different weekly goals will teach you new things.
+
+
+That all aside I was about to just let this week go when I thought about my project I want to work on and that’s when I realized practice for that can be my goal. So my 52 week challenge is A single print each week! Plus the better pictures can be repurposed for my project!
+
+
+So go out and join a 52 week challenge and if you don’t like the idea of that do your own! Because practice makes perfect and I can’t be the only one not shooting enough."|super0sonic|False|https://redd.it/eijrtw|3|0.59|0|8|1|photography
+eio01k|2020-01-01 21:22:11|How do you guys take pictures: Aperture priority OR Manual Mode? If manual what's your usual setup?|"Hi Guys!
+
+I shot Aperture priority with my old camera most of the time. I maxed my ISO at 12800 - so I wouldnt get too noisy pictures.
+
+Now I got a new camera with IBIS, and I was thinking about I should use manual mode more. 
+
+How should I do it? 
+
+For example if I have a 50mm 1.8 lens - for night, I should simply swich the shutter speed to 1/50 , the Aperture to f1.8  and ISO to auto - so I get the pictures with as little noise as possible.
+
+Or should I use Aperture priority and maximise the ISO to 12800... SO the camera will say ""Ok, this is too dark"" - and it takes a picture at ISO 12800 but with 1/400 of a second. 
+
+What do you think? How do you use manual mode? 
+
+Thanks."|RaidenHUN|False|https://redd.it/eio01k|3|0.53|0|43|1|photography
+eisjxr|2020-01-02 03:25:15|Are my photos worth trying to sell?|"Before I invest a lot of time into building a website and trying to sell my photos, I wanted to get your guys' opinion on whether my photos are even worth trying to sell. I realize the market is oversaturated, but just thought I'd ask. 
+
+I am by no means a professional. I just enjoy taking landscape photos when I'm traveling (fairly often). Several people have been telling me for years to sell them. 
+
+I've always responded that I didn't think I was good enough. And besides, up until a couple of weeks ago, all my shots were from a cell phone. I just recently got a simple Sony RX 100 II. 
+
+I have a house painting business that keeps me on my feet 10 hours a day. It'd be nice to make some passive income selling my photos with the help of a site like Visual Society. 
+
+For reference, here's my instagram.  They're all cell phone pics, but if you guys want to see them in higher resolution (from the Sony RX 100 II), tell me where to upload them and I will. 
+
+https://www.instagram.com/jb_makingmoves/feed/
+
+Edit: Here are some instagram links to what I would consider my ""best photos"" for your critique. Again, not super high resolution, and unedited, but will be from now on.
+
+https://www.instagram.com/p/B6zRz6Pgwpm/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/B6zRNU9g0Fo/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/BqfU7WsgLBr/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/BqfU2zTgHVd/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/BqfUwVvAEJZ/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/BqfUr5HAeKG/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/BqfUk1mACNf/?utm_source=ig_web_copy_link"|jbrown110690|False|https://redd.it/eisjxr|0|0.41|0|39|1|photography
+ei5bw5|2019-12-31 16:49:14|Fstoppers blog - Does he seriously get paid for this?|"Slow day at work and am tired, sick, and already annoyed when I decided to go check out fstoppers this morning and just can't stand it anymore. This guy is such a hack - it's the same thing over and over and over with virtually every single one of his posts which are nothing more than a link to a video and some superlatives about how ""great/awesome/fascinating"" the video is, oh and be sure to check it out above (below in my case.)
+
+I see the comments on his posts about his lack of originality etc, but he must get click throughs to keep this gig - but I for one am done.  I solemnly swear to not click through one of his links ever again.
+
+Happy new years everyone!
+
+[https://imgur.com/a/1qz7I6Q](https://imgur.com/a/1qz7I6Q)"|charlesyop|False|https://redd.it/ei5bw5|61|0.7|0|97|1|photography
+eirhde|2020-01-02 01:57:46|Why you should try shooting portraits stopped down|https://youtu.be/3lgAtPmTUMc|csbphoto|False|https://redd.it/eirhde|0|0.39|0|13|0|photography
+eidndf|2020-01-01 03:59:52|New Monitor - best practice?|"Hello all,
+
+So I received a new monitor for Christmas. Nothing fancy, but was the best I can own at the moment (AOC 24B1H) and has already helped drastically with being able to actually see the photos I am editing (from a likewise newly purchased camera).
+
+I've exported a few things I've edited in LR to my phone for instagram uploads, and while I wasn't disappointed with the outcome, the picture I had on my phone looked different to the one in LR and the one I exported from LR to computer.
+
+I have read through other threads about monitors here and know that if I am to get serious about colour a calibrator is in my future, *but* what are the best things I can do *without* a calibrator now to both ensure that what I am seeing on the screen is as accurate as possible *and* that what I am exporting to phone or web will look as much like that LR file as possible?
+
+Obviously frigging around with the monitor menu can only go so far, and it goes without saying (again) that nothing will do the job of a calibrator. But rather than just leave it at stock settings, I am wondering what steps someone like me can take now to make sure things are as good as they can be without proper calibration.
+
+Thanks!"|Auto_Fac|False|https://redd.it/eidndf|6|0.89|0|10|1|photography
+eib2wd|2020-01-01 00:06:11|Lenses with ugly bokeh|"I am looking for lenses ""with character,""  mostly do filmmaking but this sub seems to have a more active userbase and more knowledgeable of lenses. Most lenses, especially modern lenses, want ""buttery smooth creamy bokeh"" which is fine for most pictures/videos but it's not what I am looking for. If for example I am making a narrative short about a character having a mental breakdown, a really pretty bokeh kinda is almost the opposite of what I need, I want a busy looking bokeh. I am not looking for anything in specific right now but would like to start building a collection of unique lenses with characteristics that may lend themselves to narrative works and not just making a model look pretty. Lenses with swirly bokeh for example could be used for a character being hypnotized.
+
+Lenses with onion rings, pentagons, hexagons, ugly flares etc."|ACBone|False|https://redd.it/eib2wd|9|0.8|0|20|1|photography
+eiec62|2020-01-01 05:08:26|What ND filter to buy, and how many F-Stops do I need?|" 
+
+Hey, first post here so hi.
+
+I recently got a camera for Christmas (Sl2, 200D) and I am looking to buy an ND filter. I heard that Hoya filters are great for the price and I think that is a good option for the price since I'm on a budget and my lenses aren't super expensive or anything.
+
+So I'm wondering how many F stops I need. I mainly take photos (Landscape, Portrait, and Product). But also some video, for instance, vlogs. My lenses open up to F4 but I am planning on getting more down the road such as a Cannon 50mm 1.8. I would get a variable but I'm wondering if there will be any difference in quality or color? I know there isn't a simple answer I would just like an opinion from someone more experienced than me"|xsplice101|False|https://redd.it/eiec62|3|0.62|0|13|1|photography
+eib8hg|2020-01-01 00:18:19|The 100 Best Science Photos of 2019|https://www.livescience.com/best-science-photos-of-2019.html|amh137|False|https://redd.it/eib8hg|8|0.89|0|2|0|photography
+eiemfh|2020-01-01 05:35:43|Back to the basics advice|"So this Christmas I received a wide angled lens as a gift,for which I'm very thankful for. That being said, this lens is lacking in features that I've been accustomed to, as it does not have auto focus capabilities or light metering.
+
+I've had experience shooting this way in the past because my high school photography courses used 35mm film, but when I was shooting that the camera I used had light metering at least.
+
+I guess what I'd like advice on is any convenient tips or tricks you might have for getting exposure correct quicker, as I've currently been doing by trial and error at this point. I know trial and error will always be part of the process but are there any guidelines you might use to make a more accurate guess from the get go?
+
+I'm mainly used to a 50mm prime lens, so going back to a lens that can zoom feels a little strange. Are they any good articles out there about ways to use a wide angle len's, well, wide lens in creative ways? I've been interested in macro photography for awhile and up until recently I've been using my prime with extension tubes, but this new lens is 1:1 which if I remember correctly is ideal for macro shooting. Are there any major differences between using extensions and just using this new lens?"|DadMuscles|False|https://redd.it/eiemfh|1|0.57|0|15|1|photography
+eiahoj|2019-12-31 23:19:07|Editing Dilemma - Client vs Subject wishes?|"This isn't me, but someone who does not have Reddit. They were asking what I would do, and I really have no idea other than telling the client to shove their wishes up their ass, so here I am.   
+
+
+The person who is the client is just the person who paid for the work. The subject is one of the people in the pictures. Client wishes the blemishes on Subjects face were edited to remove/soften them, and the subject has expressed they do not want alterations at all.   
+
+
+Who do you side with? All of this happened AT the photo shoot. The client is related to the subject but not friends with the photographer, and the subjects are family friends of the photographer's family, just to make things worse."|Eckx|False|https://redd.it/eiahoj|6|0.88|0|9|1|photography
+ehrx7s|2019-12-30 20:51:03|Nat Geo Photog’s Rare Animal Photos Lost in Airport Luggage Theft|https://petapixel.com/2019/12/30/nat-geo-photogs-rare-animal-photos-lost-in-airport-luggage-theft/?fbclid=IwAR0y0hfCwrsRCSLRo8ESkrMJa2SBR8bZp3HHkPtb8dss_JtysAZ1F8-TsjI|clondon|False|https://redd.it/ehrx7s|711|0.98|0|135|0|photography
+ei2o8a|2019-12-31 13:10:19|Album Thread: 12/31/2019|"Let’s see your work! Use this thread to share an album, get feedback from, and give feedback to your peers.
+
+Before posting, be sure to give feedback on other people’s albums. Feedback can be as little as “I like this photo best!”
+
+If you are more confident in your critiquing abilities, give reasons why x photo was good, and/or what can be done to improve y photo.
+
+Please post curated albums! 
+
+*Do not* post your entire Flickr/instagram feeds or website, nor albums of hundreds of photos. You will get more meaningful feedback on albums of fewer images."|AutoModerator|False|https://redd.it/ei2o8a|14|0.87|0|33|1|photography
+ei79ze|2019-12-31 19:07:59|365 project...experiences and advice?|Hi everyone and happy New Year’s Eve! I’m thinking of starting a 365 Project tomorrow (take, and if possible, post a picture a day) and looking for advice for those who did one this year or in years past. What did you learn from doing one? How did you find inspiration? Any tips on finding themes or other ways to keep my motivation going for the duration of the project? Thanks!|nitwos|False|https://redd.it/ei79ze|4|0.83|0|16|1|photography
+eicl4m|2020-01-01 02:15:59|I have a question about photography contests, I was wondering if it's smart to revoke your copyright to a photo or set of photos for a contest? I don't really understand what that means (can you still sell prints? What happens if you have it posted elsewhere, etc)|Sorry if this is kinda a dumb question but I couldn't find all the information I wanted from Google. Also to the mods, I don't think this kinda post goes against any rules but if it does feel free to remove. Thanks for any help!|schugana123|False|https://redd.it/eicl4m|0|0.33|0|4|1|photography
+ei02lc|2019-12-31 08:12:08|I just got my first DSLR and I'm kinda bummed how blurry most of my photos get at low light conditions.|I know I shouldn't expect magic and it's my fault that shots end up that way but I was wondering what I can do to fix this? Using a tripod makes sense but what else? Lowering shutter speed and increasing aperture?|AmazingYeetusman|False|https://redd.it/ei02lc|26|0.72|0|31|1|photography
+ehm4jo|2019-12-30 13:36:26|Henri Cartier-Bresson quote against pixel peepers and sharpness|"""I am constantly amused by the notion that some people have about photographic technique – a notion which reveals itself in an insatiable craving for sharpness of images. Is this the passion of an obsession? Or do these people hope, by this trompe l' oeil technique, to get to closer grips with reality? In either case, they are just as far away from the real problem as those of that other generation which used to endow all its photographic anecdotes with an intentional unsharpness
+such as was deemed to be 'artistic'."""|nixsee|False|https://redd.it/ehm4jo|178|0.93|0|65|1|photography
+ehscor|2019-12-30 21:21:21|Vivian Maier’s Poetic Color Photography...|https://mymodernmet.com/vivian-maier-color-street-photography/?fbclid=IwAR2geG-cWVLsw9UcpKkfgjoGKtVEvyKf8ALZNXJLRV470tqHcU8-cKdQwME|crimenently|False|https://redd.it/ehscor|32|0.86|0|7|0|photography
+ehwvyr|2019-12-31 03:09:07|Winter photography|I'm looking for advice on how best to protect my camera from damage due to single digit and colder temperatures|kriegsmariner|False|https://redd.it/ehwvyr|10|0.76|0|22|1|photography
+ehtxkb|2019-12-30 23:15:26|Create and Conserve in 2020: Extend Your Love for Landscape Photography to the Land|https://petapixel.com/2019/12/30/create-and-conserve-in-2020-extend-your-love-for-landscape-photography-to-the-land/|MitchGreenPhotos|False|https://redd.it/ehtxkb|14|0.76|0|0|0|photography
+ehtgys|2019-12-30 22:41:47|What's your gear or photo motto?|"I tend to baby my camera because I'm always scared it'll break. However, I've been using the quote ""If it breaks, you haven't damaged anything of value"" and it seems to work. After all, if a camera were to just break in my hands, then it's not such a big loss. 
+
+What's yours?"|Slammernanners|False|https://redd.it/ehtgys|11|0.79|0|20|1|photography
+ehsbzo|2019-12-30 21:20:02|UPDATE: Conflict with my boss|"Hi all, so a bit ago, I posted this:
+
+https://www.reddit.com/r/photography/comments/ecyuap/i_need_to_vent_about_a_situation_at_work_thats/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+TL;DR-My boss keeps complaining about the quality and brightness of photos without giving specific information as to which ones she’s talking about or what exactly she wants changed, and neither I nor anyone else I asked about it (many of whom are also professional photo/video people) could figure out why. I sent her an email in response explaining what I thought the problem could be, which she never responded to.
+
+UPDATE: She just asked me to send the photos I sent her (the same ones she was complaining about) to the other team for publishing.
+
+This would lead me to believe that she either didn’t care enough about the issues she had with my photos to actually ask for any changes, meaning she was just nitpicking for the sake of it, or that the email I sent in response to hers filled her in on a bunch of information she either didn’t know or didn’t think I knew.
+
+Either way, I’m not going to be dancing in the end zone with this, I’m just happy that at the very least I don’t have to put my name on any horribly overexposed photos that get published."|roguespectre67|False|https://redd.it/ehsbzo|10|0.73|0|4|1|photography
+ehl8e4|2019-12-30 12:00:03|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2019 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/ehl8e4|42|0.82|0|758|1|photography
+ei5769|2019-12-31 16:39:31|What do you think of the iPhonephotographyschool?|"So I’ve been seeing [this ](https://secure.iphonephotographyschool.com/iphone-photo-academy?cp=ny&utmid=6150845028342) ad everywhere. 50€ is a reasonable price but then again, if this were on udemy it would be only 10€ ;) Also, this guy “originally charged 449€”, then 99€, so I feel there is no real price to this? Basically what I’m asking if this course would be worth the money. What I’m trying to do with my iPhone is take better pictures of my knitwear projects.
+
+Thanks for your input!"|Laena_V|False|https://redd.it/ei5769|0|0.27|0|11|1|photography
+eh7alz|2019-12-29 15:42:51|I found my creativity again|"Hey guys, I have started photography about five or six years ago, when I was still in school. It quickly became one of my greatest hobbies and I really enjoyed it. Now I am in college, and in the last two years, I neglected my camera more and more. In the beginning I really didn't have the time -- new city, new people, new hobbies and an awful lot of studying. But eventually I realized I somehow lost the spirit. I really couldn't come up with something I really wanted to shoot.
+
+A few days ago YouTube recommended me one of these *How to not lose your inspiration*-videos, I watched it. One tip was to keep a sketchbook with you to sketch some ideas you have while daydreaming down. I must admit my drawing skills are really nothing to write home about, but guess who is now booking a studio. And after this project I have already scheduled the next shoot with a cosplaying friend.
+
+I'm getting back. And this is no new-years thing I will have forgotten about in three weeks, screw new year. I just managed to get creative and motivate myself again."|Ezelryb|False|https://redd.it/eh7alz|634|0.96|0|33|1|photography
+ehk523|2019-12-30 09:50:04|Improving my mountain photography skills|"I love hiking, but it's not the easiest time to really work a shot, since, unless you're a better hiker than the rest of the group (I'm usually not) or it's a specific photographic hike (rarely is) there'll be very little time to even take a picture, let alone work the shot and take 10. It almost feels like it has more in common with street photography. 
+
+Given these constraints, how do I improve my photography/get a better eye for composition?"|stille|False|https://redd.it/ehk523|19|0.86|0|35|1|photography
+ehm1v5|2019-12-30 13:29:15|Community Thread: 12/30/2019|"What are you up to? Share with your e-friends! What's that shiny new piece of equipment?
+
+Show off cool stuff you've created. We want to see and discuss your pictures, videos, website...or anything, really!
+
+If you've got interesting links to stuff created by someone else we'd love to discuss that too!"|AutoModerator|False|https://redd.it/ehm1v5|8|0.86|0|27|1|photography
+ehuhid|2019-12-30 23:57:32|Pixel peeping problems..|"So I am new to photography and seem to getting stuck on some of the finer details. I have developed a habit of reviewing my shots @ 4:1 & 8:1 to see how much detail I am getting. 1:100 of my photos will seem to have amazing clarity. While most of them seem rather noisy and not as clear that zoomed in. The result of this has me second guessing my equipment, skills, etc and I’m going crazy. 
+
+Is this something that I should or should not care about? At 1:1 the images are very usable but I can’t help but stop after every shot and zoom way in on the viewfinder or in LR and get frustrated. 
+
+Clear Example: https://imgur.com/Zwt1mKf (to be fair this was an HDR, but I have yet to reproduce this clarity) 
+
+Noisy Example: https://imgur.com/HmeznK8 
+
+Camera: Sony A6400
+Lenses: sigma 35mm 1.4 art & Sigma 16mm 1.8 contemporary."|jcanlett|False|https://redd.it/ehuhid|0|0.5|0|26|1|photography
+ehdgg7|2019-12-29 23:30:42|Going Instagramless as a Photographer|"Hello all, 
+
+I decided to go instagramless. I love doing photography but I felt like I was being driven by validation rather then doing it for the art itself. I deactivated my account today and I’m going on a detox for the next three months. Also just to go off the radar and continue working on other goals I have. Anyone else do this? What were your reasonings? Did you find it beneficial? I’d love to hear your experiences."|diegobust4545|False|https://redd.it/ehdgg7|88|0.83|0|63|1|photography
+ehl5c6|2019-12-30 11:49:47|Overwhelmed by editing options|"Bore da, hello.
+
+I had been wanting to take up photography for a few years, and recently managed to save up enough cash for decent equipment (Fuji XT-20 with 16-55mm).
+
+I've just started out, and after a couple of weeks attempting to compile a collection and adopt a 'style', I can safely say I feel totally at sea when it comes to editing my photographs. At the moment I'm doing pretty subtle stuff in photoshop - typically this includes lowering the saturation, bringing out certain colours depending on the photo, and lowering the brightness (I like photographs that have a kind of dark tinge). But I've no idea if what I'm doing is correct, or if I'm ruining perfectly good photos. I've also no idea what techniques I should be using - at the moment I'm just doing a blanket edit for every photo and maybe tweaking things a tiny bit for certain images.
+
+Any advice would be super appreciated. Some snaps are up already on IG if you want some perspective. @michaelnashphotography
+
+Thanks in advance!"|SpudPaulNash|False|https://redd.it/ehl5c6|8|0.68|0|18|1|photography
+ehmrun|2019-12-30 14:37:20|How to explain your ideas when you used to be a pornographer|"A backstory first. I went to school for photography. I loved it. Then I went to school for film. I don't have the old photos anymore to show people. But I went into business instead after college. 
+
+A few years back I needed to hire some photographers for a pornography site. I couldn't find anyone that was doing what I wanted within the budget. So then I started back to taking those shoots myself. It became a chore and I grew to hate shooting people and working with people. I hated holding a camera even or getting a call from others to do a shoot. 
+
+I left photography for 6 years. Never picked up a camera. In that time I met my wife. She doesn't know I did pornography but does know I liked photos. Now I feel the drive again but not really for portraits. Mostly outdoors, old buildings etc. I feel like I'm learning all over again especially with new advances in equipment. 
+
+Certain shoots I want to do I need a model for and when talking or requesting they usually ask for my portfolio or site. I feel ashamed of my pornography days and don't want people to judge me on that. But I don't have many pics right now that I'm proud of really. Because the weather and in my area its not easy to get out and take the shoots I want that I could be more proud of displaying. How would explain to people or go about finding experienced people to work with? BTW I deleted thousands of photos from the pornography days and only kept a handful I considered ""art""."|Traditional-Staff|False|https://redd.it/ehmrun|4|0.58|0|23|1|photography
+ehedar|2019-12-30 00:40:40|Exposure Value (EV) Explained and how to calculate it|https://photographylife.com/exposure-value|csbphoto|False|https://redd.it/ehedar|45|0.92|0|5|0|photography
+ehwpsn|2019-12-31 02:55:12|Question for stock market contributors - how should I edit my photos?|"I got accepted on iStock and I will be submitting my first photos soon. I personally don't like to edit my photos too much, but I can't help but get a feeling that's what customers actually want, so I need some opinions on this from photographers who sell on stock websites. I will attach example of my work, one will be with minimum editing, other will be heavily edited and as vibrant as possible. Question is : which approach to photo editing sells better
+
+I will probably stick to the ones that look natural to me, but if you think those heavy edited will sell better, that might change my opinion. This isn't my main job, so I don't really care about number of downloads I get, I just don't want to have 2x less sales because I didn't over-edit my photos.
+
+[Photo examples](https://imgur.com/a/GcmlxbK)
+
+These are not final edits, my question is concerning the editing style that customers want, but I will of course accept any advice or critique from professionals."|lukasavija|False|https://redd.it/ehwpsn|0|0.33|0|8|1|photography
+ehi75b|2019-12-30 06:11:23|What makes an image artistic and inspiring?|As a person who is a complete amateur in photography, I go to social media like instagram and flicker for inspiration. I look at many portraits with beautiful people wearing all types of clothes from expensive lingerie to sci fu costumes, or no clothes at all. The pictures are objectively well taken with sharp focused subjects and good compositions. Despite that, the pictures feel empty. They do not evoke any type of emotion and I forget them as soon as I see them. On the other hand, when I look at a picture from Rineke Dijkstra’s beach portraits or anything by August Sander, I can immediately fell artistry and passion that rekindle my passion for the visual arts even though is just a person wearing clothes in front of the camera. What makes an image feel artistic and inspiring? What makes them stay in our minds and some even stay in society’s mind for decades? I used portraits for the examples because that’s what im attracted to, but the same goes to any type of photography like landscapes or street photography|Santiago1106|False|https://redd.it/ehi75b|6|0.68|0|22|1|photography
+ehuoyf|2019-12-31 00:14:01|Why I'm not signing up for Flickr Pro (and what would change that in a heartbeat)|"Been a lot of hubbalub on the webs lately about the letter many of us got from Flickr/SmugMug CEO about keeping Flickr afloat. I was about ready to pull the trigger on Pro but backed off. Why? Well, the main value proposition of Pro is unlimited storage - as a very active photog, I can really get behind unlimited storage. However, there's no support for RAW file storage. The reasoning is simple: Flickr is photo sharing, and RAW files can't be displayed in a browser, ergo, no RAW. 
+
+But I don't need limitless storage of jpgs. The only files I convert to jpg are the 1% that I want to share with the world. So really, limitless doesn't get me very far on that plank. 
+
+However, if Flickr offered some limitless solution for backing up my RAW photos, I'd pull the trigger on Pro immediately. Even if Flickr did this for double the current Pro pricing, I'd still pull the trigger on this. My iDrive backup is $99/yr, so the opportunity to bring my RAW files to Flickr for basically the same price would be great.
+
+And I would pay triple the current full price of Flickr Pro if it included unlimited support for RAW AND had a plug in to CaptureOne Pro that allowed some seamless copying of RAW files to FlickrPro account.
+
+I get it - backup isn't Flickr's core vertical, however ""unlimited storage"" is backup's ugly cousin. Make the shift to photo centric backup service, and now you're answering mine (and I'm sure many others') core need in an online storage solution."|fslashd|False|https://redd.it/ehuoyf|0|0.3|0|23|1|photography
+ehikcb|2019-12-30 06:48:10|What's your favorite portrait photograph?||S3__|False|https://redd.it/ehikcb|2|0.64|0|5|1|photography
+egxui0|2019-12-28 23:11:39|Reuters Photos of the year 2019.|https://www.reuters.com/news/picture/pictures-of-the-year-2019-idUSRTX7BPNB|dontfeedtheibis|False|https://redd.it/egxui0|526|0.89|0|88|0|photography
+eheg57|2019-12-30 00:46:42|Professional photography and creativity- I think I've lost mine... Am I still a photographer even?|"I got into photography when I was 17 or 18 after my mom bought me a DSLR. At first I started shooting land/cityscapes and inanimate objects before eventually moving into people. I couldn't stop shooting. I got so deep into it that I decided to apply to a well known photography school in Paris, which, to my surprise, accepted me based on my then (imo horrible) portfolio. I think the application was more a test to see if others thought I was good enough, because there was absolutely no way I could afford to go (something like $60k+/year). So I ended up dropping out of my second year of college at age 19 and honing the craft on my own. Things started to happen pretty fast for me. One day I shot a guy who happened to be a model, his agent saw and liked the images enough to get me to start shooting his other models, other agencies started noticing and hiring me, and soon after came the magazines, brands, record labels, etc. I felt on top of the world very early on, without ever having really tried all that hard. Sure, I put in tons of work and learned through heaps of trial and error, but for ""it"" to have happened so young I feel very blessed. I was young, very in-demand, and set on a very promising trajectory. NYC, Paris, London, Milan all wanted me- but I didn't go due to family stuff. 
+
+The first few years (from 19-24 or 25) flew by at an astounding speed. I was so in love with what I was doing that there were days where I booked myself on up to three shoots! There were periods where I was shooting twice a day almost every day. These weren't all paid shoots, because I still felt best doing the free collaborative stuff where I got to execute the concepts I was envisioning. 
+
+Then when I was 24 or 25 I started getting these burnout periods where I'd have zero desire to pick up the camera. At first they'd last maybe a week, maybe two, but eventually started lasting a couple months, at which point my future was looking very uncertain. The fashion industry is notoriously difficult to break into, but even harder to stay relevant in, so getting stuck in a big rut is the last thing you want... I just couldn't help it though. The one positive of these ruts was that each time I came back I distinctly felt as if though my output was stronger than ever before- a new perspective if you will. 
+
+Eventually I got stuck really bad and left the industry altogether for almost two years. Yeah. My dad got really really sick and had limited time, and I like to think that was the impetus for my quitting and feeling uninspired, but I just don't know. It was an incredibly dark few years, bottoming out when we lost him in September of 2018. Growing up, it was always me and my parents vs. the world- they were my best/closest friends and the only people I ever fully knew-, so losing one of these two pillars of my being hit me especially immensely. My mom also got sick and hospitalized while my dad was still around due to the immense stresses of the situation, so for a period of several months I was rushing from being with her in the hospitals to going back home to care for dad. She got put on a few meds and has somewhat stabilized, but has never been the same since before being hospitalized- the meds really worked a number on her. I'm constantly worried about her and have the absolute darkest thoughts running through my mind 24/7, leaving me unable to enjoy life. I'd struggled with depression before, but all of my worst bouts with it combined couldn't come close to comparing to the hole I entered after dad passed. Life lost all its colour, the days all blended into one, and it'd have been preferable if I could have just died in some car accident. I just didn't care enough to keep living and had absolutely no motivation to do anything whatsoever- certainly photography wasn't on my mind in the slightest and I was certain I'd never pick up a camera again. I already wasn't shooting for over a year before dad passed and had no interest in it, but now it literally couldn't have mattered less. 
+
+Then towards the end of summer 2019 I started to get the itch again. I reached out to some agencies and offered my services up free of charge since I wanted to ""warm up"". They were quick to take me up on my offer, welcoming me back with wide open arms- I was glad to know that my name was not only not forgotten, but that people were anxiously waiting to work with me. The first shoot back in felt so natural and as if though a day hadn't passed. So I started booking more shoots and more shoots and more shoots. I even landed a pretty big job with pretty big exposure, the results of which I'm really proud of. The client really loved the work I did and will use me again next year (it's a yearly thing). Between the time I started shooting at the end of this past summer and the time I'd had a Eurotrip planned in late Sept, I did roughly 20-25 shoots. I even planned a few shoots in Europe while I was there, which was a lot of fun getting to work with teams over there- the whole vibe of shooting there is much more to my liking than working in North America. It was great to be back and to be as desired as ever. 
+
+But now I've been back from Europe for almost two months and haven't done a single shoot, because inspiration seems to have left me yet again. I was really on a roll before I left- I'd even say I was white hot- and was certain the momentum would stay, but I'm back in a fucking rut again with no exit in sight. 
+
+And that's why I'm posting here today... I wanted to talk with you guys about professional photography and creativity. Are the two mutually exclusive? So many times I've worked with clients who allegedly hired me for my eye, but then would only go on to neuter my ideas, taking my creativity out of it. And I've got a hard time understanding the roll of creativity in a professional environment. Is creativity in that environment meant to be different from the raw creativity you experience when it's just you? Or are you meant to channel that raw creative energy into client projects? Because as soon as you begin to alter/augment the initial vision it's no longer the same. 
+
+I just want to know how those of you shooting professional deal with this. I don't want subpar work with my name attached to it representing me, but I also need to make money and pay bills. I feel like I can't be shooting when I'm not 100% on board with and into a project. I know I don't have to publish everything I shoot (I never have), but I also wish I could just maintain a creative streak without these huge gaps in between. It feels like I'm not a photographer anymore just because of how long I take off in between shoots when these moods hit me. 
+
+How do you get your creativity back after it's been gone for a while? 
+
+I know the cliche answer is not to force it and to do other things, but my answer to that is... I'm obviously not forcing it if I'm taking up to a year off, but that's just not sustainable any longer... and I do other things; I'm also a musician and enjoy writing... 
+
+Sorry for the super long post, I've tired myself out in writing all that... would love to hear from people in a similar position."|memoryman89|False|https://redd.it/eheg57|3|0.55|0|12|1|photography
+ehkpo7|2019-12-30 10:58:15|Debate: lightning effect light for still photography. Question in comments. Thanks for your help!||RW410|False|https://redd.it/ehkpo7|0|0.3|0|6|1|photography
+eh0top|2019-12-29 03:27:19|The rise, fall and resurrection of Flickr - VERY deep dive into why reaction of the CEO's letter was overblown and misdirected - and why it matters.|"tl;dr - a small company is trying to repair the damage done by Big Tech and in doing so save an archive that is *way* more valuable than you realise (with illustrative examples).
+
+[The rise, fall and resurrection of Flickr](https://ferdychristant.com/the-rise-fall-and-resurrection-of-flickr-ca1850410ee1)"|EponymousHoward|False|https://redd.it/eh0top|103|0.89|0|42|1|photography
+eh9t2n|2019-12-29 18:58:32|What are your tips for creating a professional looking photo book?|"I thru-hiked the Pacific Crest Trail last summer and I would like to create a photo book showcasing my
+photos as well as some journal entries. This is my first photo book and I would like it to look professional. I don’t intend on selling it but might; it will be mostly for myself. 
+
+My question is what tips do you have? Everything from recommended websites to fonts and font sizes. What have you found that works and doesn’t work? Is premium paper worth it? Layflat books? Page numbers? Full text pages? 
+
+I’ve look at previous posts but those are mostly about recommended websites and I would like to dive a little deeper than that."|shortshorter|False|https://redd.it/eh9t2n|3|0.64|0|5|1|photography
+ehe4bq|2019-12-30 00:21:52|Christmas/Holiday Game - photo prints Chinese Gift Exchange|"I tried out a new game this Christmas and it was a huge hit.
+
+I got the new Canon Pro-100 printer as an early present to myself this year. For the purpose of making my own gifts this year.
+
+We had 25 guests at Christmas this year. Age range is 4-90. 
+
+I got a bunch of generic white 8x10 frames from an auction. Printed off 25 photos. Some were from family events earlier in the year. Some from a wedding we had in the family. Some pictures that were stolen from /r/earthporn. And some of cute animals from various subs/instagram.
+
+Instead of wrapping each photo/frame, I just laid them face down at the dinner table after we finished dessert. I started by turning over the picture in front of me. Next person can steal mine, or turn over the photo in front of them. Or steal anyone's photo that is either face up or face down.
+
+Whenever someone steals from you, you get to steal from someone else. You can't take back the one that was stolen from you (that round). But you might be able to get it back later.
+
+Whenever someone chooses to flip the photo in front of them instead of stealing, the turn is over. Then you pick another person who hasn't gone yet to go. Let the kids go first. they will want to go first. But the winning strategy is to go last.
+
+It's fun to steal from kids. They're easy to trick and get upset easily.
+
+Nobody cried. Everyone had fun.
+
+If I do it again, I will include a few intentionally bad pics to make it more competitive."|frugalerthingsinlife|False|https://redd.it/ehe4bq|1|0.45|0|5|1|photography
+eh34vo|2019-12-29 07:20:48|To those photographers that have “made it” how did you do it?|"I am a photographer that is starting out on making photography a successful business. I know it will take time to get to the point where I can support my family but that’s the goal I’m reaching for. My goal is to work with businesses doing products, events, headshots, really anything they need. 
+
+So for the professional photographers on here, how did you get started? What was your path to running a successful business? And what advice would you have for someone who has stepped into this line of work?"|nova1435|False|https://redd.it/eh34vo|18|0.74|0|37|1|photography
+egqmcl|2019-12-28 13:14:39|Australian on mission to photograph every parish church in England|https://www.theguardian.com/artanddesign/2019/dec/27/australian-on-mission-to-photograph-every-parish-church-in-england|ccurzio|False|https://redd.it/egqmcl|406|0.94|0|33|0|photography
+eh2lxv|2019-12-29 06:19:53|Do any hobbyist/professional photographers here use IPad as the primary editing device? How has your experience been with it?|I have been debating getting an IPad as my all in one device and wanted to move away from editing photos on a desktop. I have read that the finer controls that apple pencil provides is a boon for photographers as well. I'm curious about how y'all experiences been with IPad.|srkdummy3|False|https://redd.it/eh2lxv|17|0.77|0|31|1|photography
+eh8wmy|2019-12-29 17:50:39|Sigma 45mm f/2.8 DG DN Contemporary Review|https://www.opticallimits.com/sonyalphaff/1068-sigma45f28fe|ejaculatingphallus|False|https://redd.it/eh8wmy|2|0.46|0|1|0|photography
+ehhfkn|2019-12-30 04:59:25|Alright guys, I need your help for my YouTube channel and what you would like to see on YouTube in general.|"Alright photographers of Reddit,
+
+Need some help deciding on the direction of my YouTube channel. Alittle backstory, I’ve been shooting professionally for 5 or so years. Mostly weddings in the past year. It was killing my creativity so I’ve decided to stop doing those and focus more on commercial and portraiture video/photo work. 
+
+Which leads me to the question of the post what would you like to see out of a photography/videography channel? I feel like everyone is trying to replicate Peter McKinnon and while I love his work his channel got old quick. Would you guys be interested in more technically specific videos, on site shooting BTS things, or Program related tutorials? Maybe a mix of them all? 
+
+Just want to get my finger on the pulse of what is most needed right now and what would bring the most value to the viewers. Felt like reddit was the only place to get the “real” answers! Thanks in advance for all your help r/photography!!!!
+
+
+TLDR: Want to know what you want to see out of a YouTube channel focused around photography/videography!?"|ChrisRamseyJr|False|https://redd.it/ehhfkn|0|0.15|0|14|1|photography
+ehewc0|2019-12-30 01:23:05|Loupedeck - The tool that makes photo editing in lightroom fun (and fast) again|https://www.cake.co/conversations/598x21B/loupedeck-makes-photo-editing-in-lightroom-fun-again|vonwong|False|https://redd.it/ehewc0|0|0.35|0|6|0|photography
+eggym9|2019-12-27 21:10:38|Rant: Don't be an 'influencer' - Japan Camera Hunter|https://www.japancamerahunter.com/2019/10/rant-dont-be-an-influencer/|LeicaM6guy|False|https://redd.it/eggym9|780|0.94|0|137|0|photography
+eh8n34|2019-12-29 17:30:39|PSA: Don’t be lazy like me, keyword your vacation photos so you can quickly filter out pics of your ex post breakup|"As the title says, I was lazy in my organization of my travel/holiday photos and now I can barely review them months later without feelings of nostalgia and sadness (even though I’m doing okay day to day). 
+Traveling / holidays are some of the most emotionally heavy happy times in life for anyone. 
+
+It sucks that most AI face recognition programs only allow you to filter ON a certain face; not filter them out, even worse if there is more than one face in the picture. 
+
+I wish I could pay someone to go through, organize my stash of thousands of photos over the years and hide the ones with him until a later date when I’m not so sad that he’ll probably never be my life adventure buddy again. 
+
+So yea. Don’t be me. Organize your shit. lol"|Lookatthatsass|False|https://redd.it/eh8n34|0|0.41|0|8|1|photography
+egs9ah|2019-12-28 15:53:01|Portrait photography, mixer or patch tool for frequency separation? What do you use and why? Is there a difference?||Jonathanwennstroem|False|https://redd.it/egs9ah|19|0.87|0|4|1|photography
+eh8naw|2019-12-29 17:31:05|Do you guys have some menthor/referent that made you change your mindset in photography?|"Here's the thing. I (24 F) have always had a love hate relationship with photography. My very first encounter with it was when I was 13 and since then I have had several stages of going through it/quitting.
+
+Recently, while finding some inspiration for other creative projects, I stumbled upon this documentary about spaniards photographers which worked in giving photos a different ethos from what they've learned before. And I think I'd like to give photography another try. 
+
+That's why I would like to find references, would you please help me? :)"|heypaz|False|https://redd.it/eh8naw|0|0.35|0|8|1|photography
+egk1p1|2019-12-28 01:20:06|National Geographic - Best of the decade|https://www.nationalgeographic.com/photography/best-pictures-the-decade-2010s/|nicolagypsicola|False|https://redd.it/egk1p1|138|0.95|0|5|0|photography
+egrnjy|2019-12-28 14:59:27|Colchester Light Painting - Transforming Britain's Oldest Town|https://www.bbc.co.uk/news/uk-england-essex-50712926|marmitepizza|False|https://redd.it/egrnjy|9|0.71|0|2|0|photography
+eh8ugo|2019-12-29 17:46:04|What the Fuji X-H1 Is Not Good For|https://theonlinephotographer.typepad.com/the_online_photographer/2019/12/just-sayin.html|ejaculatingphallus|False|https://redd.it/eh8ugo|0|0.29|0|7|0|photography
+egrim3|2019-12-28 14:46:19|Tips for my first gig ever - family portrait|"I just got my first gig doing family portrait tomorrow. I plan to shoot indoor first, then move to outdoor. 
+
+My gear: 5d3, 24-70 II and 135L. I also got an external flash. I'm checking the family portraits online for how to do pose and plan to go visit the family early to get to know every one. 
+
+I also give them advice on what to wear, and prepare the house for pictures. 
+
+What other tips can you guy give me?
+
+Thanks in advance"|thief_fighter|False|https://redd.it/egrim3|9|0.64|0|28|1|photography
+eglt9o|2019-12-28 03:57:03|Cheat sheet: ideas for making money as a photographer|https://www.thephoblographer.com/2019/12/26/photography-cheat-sheet-making-money-as-a-photographer/|PortraitsATL|False|https://redd.it/eglt9o|38|0.8|0|26|0|photography
+egprat|2019-12-28 11:27:46|Hobbyists and other non-professionals, how often do you take pictures?|In case it isn’t clear, by non-pro, I mean photographers who don’t do this for a living.|Makegooduseof|False|https://redd.it/egprat|5|0.7|0|29|1|photography
+eg921w|2019-12-27 09:22:33|What camera feature did you only recently discover, much to your delight?|"I've owned many DSLRs and have taken many photos. And nearly all of my lenses have been autofocus. But a few years back, I tried a 50mm f/1.2 Nikkor manual lens, only to resell it a month later after deciding I was hopeless at manual focus. 
+
+But I repurchased one recently, determined to try again. Maybe it's the romantic in me, but the example photos I've seen just looked amazing, so I thought I'd try again.
+
+And a few days in, I was read to give up again. I'm just no good at detecting focus. My eyesight and/or coordination apparently isn't good enough, and every shot I took was terrible. 
+
+Until I noticed -- like the slow-witted...stocky...balding man that I am -- that the viewfinder on my Nikon D750 gives a visual cue when things are in focus. Sure, it's flickeringly fickle at such a shallow depth of field -- but MY GOD was it an epiphany. I'm not much a manual reader, so this feature had escaped me. But it was a great reminder that I should actually read manuals more often. I'm keeping the lens, and am now having fun with it. 
+
+So, what feature has escaped **your** attention that you were delighted to discover?"|PizzaMeatsa|False|https://redd.it/eg921w|664|0.97|0|424|1|photography
+egh7m9|2019-12-27 21:29:31|Describing to non-photographers the difference between “taking a picture” and “making a portrait”?|"As a photographer who takes tons of pictures but also shoots portraits professionally, I still struggle to convince people (e.g. family members and other non-photogs) that there’s a difference between spontaneous snapshots and planned, thoughtful setups to take. 
+
+Is there something obvious I’m missing?"|shemp33|False|https://redd.it/egh7m9|53|0.76|0|52|1|photography
+egi1e1|2019-12-27 22:33:40|Which 2019 gear purchase(s) are you happiest with? What are you planning for 2020?|"2019 was the year I finally had to replace my trusty old D800, which was well over 100k actuations, but mostly just physically breaking apart after constant professional use since 2012 under all sorts of conditions. I got the D800 right when they came out in 2012 and it was my first full frame camera- I adored that thing and took the best shots of my career with it. This year I replaced it with the D850, which has been lovely to use. I've never been much of a gearhead as my work shooting full time kept me too busy to dwell on all the new releases, but after getting the D850 something came over me and I went through a bit of a gearhead phase for sure. I got some really incredible dream pieces this year, including the 105 1.4G ED, 58 1.4, and even a crazy Leica M-A + APO-50 setup, but my one favourite buy of the year was my Zeiss 135 2 APO-Sonnar. I'll never forget the first shoot I used it on and looking at the LCD to review my first shot- it got an actual ""whoa!"" out of me- I couldn't believe how much sharper and more three dimensional everything seemed. Being a fashion/portrait photographer, this really helped my subjects pop and to create incredible isolation. The bokeh and micro-contrast are unlike anything I've seen. Seriously the very best lens I've ever owned, I must buy at least one or two more in the new year. Honourable mention goes to the Pentax 67II I bought, but only had for a short time due to an issue with it- I will absolutely buy another at some point. The Leica was a massive expensive and something I'd wanted since I was 16, but I just don't get excited about it as I do for that Zeiss lens or that Pentax 67. The Nikon 58mm 1.4 was also exceptional, but I sold it- will get another soon. 
+
+Eager to hear what your best gear purchases in 2019 have been- the ones that make you happiest. 
+
+As for things I want to get in 2020: likely another Pentax 67II, one or two Zeiss lenses (ideally the Otus 100 1.4), some new lighting (looking at the very expensive Briese or Broncolor Para + head/pack), at least one more Leica lens (thinking 28), and a Widelux 1500. How about you guys?"|brokesnob|False|https://redd.it/egi1e1|44|0.85|0|128|1|photography
+egklhm|2019-12-28 02:08:12|Anker Unveils First Ever ‘Made for iPhone’ Certified External Flash|https://petapixel.com/2019/12/27/anker-unveils-first-ever-made-for-iphone-certified-external-flash/|ShotOnFilm|False|https://redd.it/egklhm|19|0.82|0|17|0|photography
+egomvy|2019-12-28 09:01:05|Struggles with self-doubt, opportunities, time, and goals.|"Hi all,
+
+I’ve been struggling with confidence, growth opportunities, balancing 9-5 work along with photography work, as well as figuring out goals. I’m not sure if this is the right place to post it, but it seems it would be.
+
+I’ve compiled a small list of questions that I ask internally very frequently and still have no answers. This supportive and welcoming group might be able to help. 
+
+A little about myself, I’m based out of Oregon and 27. I’m mainly an action sports photography focusing on competitive paintball. It’s what got me started in photography, leading me into videography and it’s been a source for me to make a small income that’s allowed me to purchase very good gear for that specific avenue of photography. At this point, I’ve found myself wanting to venture into other avenues of photography and videography, hoping to make a career out of it eventually in some capacity. Currently, I work a 4-day a week night shift job that pays quite decently, but it’s nothing I want to do at all, it kills me kind of. 
+
+Some of the questions that I think would help me figure out a path to go on were the following; feel free to touch on any, some, or none of the questions. Thank you guys!
+
+- How do I find opportunities to shoot things outside of what I know? (paintball photography)
+
+- When do you shoot something new for free and when do you charge for it? If you’re shooting for free, do you allow others to profit off your work commercially, no matter the size of the company or usage?
+
+- How do you find other creatives to work along with? I’ve tried Craigslist and local Facebook groups but it seems pretty dead in Oregon.
+
+- How do you work toward your professional goals?
+
+- How do you balance a full-time job that supports your lifestyle, but also pursue a change in career? When do you make the leap?
+
+- What are the pros and cons of working freelance compared to working directly for a company or business?
+
+- How you find the confidence to shoot things outside of what you know?
+
+- How do you work through self-doubt and lacking confidence? I struggle with that even in something that I’m comfortable shooting. I think I’m good, but also think my work is never good enough to get paid for or hired for.
+
+
+I appreciate all of the support this sub has given through lurking and decided it was time to post and try to engage myself. Thanks for reading! :)"|DinoChaur|False|https://redd.it/egomvy|4|0.67|0|3|1|photography
+egl10l|2019-12-28 02:46:16|When giving one of your prints as a gift, to a “non-photographer”, what do you say? If anything...|"In other words, when the recipient opens it (and say it’s at least a 16x24 or bigger) do you wait to see if they ask you about it? Do you have the urge to point something out?
+
+As a landscape, astrophotographer, and composite artist, emphasis on “artist”, I always have to resist the urge to “explain” the piece. 
+
+Am I alone in this? Do any of you find yourselves in a similar quandary? What do you do, or not do, as the case may be?"|JaysGolf|False|https://redd.it/egl10l|5|0.67|0|9|1|photography
+egqe36|2019-12-28 12:48:42|"TechRadar | Calling the shots: the 12 most exciting cameras of the decade"|https://www.techradar.com/news/calling-the-shots-the-12-most-exciting-cameras-of-the-decade|EagleFly_5|False|https://redd.it/egqe36|0|0.43|0|6|0|photography
+eg8583|2019-12-27 07:31:46|With 2019 slowly coming to an end, which is your favourite picture you took this year?|Title says it all. This is not ment to be the same as nomination thread, because I know not all of you will participate there and it is also far less engaging.|mmberg|False|https://redd.it/eg8583|49|0.9|0|100|1|photography
+egrn8t|2019-12-28 14:58:36|Difficult Photography Questions Answered Here Sort Of|https://www.shutterbug.com/content/difficult-photography-questions-answered-here-sort|phottitor|False|https://redd.it/egrn8t|0|0.32|0|0|0|photography
+ega3lw|2019-12-27 11:28:50|Is shooting people surfing you don't know weird.|"I like shooting surfing as an amateur photographer. I recently moved to an area with some awesome surfing, but I don't know too many people here yet. Is it weird shooting people you don't know? If I get a good shot of someone and want to share it with them, how do I go about starting that conversation? Feels awkward too be like ""hey bro, got this sick shot of you that you didn't know I was taking""
+Thanks for your thoughts on the subject."|dotDeeka|False|https://redd.it/ega3lw|23|0.78|0|27|1|photography
+egacxm|2019-12-27 12:00:03|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2019 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/egacxm|17|0.82|0|786|1|photography
+efv705|2019-12-26 13:03:17|The Playful Sensuality of Photographer Ellen von Unwerth’s Images|https://www.artsy.net/article/artsy-editorial-playful-sensuality-photographer-ellen-von-unwerths-images|Periklis_|True|https://redd.it/efv705|819|0.9|0|62|0|photography
+eg5r73|2019-12-27 03:38:39|New in photography: Is it better to invest in a lens than to the body for better quality pictures? If so, why would you invest in newer bodies?|"I’m new in the photography world and I want to make the best out of my money. In few words, I want to be able to take pictures with magazine quality resolution and that’s pretty much it, I’m really not gonna make a living out of it so I might want to avoid any extra features that adds up the price (if possible). 
+
+Im interested in portraits and in traveling pictures that when I see them I feel that I’m actually looking at some fancy traveling magazine.
+
+So what would be the best body + lens recommendation? 
+
+PS. I know that technique can really make a picture look amazing regardless of the camera, but I really want to know the best option out there"|4ndyPower|False|https://redd.it/eg5r73|14|0.69|0|65|1|photography
+efznn2|2019-12-26 19:23:48|Are paid editing tutorials worth it anymore?|"Recently, a lot of photographers I'm following on instagram have released paid tutorials on how they retouch their photos. My initial thought is to buy it/them since I love their style and would be super interested in seeing how they develop a raw file into something amazing, but then I go into the ""preview"" of it or table of contents, and I see that they cover a lot of factors that I can find for free online. 
+
+Ive been binge watching piximperfect and letting that genius walk me through photoshop, but sometimes I wonder if there are benefits to purchasing some tutorials from specific people. Will I learn something new, or will I be hearing the same information with a different voice, and at a not so cheap cost?
+
+I'd love to hear from someone who purchased a tutorial in general and has also watched free educational content on youtube to help me gather insight on this matter. (I used instagram as an example but this could be anything ie: skillshare, masterclass, fiverr etc. etc.)
+
+Thanks and happy shooting!"|TaGeule|False|https://redd.it/efznn2|39|0.86|0|33|1|photography
+eg3vi2|2019-12-27 00:56:09|Medieval Castle Photography Sessions: Dos and Donts?|"There’s a chance I’ll be setting up and running a photography service in a medieval castle in my home town, and I’m wondering if anyone here has done something similar. 
+
+The shtick is you’d come in, dress up in some medieval garb, sword and sorcery stuff, and get your photo taken and printed there and then. 
+
+I’ve done Grottos and Haunted Houses, and they’ve all worked out quite well, but this would be more of a longer term thing if all goes to plan. 
+
+That said, what sort of issues might I run into? 
+
+A few I’ve thought of myself would be garment types, sizes and hygiene - spacing issues for large families - as well as pricing for different sized prints or digital options I could offer. 
+
+I’m a bit of a medieval nut, as well as a fantasy head, so I’d be well up for dressing as a wizard and doing a whole rigmarole if it enticed people in, (the magician has developed a spell to capture your likeness - for a few coin) but maybe I’m overdoing it there. 
+
+Any thoughts?"|MrSmidge17|False|https://redd.it/eg3vi2|13|0.76|0|6|1|photography
+efxkqj|2019-12-26 16:41:10|DPReview TV: Our 2020 Resolutions for every camera company|https://youtu.be/W8SuSRWfE1k|EagleFly_5|False|https://redd.it/efxkqj|28|0.76|0|10|0|photography
+efmp59|2019-12-25 22:20:11|Like Photography and Legos? Here a lego Nikon F3|https://emulsive.org/articles/news/say-hello-to-the-lego-nikon-f3-the-new-plastic-fantastic-film-camera|J_Cozier|False|https://redd.it/efmp59|572|0.95|0|22|0|photography
+efzs41|2019-12-26 19:33:19|"The 2010s Were Difficult for Photography, but it's Not Black and White | Digital Trends"|https://www.digitaltrends.com/photography/the-2010s-were-a-difficult-decade-for-photography-but-its-not-black-and-white/|shian243|False|https://redd.it/efzs41|11|0.7|0|6|0|photography
+eglm0w|2019-12-28 03:38:45|WHY NOT RAW AS STANDARD!?|"So, today I just bought a new camera (Sony A7ii). It's my first full frame mirrorless camera and I love so much about it already!
+
+I'm still not making money on this so I'm not too bummed out about what happened today but it's still grating on my nerves. My buy was an impulse decision since I had a few hours to kill before a photo shoot with a girl I've done two shoots with before and she says I'm one of two photographers she feels comfortable with. However! And here's the meat of the issue. I didn't think of looking at the image quality to make sure it was in RAW and uncompressed. I happened to shoot a ton of images today in JPEG on ""fine"", which is shit.
+
+WHY does high end semi-pro (I don't know for pro cameras so I'm not assuming) have their gear set to this image quality instead of at least RAW & JPEG - fine? Does ANYONE using these cameras actually not shoot in RAW and if so, do they REALLY shoot in ""fine""? Like, what the fuck.
+
+I've ruined a whole shoot because of this pretty much.
+
+Thanks SONY!"|RoffeDH|False|https://redd.it/eglm0w|0|0.1|0|54|1|photography
+efup2o|2019-12-26 12:05:27|"How long did it take you to consider yourself a ""good"" photographer?"|"It took me about 10 years to finally be happy, content and proud of myself as a guitarist/songwriter but that even included a year of dropping it altogether and rediscovering the passion.  
+
+I started photography about 3 years ago and I'm all too familiar with the disease of perfectionism and comparison.  It slowly gets easier and I'm slowly reaching a stage within photography where I'm happy with my progression but also eager to grow and become even better.
+
+I know with guitar It doesn't even cross my mind whether I'm good or worthy anymore, but with photography that thought stills pops in.
+
+I guess I'm just curious how everyone else deals with it and how they see themselves?"|itsyaboibilto|False|https://redd.it/efup2o|13|0.71|0|38|1|photography
+efnoq6|2019-12-25 23:45:20|5 IMPORTANT reasons to do LOCAL landscape photography|https://www.youtube.com/watch?v=qz2uQVb2eA4&list=WL&index=12&t=0s|csbphoto|False|https://redd.it/efnoq6|102|0.86|0|26|0|photography
+efbmvh|2019-12-25 03:55:58|You family remembers that you have a camera|"Everyone is sitting around the table, just finishing off the pie. People start chatting to each-other about getting up to go for the night. Suddenly your moms needs a picture of everyone gathered for the night. A simple iPhone seems like the tool for the job. But then your grandma remember that’s you have a thousand dollar camera and thinks you should take the picture, you rush to your car to grab your camera after you insisted that and iPhone possessed the quality for such a simple photo. You grab you camera, adjust the shutter speed and F on the camera for the picture after you just finished taking some night time photos. What a dread all this is. We’d be done by now if we just used an iPhone. Now people are getting impatient. Okay, everyone pose. Click click click. Crap you forgot about the ISO and everyone is looking at your awful pictures. Now your “photography iPhone expert” cousin chimes in to turn the brightness down on the camera. Great. Now people start saying that they should have just used an iPhone all along, and this was a stupid idea. You adjust the ISO and people realize that your pictures aren’t any better quality than an iPhone’s pictures and begin to think it’s because you suck as a photographer. Your camera has thoroughly embarrassed you, and what did you gain? Some grainy pictures of your family, that you aren’t even in?
+Heads up to everyone that this is a fictional story based on true events and bits and pieces of scattered holiday events that’s I’ve thrown into one dramatization."|s3n0rTaCoS|False|https://redd.it/efbmvh|2107|0.95|3|313|1|photography
+efn8dl|2019-12-25 23:06:17|How to tell if your equipment is *truly* holding you back?|Gear Acquisition Syndrome (GAS) is something I fight often, so I would like to ask of the community: How do you know if you really do need to upgrade or acquire another piece of equipment?|dasunst3r|False|https://redd.it/efn8dl|43|0.85|0|75|1|photography
+efrq1o|2019-12-26 06:02:43|A tad bit nervous|So I bill myself as a videographer. Working on a contract for event videos, and they tossed out that per event they'd like 30-40 stills as well. Now, I get lucky shooting stills from time to time but I've never felt comfortable enough with guaranteed results to consider charging money for stills. I figure as long as I just shoot as much as I can, I can squeeze enough out to make them happy, but there's still a confidence barrier. Aside from sending you all over to examples of my work for criticism, any tips or tricks for getting around this?|rynburns|False|https://redd.it/efrq1o|7|0.77|0|4|1|photography
+efmtai|2019-12-25 22:30:17|Photos of the year - 2019 (Sydney Morning Herald - Australia)|https://www.smh.com.au/national/photos-of-the-year--2019-20191205-h1k5y1.html|dontfeedtheibis|False|https://redd.it/efmtai|19|0.77|0|4|0|photography
+efojah|2019-12-26 01:00:57|Inspiration for crystal ball photography|"Happy holidays everyone! I just got one of those crystal balls from my in laws. It’s a lovely fun gift but honestly I’m not sure what to do with it. I wanted to know if anyone had any good ideas or things I could try. All help is appreciated. I know a lot of people here are indifferent about these things but since I got it I have to use it. And maybe get a great print made up for them next Christmas. 
+
+Thank you and enjoy the rest of the holiday season!"|leadey|False|https://redd.it/efojah|6|0.59|0|15|1|photography
+efj8vk|2019-12-25 17:37:17|Don't you think photography talk is too gear-centric?|"Hello,
+
+This is something that I would like to believe that I am not the only person who feels this way, but I feel bombarded by websites, Youtube videos, tweets, pretty much all media for the constant need to upgrade or buy the latest and greatest.
+
+Isn't anyone else tired of this? Like how all the photography topics eventually fall into talking about lenses and cameras to buy instead of talking about photography itself. Just looking for some hope that others feel the same way and it isn't just me."|noealz|False|https://redd.it/efj8vk|11|0.58|0|50|1|photography
+ef2zk5|2019-12-24 15:47:22|darktable 3.0.0 released|https://www.darktable.org/2019/12/darktable-300-released/|LambeauXLIV|False|https://redd.it/ef2zk5|518|0.98|0|138|0|photography
+effqig|2019-12-25 12:00:03|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2019 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/effqig|10|0.77|0|590|1|photography
+efb0qy|2019-12-25 02:56:16|Thinking of making a video about the cost of photography as a hobby; would it be something you’d be interesting in watching?|"I got into photography approximately a year and a half ago and since then spent $7500 CAD on equipment. From the initial Camera buy ( Canon SL2 and 50mm f/1.8 STM lens) to having a studio setup in my living room.
+
+I bought most of the equipment on a used market and want to share what has been a good buy, what was useless, and how much one could expect to spend if they want to get into studio photography.
+
+Would appreciate any feedback."|murat1993|False|https://redd.it/efb0qy|41|0.81|0|22|1|photography
+efb33p|2019-12-25 03:02:33|What did everyone get for Christmas? Show and tell.|"Get, give Christmas, Hanukkah, Festivus, whatever, if you've got cool stories or presents from the holidays, post 'em up.
+
+
+----
+Also a reminder to nominate your favorite photo/s from /r/photographs 
+
+**[Nominate your favourite photos from 2019!](https://www.reddit.com/r/photography/comments/eajgl1/rphotographs_best_of_2019_nomination_post/)**
+
+____"|makinbacon42|False|https://redd.it/efb33p|31|0.79|0|120|1|photography
+ef5a3o|2019-12-24 18:41:42|The Fujifilm X-T3 is still DPR's pick for the best camera under $1500|https://www.dpreview.com/reviews/buying-guide-best-cameras-under-1500|ejaculatingphallus|False|https://redd.it/ef5a3o|97|0.92|0|92|0|photography
+eesacn|2019-12-23 23:13:09|With the decade wrapping up, let’s not forget about this little mishap/spontaneous test.|https://petapixel.com/2018/09/04/lioness-steals-photographers-canon-dslr-and-gives-it-to-her-cubs/|Max_1995|False|https://redd.it/eesacn|811|0.97|0|41|0|photography
+eez1ao|2019-12-24 09:15:17|"Depth of Field 2018 | Crafting Your Career with Lindsay Adler"|https://www.youtube.com/watch?v=PvIZJStfA2U|shian243|False|https://redd.it/eez1ao|68|0.91|0|8|0|photography
+efovud|2019-12-26 01:32:29|Are you using this COMPOSITION technique from the masters?|https://www.youtube.com/watch?v=xqQn9FIock8&feature=share|csbphoto|False|https://redd.it/efovud|0|0.19|0|10|0|photography
+ef15yt|2019-12-24 13:10:08|Album Thread: 12/24/2019|"Let’s see your work! Use this thread to share an album, get feedback from, and give feedback to your peers.
+
+Before posting, be sure to give feedback on other people’s albums. Feedback can be as little as “I like this photo best!”
+
+If you are more confident in your critiquing abilities, give reasons why x photo was good, and/or what can be done to improve y photo.
+
+Please post curated albums! 
+
+*Do not* post your entire Flickr/instagram feeds or website, nor albums of hundreds of photos. You will get more meaningful feedback on albums of fewer images."|AutoModerator|False|https://redd.it/ef15yt|22|0.91|0|22|1|photography
+efecr2|2019-12-25 09:01:12|What are examples of when you'd use an f-stop other than the two end ones?|"Hi all, I'm trying to learn photography and am learning about the aperture. Please correct me if my understanding is wrong anywhere!
+
+Let's assume I have a prime lens, with an aperture of 1.2 to 2.8.
+
+From my understanding, you use the larger aperture for more background blur. 
+
+If I was taking a portrait shot, I would chose the largest f stop to get the most background blur and have the subject really stand out.
+
+If I was taking, say, a sunset photo. I'd have a small aperture right, to have the least background blur and show the landscape the most.
+
+So what are examples of when I would only have a mild background blur, or is the aperture used in other ways?
+
+Any explanation would be much appreciated!
+
+Thanks everyone!"|claret_n_blue|False|https://redd.it/efecr2|0|0.46|0|17|1|photography
+efc5yt|2019-12-25 04:49:16|Why are printed phone camera pictures worse quality than old film cameras??|"I just recently printed a bunch of photos from an iPhone and a lot of them came out very grainy. 
+
+It seems that all of the photos I’ve taken years ago on instant cameras came out looking sharper and overall better quality. 
+
+What I’m trying to figure out is why do those older cameras seem to have better photo print and quality than these new phone cameras??"|michaljerzy|False|https://redd.it/efc5yt|0|0.47|0|26|1|photography
+efftlo|2019-12-25 12:10:39|"""The Agony of Photography"""|"(Btw, anyone is welcome to steal that phrase, all copyrights ceded. I'm too lazy to write books or blogs)  
+
+
+But that moment when (esp. in nature/animals) when your perfectly composed pic dissolves in half a second because the animal ran away or the dang wind blew all of a sudden.   
+
+
+Happy Pagan/Whatever Day!"|Leveller_Chaz|False|https://redd.it/efftlo|0|0.37|0|8|1|photography
+eeik05|2019-12-23 09:43:52|Queen Elizabeth - BTS of Photoshoot by Annie Leibovitz|https://m.youtube.com/watch?v=14kJkRg5k-s&time_continue=203&feature=emb_title|shian243|False|https://redd.it/eeik05|514|0.93|0|146|0|photography
+eeqz0c|2019-12-23 21:35:03|iPhone 11 May Soon Support ‘Made for iPhone’ Strobes that Connect Through the Lighting Port|https://petapixel.com/2019/12/23/iphone-11-may-soon-support-made-for-iphone-strobes-that-connect-through-the-lighting-port/|JScrambler|False|https://redd.it/eeqz0c|42|0.8|0|23|0|photography
+eexewf|2019-12-24 06:18:56|"The ""perfect"" camera?"|"Hey people of r/photography!
+
+I'm not looking for advice, but I'd like to know what your ""perfect"" equipment would be if money was not an issue.
+
+For me it would be a Lumix g9, a gh5 and the olympus pro lenses.
+
+What would you choose?"|noidea139|False|https://redd.it/eexewf|9|0.64|0|92|1|photography
+eepzz9|2019-12-23 20:24:33|Heads up for Photographers using the Nik Collection and Surface/Iris Pro products|"Recently had the rather unpleasant experience dealing with DxO, who now owns the Nik products. Upon getting a new Surface Pro 7, I went ahead and installed all of my applications, did the updates, etc. When I attempted to use the Nik Silver Effects plug-in, none of the photos appeared, every preview was just a black rectangle where the image previews should have been. I then proceeded to try every other plugin with the same result.
+
+Spent two weeks in contact with DxO trying to resolve the issue. After which here is the reply I received:
+
+""Thank you, there is an issue at this time with Surface Pros we have been able to reproduce. Our developers will look into this fix in the future, thank you for your patience and understanding.""
+
+Of course I asked them what they meant by future and they ignored me for another week until I opened a second issue to once again get their attention. With their obvious reply being, they didn't know when.
+
+So if you plan on using a Surface Pro 7, or as I understand it any Iris Pro system, do not bother buying a DxO product."|HVPhoto|False|https://redd.it/eepzz9|22|0.81|0|17|1|photography
+eekmc4|2019-12-23 13:29:27|Community Thread: 12/23/2019|"What are you up to? Share with your e-friends! What's that shiny new piece of equipment?
+
+Show off cool stuff you've created. We want to see and discuss your pictures, videos, website...or anything, really!
+
+If you've got interesting links to stuff created by someone else we'd love to discuss that too!"|AutoModerator|False|https://redd.it/eekmc4|14|0.93|0|48|1|photography
+eejr5w|2019-12-23 12:00:02|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2019 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/eejr5w|18|0.83|0|368|1|photography
+eeiy3r|2019-12-23 10:28:24|What's the worst thing you have caught on camera?|Let's here your stories of the worst thing you have caught on camera?|ZulfPhotography|False|https://redd.it/eeiy3r|15|0.8|0|57|1|photography
+ee50gs|2019-12-22 13:43:40|Nikon Lens History by Ken Rockwell|https://youtu.be/Hb49VMLgpxY|EagleFly_5|False|https://redd.it/ee50gs|539|0.9|0|76|0|photography
+ee71l0|2019-12-22 16:49:47|Forget Overpowering the Sun, The Flashpoint AD1200 Pro Will Replace it - The Phoblographer|https://www.thephoblographer.com/2019/12/19/forget-overpowering-the-sun-the-flashpoint-ad1200-pro-will-replace-it/|LeicaM6guy|False|https://redd.it/ee71l0|91|0.91|0|55|0|photography
+eea0z5|2019-12-22 20:43:46|Lighting Portraits with a Flashlight and household accessories [ISO 1200 Magazine]|http://www.iso1200.com/2019/10/9-photography-light-hacks-in-90-seconds.html?m=1|BadgerRiot|False|https://redd.it/eea0z5|30|0.86|0|10|0|photography
+ee688s|2019-12-22 15:42:35|Capture One Express Fujifilm film simulations|"I had just downloaded Capture One Express for Fujifilm and the first thing I looked for were the film simulations. However, I could not find them.
+
+I imported a Fujifilm RAW file and this is what I get in the Base Characteristics panel:
+
+https://preview.redd.it/p1qu8rwqe7641.png?width=616&format=png&auto=webp&s=20fc9248d3847e4b0552b04c9e548b2eea347c8c
+
+This RAW photo is taken with a Fujifilm X-A3. In the Capture One FAQs, I find a table of supported cameras here: [Can I use Fujifilm simulations in Capture One with my camera?](https://support.captureone.com/hc/en-us/articles/360002406977-Can-I-use-Fujifilm-simulations-in-Capture-One-with-my-camera-) I understand that the X-A3 is not listed there.
+
+However, I find that I am able to select a different ICC profile. For example, I pick the ICC profile for the X-T2 (listed as supported in the FAQ). Since it is not clear from the FAQ, I was expecting the film simulations to show up in the Curve drop down, but it still does not:
+
+https://preview.redd.it/i9aolsmuf7641.png?width=614&format=png&auto=webp&s=a827902239c355d22d6135c1fb2f2cc722da611e
+
+Is this the expected behavior? I would really like to see how Capture One Express behaves in this department if I actually took a photo with a Fujifilm X-T2 or any of the cameras listed in the FAQ table. However, I do not own any of those cameras or know anyone who owns them. Or perhaps can you guys let me borrow a RAW photo taken with any of the cameras listed in the FAQ table?"|numerical_panda|False|https://redd.it/ee688s|39|0.8|0|17|1|photography
+ee99ci|2019-12-22 19:43:08|Shooting cold weather|Any advice for shooting in very cold weather. I am going to be camping out in very cold weather coming up soon. I am not worried about battery life because my battery grip allows me to use AA batteries. Also not worried about fogging because I won’t be going inside. What do you do when shooting in cold weather?|JakInAB0x|False|https://redd.it/ee99ci|15|0.83|0|24|1|photography
+eeimdt|2019-12-23 09:51:33|Canon EOS R Lens Compatibility: Pros, Cons & Limitations|https://www.youtube.com/watch?v=OiUhSy6UQfw|gabrielasvegas|False|https://redd.it/eeimdt|0|0.54|0|9|0|photography
+ee71of|2019-12-22 16:50:01|How do you share full resolution photos to your phone? Downsampling issues - (Google Drive / Dropbox / ???)|"Hey Reddit! I have been trying to figure out a solution for sharing photos with friends and clients that doesn't downsample images to hell. Most everyone wants to post photos to social media, so I'd really like to find an easy solution that's mostly foolproof for less tech-savvy individuals.
+
+The workflow that makes the most sense to me is using Google Drive. My workflow: Edit in Lightroom -> Export to shared folder in Google Drive (desktop) -> Access via Google Drive mobile app -> Download.
+
+The problem is the significant downsampling occurring between the Google Drive folder and saving to the iOS Photos app. This is a download problem, not an upload problem. The original files still in the Google Drive folder are 18-20mb, but the files that end up on my phone are 2-3mb (checked using PS Mobile). Then further downsampling by FB/IG make images REALLLY unappealing.
+
+Does everyone have this issue with Google Drive? Have I been missing a setting? Maybe this is just an iOS problem, but it's annoying as hell. I'm getting a Dropbox account now to test for the same issue, but I'd rather use Google since I already have a paid subscription.
+
+What's everyone else's process like?
+
+&#x200B;
+
+EDIT: I downloaded and tested Dropbox as an alternative and there is no file downsampling from the Dropbox iOS app and the Photos app. Success! The biggest issue I see with Dropbox is the limited amount of storage space, 2 TB free. The pricing for expanding storage is much pricier than Google. Dropbox is $12/mo for 2 TB where Google is $20/yr for 100 GB. Vast size difference, but I don't need 2 TB. I have a Prime account, so I'm going to test that app as well. Thanks for all the suggestions!"|mjhnsn|False|https://redd.it/ee71of|23|0.75|0|41|1|photography
+eebjm1|2019-12-22 22:43:34|So about that spray can in Lightroom|https://www.youtube.com/watch?v=n5KLahq9hHM|ChickenMcLickin|False|https://redd.it/eebjm1|5|0.67|0|2|0|photography
+ee7pan|2019-12-22 17:41:13|Zoom with your legs|"Hello, I was looking into a few jobs with local papers and was hoping to get a distance lens as it seems pretty standard for that end of work, and I had been asking around whether to use a Prime or a Zoom; I got opinions from both sides but the general consensus was that using a Prime was seen as being better, and that you should “zoom with your legs”. 
+
+I was wondering whether this is an old wives tale for lack of better words and if there are different situations where each would be better, ie. a football match vs a marathon.
+Like to hear your thoughts!
+
+(Edit: layout)"|SgtNene|False|https://redd.it/ee7pan|14|0.68|0|41|1|photography
+eds4q2|2019-12-21 16:49:30|The Year in Pictures 2019 - 5.6 million. That’s roughly the number of images photo editors of The New York Times sift through each year to find the perfect photographs to represent the news for its readers.|https://www.nytimes.com/interactive/2019/world/year-in-pictures.html|iambarryegan|False|https://redd.it/eds4q2|1052|0.94|0|30|0|photography
+eeh7lu|2019-12-23 07:12:58|Mirrorless hype vs DSLR's for you?|"With all he hype for mirrorless cameras, which one do you have right now? 
+
+As for me, I still have my D7200, partly because I have too many lenses to just make a switch to mirrorless, and I don't want to be putting an adapter in between.. and if I would buy a new camera this year, I would probably buy a cheap d750. And I'm not going to lie. If I had the money, I would switch to mirrorless... But just because the technology in them is much more advanced does not mean that older cameras are not good anymore. My D7200 does everything I want it to do.
+
+I even saw some people make the switch to another brand while making the switch to mirrorless. 
+
+But since all I read on any mirrorless thread/video, is people arguing which is best, I would like to know who here has already switched to mirrorless, and who is planning to/not planning to and why.
+
+Really curious to see your answers :D"|denzelvb|False|https://redd.it/eeh7lu|0|0.42|0|53|1|photography
+edw4uk|2019-12-21 22:10:53|Best of 2019: Top 50 Photographs From Around the World|https://mymodernmet.com/best-photos-of-2019/|shatteredankle|False|https://redd.it/edw4uk|49|0.92|0|12|0|photography
+edua3i|2019-12-21 19:38:45|History of the wicker peacock chair as a photographic prop.|https://www.youtube.com/watch?v=_V10kWLh71U|rogue|False|https://redd.it/edua3i|29|0.83|0|4|0|photography
+edbagt|2019-12-20 15:02:11|Remember how important framing is in what story you tell|"https://i.imgur.com/P8mLnhh_d.jpg?maxwidth=640&shape=thumb&fidelity=medium
+
+Do I want to ignore the trash and just have a pretty sunrise?
+
+Do I want to have both and say something about the contrast between the two?
+
+Do I ignore the sunrise and only show the trash?
+
+And if I include the trash, do I want to frame the discussion on how horrible people are for leaving garbage around? Or do I want to talk about how sad it is people don't have homes and are living here? Or do I want to be positive and provide links to ways to help the homeless?
+
+Always keep in mind what you want your framing to show. And look up, look down, look left, look right, look behind you, get higher, get lower; I've had some OK shots turn into amazing ones by taking a few seconds to look around and change my vantage point by a few feet to determine a different perspective or include or remove certain objects."|jonovan|False|https://redd.it/edbagt|525|0.9|0|63|1|photography
+edmufv|2019-12-21 07:08:07|"Can you get the ""Leica Look"" on other camera systems?"|Got to play with my friend's Leica M with a 50mm F2 summicron the other day. I really liked the photos that came out of it. There was just something about the images that just seemed really appealing. Maybe it was the sharpness, maybe it was the way the subject seemed to pop, maybe it was the way the background seemed to blur really nicely. So I guess i'm wondering if there is a lens available for the Canon EF mount that would give me similar looking results?|TPatS|False|https://redd.it/edmufv|5|0.53|0|59|1|photography
+ed32hx|2019-12-20 01:39:45|The state of Flickr (email from CEO)|"Dear Flickr Pros,
+First, and above all else: thank you. Thank you for being a part of our community. Thank you for caring about Flickr. Thank you for supporting Flickr. Thank you for being a Flickr Pro.
+
+Two years ago, Flickr was losing tens of millions of dollars a year. Our company, SmugMug, stepped in to rescue it from being shut down and to save tens of billions of your precious photos from being erased.
+
+Why? We’ve spent 17 years lovingly building our company into a thriving, family-owned and -operated business that cares deeply about photographers. SmugMug has always been the place for photographers to showcase their photography, and we’ve long admired how Flickr has been the community where they connect with each other. We couldn’t stand by and watch Flickr vanish.
+
+So we took a big risk, stepped in, and saved Flickr. Together, we created the world’s largest photographer-focused community: a place where photographers can stand out and fit in.
+
+And yet, Flickr—the world’s most-beloved, money-losing business—still needs your help.
+
+We’ve been hard at work improving Flickr. We hired an excellent, large staff of Support Heroes who now deliver support with an average customer satisfaction rating of above 90%. We got rid of Yahoo’s login. We moved the platform and every photo to Amazon Web Services (AWS), the industry leader in cloud computing, and modernized its technology along the way. As a result, pages are already 20% faster and photos load 30% more quickly. Platform outages, including Pandas, are way down. Flickr continues to get faster and more stable, and important new features are being built once again.
+
+Our work is never done, but we’ve made tremendous progress.
+
+Flickr still needs your help. It’s still losing money. You, and hundreds of thousands of loyal Flickr members stepped up and joined Flickr Pro, for which we are eternally grateful. It’s losing a lot less money than it was. But it’s not yet making enough.
+
+We need more Flickr Pro members if we want to keep the Flickr dream alive, and we need your help to share the story of Flickr.
+
+We didn’t buy Flickr because we thought it was a cash cow. Unlike platforms like Facebook, we also didn’t buy it to invade your privacy and sell your data. We bought it because we love photographers, we love photography, and we believe Flickr deserves not only to live on but thrive. We think the world agrees; and we think the Flickr community does, too. But we cannot continue to operate it at a loss as we’ve been doing.
+
+Flickr is the world’s largest photographer-focused community. It’s the world’s best way to find great photography and connect with amazing photographers. Flickr hosts some of the world’s most iconic, most priceless photos, freely available to the entire world. This community is home to more than 100 million accounts and tens of billions of photos. It serves billions of photos every single day. It’s huge. It’s a priceless treasure for the whole world. And it costs money to operate. Lots of money.
+
+As you know, Flickr is the best value in photo sharing anywhere in the world. Flickr Pro members get ad-free browsing for themselves and their visitors, advanced stats, unlimited full-quality storage for all their photos, plus premium features and access to the world’s largest photographer-focused community.
+
+Please, help us spread the word. Help us make Flickr thrive. Help us ensure Flickr has a bright future. Every Flickr Pro subscription goes directly to keeping Flickr alive and creating great new experiences for photographers like you. We are building lots of great things for the Flickr community, but we need your help. We can do this together.
+
+We’re launching our end-of-year Pro subscription campaign on Thursday, December 26, but I want to give you a coupon code to share with friends, family, or anyone who shares your love of photography and community so they can enjoy the same 25% discount before the campaign starts.
+
+We’ve gone to great lengths to optimize Flickr for cost savings wherever possible, but the increasing cost of operating this enormous community and continuing to invest in its future will require a small price increase early in the new year, so this is truly the very best time to help everyone upgrade to a Pro membership.
+
+If you value Flickr finally being independent, built for photographers and by photographers, we need your help.
+
+With gratitude,
+
+Don MacAskill
+Co-Founder, CEO & Chief Geek
+SmugMug + Flickr
+
+Please share coupon code 25in2019 or link below to give the gift of 25% off Flickr Pro now.
+
+https://www.flickr.com/account/upgrade/pro?coupon=25in2019"|FlyingPhotog|False|https://redd.it/ed32hx|861|0.96|1|449|1|photography
+edcatg|2019-12-20 16:21:45|Posing Heavier Subjects|"My friend asked me to take her family's portraits. She and her husband are very, very heavy. No judgement there. They are beautiful, lovely people and I love them no matter what. But I know they don't want to look very large in their photos. I don't have very much experience photographing heavier people, so beforehand I tried to learn a thing or two about flattering different body types. 
+During the shoot, I encouraged them to lean towards me with their chests, to sit/stand straight, and to think ""up and over"" with chins to avoid the double chin. I think they did follow my instructions, but it was hard to tell and to be honest, I don't think it made a huge difference. I didn't want to over instruct them because I was worried it would discourage them and send the message that they aren't doing it right... or worse, make them think they have to do it eeeeven more than usual because they're so heavy. I also tried shooting down, but tried to avoid going to the extreme with that angle.
+I think my friend but is happy with what she's seen so far, but she would never say anything negative anyway. 
+As I look through the photos, I just wonder if I could have done more to flatter them. I have a feeling a more experienced portrait photographer could have. I know sitting isn't the best, but they wanted variety. 
+Advice is welcome!"|reehamil90|False|https://redd.it/edcatg|23|0.83|0|33|1|photography
+ed99j9|2019-12-20 12:00:02|Official Question Thread! Ask /r/photography anything you want to know about photography or cameras! Don't be shy! Newbies welcome!|"This is the place to ask any questions you may have about photography. No question is too small, nor too stupid.
+ 
+___
+ 
+**Info for Newbies and FAQ!**
+ 
+**First and foremost, check out our extensive [FAQ](http://www.reddit.com/r/photography/wiki/index).** Chances are, you'll find your answer there, or at least a starting point in order to ask more informed questions.
+ 
+* Want to start learning? Check out /r/photoclass2019 (or /r/photoclass for old lessons).
+ 
+* [Here's an informative video](http://vimeo.com/41174743) explaining the Exposure Triangle.
+ 
+___
+ 
+**Need buying advice?**
+ 
+Many people come here for recommendations on what equipment to buy. Our FAQ has several extensive sections to help you determine what best fits your needs and your budget. Please see the following sections of the FAQ to get started:
+ 
+* [Buying in general.](https://www.reddit.com/r/photography/wiki/index#wiki_selecting_equipment)
+* [What type of camera should I look for?](https://www.reddit.com/r/photography/wiki/index#wiki_what_type_of_camera_should_i_look_for.3F)
+* [What's a ""point and shoot"" camera? What's a DSLR? What's a ""mirrorless"" camera? What's the difference?](https://www.reddit.com/r/photography/wiki/index#wiki_what.27s_a_.22point_and_shoot.22_camera.3F_what.27s_a_dslr.3F_what.27s_a_.22mirrorless.22_camera.3F_what.27s_the_difference.3F)
+* [Do I need a good camera to take good photos?](https://www.reddit.com/r/photography/wiki/index#wiki_do_i_need_a_good_camera_to_take_good_photos.3F)
+* [What can I afford?](https://www.reddit.com/r/photography/wiki/index#wiki_what_can_i_afford.3F)
+ 
+If after reviewing this information you have any specific questions, please feel free to post a comment below. (Remember, when asking for purchase advice please be *specific* about how much you can spend. See [here](https://www.reddit.com/r/photography/wiki/index#wiki_how_do_i_specify_my_price_range_.2F_budget_when_asking_for_recommendations.3F) for guidelines.)
+ 
+___
+ 
+**Official Threads**: /r/photography's official threads are automated. The community thread is posted at 9:30am US Eastern on Mondays. The monthly thread schedule is as follows:
+ 
+1st | 8th | 14th | 20th
+---|---|----|----
+Deals | Instagram | Portfolio Critique | Gear
+___
+ 
+**Finally a friendly reminder to share your work with our community in r/photographs!**
+
+&nbsp;
+
+-Photography Mods (And Sentient Bot)"|photography_bot|False|https://redd.it/ed99j9|33|0.87|0|585|1|photography
+eda1zk|2019-12-20 13:14:35|Monthly Gearporn Thread: December 2019|"This thread is where you can show off what you've acquired this past month.
+
+Make us green with envy!"|AutoModerator|False|https://redd.it/eda1zk|16|0.87|0|63|1|photography
+ecsuf2|2019-12-19 12:57:52|The Atlantic: Photos of the Decade: 2010–2019|https://www.theatlantic.com/photo/2019/12/photos-decade-2010-2019/603817/|makinbacon42|False|https://redd.it/ecsuf2|1032|0.97|0|73|0|photography
+ed4upt|2019-12-20 04:11:33|Anyone ever give unsolicited advice?|"I was at a medium low lit, medium sized open room this evening for a dance recital. There was a guy next to me with a t6i set to auto and the flash going off like a gd rave. People around him where getting irritated. I thought about giving him some advice on how to get out of auto and stop using the useless pop up flash. I was shooting with a gripped 5D /w a 70-200 and a EOS RP on a tripod for video. I feel like I looked the part enough that he would be receptive, but i ultimately didn't say anything. 
+
+I was just curious if you guys have ever reached out and given advice to anyone in the wild."|Unlucky_Department|False|https://redd.it/ed4upt|21|0.83|0|20|1|photography
+ed1iao|2019-12-19 23:35:50|"Business costs vs income | gear cost vs overheads - how are your finances?"|"Just asked this in /r/videography and thought I might get more responses in here, as you guys are very switched on and have had great discussions in the past! 
+
+So I just bought a new PC, and was chatting to a friend about his new big camera purchase, and it got me thinking: how well does the average photographer/videographer/filmmaker etc know the state of their own finances? I feel like we often talk about the artistic side of the profession, but not so much the business side.
+
+I've asked these same questions to lots of shooters I know, and had very mixed responses. So I thought it would be fun to ask this sub the same thing (especially to freelancers/solo shooters)
+
+1. What proportion of your turnover goes to business costs? (I.e. what's your ""burn rate""/basic cost of doing business/margin etc)
+2. Out of these costs, how do they break down between things like gear vs things like insurance/other overheads?
+3. As a follow-up question, when do you think it's the right time to invest in a piece of gear like a new camera, lens, lighting etc? Do you have a strict budget? Do you just keep spending as long as your business is growing?
+
+As this sub has a good mix of very established and experienced people doing quite high-end work, as well as freelancers just starting out, I think this could be quite a productive thread (e.g. for lurkers who may not be as confident about the business side of this job).
+
+Thanks in advance guys!"|TheMightyPnut|False|https://redd.it/ed1iao|42|0.91|0|13|1|photography
+ed5mpo|2019-12-20 05:24:13|How to hide a camera in your car?|"I like to drive with my camera in my car, at the ready for any shot that may come along. 
+
+However, I don't want to have to get it out of the trunk, yet it (Nikon D610) won't fit in my glove or under the seat .
+
+Any ideas on how to hide it in plain site?"|decorama|False|https://redd.it/ed5mpo|13|0.75|0|58|1|photography
+ecyuap|2019-12-19 20:24:54|I need to vent about a situation at work that’s happening right now|"So I got hired as a digital media coordinator for an organization, after doing production work for several years in college and completing a degree in journalism. In the course of that work, I’m responsible for all of the photos and video that we produce at events, basically from shooting to posting. All of the work I do is entirely with my own equipment minus the laptop I was given to do everything, which is a bottom-tier enterprise unit from probably 3 years ago that hardly can run Outlook and Word at the same time. Still, I do my best, and I genuinely enjoy the process of shooting and editing and all the rest of it.
+
+However, I’ve repeatedly been asked to keep lightening the photos I take until they’re totally blown out and awful. Since I’m not the ultimate authority, I do as I’m told, but I still genuinely do not see why they need to be so bright. I received this email from my boss a while ago:
+
+> I have concerns that these are professional photos but they are always a different level of qualities. Pictures are too dark, and just don’t seem like they are taken by the same camera or photographer. What software are you using to edit? Also, do you adjust the camera settings as you take photos? Just seems to be so many challenges each time photo support is completed.
+
+To which I replied:
+
+> I use Lightroom to manage and alter photos unless more in-depth changes are needed, in which case I use Photoshop. Depending on lighting conditions and the subject matter of a shot, changes to the lens aperture, ISO sensitivity, and shutter speed have to be made, occasionally on a per-shot basis, so that the resulting photos are neither overexposed and washed out nor underexposed and overly dark (the latter of which introduces significant problems in post-production due to noise and aberrations that are exacerbated by artificially increasing the brightness of a photo). I do my best to keep them as consistent as I can both while shooting and in post-production, but there will always be a certain amount of variation present in photos in different lighting conditions, from different locations, or at different times of day.
+ 
+> There are a variety of reasons why the photos I take and alterations I make to them might look different to you than they do to me. When I’m working on a laptop, I typically leave my screen brightness on full to counteract as best I can the lack of brightness laptop screens usually suffer from. On lower brightness settings, all of the photos I’ve taken look slightly darker, which could very well be the majority of the cause of the issue. In addition, on more mainstream display panels like the ones found in our laptops and in some of the monitors found around the office, blue light tends to be overemphasized, which is why many people choose to use the night-light mode since blue-tinted whites appear brighter than whites with a redder tint. This is easy to see when viewing our Flickr photos on a cell phone that can compensate for ambient lighting conditions, where they are noticeably more red-shifted - this is not really something that can be corrected for without a true color-calibrated display to use for media work. Color inaccuracies can also manifest differently in two otherwise-identical screens due to manufacturing tolerances. And there are countless other small things that can affect the way an image appears on a screen.
+ 
+> All of this is to say that I can lighten the photos if you’d like me to, but I’ve done the best job I can do to get them to look the way I think they should look as I’m looking at them on my computer. I can certainly make changes to them if you’d like since I am not the ultimate authority, but in order for that to happen I need to know exactly which files to change and exactly how to change them, since without a way to compare what I see to what you see, I’m effectively guessing as to how to get them to look the way you’d like them to look.
+
+All of the photos I’m talking about look fine to me, and they look fine to our graphic designer (“Wow, these are really good photos!”) who is the only person other than me who deals with this kind of media and knows the ins and outs.
+
+Am I going fucking insane?"|roguespectre67|False|https://redd.it/ecyuap|15|0.75|0|46|1|photography
+ecu0qy|2019-12-19 14:36:48|Building a 24K Resolution 360° Camera - Rain-proof Timelapse Monster for at Sea|https://www.youtube.com/watch?v=fseH9Kd5ooM|Mun-Mun|False|https://redd.it/ecu0qy|34|0.9|0|9|0|photography
+ed15jf|2019-12-19 23:09:02|Southwest Roadtrip Part 2 with the Nikon F100 + Ektar 100|https://www.youtube.com/watch?v=eN7DYe-xcN0|inb4ElonMusk|False|https://redd.it/ed15jf|5|0.6|0|0|0|photography
+ecdue1|2019-12-18 15:11:21|Four Ways to Shoot Modern and Editorial Christmas Portraits (2 min)|https://youtu.be/4WUSMZBqJRc|driftmark|False|https://redd.it/ecdue1|508|0.93|0|28|0|photography
+ecj0jx|2019-12-18 21:34:27|The Sony A7R IV Disassembly and Teardown - Kolari Vision|https://kolarivision.com/the-sony-a7r-iv-disassembly-and-teardown/|Phaelix|False|https://redd.it/ecj0jx|81|0.94|0|10|0|photography
+ecg3sn|2019-12-18 18:02:28|Nikon Z50 review|https://www.dpreview.com/reviews/nikon-z50-review/7|ejaculatingphallus|False|https://redd.it/ecg3sn|109|0.93|0|57|0|photography

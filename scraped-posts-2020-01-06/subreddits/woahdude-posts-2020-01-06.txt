@@ -1,0 +1,556 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+61ktel|2017-03-26 09:39:50|IMPORTANT: Many of our subscribers have no idea what this subreddit is actually for|"Many of you long-time WoahDude users have been complaining about the growing flood of users from /r/all who have a complete misunderstanding of what sort of content belongs here. Your cries have been heard, and we will start being more strict with enforcement and finally set shit straight:
+
+- We are **NOT** a ""reaction subreddit"".
+
+- We are **NOT** a subreddit about interesting or amazing content. 
+
+- We are **NOT** interchangeable with /r/pics, /r/gifs, /r/damnthatsinteresting or other general subreddits.
+
+- We are specifically made for **psychedelic content**, trippy or mesmerizing stuff that will make a sober person feel stoned, or stoned person trip harder! We're not about posting things that are merely neat or amazing, but instead, things that sort of mess with your mind, warp your reality. 
+
+Mindfucks and self-inflicted gaslighting. Or the hypnotic or mesmerising. Vivid colors, intense patterns. Mind-blowing science and philosophy. Chill or trippy music. Surrealism, absurdism and strangeness. 
+
+Think of the bizarre, erratic and psychedelic nature of Adult Swim. Or the wondrous, mind-expanding, awe inspiring nature of Carl Sagan's Cosmos. Or even the reality distorting, confusing, mind-fucking nature of Eternal Darkness for Gamecube. We're all of that.
+
+TL;DR - Not all the content that makes you say the words 'woah dude' belongs in this subreddit, and not all the things that belong in this subreddit will necessarily make you literally say the words 'woah dude'.
+
+----
+
+# WoahDude material
+
+  The following examples are a non-exhaustive list
+
+- **Intense use of color and patterns:** [Intricate designs](http://i.imgur.com/UnbMnGl.jpg), [intense colors](https://i.giphy.com/26AHL9ByMyHJzgjkc.gif), [complex geometry](http://imgur.com/a/BAJ8j), [hyperrealism](http://imgur.com/a/xVX48), [fractals](http://i.giphy.com/xT0BKzyF3d7ljlJpug.gif), [recursion](http://i.imgur.com/HiwhxED.gifv), [psychedelia](http://imgur.com/a/vZZ4d), [abstract art](http://i.imgur.com/ARL6oWs.gifv)
+- **Extreme perspective:** [Macrophotography](http://imgur.com/a/vvvmC), [electron micrographs](http://imgur.com/tk9HiBi), [astrophotography](http://i.imgur.com/CWDYFwa.jpg)    
+- **Giving a new understanding:** [Mathematical visualizations](http://imgur.com/gallery/moDHTKh), [scientific visualizations](http://imgur.com/FTeAKrr), [engineering visualizations](http://imgur.com/gallery/oC8j4Kn), [data visualizations](http://i.imgur.com/cpHrPyQ.jpg), [physics explanations](http://i.imgur.com/INKrGUS.gifv), [cross-sections](http://i.imgur.com/4n7hroi.jpg), [scientific art](https://www.reddit.com/r/woahdude/comments/2bv5b6/watercolors_added_to_ferrofluid_and_then_placed/), [reconsidering assumptions](https://www.reddit.com/r/woahdude/comments/12y8j4/the_rock_is_in_a_pool_pic/), [reframing perspective](https://i.imgur.com/gz4R6ty.gifv)
+- **Altered reality:** [Slow motion footage](http://i.imgur.com/lFatiV7.gifv), [stop motion footage](http://i.imgur.com/00At51C.gifv), [bullet time](http://i.imgur.com/LqzejN9.gifv), [compositing](http://i.imgur.com/MtNUELc.gifv), [long exposure](http://i.imgur.com/9EAxa00.jpg), [special effects](http://i.imgur.com/P8DMiGR.gifv), [drug trip simulation](https://gfycat.com/PastBossyAxolotl)
+- **Mesmerizing:** [Cinemagraphs](http://imgur.com/gallery/9cR4L), [chill music](http://open.spotify.com/user/123156102/playlist/0EedULhw6qjt7m6PD0Zsjb), [tranquil art](http://imgur.com/a/JN5Z7), [repetitive mechanical motion](http://i.imgur.com/jBG8fcN.gif), [interactive art](http://weavesilk.com/)
+- **Sensory confusion:** [Optical illusions](http://imgur.com/a/VIeMk), [distortion](http://i.imgur.com/jHaAm.gif), [aural illusions](https://www.youtube.com/watch?v=8IXm6SuUigI), [stereograms](http://imgur.com/a/iGNlP), etc.
+- **Cognitive confusion:** [Surrealism](http://imgur.com/gallery/8s9f5), [absurdism](http://i.imgur.com/G7p2clq.gif), [fifth-world art](http://i.imgur.com/HmtdV.jpg), [mystical art](http://i.imgur.com/LUzuxmr.jpg), [hypnagogia](http://imgur.com/a/kYONn), [strangeness](http://i.imgur.com/4MihoxD.gifv), [the fantastic](https://gfycat.com/LeafyPowerlessCorydorascatfish), [disjointedness](http://i.imgur.com/8PTGLci.gifv), [random and erratic behavior](http://i.imgur.com/dacZgCw.gifv), [datamoshing](https://i.imgur.com/zcuAETF.gifv), [pareidolia](http://imgur.com/OhwaPuD), [paradoxes](http://i.imgur.com/u6rR3BA.gifv), [strange philosophy](http://imgur.com/a/fRuFd?gallery), [strange science](http://imgur.com/gallery/crbiq), [cuil theory](http://shiranuiamaterasu.tumblr.com/post/33080297938)
+
+# **NOT** WoahDude material
+
+
+- **Rarity:** Rare talents, dangerous stunts, extreme human abilities, 1-in-a-million shots, sports highlights, abnormally large or small examples of objects, etc.
+- **Bullshit peddling:** Pseudoscience, paranormal activity, cryptozoology, hoaxes, etc. 
+
+----
+
+ Please note that while the above descriptors on our list are good reductive examples of what belongs in this subreddit, they don't guarantee content that fits said descriptors also fits our holistic purpose for what belongs in this subreddit. For example, you'll notice that ""slow motion"" is on the list, however if you take any random gif and apply slow motion to it, that doesn't automatically guarantee that it has been turned into material suitable for the subreddit. Nor are random charts from your school textbook guaranteed to qualify under ""data visualizations"". All posts must still satisfy the overarching theme of the subreddit.
+
+
+
+
+- [More info in our rules wiki](https://www.reddit.com/r/woahdude/wiki/index#wiki_rule_0_-_woahdude_material_only)
+ "|rWoahDude|False|https://redd.it/61ktel|2866|0.99|35|136|1|woahdude
+egomwh|2019-12-28 09:01:08|Best of Woahdude 2019 nomination thread|"Nominate and vote in each category in the comment section below!
+
+----
+
+and REMEMBER!
+
+**Link the reddit post - NOT directly to the content**    
+
+
+----
+
+Results will be tabulated in a couple days. [Here](https://www.reddit.com/r/woahdude/top/?sort=top&t=year) is a good place to find posts to nominate."|rWoahDude|False|https://redd.it/egomwh|20|0.92|0|27|1|woahdude
+ekwo2g|2020-01-06 16:50:02|Clear wave|https://v.redd.it/t62u1eo0s6941|TheNatureLover|False|https://redd.it/ekwo2g|3088|0.97|0|35|0|woahdude
+ekx1ky|2020-01-06 17:16:14|Life!|https://v.redd.it/asayj7mqy6941|xavierdc|False|https://redd.it/ekx1ky|1389|0.96|0|24|0|woahdude
+ekxxxi|2020-01-06 18:20:56|Hooping with some sweet color effects|https://v.redd.it/lute0f0ba7941|TacoPvP|False|https://redd.it/ekxxxi|563|0.96|0|14|0|woahdude
+ekke3b|2020-01-05 22:48:49|A Train igniting the air|https://v.redd.it/1o5kz37b7y841|North_Star9|False|https://redd.it/ekke3b|15300|0.92|0|205|0|woahdude
+ekwuq5|2020-01-06 17:03:07|Talented cosplayer|https://v.redd.it/b8dfe64aw6941|saltyspoo|False|https://redd.it/ekwuq5|225|0.9|0|10|0|woahdude
+el027t|2020-01-06 20:48:17|Mind blowjng|https://gfycat.com/brightsoulfulgallowaycow|kooldude700|False|https://redd.it/el027t|18|0.88|0|4|0|woahdude
+ekwda8|2020-01-06 16:28:34|On the bus last night, some water had managed to leek in-between the double glazing of the windows, which made for an interesting effect|https://v.redd.it/crbg1q0rx4941|FiestyRhubarb|False|https://redd.it/ekwda8|35|0.87|0|4|0|woahdude
+el07j5|2020-01-06 20:58:28|So satisfying|https://v.redd.it/6524dvgni3941|pchitti_21|False|https://redd.it/el07j5|12|0.83|0|4|0|woahdude
+eks6ys|2020-01-06 10:12:31|This Kinetic Sculpture in Prague|https://gfycat.com/favoritecheeryarchaeopteryx|throwaway3141577|False|https://redd.it/eks6ys|49|0.89|0|5|0|woahdude
+el07xp|2020-01-06 20:59:17|Freight train cruises over camera at 60 mph.|https://v.redd.it/1m3hi5ua28941|Piecesofbits|False|https://redd.it/el07xp|8|0.9|0|4|0|woahdude
+ekzeet|2020-01-06 20:02:46|Fireworks pierce the low fog on new year in NL|https://v.redd.it/gyc3xu6fc5941|CborG82|False|https://redd.it/ekzeet|10|0.91|0|2|0|woahdude
+ekxvo3|2020-01-06 18:16:28|Gabon shark eats fish|https://i.redd.it/pepj890k97941.gif|saltyspoo|False|https://redd.it/ekxvo3|9|0.68|0|6|0|woahdude
+ekycap|2020-01-06 18:49:25|Whirl|https://v.redd.it/nz3op4kly5941|Rampant_Durandal|False|https://redd.it/ekycap|8|0.91|0|1|0|woahdude
+ekxrd7|2020-01-06 18:08:07|New painting I made from my travels. Captain of My Soul, Matthew Ryan Herget, Oil on canvas and digital manipulation, 2020|https://i.redd.it/ojacnu3187941.jpg|SuperSensitiveSavage|False|https://redd.it/ekxrd7|9|0.85|0|1|0|woahdude
+eknu95|2020-01-06 03:08:24|I lit up a field with my drone and a lamp|https://i.redd.it/sq9e547dr2941.jpg|Grafixart-Photo|False|https://redd.it/eknu95|118|0.98|0|9|0|woahdude
+eku90g|2020-01-06 13:38:18|Trippy Minecraft build|https://i.redd.it/j234subdq4941.png|sneaky480|False|https://redd.it/eku90g|13|0.87|0|2|0|woahdude
+ekvmcm|2020-01-06 15:32:11|Fog on NYE in the Netherlands (on a regular street)|https://v.redd.it/zk7qd6k8g6941|aryanrs|False|https://redd.it/ekvmcm|9|0.86|0|8|0|woahdude
+el0c36|2020-01-06 21:07:20|Listen with your eyes, inside your ears.|https://v.redd.it/agsxu808pd441|cryptographicfull|False|https://redd.it/el0c36|3|1.0|0|1|0|woahdude
+ektlar|2020-01-06 12:35:31|How the bushfire smoke affects the view of the bay in Melbourne|https://i.redd.it/xdsta94qk5941.jpg|sahm_ey|False|https://redd.it/ektlar|15|0.75|0|2|0|woahdude
+ekvg7u|2020-01-06 15:18:55|Firestorm footage from South Coast NSW, Australia. For full series of videos, visit my profile.|https://v.redd.it/osi6obh6u1941|-dystopic-|False|https://redd.it/ekvg7u|7|0.74|0|1|0|woahdude
+ekj7n7|2020-01-05 21:16:28|That feeling while on [A]cid|https://i.redd.it/lt6i4v503ugy.gif|flylikeabird0|False|https://redd.it/ekj7n7|168|0.9|0|3|0|woahdude
+ekr9go|2020-01-06 08:29:53|trippy carpet|https://i.imgur.com/BqUml7S.jpg|jasontaken|False|https://redd.it/ekr9go|18|0.8|0|2|0|woahdude
+ekyow1|2020-01-06 19:14:06|Psychedelic Replication Compilation 2019|https://youtu.be/VERVsqpcIds|StingrayZ|False|https://redd.it/ekyow1|2|1.0|0|1|0|woahdude
+ekxv1g|2020-01-06 18:15:09|3d printing time lapses|https://youtu.be/YW6_4d00nfs|kdzlr|False|https://redd.it/ekxv1g|2|1.0|0|2|0|woahdude
+ekka13|2020-01-05 22:40:59|These Lights Though|https://v.redd.it/mloxkfg3sz841|Felipe46n2|False|https://redd.it/ekka13|66|0.92|0|2|0|woahdude
+el063i|2020-01-06 20:55:44|These animated prints I made|https://www.instagram.com/p/B6_K1weFUcr/?igshid=1d8lj1c5q7wgk|yeah_but_no|False|https://redd.it/el063i|0|0.5|0|1|0|woahdude
+ekz6xd|2020-01-06 19:49:03|YouTube|https://www.youtube.com/watch?v=-g2lpax-wd8|marguis24|False|https://redd.it/ekz6xd|0|0.5|0|1|0|woahdude
+eks3v7|2020-01-06 10:03:23|Classical Trip - Gymnopedies|https://v.redd.it/en173jegt4941|Remideza|False|https://redd.it/eks3v7|5|0.77|0|1|0|woahdude
+ektc5o|2020-01-06 12:11:12|One of the coolest videos you'll ever see|https://youtu.be/SZzehktUeko|JesterDolor|False|https://redd.it/ektc5o|6|0.7|0|1|0|woahdude
+ekyc9j|2020-01-06 18:49:22|Brooklyn 99 the song played on calm, soothing Kalimba....|https://youtu.be/6BaaWr7b-Ww|mylackey|False|https://redd.it/ekyc9j|0|0.5|0|1|0|woahdude
+ejyiz7|2020-01-04 16:16:36|This Insane Bird Flight Pattern|https://i.redd.it/w0hmb0kces841.jpg|qdolobp|False|https://redd.it/ejyiz7|28965|0.95|0|254|0|woahdude
+ekuu0z|2020-01-06 14:29:29|Microtonal music (Droplet - Sevish)|https://open.spotify.com/track/5wWoKe2BIKTRGQq5z0IG8d?si=QAkmiL99T229AzejR7C3ng|ThatTypicalLonerGirl|False|https://redd.it/ekuu0z|1|0.67|0|1|0|woahdude
+ektl77|2020-01-06 12:35:16|How the smoke affects the view of the bay in Melbourne|https://i.redd.it/a511ljiok5941.jpg|sahm_ey|False|https://redd.it/ektl77|2|0.62|0|1|0|woahdude
+ekthg6|2020-01-06 12:24:56|Rainbow YingTYang Mandala OC|https://i.redd.it/uhmpqhbci5941.png|monetized_shitpost|False|https://redd.it/ekthg6|1|0.67|0|1|0|woahdude
+ekiyn4|2020-01-05 20:54:58|Over 120 photos of a quartz crystal ball grouped into 6 focus stacks then each stack processed with neural style transfers and blended together with the original. Worlds within worlds. The nature of reality.|https://i.redd.it/k1wq6dnbw0941.jpg|Viktore_Atlantean|False|https://redd.it/ekiyn4|13|0.89|0|4|0|woahdude
+ekmf9n|2020-01-06 01:17:56|I have been 'animating' my old illustrations for the past few weeks. I don't intend for them to be psychedelic but they always end up as such.|https://www.youtube.com/watch?v=0toTLqQ7xQU|Wannamaker|False|https://redd.it/ekmf9n|4|1.0|0|4|0|woahdude
+ekruyw|2020-01-06 09:36:11|Friktal: Exploring Infinity -- realtime raymarched cymatic fractal world's|https://youtu.be/tysT1jpRyTk|friken|False|https://redd.it/ekruyw|1|1.0|0|1|0|woahdude
+ekp11x|2020-01-06 04:48:28|Introduction and Dance|https://www.youtube.com/watch?v=-Xh7NgBJb7E|marguis24|False|https://redd.it/ekp11x|2|1.0|0|1|0|woahdude
+ekl7rt|2020-01-05 23:47:28|Ying-Yang Mandala, inkscape, myself|https://i.redd.it/jes9d8ugr1941.png|monetized_shitpost|False|https://redd.it/ekl7rt|5|0.7|0|2|0|woahdude
+ekiexq|2020-01-05 20:17:10|Dark Aether|https://i.redd.it/idrn19v5q0941.jpg|Tsmith0007|False|https://redd.it/ekiexq|11|1.0|0|3|0|woahdude
+ekkajx|2020-01-05 22:42:08|The view from Manyana Beach, NSW on Jan 1st. This fire is still burning out of control at a size of 350,000 hectares. (Credit: @amandaww)|https://v.redd.it/yyds6ygtf1941|Adler723|False|https://redd.it/ekkajx|5|0.69|0|1|0|woahdude
+ek5wu0|2020-01-05 01:28:43|This is one trippy game.|https://i.imgur.com/Vsw9Q17.gifv|TovinOrtegg|False|https://redd.it/ek5wu0|210|0.93|0|8|0|woahdude
+ekidan|2020-01-05 20:14:02|Photograph negative of light passing through a crystal and mirrored. Simple as that.|https://i.redd.it/ftj6kswmo0941.jpg|Viktore_Atlantean|False|https://redd.it/ekidan|8|0.76|0|6|0|woahdude
+ekfyo8|2020-01-05 17:25:56|This face in my painting|https://i.redd.it/8c1ajvwlvz841.jpg|Forsaken330|False|https://redd.it/ekfyo8|9|0.79|0|1|0|woahdude
+ejydo0|2020-01-04 16:05:12|Bridge of water|https://i.imgur.com/fwBQ2oR.gifv|ambitechstrous|False|https://redd.it/ejydo0|644|0.97|0|24|0|woahdude
+eknac8|2020-01-06 02:24:48|Photos Of The Dead: Creepy Photos Of Victorian People Posing With Dead Bodies Of Their Loved Ones|https://www.bygonely.com/creepy-victorian-era/|Time_Apartment|False|https://redd.it/eknac8|0|0.5|0|1|0|woahdude
+ekpche|2020-01-06 05:16:45|Mandlafield|https://i.redd.it/r3mrdsode3941.png|monetized_shitpost|False|https://redd.it/ekpche|0|0.43|0|1|0|woahdude
+ekf3uk|2020-01-05 16:24:56|"A minimalistic looping animation of my drawing, ""The Face"", with Tool's Lateralus for background music."|https://v.redd.it/0oueclr4kz841|where_the_muslims_at|False|https://redd.it/ekf3uk|5|0.87|0|2|0|woahdude
+ekb42u|2020-01-05 09:56:11|How your screen shows the color yellow|https://i.redd.it/0c00jriwlx841.png|Haxen|False|https://redd.it/ekb42u|15|0.72|0|7|0|woahdude
+ekidzq|2020-01-05 20:15:19|a nice warm hug|https://soundcloud.com/glowcreek/flow|Grumgus|False|https://redd.it/ekidzq|2|0.76|0|1|0|woahdude
+ek72ap|2020-01-05 03:04:40|Magnet meets CRTV|https://v.redd.it/wxowkkw3zt841|matty2thicc|False|https://redd.it/ek72ap|46|0.88|0|5|0|woahdude
+ek5ecj|2020-01-05 00:46:26|My first painting of the decade, Enlightenment|https://i.redd.it/ov7chijaxu841.jpg|thelandscape|False|https://redd.it/ek5ecj|56|0.91|0|3|0|woahdude
+ek3im9|2020-01-04 22:21:32|Now that I understand the scale of the problem it's terrifying.|https://i.redd.it/r6d3shhg7u841.jpg|Hmmmm_Interesting|False|https://redd.it/ek3im9|87|0.84|0|15|0|woahdude
+ek7jeb|2020-01-05 03:45:25|Strobe light magic|https://v.redd.it/uo68dv903u841|ohsureyoudo|False|https://redd.it/ek7jeb|31|0.91|0|2|0|woahdude
+ejlia1|2020-01-03 20:48:48|This messed with my eyes|https://i.redd.it/cgcpgwpa60841.jpg|dnlbrwn94|False|https://redd.it/ejlia1|38220|0.91|0|306|0|woahdude
+ek5sfm|2020-01-05 01:18:56|A meteor, the Milky Way, and lava flow together|https://i.redd.it/x549jpr33v841.jpg|loluser2296|False|https://redd.it/ek5sfm|44|0.88|0|2|0|woahdude
+ek3eww|2020-01-04 22:13:48|Will he make it?|https://gfycat.com/beneficialcarelessbarnowl|Snortingbacon|False|https://redd.it/ek3eww|68|0.9|0|5|0|woahdude
+ejzp0a|2020-01-04 17:43:33|This is not a photo|https://cdnb.artstation.com/p/assets/images/images/021/834/305/large/johannes-wessmark-wet-hair.jpg?1573118083|notoneforusernames|False|https://redd.it/ejzp0a|156|0.92|0|11|0|woahdude
+ejzdtu|2020-01-04 17:21:22|This Dracula ad made by the BBC|https://v.redd.it/fo1x9g6tps841|Vendma|False|https://redd.it/ejzdtu|126|0.87|0|8|0|woahdude
+ek8oxq|2020-01-05 05:28:24|Clip from a music video I just released about a guy on a psychedelic journey!|https://v.redd.it/1isi8kvxaw841|rattle6|False|https://redd.it/ek8oxq|13|0.7|0|7|0|woahdude
+ek7zx2|2020-01-05 04:26:19|Wheeeeeee.|https://v.redd.it/2jlhyeyrgv841|TwidgetX13|False|https://redd.it/ek7zx2|15|0.71|0|2|0|woahdude
+ejz0wu|2020-01-04 16:54:42|Perfect Loop|https://i.imgur.com/lkw4jOk.gifv|WhoCaresEatAtArbys|False|https://redd.it/ejz0wu|119|0.94|0|6|0|woahdude
+ekc2ze|2020-01-05 11:50:52|Never-Ending Twin Towers Cinemagraph|https://gfycat.com/frayedunfitargentineruddyduck|forgetaboutgelgameks|False|https://redd.it/ekc2ze|2|0.67|0|3|0|woahdude
+ek5rgw|2020-01-05 01:16:53|[Look closely] Perfectly round circles that do not overlap each other|https://i.redd.it/ivwazkqz8u841.jpg|That__Squirrel|False|https://redd.it/ek5rgw|22|0.85|0|3|0|woahdude
+ek12kh|2020-01-04 19:23:11|Animals just appeared|https://i.imgur.com/rJhUf1i.gifv|TheyGoPoof|False|https://redd.it/ek12kh|61|0.88|0|1|0|woahdude
+ejzjgv|2020-01-04 17:32:58|Next level basement stairs!|https://v.redd.it/bdwgh5d8or841|ddoeglas|False|https://redd.it/ejzjgv|85|0.82|0|7|0|woahdude
+ejtkw5|2020-01-04 07:29:40|A lot of hardware risk for the shot... but damn dude.|https://gfycat.com/falsethinkouprey|bofo51|False|https://redd.it/ejtkw5|466|0.93|0|10|0|woahdude
+ejrxd1|2020-01-04 04:50:02|Trippy Space|https://v.redd.it/pg3layldtn841|ethanstiles|False|https://redd.it/ejrxd1|549|0.97|0|18|0|woahdude
+ejzqkz|2020-01-04 17:46:32|just hanging pictures on the wall|https://i.imgur.com/Vsw9Q17.gifv|mhtxsc|False|https://redd.it/ejzqkz|41|0.83|0|6|0|woahdude
+ek0q19|2020-01-04 18:57:40|Found this on Instagram...so damm Hypnotizing|https://v.redd.it/m50azgxw6t841|ted1097|False|https://redd.it/ek0q19|29|0.88|0|1|0|woahdude
+ejyjz6|2020-01-04 16:18:44|Perfectly aligned, stationary cars.|https://i.redd.it/b9e6c5yles841.jpg|Harrypc95|False|https://redd.it/ejyjz6|31|0.85|0|1|0|woahdude
+ek17kj|2020-01-04 19:33:30|Next level basement stairs|https://v.redd.it/9fcxw9kdfr841|TateTheFellowman|False|https://redd.it/ek17kj|12|0.64|0|3|0|woahdude
+ejte9j|2020-01-04 07:09:52|This art work blows my mind|https://i.imgur.com/tNJ5OXf.gifv|jewfro175|False|https://redd.it/ejte9j|112|0.96|0|4|0|woahdude
+ekaj9s|2020-01-05 08:46:04|Sea Lions|https://www.youtube.com/watch?v=kEaTGZEsE7Y|marguis24|False|https://redd.it/ekaj9s|1|0.56|0|1|0|woahdude
+ek52hl|2020-01-05 00:20:11|Baroque mode on classical guitar|https://www.youtube.com/watch?v=7s_DrD5-Ubw|marguis24|False|https://redd.it/ek52hl|4|0.7|0|1|0|woahdude
+ejt1qv|2020-01-04 06:34:52|Surrounded by the Northern Lights|https://i.redd.it/zmyodoxgip841.jpg|Grafixart-Photo|False|https://redd.it/ejt1qv|108|0.92|0|1|0|woahdude
+ek5jxr|2020-01-05 00:59:21|Ocean waves in slow motion during sunset|https://www.youtube.com/watch?v=OJXOiVvt7vE|bertmonteyne|False|https://redd.it/ek5jxr|3|0.68|0|1|0|woahdude
+ejz8je|2020-01-04 17:10:04|Tripping|https://gfycat.com/vibrantmessycoati|Fredringstein|False|https://redd.it/ejz8je|11|0.82|0|1|0|woahdude
+ejyffl|2020-01-04 16:09:09|This guy's live looping music|https://www.youtube.com/watch?v=dck6m5guuIE|LeSpatula|False|https://redd.it/ejyffl|12|0.74|0|4|0|woahdude
+ejnzdz|2020-01-03 23:46:03|3D Print TimeLapse of a rainbow vase|https://v.redd.it/xit0edyfhn841|kdzlr|False|https://redd.it/ejnzdz|189|0.95|0|22|0|woahdude
+eji1d4|2020-01-03 16:49:33|I did a big draw|https://i.redd.it/aun9ny66fl841.jpg|tommylebee|False|https://redd.it/eji1d4|637|0.94|0|14|0|woahdude
+eja4bz|2020-01-03 04:22:27|Using a glass dip pen!|https://gfycat.com/immaterialindelibleduckbillcat|visjn|False|https://redd.it/eja4bz|16230|0.83|1|262|0|woahdude
+ejz9ii|2020-01-04 17:12:08|Ferrofluid experiments|https://www.youtube.com/watch?v=249hB8Fjl9s|cobrakiller2000|False|https://redd.it/ejz9ii|7|0.9|0|1|0|woahdude
+ejqqwl|2020-01-04 03:14:34|These colorful shipping containers make a silhouette of a cityscape on the water.|https://i.redd.it/f8vbi0otio841.jpg|GT_Knight|False|https://redd.it/ejqqwl|60|0.95|0|2|0|woahdude
+ejqmsv|2020-01-04 03:05:32|Imagine eating this!|https://i.redd.it/xodk4fzmen841.jpg|AleenaTofu|False|https://redd.it/ejqmsv|57|0.83|0|10|0|woahdude
+ejocss|2020-01-04 00:12:59|The after effects used here.|https://i.imgur.com/iGYrET6.gifv|Solmann2002|False|https://redd.it/ejocss|93|0.89|0|7|0|woahdude
+ek5a33|2020-01-05 00:37:13|airing !!|http://r/AnyKindOfShit|mayachilan|False|https://redd.it/ek5a33|0|0.43|0|1|0|woahdude
+ejqbx4|2020-01-04 02:41:31|In 1925, two medical students spent 1500 hours dissecting a nervous system while keeping it intact. There are only 4 of these in the world.|https://i.redd.it/zwpvwsozvl841.jpg|firebreathingdragon1|False|https://redd.it/ejqbx4|51|0.93|0|8|0|woahdude
+ek7517|2020-01-05 03:11:01|Reigniting via the smoke|https://imgur.com/wi1ezII|spank-you|False|https://redd.it/ek7517|0|0.33|0|1|0|woahdude
+ejit9f|2020-01-03 17:43:59|The way light reflects off of this cup looks Photoshopped|https://i.redd.it/2tfe4z6qol841.jpg|snowierstorm|False|https://redd.it/ejit9f|220|0.94|0|3|0|woahdude
+ejrogz|2020-01-04 04:29:28|Happy snack melts to pieces|https://v.redd.it/qz5nagad7o841|ThePerilousVoid|False|https://redd.it/ejrogz|23|0.77|0|2|0|woahdude
+ejnup5|2020-01-03 23:36:38|Square squared|https://gfycat.com/blackessentialcricket|KevlarYarmulke|False|https://redd.it/ejnup5|44|0.93|0|8|0|woahdude
+ejepv3|2020-01-03 12:22:37|I captured the sun setting behind mountain trees.|https://i.imgur.com/SmolMqE.gifv|rogeressig|False|https://redd.it/ejepv3|329|0.97|0|16|0|woahdude
+ejoef9|2020-01-04 00:16:21|This triptych painting I made.|https://i.redd.it/7lj153t0nn841.jpg|americanxtrash|False|https://redd.it/ejoef9|29|0.94|0|4|0|woahdude
+ejpva8|2020-01-04 02:06:26|Pulsating bubbles|https://v.redd.it/hlcs69cf6o841|Kiygre|False|https://redd.it/ejpva8|18|0.78|0|5|0|woahdude
+ejgkxp|2020-01-03 15:06:21|🔥 The colors of earth in the Uralkali Potash Mine in Berezniki, Russia|https://i.redd.it/8wmnwv0yfh841.jpg|TheButcherAusNorth|False|https://redd.it/ejgkxp|142|0.98|0|7|0|woahdude
+ek4d7r|2020-01-04 23:25:53|So sister Bida, climbs her thought into swimming, trough air or wtv and so finally reaches the question zone. Her opportunity to finally know needs, issues, see clear and 'decide' upon, is here. Next episode will turn her situation arroouunnd! thanks|https://youtu.be/qO7TBAHto34?list=PLVDrMCkP8cske6jJY2Gj_dyopGUXySXsL|dedeium|False|https://redd.it/ek4d7r|0|0.25|0|1|0|woahdude
+ejr0zm|2020-01-04 03:36:49|Look at your surroundings after watching this (not mine but wanted to share)|https://v.redd.it/hgcydhlkmo841|kvn22537|False|https://redd.it/ejr0zm|13|0.7|0|5|0|woahdude
+ejef23|2020-01-03 11:52:24|Nautilus gears, divine geometry|https://v.redd.it/zpz4c8hadg841|King_Bonio|False|https://redd.it/ejef23|142|0.96|0|8|0|woahdude
+eiyqth|2020-01-02 14:16:34|This 3D Printed Vase|https://gfycat.com/thickflawedfrilledlizard|visjn|False|https://redd.it/eiyqth|14005|0.95|1|221|0|woahdude
+ejs29x|2020-01-04 05:01:39|60 mile an hour wind pushing seafoam at Haystack Rock|https://youtu.be/RAZEiFKmOks|TheUnbeliever|False|https://redd.it/ejs29x|5|0.71|0|1|0|woahdude
+ejja2d|2020-01-03 18:15:51|Boon [OC] Artwork by Chris Shiner|https://i.redd.it/qwazac3mul841.jpg|creedgreed|False|https://redd.it/ejja2d|18|0.75|0|7|0|woahdude
+ej6eze|2020-01-02 23:36:07|To build a home (@deep_music_visualizer)|https://v.redd.it/ls4zrcruag841|SeagullMan2|False|https://redd.it/ej6eze|556|0.9|1|44|0|woahdude
+ejdi92|2020-01-03 10:10:15|A sweet reveal|https://v.redd.it/uzs3ka80ag841|AtomicImp|False|https://redd.it/ejdi92|58|0.85|0|2|0|woahdude
+ejr3gp|2020-01-04 03:42:22|*taps on window* hey. anyone out there?|https://i.imgur.com/7UFkzAR.jpg|EtanSivad|False|https://redd.it/ejr3gp|3|0.58|0|2|0|woahdude
+ej8iey|2020-01-03 02:14:03|Long exposure of moonlit fog|https://i.redd.it/8utpe4ltmg841.jpg||False|https://redd.it/ej8iey|206|0.97|0|4|0|woahdude
+ejc58i|2020-01-03 07:31:41|A gif I coded today.|https://i.redd.it/solwq31fd2841.gif|-plz-dont-touch-me-|False|https://redd.it/ejc58i|73|0.85|0|8|0|woahdude
+ejoi5k|2020-01-04 00:23:30|Miguel Llobet - Canço del Lladre|https://www.youtube.com/watch?v=MT-I1F_NDVM|marguis24|False|https://redd.it/ejoi5k|2|0.63|0|1|0|woahdude
+eir4uv|2020-01-02 01:29:33|I recently found a gel pen at a dollar store that gradually changes color as you use it and I wanted to share how it looks!|https://i.redd.it/fmik3xf9q9841.jpg|tfoust10|False|https://redd.it/eir4uv|50070|0.93|5|389|0|woahdude
+ejhvly|2020-01-03 16:38:26|"Patterns | Off The Air | adult swim"|https://www.youtube.com/watch?v=sLkwdr74FVI|Mattisthe1|False|https://redd.it/ejhvly|3|0.73|0|2|0|woahdude
+ej4txn|2020-01-02 21:43:40|A Sandfall|https://i.imgur.com/KPEh53A.gifv|zack_belmonte|False|https://redd.it/ej4txn|147|0.92|0|11|0|woahdude
+ej65zy|2020-01-02 23:17:50|You have all the stuff you need to do this in your house too... Just saying|https://v.redd.it/7n6r949o7g841|Ekeinaes|False|https://redd.it/ej65zy|110|0.87|0|10|0|woahdude
+ejfcms|2020-01-03 13:23:31|In my feed - one thumbnail is about Hollywood’s vision of a dark, dystopian future driven by industrialists who control slaves. The other is Australia!|https://i.redd.it/yqrb0b2kek841.jpg|honestmango|False|https://redd.it/ejfcms|7|0.62|0|6|0|woahdude
+ejii5z|2020-01-03 17:22:07|"""Twilight"" for Bass and Guitar"|https://www.youtube.com/watch?v=tYkf2Qjua80|marguis24|False|https://redd.it/ejii5z|2|0.59|0|3|0|woahdude
+ejs5x1|2020-01-04 05:10:38|Bright shirt, brighter lights [EPILEPSY]|https://imgur.com/Ld4bq5Y|aliask|False|https://redd.it/ejs5x1|0|0.17|0|1|0|woahdude
+ej6ug5|2020-01-03 00:06:55|Found at the Van Gogh Museum|https://v.redd.it/kbwjybc9gg841|kristyniels3710|False|https://redd.it/ej6ug5|66|0.86|0|9|0|woahdude
+ej6sju|2020-01-03 00:02:55|The fractals in this purple hybrid cabbage...|https://i.redd.it/hyy59h7hfg841.jpg|RicardoCanfieldez|False|https://redd.it/ej6sju|61|0.89|0|2|0|woahdude
+ejloe7|2020-01-03 21:00:55|How to pop popcorn|https://www.instagram.com/p/B61i5cMl10Q/|IWasNeverInSumatra|False|https://redd.it/ejloe7|0|0.5|0|1|0|woahdude
+ej6lsx|2020-01-02 23:49:39|The edge of a heavy storm front moving down a river|https://gfycat.com/composedpleasedbongo|sKru4a|False|https://redd.it/ej6lsx|47|0.89|0|2|0|woahdude
+ejdjcr|2020-01-03 10:13:47|Timelapse Reveals How Clever This Billboard Ad For The BBC's 'Dracula' Is|https://www.youtube.com/watch?v=QMXfO0dwuVE&feature=share|Bullahisthebest|False|https://redd.it/ejdjcr|3|1.0|0|1|0|woahdude
+ejlth6|2020-01-03 21:10:33|But as Damien's stuck, Labida starts thinking about her swin sibling, asking her slow mo'ed down humming bird to show and let her know about her, something like a surveillance/journal/record keeping type of vision. All simply by closing her eyes.|https://youtu.be/ZQlKXsVj0SA?list=PLVDrMCkP8cske6jJY2Gj_dyopGUXySXsL|dedeium|False|https://redd.it/ejlth6|0|0.33|0|3|0|woahdude
+eji1q0|2020-01-03 16:50:18|New Years firework fight|https://youtu.be/bZiYGsobiFM|anarmyofJuan305|False|https://redd.it/eji1q0|0|0.44|0|2|0|woahdude
+ej3mf1|2020-01-02 20:20:28|"Lightpainting photo of my ""Daydream"" project"|https://i.redd.it/9c38g8uwbf841.jpg|wasyl0o|False|https://redd.it/ej3mf1|35|0.95|0|2|0|woahdude
+ej0j7x|2020-01-02 16:41:20|Cool graphic to display time warping in your mind|https://i.redd.it/pwmazzqx8e841.jpg|Jimitex22|False|https://redd.it/ej0j7x|60|0.84|0|5|0|woahdude
+ejgdfy|2020-01-03 14:50:41|Standing at the Gates Of Hell [VR Cinemagraph]|https://www.youtube.com/watch?v=1AUB7IGDVoA|forgetaboutgelgameks|False|https://redd.it/ejgdfy|1|0.67|0|1|0|woahdude
+eixehr|2020-01-02 12:01:12|Fluid dynamics is crazy|https://v.redd.it/3b3bjgr7niu31|011110001|False|https://redd.it/eixehr|101|0.95|0|5|0|woahdude
+eizn3t|2020-01-02 15:32:28|Village Above the Clouds, Yemen|https://v.redd.it/i2dzzz9nwd841|dxerak|False|https://redd.it/eizn3t|46|0.92|0|2|0|woahdude
+eiwbwg|2020-01-02 09:52:32|@ari_fararooy on Instagram created this perfect loop. The more you watch, the better it gets.|https://gfycat.com/blondorangedrake|gropemygrapes|False|https://redd.it/eiwbwg|110|0.96|0|2|0|woahdude
+ej6kwc|2020-01-02 23:47:48|Strange looking airplane perform short distance landing|https://youtu.be/eqFVRBIgJKo?t=77|4Kmemento|False|https://redd.it/ej6kwc|6|0.86|0|1|0|woahdude
+eigiwl|2020-01-01 09:22:32|Library shelves|https://i.redd.it/gxr13fiqx4841.jpg|ShinobiKid|False|https://redd.it/eigiwl|14789|0.95|0|145|0|woahdude
+ej5uyn|2020-01-02 22:55:48|I see faces everywhere|https://i.redd.it/xge9fvu81g841.jpg|Memento-Mori101|False|https://redd.it/ej5uyn|5|0.77|0|1|0|woahdude
+eja4hf|2020-01-03 04:22:51|Mergui [Trailer 2 Soundtrack]|https://www.youtube.com/watch?v=hHdYNkjkg5U|marguis24|False|https://redd.it/eja4hf|2|0.67|0|1|0|woahdude
+eihsx5|2020-01-01 12:19:24|Fireworks in Japan - New Year 2020|https://v.redd.it/xxbd5om854841|JenPlayzMC|False|https://redd.it/eihsx5|3542|0.89|0|47|0|woahdude
+eiruvl|2020-01-02 02:27:56|Candle lid + fan = mind blown|https://v.redd.it/cmwnxhr7l9841|Dagobian_Fudge|False|https://redd.it/eiruvl|190|0.96|0|5|0|woahdude
+eiwcvt|2020-01-02 09:56:11|Light trip.|https://v.redd.it/7t4veftcq9841|runrabbitrun154|False|https://redd.it/eiwcvt|45|0.94|0|3|0|woahdude
+ej8wsr|2020-01-03 02:44:59|J. S. Bach Chaconne, Partita nº2 BWV 1004|https://www.youtube.com/watch?v=1C7hn9EHHn8|marguis24|False|https://redd.it/ej8wsr|2|0.67|0|1|0|woahdude
+ejaxqp|2020-01-03 05:33:36|Blackberry Nuggets - get lost in it|https://youtu.be/PlQ6DNdgavY|gayfish69420|False|https://redd.it/ejaxqp|1|0.53|0|1|0|woahdude
+eitt6e|2020-01-02 05:14:59|Welcome to the matrix|https://i.redd.it/qwzi24khua841.jpg|wrapityup|False|https://redd.it/eitt6e|79|0.97|0|3|0|woahdude
+eixz2k|2020-01-02 13:02:37|Shake yo head son|https://i.redd.it/szhwmo5x4b841.jpg|electropicks|False|https://redd.it/eixz2k|18|0.76|0|7|0|woahdude
+eiqg7m|2020-01-02 00:34:54|color gradient moss|https://i.redd.it/vh7wmx6ig9841.jpg|searching4animalchin|False|https://redd.it/eiqg7m|183|0.92|0|8|0|woahdude
+eiser4|2020-01-02 03:13:07|Laminar flow level 9,000,000|https://gfycat.com/realisticpoorafricanbushviper|ImZanderrr|False|https://redd.it/eiser4|94|0.95|0|6|0|woahdude
+eikkr5|2020-01-01 17:04:23|Mesmerizing 3D print|https://v.redd.it/x3vx8g2dsof31|eigengrau1|False|https://redd.it/eikkr5|612|0.97|0|11|0|woahdude
+eiugta|2020-01-02 06:16:41|cat’s dilating eyes|https://gfycat.com/wastefulcalculatingdwarfrabbit|strawberry_haze2|False|https://redd.it/eiugta|50|0.98|0|2|0|woahdude
+eisj7w|2020-01-02 03:23:31|Black Hole.|https://v.redd.it/6f8o38vjaa841|N0CONTACT|False|https://redd.it/eisj7w|76|0.97|0|4|0|woahdude
+eiyhug|2020-01-02 13:53:59|holding onto the holidays|https://i.imgur.com/DMOrtL2.gifv|shapirog|False|https://redd.it/eiyhug|9|0.87|0|1|0|woahdude
+eiu9dz|2020-01-02 05:57:03|wobbly photo for ur viewing pleasure|https://i.redd.it/t5iayjfz1b841.jpg|are_you_good|False|https://redd.it/eiu9dz|36|0.97|0|6|0|woahdude
+eitvs3|2020-01-02 05:21:37|Blob party|https://gfycat.com/everyseveralgoldenretriever|KevlarYarmulke|False|https://redd.it/eitvs3|40|0.93|0|3|0|woahdude
+eir31l|2020-01-02 01:25:35|You all gave me such joy from the reception of my last piece. People like you keep me working on my dream. Here is the partner to my last post. Keep it weird, everyone.|https://i.redd.it/wdn8m5jjp9841.jpg|pmorgan726|False|https://redd.it/eir31l|79|0.92|0|16|0|woahdude
+eiqy5y|2020-01-02 01:14:36|My sisters tapestry design disappears with red lights.|https://v.redd.it/rtbf9nv3m9841|gladhandz|False|https://redd.it/eiqy5y|79|0.88|0|8|0|woahdude
+eir1ol|2020-01-02 01:22:33|This is the #3 of my series called Smell of Silence|https://i.redd.it/l5nwq2czo9841.jpg|Grafixart-Photo|False|https://redd.it/eir1ol|59|0.92|0|6|0|woahdude
+ej5xi9|2020-01-02 23:00:57|A comparison of different models for UFO data|https://www.youtube.com/watch?v=ejMbu6O4O38|shagsnacks|False|https://redd.it/ej5xi9|0|0.5|0|5|0|woahdude
+ej5mep|2020-01-02 22:39:15|Frederic Hand: Studies 1 & 2|https://www.youtube.com/watch?v=ydBk1ki6GD4|marguis24|False|https://redd.it/ej5mep|1|0.6|0|1|0|woahdude
+ej5ftj|2020-01-02 22:26:05|Mergui [Trailer 1 Soundtrack]|https://www.youtube.com/watch?v=L4YWODyM8YY|marguis24|False|https://redd.it/ej5ftj|1|0.6|0|1|0|woahdude
+eisxv3|2020-01-02 03:57:24|This moves when you’re on shrooms|https://i.redd.it/v56x3t1nga841.jpg|jonnycreepycrepes|False|https://redd.it/eisxv3|28|0.87|0|4|0|woahdude
+eiv7h4|2020-01-02 07:35:20|Are we doing satisfying GIFs of my vase today? Have another!|https://gfycat.com/edibleartistichornbill|smm97|False|https://redd.it/eiv7h4|15|0.78|0|1|0|woahdude
+eiv6rl|2020-01-02 07:33:03|My pen has a LED built into it to write in the dark.|https://i.imgur.com/VYxgqkv.jpg|akashdas323|False|https://redd.it/eiv6rl|16|0.77|0|2|0|woahdude
+eipowh|2020-01-01 23:34:18|Just what you can find in a paper tube|https://i.redd.it/sds41p0p59841.jpg|Pegomeno|False|https://redd.it/eipowh|38|0.82|0|5|0|woahdude
+eit0ex|2020-01-02 04:03:41|Happy new year!|https://i.redd.it/qqx4vvcrha841.gif|the_turdigrade|False|https://redd.it/eit0ex|17|0.91|0|1|0|woahdude
+eiqgze|2020-01-02 00:36:27|Way the fishing net fans out..|https://v.redd.it/tqankhgv26841|BaconIsMyCity|False|https://redd.it/eiqgze|34|0.89|0|1|0|woahdude
+eizjq4|2020-01-02 15:24:41|Little video from one of our alpine summer projects in Canada|https://www.youtube.com/watch?v=cLB_zQvQrOk&feature=share|HeavyWrencher|False|https://redd.it/eizjq4|2|0.76|0|2|0|woahdude
+eiqpkx|2020-01-02 00:55:25|This ice that changes colors|https://v.redd.it/h7jnah7dx8841|Capn_Eggy|False|https://redd.it/eiqpkx|23|0.79|0|4|0|woahdude
+eipt39|2020-01-01 23:43:23|Matrix shit right there|https://gfycat.com/nauticalembellishedgadwall|Luggage-Caching|False|https://redd.it/eipt39|29|0.81|0|3|0|woahdude
+eiqcx1|2020-01-02 00:27:57|Those are drones???|https://i.redd.it/64deyy07u6841.gif|ThatsNutty420|False|https://redd.it/eiqcx1|19|0.84|0|1|0|woahdude
+eihchm|2020-01-01 11:16:06|Nature is the tripiest sight ever.|https://i.redd.it/grw8d3ksv2841.jpg|baksha1|False|https://redd.it/eihchm|222|0.95|0|5|0|woahdude
+eim4ff|2020-01-01 19:02:21|Was going to hang my new lights up until I realized my cat loved sleeping on them. Now I have a rainbow cat. Im pleased.|https://v.redd.it/9vw558dws7841|Dwm923|False|https://redd.it/eim4ff|51|0.85|0|2|0|woahdude
+eii8qs|2020-01-01 13:16:31|The ceiling at my local sushi place.|https://i.redd.it/25gi92sg36841.jpg|artflywheel|False|https://redd.it/eii8qs|116|0.96|0|8|0|woahdude
+eiwo2l|2020-01-02 10:34:31|MC Culkin: Sample Pack Millionaire - Listen all the way through for maximum aural confusion.|https://soundcloud.com/mc-culkin/sample-pack-millionaire|loorollkid|False|https://redd.it/eiwo2l|2|0.76|0|1|0|woahdude
+eitt2c|2020-01-02 05:14:46|La Partida|https://www.youtube.com/watch?v=FODTpLSXo6g|marguis24|False|https://redd.it/eitt2c|4|0.75|0|1|0|woahdude
+eiji1t|2020-01-01 15:32:20|Shanghai's New Year celebrations using drones|https://v.redd.it/ag2eyr1pk5841|Bamboozlement1703|False|https://redd.it/eiji1t|44|0.77|0|3|0|woahdude
+eilumb|2020-01-01 18:41:53|Yellowstone's thermal bacterial mats contain entire micro ecosystems and turn heat, minerals and sunlight into organic materials. Scientists believe similar processes are what turned our rock into a living planet.|https://i.redd.it/6706bswip7841.jpg|dudemanj-brobeans|False|https://redd.it/eilumb|24|0.85|0|3|0|woahdude
+eigm2x|2020-01-01 09:35:17|Lightnings during a storm.|https://i.imgur.com/mqr9taC.gifv|NSX10|False|https://redd.it/eigm2x|118|0.94|0|2|0|woahdude
+eiis05|2020-01-01 14:19:47|Dancing quills|https://v.redd.it/f4gp8jc636841|BannedCharacters|False|https://redd.it/eiis05|43|0.75|0|7|0|woahdude
+eiriml|2020-01-02 02:00:42|The inside of a projector TV|https://www.youtube.com/watch?v=H2ic8gfYKAI&feature=youtu.be|bloglevi|False|https://redd.it/eiriml|5|0.76|0|1|0|woahdude
+eie1zy|2020-01-01 04:41:56|Nebula in champagne glass|https://v.redd.it/3er6qeoae2841|Biomorbosis|False|https://redd.it/eie1zy|254|0.94|0|9|0|woahdude
+eiqs59|2020-01-02 01:01:19|[EPILEPSY] Harrison BDP - Decompression (Visualized)|https://youtu.be/p7ySK0bD2oI|DrBagels|False|https://redd.it/eiqs59|6|1.0|0|1|0|woahdude
+ej2akg|2020-01-02 18:48:25|Rain droplets on the roof of my car|https://i.redd.it/lqa8xwalve841.jpg|Zoonas|False|https://redd.it/ej2akg|0|0.33|0|1|0|woahdude
+eih4sw|2020-01-01 10:46:50|Emerging from the waterfall|https://i.redd.it/cp4g2e7pc5841.jpg|HellsJuggernaut|False|https://redd.it/eih4sw|56|0.77|0|5|0|woahdude
+eimobs|2020-01-01 19:43:40|Arduino Sand Table Time Lapse|https://youtu.be/9C-hRgMCdbw|NasusKarotta|False|https://redd.it/eimobs|7|0.91|0|2|0|woahdude
+eig7cg|2020-01-01 08:38:46|Terrifying frontline video of one of the Australian bushfires|https://v.redd.it/9dtob4xdl2841|SegwayToursInHell|False|https://redd.it/eig7cg|50|0.88|0|2|0|woahdude
+eikawg|2020-01-01 16:42:23|Sunset Reflecting off Baltimore–Washington International Airport... Reflected Off my Smart Watch|https://i.redd.it/9mt3jlv047841.jpg|Cronamash|False|https://redd.it/eikawg|7|0.64|0|5|0|woahdude
+ei2ic0|2019-12-31 12:54:17|Water game|https://i.imgur.com/yWRP1Zt.gifv|KevlarYarmulke|False|https://redd.it/ei2ic0|1325|0.95|0|32|0|woahdude
+ehwsql|2019-12-31 03:01:42|Been trying to get a little weirder with my drawings, this one is from earlier this year. Thought this fine sub would enjoy!|https://i.redd.it/vkx7qh7vwv741.jpg|pmorgan726|False|https://redd.it/ehwsql|7763|0.97|1|155|0|woahdude
+eirccm|2020-01-02 01:46:12|I am spending a week in complete darkness|https://www.youtube.com/watch?v=gAaTF5PoUnI|yeehawordie|False|https://redd.it/eirccm|0|0.56|0|2|0|woahdude
+eibe0v|2020-01-01 00:30:37|The skies in this Australian neighborhood as the fires burn on New Years|https://i.redd.it/c6jiiaaua2841.jpg|DrFetusRN|False|https://redd.it/eibe0v|79|0.91|0|10|0|woahdude
+eiq01r|2020-01-01 23:58:57|Art piece created by a pen plotter|https://v.redd.it/unzvkpn3z7841|feckinghound|False|https://redd.it/eiq01r|0|0.4|0|1|0|woahdude
+eie9qt|2020-01-01 05:03:12|The smoke from Eastern Australia's Bush fire blowing over New Zealand|https://i.redd.it/v3d5c7tol3841.jpg|WallStreetCrash1929|False|https://redd.it/eie9qt|24|0.77|0|1|0|woahdude
+eiau8i|2019-12-31 23:47:05|Removing oil with ice|https://i.imgur.com/HQkaT0M.gifv|MoistPinkyFinger|False|https://redd.it/eiau8i|45|0.77|0|8|0|woahdude
+eic2b6|2020-01-01 01:27:56|Enter the mushie forest|https://v.redd.it/24jqkgz1l2841|enufalrefe|False|https://redd.it/eic2b6|32|0.86|0|1|0|woahdude
+eie345|2020-01-01 04:45:28|slow motion is Guinea pigs is intense.|https://v.redd.it/y7bilyjbj3841|EtanSivad|False|https://redd.it/eie345|16|0.72|0|1|0|woahdude
+ei787h|2019-12-31 19:04:26|Around and around|https://gfycat.com/blondorangedrake|KevlarYarmulke|False|https://redd.it/ei787h|91|0.93|0|3|0|woahdude
+ei9edn|2019-12-31 21:51:00|Well fuck me.|https://gfycat.com/parallelincompletebagworm|deckard1980|False|https://redd.it/ei9edn|53|0.9|0|2|0|woahdude
+eifve4|2020-01-01 07:57:00|Penrose Tiling|https://youtu.be/j8SNmGHhfks|Rizuken|False|https://redd.it/eifve4|7|0.76|1|3|0|woahdude
+ehnq1m|2019-12-30 15:54:42|This panoramic picture of the Eiffel Tower|https://i.redd.it/co0b4d9908s11.jpg|Thomas2807|False|https://redd.it/ehnq1m|19812|0.93|0|240|0|woahdude
+ei62g8|2019-12-31 17:41:09|Reminds me of the wall|https://v.redd.it/fev3r224rw741|trulygreg67|False|https://redd.it/ei62g8|58|0.91|0|3|0|woahdude
+ei4942|2019-12-31 15:29:09|Mimosa pudica plants shrink when disturbed.|https://v.redd.it/p9iu7ch8mz741|ComicPandaa|False|https://redd.it/ei4942|74|0.9|0|9|0|woahdude
+ei89qp|2019-12-31 20:21:35|Australian bushfires along the Southern NSW coastline|https://i.imgur.com/uW4WGAr.jpg|thebeanshadow|False|https://redd.it/ei89qp|28|0.88|0|3|0|woahdude
+eid6l4|2020-01-01 03:13:22|I was in the zone. That's the signpost up ahead...|https://i.redd.it/hsx03vzk33841.jpg|MundoRaven|False|https://redd.it/eid6l4|5|0.67|0|2|0|woahdude
+ei49pq|2019-12-31 15:30:38|Helluva view|https://i.imgur.com/Smp3GZA.gifv?utm=rkf-23|Sentinel_2017|False|https://redd.it/ei49pq|40|0.86|0|4|0|woahdude
+ei3tof|2019-12-31 14:55:06|Rainbow Gem|https://gfycat.com/hideousterriblearmedcrab|Sir_Cat1288|False|https://redd.it/ei3tof|41|0.88|0|1|0|woahdude
+ei8xfg|2019-12-31 21:13:07|New Years Day 2020 Fireworks, Sydney, AUS|https://i.imgur.com/ZbZVP1M.jpg|mc_smelligott|False|https://redd.it/ei8xfg|10|0.77|0|4|0|woahdude
+ehy3jr|2019-12-31 04:53:07|This cup rack is out of control!|https://i.redd.it/22ngyzdrgw741.jpg|OGLineCook|False|https://redd.it/ehy3jr|228|0.92|0|20|0|woahdude
+ei7z3m|2019-12-31 19:59:00|Shes floating|https://i.redd.it/krru9hrdy0841.jpg|musculoman22|False|https://redd.it/ei7z3m|8|0.65|0|1|0|woahdude
+eic34i|2020-01-01 01:30:04|Infinity Gauntlet Controlled Home Automation|https://www.youtube.com/watch?v=-H7YejeUWbI&t=19s|San_Ismail|False|https://redd.it/eic34i|3|0.73|0|1|0|woahdude
+ehifdm|2019-12-30 06:34:01|Using a magnet to play with ferrofluid|https://v.redd.it/hthtfzn5tp741|SpaceTruckin_InTime|False|https://redd.it/ehifdm|6840|0.97|1|176|0|woahdude
+ei3il6|2019-12-31 14:29:34|Waking up after New Year|https://i.imgur.com/P1FAZiI.gifv|Svarvsven|False|https://redd.it/ei3il6|14|0.79|0|1|0|woahdude
+ei1kvo|2019-12-31 11:10:45|Wind powered|https://gfycat.com/activefrequenthuman|HellsJuggernaut|False|https://redd.it/ei1kvo|18|0.84|0|4|0|woahdude
+eicwp2|2020-01-01 02:46:21|Drone flying through fire|https://www.instagram.com/p/B6vtQzJg3I0/?igshid=qrfe8t0b4uxa|Levantaos_del_polvo|False|https://redd.it/eicwp2|1|0.6|0|1|0|woahdude
+ei4tf5|2019-12-31 16:11:39|Marble Run Machine|https://www.youtube.com/watch?v=jmh_usvhHLw|SpaceyTheMinotaur|False|https://redd.it/ei4tf5|5|1.0|0|2|0|woahdude
+ehw5fh|2019-12-31 02:08:32|felt like you guys would appreciate this|https://i.imgur.com/nBxrol7.gifv|kramerfloyd|False|https://redd.it/ehw5fh|66|0.92|0|2|0|woahdude
+ehv7lg|2019-12-31 00:53:49|Impressive point of view|https://gfycat.com/brilliantessentialdouglasfirbarkbeetle|DeLargo83|False|https://redd.it/ehv7lg|63|0.94|0|4|0|woahdude
+ehtz5d|2019-12-30 23:18:53|Sarychev Peak Eruption, Kuril Islands as seen from the International Space Station|https://v.redd.it/dklmqzt1tu741|wambampram|False|https://redd.it/ehtz5d|72|0.96|0|4|0|woahdude
+ei6uem|2019-12-31 18:36:42|They enter the screen everytime they sit down and watch it. Now they're entered Damien's realm, that is located on slippery grounds territories, he's stuck! He dared pause walking and now involuntarily performs a breathing exercise, that will give him lots to think and talk about.|https://youtu.be/Q3hZK90bLx4?list=PLVDrMCkP8cske6jJY2Gj_dyopGUXySXsL|dedeium|False|https://redd.it/ei6uem|2|0.76|0|1|0|woahdude
+ehspec|2019-12-30 21:46:44|Meeting with the Milkyway|https://i.redd.it/thfhougncu741.jpg|Grafixart-Photo|False|https://redd.it/ehspec|79|0.79|0|1|0|woahdude
+ei8amo|2019-12-31 20:23:30|"""Smokey"" - prod. Peten [Trip Hop Beat/Dream Trap Instrumental] #TripHop #Beats #Trap #Instrumentals"|https://www.youtube.com/watch?v=UEi27p1mfr4|PetenMusic|False|https://redd.it/ei8amo|1|0.6|0|1|0|woahdude
+ehxlm7|2019-12-31 04:09:03|The transitions between fast motion and slow hurt my brain noodle.|https://v.redd.it/tqvjoecdkv741|CaptWineTeeth|False|https://redd.it/ehxlm7|21|0.82|0|1|0|woahdude
+ehziuo|2019-12-31 07:09:41|Electron microscope slow-motion video of vinyl LP|https://youtu.be/GuCdsyCWmt8|botobym|False|https://redd.it/ehziuo|8|0.88|0|1|0|woahdude
+eht40w|2019-12-30 22:15:31|An artistic rendition of the Mandelbrot sets|https://v.redd.it/cyuts6nutq741|hotcocoa403|False|https://redd.it/eht40w|40|0.93|0|1|0|woahdude
+eh9s1g|2019-12-29 18:56:19|Cube|https://imgur.com/eHYvZQE.gifv|Achoo_Gesundheit|False|https://redd.it/eh9s1g|10276|0.91|0|102|0|woahdude
+ehbxix|2019-12-29 21:36:27|I was told you all may enjoy my art! This is ‘recovery’|https://i.redd.it/p479eixx5n741.jpg|americanxtrash|False|https://redd.it/ehbxix|4157|0.95|0|63|0|woahdude
+ehtw21|2019-12-30 23:12:15|Glitter storm...|https://v.redd.it/3wp754pfhu741|CentrifugalFarts69|False|https://redd.it/ehtw21|26|0.88|0|1|0|woahdude
+ehryix|2019-12-30 20:53:32|This light perception|https://gfycat.com/wellgroomedspectacularape|bdousse|False|https://redd.it/ehryix|39|0.91|0|2|0|woahdude
+ehtpyt|2019-12-30 23:00:02|[OC] “Desolation Row”|https://i.redd.it/94c8n6irpu741.jpg|Raine00110|False|https://redd.it/ehtpyt|24|0.85|0|1|0|woahdude
+ehtbl4|2019-12-30 22:30:44|Raindrops|https://i.redd.it/to9zcs5iku741.jpg|mapbc|False|https://redd.it/ehtbl4|16|0.85|0|2|0|woahdude
+ehm5an|2019-12-30 13:38:32|New drawing in progress, thoughts?|https://i.redd.it/bqtf9ggkxr741.jpg|Tandizojere|False|https://redd.it/ehm5an|52|0.83|0|8|0|woahdude
+ei167w|2019-12-31 10:24:18|Wonderful patterns of Belousov–Zhabotinsky (BZ) reaction, a chemical oscillator,|https://vimeo.com/377022828|singham|False|https://redd.it/ei167w|1|0.67|0|1|0|woahdude
+ehnyuq|2019-12-30 16:13:01|This little birdie knows whats up|https://gfycat.com/tiredtimelyantipodesgreenparakeet|StingrayZ|False|https://redd.it/ehnyuq|22|0.79|0|4|0|woahdude
+eh76sf|2019-12-29 15:33:42|Went to camping with my friend, asked him to stand while holding a flashlight and I captured this.|https://i.redd.it/j69m79gc7i741.jpg|mesh27|False|https://redd.it/eh76sf|2048|0.96|0|70|0|woahdude
+ehftgn|2019-12-30 02:39:10|The Needle Galaxy is nearly 50 million light-years away. I used 11 hours of exposure time to capture it from my backyard.|https://i.redd.it/eddbn0hcjl741.jpg|canhazreddit|False|https://redd.it/ehftgn|221|0.96|0|11|0|woahdude
+ehkslj|2019-12-30 11:08:02|This Island floating in the sky.|https://i.imgur.com/bomt4MN.jpg|ebjazzz|False|https://redd.it/ehkslj|42|0.9|0|5|0|woahdude
+ehk6km|2019-12-30 09:54:42|A Trip to Infinity|https://v.redd.it/8gulmp4itq741|MathsTown|False|https://redd.it/ehk6km|48|0.91|0|6|0|woahdude
+eh2013|2019-12-29 05:18:14|Bottom Up Perspective of a Christmas Tree|https://i.redd.it/unxb88q9bi741.jpg|Cronamash|False|https://redd.it/eh2013|8325|0.97|0|65|0|woahdude
+ehlki1|2019-12-30 12:38:04|A music video made with a 3D engine|https://v.redd.it/nmvj3s7yxd541|abrow336|False|https://redd.it/ehlki1|16|0.8|0|2|0|woahdude
+ehf4td|2019-12-30 01:42:06|Floating bridge|https://i.imgur.com/sileUxb.gifv|Theking208mk|False|https://redd.it/ehf4td|123|0.91|0|10|0|woahdude
+ehfg8h|2019-12-30 02:08:08|This makeup tho|https://i.redd.it/osdlxfyeio741.jpg|diegocaxudo|False|https://redd.it/ehfg8h|97|0.88|0|2|0|woahdude
+ehebdi|2019-12-30 00:37:07|A forest after an accident at an aluminium plant|https://i.redd.it/pabyquidfl741.jpg|funtrippitydip|False|https://redd.it/ehebdi|85|0.89|0|6|0|woahdude
+ehh49a|2019-12-30 04:32:00|Confusing perspectives|https://gfycat.com/equalblushingangelfish|Thecoastwasclear|False|https://redd.it/ehh49a|43|0.92|0|1|0|woahdude
+ehlsvb|2019-12-30 13:03:53|Kinda like art but not as we know it|https://gfycat.com/testyhandmadechimneyswift|HellsJuggernaut|False|https://redd.it/ehlsvb|7|0.57|0|1|0|woahdude
+eh2pgw|2019-12-29 06:30:30|Eyegasm|https://i.imgur.com/jfEmGpf.gif|unindended_assholery|False|https://redd.it/eh2pgw|1389|0.94|0|11|0|woahdude
+ehsjos|2019-12-30 21:35:17|Drifting into 2020|https://v.redd.it/i7l04xbeau741|robot_chaka|False|https://redd.it/ehsjos|0|0.45|0|2|0|woahdude
+ehh59v|2019-12-30 04:34:29|Maypole Christmas Lights|https://i.redd.it/lmnkckdh8p741.jpg|Cronamash|False|https://redd.it/ehh59v|20|0.89|0|1|0|woahdude
+eh2ek3|2019-12-29 05:58:26|Acrylic painting on wood I made|https://i.redd.it/3n700sykii741.jpg|cyangarma|False|https://redd.it/eh2ek3|1328|0.97|1|30|0|woahdude
+egsznb|2019-12-28 16:53:09|Trippy videoediting|https://gfycat.com/improbablevalidamazonparrot|ironcaptain101|False|https://redd.it/egsznb|11710|0.93|0|71|0|woahdude
+ehbyj7|2019-12-29 21:38:27|What I like most about lava rivers is you can’t step in the same river twice|https://gfycat.com/dazzlingagitateddromaeosaur|goatsandsunflowers|False|https://redd.it/ehbyj7|35|0.89|0|6|0|woahdude
+eh7cvg|2019-12-29 15:48:24|Jupiter's Bottom|https://gfycat.com/splendidmerrycheetah|TheQuantumGhost510|False|https://redd.it/eh7cvg|98|0.92|0|10|0|woahdude
+eguiwj|2019-12-28 18:53:09|I’ve never seen something more beutiful than this|https://v.redd.it/yif0vor1kb741|PorkoltCsirke|False|https://redd.it/eguiwj|5112|0.96|2|142|0|woahdude
+ehc3mn|2019-12-29 21:48:50|Black cat and fractals.|https://i.redd.it/yk79v4zr7n741.jpg|MundoRaven|False|https://redd.it/ehc3mn|26|0.8|0|1|0|woahdude
+ehhn80|2019-12-30 05:18:26|Beneath The Surface|https://i.redd.it/64dhezwcgp741.jpg|Tsmith0007|False|https://redd.it/ehhn80|6|0.73|0|1|0|woahdude
+ehal57|2019-12-29 19:57:04|Wormhole sphere|https://v.redd.it/w8ipjffokj741|Exposition-End|False|https://redd.it/ehal57|31|0.89|0|1|0|woahdude
+ehkrhy|2019-12-30 11:04:31|Y'all might like this. Trippy deep dream ai music video (OC)|https://youtu.be/X827GkUyl1g|idiotshmidiot|False|https://redd.it/ehkrhy|3|0.56|0|1|0|woahdude
+ehcqhh|2019-12-29 22:36:25|Shallow depth of field|https://gfycat.com/shadyhappyheron|KevlarYarmulke|False|https://redd.it/ehcqhh|20|0.84|0|1|0|woahdude
+ehr4bs|2019-12-30 19:55:44|Try to decipher this while high|https://v.redd.it/ro7ouqdpem441|mylackey|False|https://redd.it/ehr4bs|0|0.38|0|4|0|woahdude
+ehb8yz|2019-12-29 20:46:25|Satisfying|https://i.redd.it/7xqw64zqs4641.jpg|jackzimmm|False|https://redd.it/ehb8yz|15|0.76|0|1|0|woahdude
+eh8y2q|2019-12-29 17:53:38|An incredible light show|https://v.redd.it/kwx75o1mnl741|w-on|False|https://redd.it/eh8y2q|15|0.74|0|1|0|woahdude
+eh85f1|2019-12-29 16:52:12|Something I made|https://v.redd.it/nb1nxq1tpl741|obuto4|False|https://redd.it/eh85f1|15|0.79|0|1|0|woahdude
+eguyl0|2019-12-28 19:27:13|stars|https://i.redd.it/wnc40a2udf741.gif|Flynja|False|https://redd.it/eguyl0|442|0.95|0|6|0|woahdude
+egnc3h|2019-12-28 06:26:10|Geometry + Table + Light|https://imgur.com/CzWuvYg|tenth|False|https://redd.it/egnc3h|1990|0.97|0|34|0|woahdude
+eh2a3b|2019-12-29 05:46:10|Just falling and falling|https://v.redd.it/pzg26eb8vh741|Yung_Onions|False|https://redd.it/eh2a3b|23|0.71|0|4|0|woahdude
+egrzfn|2019-12-28 15:28:48|"""The Storm"", my latest drawing."|https://i.redd.it/70wjhdxi4e741.jpg|where_the_muslims_at|False|https://redd.it/egrzfn|232|0.81|2|17|0|woahdude
+eh1xpq|2019-12-29 05:11:38|marker ink being spun|https://i.redd.it/e9kne4769i741.gif|Lord_Farquaads_Chin|False|https://redd.it/eh1xpq|18|0.69|0|2|0|woahdude
+eh7hxp|2019-12-29 16:00:03|Firecrackers and Firework - EXTREME Explosions in Slow Motion 2020 (New Year's Eve Special)|https://youtu.be/pLGQEMASTFI|fisheveadventures3|False|https://redd.it/eh7hxp|4|0.6|0|1|0|woahdude
+egvxb9|2019-12-28 20:40:50|Swimming in sea with fish|https://v.redd.it/wm77buantc741|nickz005|False|https://redd.it/egvxb9|64|0.95|0|7|0|woahdude
+eh7qb5|2019-12-29 16:19:13|Fireworks from another world|https://v.redd.it/c4qi7uk1el741|obuto4|False|https://redd.it/eh7qb5|0|0.56|0|1|0|woahdude
+egtj79|2019-12-28 17:35:52|Tapered Mirrors Kaleidiscope|https://v.redd.it/yv63egf0ue741|NewFound_Fury|False|https://redd.it/egtj79|63|0.94|0|2|0|woahdude
+egy8ap|2019-12-28 23:42:43|"""The valiant tool"" me, markers, 2019"|https://i.redd.it/pix0o8g8ng741.jpg|Tandizojere|False|https://redd.it/egy8ap|13|0.87|0|3|0|woahdude
+egar3b|2019-12-27 12:44:28|Saw a plaid shirt on here the other day. I raise you this.|https://v.redd.it/2n5nrol396741|Horrogz|False|https://redd.it/egar3b|38684|0.94|4|223|0|woahdude
+egxoki|2019-12-28 22:58:24|The Grackle and the Grasshopper. The Fractals and the trash talkers.|https://i.redd.it/v0bqrzypeg741.jpg|MundoRaven|False|https://redd.it/egxoki|16|0.79|0|1|0|woahdude
+egku77|2019-12-28 02:29:33|What happens when you swing a string of glow sticks with burning steel wool at the end and take a long exposure photo [photo by Chris Matthew Brady]|https://i.redd.it/t1qiv1reca741.jpg|danny_archer96|False|https://redd.it/egku77|386|0.92|0|17|0|woahdude
+egtaiq|2019-12-28 17:16:42|The cityscapes in this music video I stumbled upon|https://youtu.be/nO9aot9RgQc?t=27|PetrRabbit|False|https://redd.it/egtaiq|21|0.92|0|1|0|woahdude
+egxjzv|2019-12-28 22:48:16|Macro Candy Art - Dissolving M&M's (Macro Room Inspired)|https://youtu.be/E31LrCxJano|fisheveadventures3|False|https://redd.it/egxjzv|10|0.85|0|1|0|woahdude
+egtp4r|2019-12-28 17:49:01|Buggy Skyline, not edited|https://i.redd.it/gukxe1pfwe741.jpg|JaycockP|False|https://redd.it/egtp4r|17|0.78|0|3|0|woahdude
+egpzmz|2019-12-28 11:58:47|colour changing cake|https://gfycat.com/flickeringleafyanglerfish|fearmechildren|False|https://redd.it/egpzmz|35|0.87|0|1|0|woahdude
+egmdzl|2019-12-28 04:51:16|Gameboy, a drawing by me.|https://i.redd.it/2nlnm6to1b741.jpg|Sickpupz|False|https://redd.it/egmdzl|114|0.91|1|10|0|woahdude
+egjruz|2019-12-28 00:56:12|Best lsd interpretation I've seen as of late|https://i.redd.it/x4nemtxm45741.gif|Pantagruelian1|False|https://redd.it/egjruz|228|0.91|0|13|0|woahdude
+egk19x|2019-12-28 01:19:02|Winter Mood|https://i.redd.it/8h955jasz9741.jpg|Grafixart-Photo|False|https://redd.it/egk19x|152|0.96|0|1|0|woahdude
+ego955|2019-12-28 08:12:13|Pencil sharpening|https://i.redd.it/g6nknomyfv241.gif|MeowedUpMix|False|https://redd.it/ego955|41|0.85|0|1|0|woahdude
+egqvub|2019-12-28 13:43:43|Defying gravity|https://youtu.be/NeS7fmj8MS4|Kinginthenorth013|False|https://redd.it/egqvub|9|0.71|0|2|0|woahdude
+egmgrc|2019-12-28 04:58:57|This dreidel is lit 🔥|https://v.redd.it/9ypkg71y2b741|pushguy|False|https://redd.it/egmgrc|42|0.83|0|7|0|woahdude
+egmjqj|2019-12-28 05:06:53|Train Station, Harbin|https://i.redd.it/r5wz1688j4741.jpg|meticulouskat|False|https://redd.it/egmjqj|40|0.94|0|2|0|woahdude
+egf2mg|2019-12-27 18:49:24|How can one make our feeling into a video. Kudos to the Editor/Creative!!|https://v.redd.it/2hk3twu928741|wowdogefunny|False|https://redd.it/egf2mg|121|0.91|0|13|0|woahdude
+efzsba|2019-12-26 19:33:45|I spent about 7 hours drawing some line art over the break that I wanted to share!|https://i.redd.it/mxyn8gab51741.jpg|tfoust10|False|https://redd.it/efzsba|13816|0.94|5|200|0|woahdude
+eghx5w|2019-12-27 22:24:16|CGI light tunnel|https://v.redd.it/gsf3oyml49741|somefaces|False|https://redd.it/eghx5w|47|0.85|0|5|0|woahdude
+egdomb|2019-12-27 17:05:01|The pattern on this shroom|https://i.redd.it/97vy3gxlj7741.jpg|thepandabro|False|https://redd.it/egdomb|116|0.98|0|10|0|woahdude
+egft11|2019-12-27 19:44:03|This Minecraft texture pack that makes all blocks appear to be moving constantly in the same direction. [credit to u/leckashmecka]|https://v.redd.it/hjg1a74dw7741|ellarree|False|https://redd.it/egft11|65|0.88|0|7|0|woahdude
+egdqmn|2019-12-27 17:09:15|The amount of time and creativity put into this is will only be surmounted by the amount of time and creativity someone’s gonna spend watching it.|https://i.redd.it/4q8po0b7w6741.gif|gnarlyyowl|False|https://redd.it/egdqmn|85|0.91|0|5|0|woahdude
+egm4p9|2019-12-28 04:26:00|Fight me fruit shirt.|https://v.redd.it/wqpsuyp4xa741|gman4581|False|https://redd.it/egm4p9|10|0.83|0|2|0|woahdude
+egn5yo|2019-12-28 06:08:38|I see your shirts and raise you this tapestry! [Loud] [Music: Demons by Kai Wachi]|https://v.redd.it/6c2x7vxhfb741|thefatcatlikesnaps|False|https://redd.it/egn5yo|4|0.67|0|1|0|woahdude
+eghim7|2019-12-27 21:52:51|If you need a hat to match your plaid/fruit shirt.|https://v.redd.it/7e7gcl8yy8741|DDDom907|False|https://redd.it/eghim7|27|0.75|0|3|0|woahdude
+egdxfh|2019-12-27 17:23:34|Our tree through a pair of 3D glasses for Christmas lights.|https://i.redd.it/99o149gzm7741.jpg|ShannonKayG|False|https://redd.it/egdxfh|40|0.89|0|5|0|woahdude
+eg94hu|2019-12-27 09:31:22|this drawing i did using mostly circles|https://i.redd.it/e4kw3jara5741.jpg|amiselfish-1019|False|https://redd.it/eg94hu|145|0.9|0|10|0|woahdude
+egcjrj|2019-12-27 15:35:49|Art I did this morning|https://i.redd.it/g30mpfxr37741.jpg|zInkoholic|False|https://redd.it/egcjrj|47|0.82|0|6|0|woahdude
+egjtut|2019-12-28 01:01:02|I made a simple and mobile-friendly browser app for interactive deep zooms on various fractals|https://mytino.itch.io/fractal-explorer|Mytino|False|https://redd.it/egjtut|9|0.9|0|1|0|woahdude
+eg7wec|2019-12-27 07:04:56|Northern Lights Captured In The Form Of The Legendary Phoenix Over Iceland|https://i.redd.it/ch1sz9tmk4741.jpg|DaFunkJunkie|False|https://redd.it/eg7wec|180|0.96|0|6|0|woahdude
+egdov0|2019-12-27 17:05:35|City Walk, Dubai|https://v.redd.it/zz856n24j7741|TheTrittRedditer|False|https://redd.it/egdov0|16|0.79|0|2|0|woahdude
+eftata|2019-12-26 09:05:34|Reflection of Solar Eclipse on the floor!|https://v.redd.it/phj68tj11y641|AgentWhisky|False|https://redd.it/eftata|8373|0.95|0|72|0|woahdude
+eg8jlm|2019-12-27 08:18:54|the way the steam ascended from my cup-o-philz in the sunlight. shot on my Nokia 3310.|https://i.redd.it/v9ffvngtx4741.jpg|StefanFlurry|False|https://redd.it/eg8jlm|52|0.83|0|4|0|woahdude
+egasod|2019-12-27 12:49:30|I made a program that create psychedelic video clips from sound !|https://youtu.be/IYK83KiojzA|Remideza|False|https://redd.it/egasod|17|0.89|0|10|0|woahdude
+eg61yb|2019-12-27 04:05:32|As outside so within|https://v.redd.it/x03aouxld3741|superkickerjess|False|https://redd.it/eg61yb|70|0.96|0|3|0|woahdude
+eg4u70|2019-12-27 02:17:30|A nuclear bomb's explosion immediately after detonation (notice support towers for scale)|https://i.redd.it/ag7u25oc53741.jpg|Anvilized|False|https://redd.it/eg4u70|80|0.9|0|20|0|woahdude
+egczmp|2019-12-27 16:11:48|Clean|https://i.redd.it/o9y57k37a7741.jpg|zInkoholic|False|https://redd.it/egczmp|7|0.61|0|4|0|woahdude
+eg62ej|2019-12-27 04:06:33|Entering a new world.|https://v.redd.it/qllgpw0av1741|WatchSpace|False|https://redd.it/eg62ej|56|0.94|0|3|0|woahdude
+eg8yio|2019-12-27 09:10:56|Solar eclipse. Saudi Arabia. (Not my photo)|https://i.redd.it/z9acuvz375741.jpg|krnrd|False|https://redd.it/eg8yio|19|0.71|0|1|0|woahdude
+eg70k2|2019-12-27 05:34:59|(Wait for it ...) The Blanket Octopus|https://youtu.be/OD6QHW_nMoQ|dc_joker|False|https://redd.it/eg70k2|31|0.89|0|7|0|woahdude
+egctzl|2019-12-27 15:59:28|The UmbiliSphere.... Welcome Home - by ARTofDiNo.com|https://i.redd.it/1tct6lat77741.gif|ARTofDiNoandDART|False|https://redd.it/egctzl|3|0.81|0|1|0|woahdude
+eg3u7h|2019-12-27 00:52:54|A fun thing I painted up, Plugged In, UV reactive too|https://i.redd.it/4plhh9l8q2741.jpg|dreamsmallactbig|False|https://redd.it/eg3u7h|41|0.94|0|4|0|woahdude
+efzbkx|2019-12-26 18:57:50|Trippy Kitten Visual|https://gfycat.com/happygoluckysickantelope|Pantagruelian1|False|https://redd.it/efzbkx|93|0.95|0|2|0|woahdude
+eg270t|2019-12-26 22:40:29|“Options” my latest drawing|https://i.redd.it/kgj83jsm22741.jpg|Tandizojere|False|https://redd.it/eg270t|36|0.88|0|4|0|woahdude
+eg4xrb|2019-12-27 02:26:17|Plein-air (outdoor) Picasso Art|https://gfycat.com/limpinglonelybarasingha|app0jax|False|https://redd.it/eg4xrb|16|0.91|0|2|0|woahdude
+efhwkc|2019-12-25 15:46:06|Dogs paw looks like a mini version of him|https://i.redd.it/nmk4tjlsvs641.jpg|_proe|False|https://redd.it/efhwkc|22935|0.94|1|65|0|woahdude
+eg2g5o|2019-12-26 23:00:26|Minoski_Foresti🤗 also i have no idea what that means 🤓|https://v.redd.it/56qrosz2xtk31|TyronePowerr|False|https://redd.it/eg2g5o|25|0.89|0|2|0|woahdude
+efzm6d|2019-12-26 19:20:47|Mixing two types of liquid soap|https://i.redd.it/ab5t5osy21741.jpg|baloglub|False|https://redd.it/efzm6d|47|0.86|0|6|0|woahdude
+efx4k4|2019-12-26 16:05:08|Christmas eclipse in the Middle East|https://i.redd.it/ecpv8ik340741.jpg|ProfessorWafflesPhD|False|https://redd.it/efx4k4|77|0.95|0|2|0|woahdude
+efxnew|2019-12-26 16:47:06|Life in life|https://i.imgur.com/T1h2VVS.gif|NsfwOlive|False|https://redd.it/efxnew|41|0.83|0|8|0|woahdude
+efzwta|2019-12-26 19:43:29|Fracture|https://i.redd.it/ewjuw5iz61741.jpg|thelandscape|False|https://redd.it/efzwta|20|0.85|0|5|0|woahdude
+eg2fg7|2019-12-26 22:58:58|Close-up of ink flowing through a hand|https://i.imgur.com/o0yiP9J.gifv|DrCow69|False|https://redd.it/eg2fg7|11|0.88|0|2|0|woahdude
+efvl0i|2019-12-26 13:45:24|Profound inhalation|https://v.redd.it/m0yz953vez641|kschub|False|https://redd.it/efvl0i|58|0.87|0|5|0|woahdude
+efw2ht|2019-12-26 14:33:20|Yellow Jello On A Blue Board|https://i.imgur.com/X85vxTV.gifv|MrNolif|False|https://redd.it/efw2ht|32|0.74|0|5|0|woahdude
+efreg3|2019-12-26 05:29:15|Sand pattern|https://v.redd.it/9lwzodz3zt641|citcat97|False|https://redd.it/efreg3|156|0.93|0|5|0|woahdude
+efxdbw|2019-12-26 16:24:14|Hi, I make sober people trip with reality bending videos :)|https://www.youtube.com/watch?v=WoMRTSw2UFY|TaylorrDreww|False|https://redd.it/efxdbw|11|0.79|0|2|0|woahdude
+efqtvh|2019-12-26 04:32:53|Laminar flow|https://gfycat.com/imaginarybewitchediberiannase|TradeMeForHaloo|False|https://redd.it/efqtvh|71|0.85|0|5|0|woahdude
+efoke9|2019-12-26 01:03:38|Smoke filtering through a prism's rainbow|https://gfycat.com/impishflickeringhaddock|polymute|False|https://redd.it/efoke9|111|0.92|0|6|0|woahdude
+efrmk3|2019-12-26 05:52:21|Shadows formed by leaves during solar eclipse|https://i.redd.it/us9woez6qw641.jpg|Eldho_Basil_Siji|False|https://redd.it/efrmk3|42|0.91|0|6|0|woahdude
+efa63d|2019-12-25 01:32:35|The way this second face appears on Joaquin’s forehead.|https://v.redd.it/t1744knzqpz31|gobucks_76|False|https://redd.it/efa63d|9360|0.92|0|187|0|woahdude
+efmt59|2019-12-25 22:29:55|"Hall in Mullabashi House | Isfahan, Iran"|https://i.redd.it/hghoc4hs0u641.jpg|Karlukoyre|False|https://redd.it/efmt59|124|0.97|0|3|0|woahdude
+efrsnp|2019-12-26 06:10:06|Chips out|https://i.imgur.com/Gy2GlLe.jpg|DJQuad|False|https://redd.it/efrsnp|21|0.79|0|10|0|woahdude
+efqe75|2019-12-26 03:52:47|Stop motion + 3D water printer|https://youtu.be/FG_l1oacWoQ|levl289|False|https://redd.it/efqe75|32|0.86|0|2|0|woahdude
+efi5jc|2019-12-25 16:07:12|Check out my art while you listen to your relatives talk|https://i.redd.it/kp56rqjjzs641.jpg|Tandizojere|False|https://redd.it/efi5jc|185|0.91|0|19|0|woahdude
+efn3mg|2019-12-25 22:55:32|The colors, man...|https://gfycat.com/impishflickeringhaddock|otc108|False|https://redd.it/efn3mg|29|0.83|0|3|0|woahdude
+efrbrw|2019-12-26 05:21:22|Weird Translucent Baby Eels Look Totally Far Out|https://www.youtube.com/watch?v=NKEqMQM2isA|thelastremaining|False|https://redd.it/efrbrw|9|0.92|0|2|0|woahdude
+ef1ec6|2019-12-24 13:32:35|Air Walk|https://gfycat.com/admirablememorablegrebe|WhenMachinesCry|False|https://redd.it/ef1ec6|17924|0.94|1|120|0|woahdude
+efkthp|2019-12-25 19:44:19|some dry erase markers and a bit of water.|https://gfycat.com/marvelousdifferentgentoopenguin|IfTheHeadFitsWearIt|False|https://redd.it/efkthp|27|0.94|0|3|0|woahdude
+efd22n|2019-12-25 06:22:38|cube art with paper clips|https://i.redd.it/9646bvmuwk641.jpg|foxtracking|False|https://redd.it/efd22n|197|0.97|0|3|0|woahdude
+efyieq|2019-12-26 17:54:25|Dancing Butter?|https://youtu.be/cRGrRznjFqU|ThundrrStryke|False|https://redd.it/efyieq|0|0.23|0|5|0|woahdude
+efnwn3|2019-12-26 00:04:58|I made this while I was high! Hope you enjoy!|https://www.youtube.com/watch?v=LfGm5mvjrAk|SoraXu|False|https://redd.it/efnwn3|4|0.67|0|1|0|woahdude
+efeb4f|2019-12-25 08:55:18|That genius sign turns from close to open|https://i.imgur.com/VzOwj91.gifv|mate223|False|https://redd.it/efeb4f|54|0.87|0|4|0|woahdude
+efljcf|2019-12-25 20:43:20|Vibrating ferrofluid slow motion|https://www.youtube.com/watch?v=7dAjpLmjT00|cobrakiller2000|False|https://redd.it/efljcf|5|1.0|0|1|0|woahdude
+ef9dvw|2019-12-25 00:20:05|This engineer programmed his Christmas tree lights to play Snake (by Jordy Moos)|https://gfycat.com/wildjointbass|catcatcatbicat|False|https://redd.it/ef9dvw|213|0.93|0|8|0|woahdude
+efdiy9|2019-12-25 07:17:03|[OC] Braids|https://v.redd.it/0mz6e7ifizs31|Iknowaguywhoknowsme|False|https://redd.it/efdiy9|37|0.97|0|10|0|woahdude
+efdsbw|2019-12-25 07:49:02|Trippy Smiley Face|https://v.redd.it/vyodlspmiq641|Flying_Blueberry559|False|https://redd.it/efdsbw|30|0.79|0|2|0|woahdude
+efhaj2|2019-12-25 14:50:33|SANTA Arrives from a Lighter - a pretty trippy stop motion animation|https://www.youtube.com/watch?v=1W3TlMz8toI|nerog12|False|https://redd.it/efhaj2|4|0.7|0|1|0|woahdude
+efc3vn|2019-12-25 04:43:08|Spine tingling tones of native American flute in abandoned church|https://youtu.be/KkQIHAjS6cc|WisPaulHarvey|False|https://redd.it/efc3vn|28|0.91|0|7|0|woahdude
+ees0g8|2019-12-23 22:52:38|Beat Saber With A Staff|https://gfycat.com/unitedflippanthoopoe|dingaling-diddlydoo|False|https://redd.it/ees0g8|9194|0.95|0|151|0|woahdude
+ef8fyl|2019-12-24 22:58:14|My look into dimension.|https://i.imgur.com/oPaLZCo.jpg|hydroawesome|False|https://redd.it/ef8fyl|57|0.93|0|6|0|woahdude
+effr49|2019-12-25 12:01:59|"Performance ""Fractal Seraphim"" - psychedelic visualization on wings"|https://www.youtube.com/watch?v=1E1YMcgTEVk&feature=youtu.be|wasyl0o|False|https://redd.it/effr49|7|0.86|0|1|0|woahdude
+eezl2q|2019-12-24 10:15:04|Life cycle after Christmas|https://v.redd.it/chf3vorp3k641|varnijain|False|https://redd.it/eezl2q|578|0.9|0|38|0|woahdude
+ef9ttk|2019-12-25 01:00:13|Christmas light show using 100,000 interconnected LEDs|https://v.redd.it/tqiuwp4y5n641|longdrinkmcg|False|https://redd.it/ef9ttk|26|1.0|0|2|0|woahdude
+efede6|2019-12-25 09:03:27|Trippy George Lucas Reacts to Baby Yoda and Deepfakes Deepfake|https://youtu.be/A91P2qtPT54|kanliot|False|https://redd.it/efede6|3|0.79|0|1|0|woahdude
+efa0g7|2019-12-25 01:17:39|Reinhardt Buhr|https://youtu.be/dck6m5guuIE|tanafras|False|https://redd.it/efa0g7|15|0.9|0|1|0|woahdude
+ef5q2a|2019-12-24 19:15:49|I’ve always wondered|https://i.redd.it/88wemugrml641.jpg|that1guythathasit|False|https://redd.it/ef5q2a|33|0.91|0|1|0|woahdude
+ef8o7a|2019-12-24 23:17:37|Trippy Russian music video / animation by Mumi Troll|https://www.youtube.com/watch?v=3UMZajA6GVg|DeskJob|False|https://redd.it/ef8o7a|8|0.75|0|1|0|woahdude
+ef23kr|2019-12-24 14:35:20|Trippy Christmas Everyone!|https://gfycat.com/nauticalreasonablehamster|StingrayZ|False|https://redd.it/ef23kr|37|0.87|0|2|0|woahdude
+eez7xi|2019-12-24 09:35:36|morphing beetles|https://v.redd.it/vya40w1pwj641|tanreb|False|https://redd.it/eez7xi|87|0.9|0|6|0|woahdude
+eetkq7|2019-12-24 00:52:45|Trippy Rick&Morty|https://v.redd.it/pdphp4phbh641|sagilny|False|https://redd.it/eetkq7|299|0.89|0|5|0|woahdude
+ef7j89|2019-12-24 21:41:57|"""Flow II"" - prod. Peten [Trip Hop Beat/Dream Trap Instrumental] (2019)"|https://www.youtube.com/watch?v=WsMmPypdCcY|PetenMusic|False|https://redd.it/ef7j89|5|1.0|0|3|0|woahdude
+ef1w4p|2019-12-24 14:17:45|A drawing of a train station I did|https://i.redd.it/e063rk84bl641.jpg|Tandizojere|False|https://redd.it/ef1w4p|20|0.92|0|5|0|woahdude
+eey0bb|2019-12-24 07:19:34|This rocket lamp|https://i.redd.it/vyt11qp85i641.gif|MEMESTER_BOIIII|False|https://redd.it/eey0bb|65|0.87|0|3|0|woahdude
+ef0m3y|2019-12-24 12:12:20|A little lightning storm at work last night.|https://v.redd.it/gqxhusvpok641|awesome-o-4000|False|https://redd.it/ef0m3y|18|0.91|0|4|0|woahdude
+eexdcq|2019-12-24 06:14:56|Dali’s “The Persistence of Memory” using 1000s of pieces of Duct Tape|https://i.redd.it/of4vyb9zwi641.jpg|Kerrymottart|False|https://redd.it/eexdcq|37|0.93|0|2|0|woahdude
+eerc27|2019-12-23 22:01:51|Keep Calm!|https://gfycat.com/ignoranthighlevelbats|Venxium|False|https://redd.it/eerc27|180|0.89|0|5|0|woahdude
+eext05|2019-12-24 06:58:14|Charlie Brown Christmas Dances on a Turntable|https://v.redd.it/3rj609rh4j641|drewtetz|False|https://redd.it/eext05|29|0.87|0|2|0|woahdude
+eesadr|2019-12-23 23:13:12|This artist’s unique style of clay animation|https://gfycat.com/spanishmajesticfairyfly|Doshirae|False|https://redd.it/eesadr|115|0.94|0|1|0|woahdude
+ef0v7h|2019-12-24 12:39:58|Big Magnet vs TV|https://www.youtube.com/watch?v=LdQ6gPbrqa0|KmountainDew|False|https://redd.it/ef0v7h|8|1.0|0|6|0|woahdude
+eetjcq|2019-12-24 00:49:41|From glass to mirror.|https://gfycat.com/boldvictoriousgerenuk|Shadow-Strikers|False|https://redd.it/eetjcq|52|0.88|0|1|0|woahdude
+eev3zv|2019-12-24 03:00:26|Möbius-ish loop|https://gfycat.com/popularmilkyhartebeest|stntoulouse|False|https://redd.it/eev3zv|32|0.86|0|1|0|woahdude
+ef7sub|2019-12-24 22:03:56|This Cool Rick and Morty painting my girlfriend made me|https://i.imgur.com/NUGbqr3.mp4|SnapKreckelPop|False|https://redd.it/ef7sub|0|0.5|0|1|0|woahdude
+eetqjt|2019-12-24 01:05:56|Face shifting.|https://gfycat.com/tenderinconsequentialbushsqueaker|Axinoto|False|https://redd.it/eetqjt|44|0.8|0|5|0|woahdude
+eexph3|2019-12-24 06:48:10|Playing around with the horse in motion and a spinning 3D cylinder [A] (OC)|https://gfycat.com/descriptiveaccomplishedisabellineshrike-perfectloop-animation|plzno1|False|https://redd.it/eexph3|10|0.76|0|1|0|woahdude
+eert4u|2019-12-23 22:37:09|Wish I had the skill do make something like this!|https://v.redd.it/obxspae3sd641|YouAreBadLmao|False|https://redd.it/eert4u|32|0.84|0|1|0|woahdude
+ee6wl8|2019-12-22 16:38:41|The scale of the universe.|https://v.redd.it/fz1t4jfeq7641|MrSquirly|False|https://redd.it/ee6wl8|16351|0.95|8|436|0|woahdude
+eerno7|2019-12-23 22:25:47|Floating clouds|https://v.redd.it/z2hmnw99lg641|SvampebobFirkant|False|https://redd.it/eerno7|30|0.81|0|5|0|woahdude
+ef2s5s|2019-12-24 15:31:15|Matthew One Man - Another Word For Light // Acceptance // Part 3|https://www.youtube.com/watch?v=zpDaQVH54Ho|JediBadMan|False|https://redd.it/ef2s5s|0|0.25|0|1|0|woahdude
+eeo1o0|2019-12-23 18:01:52|I believe it's much more appropriate this thing to be here|https://v.redd.it/fibta44yde641|MystFM|False|https://redd.it/eeo1o0|23|0.83|0|2|0|woahdude
+eeoi4q|2019-12-23 18:34:48|OK Go - The One Moment (shot in 4.2 seconds)|https://www.youtube.com/watch?v=QvW61K2s0tA|l1qu1d0xyg3n|False|https://redd.it/eeoi4q|15|0.77|0|5|0|woahdude
+eeusnb|2019-12-24 02:33:59|That’s why I’m confused!|https://youtu.be/lk8sMLDVpD0|kidisanthonie|False|https://redd.it/eeusnb|3|0.67|0|1|0|woahdude
+eejffh|2019-12-23 11:23:23|It's all in the perspective|https://v.redd.it/iz3i0h5ac8641|Terminal_318|False|https://redd.it/eejffh|49|0.87|0|2|0|woahdude
+eeo3dt|2019-12-23 18:05:12|Kaleidotherapy|https://v.redd.it/9qtn7d1naf641|beastburst|False|https://redd.it/eeo3dt|11|0.83|0|1|0|woahdude
+ee17sk|2019-12-22 05:43:29|The creation of this glow in the dark mural|https://gfycat.com/naiveabledikkops|Skurlett|False|https://redd.it/ee17sk|12177|0.96|0|37|0|woahdude
+eepyln|2019-12-23 20:21:37|Wirelessly lit chess peices|https://youtu.be/R6DFj9qX-hw|Sarbaaz|False|https://redd.it/eepyln|7|0.78|0|1|0|woahdude
+eel8cv|2019-12-23 14:26:24|Ram Dass, psychedelic drug pioneer, dies at home aged 88|https://www.reuters.com/article/us-people-ram-dass-idUSKBN1YR0KY|rWoahDude|False|https://redd.it/eel8cv|14|0.78|0|4|0|woahdude
+eeh2zw|2019-12-23 06:59:13|Galaxy in a cup 🌌|https://v.redd.it/24fyjnjiu1641|ezraboyle24|False|https://redd.it/eeh2zw|47|0.91|0|5|0|woahdude
+eephne|2019-12-23 19:46:49|Flying through a Rainbow|https://www.youtube.com/watch?v=sd-6mhlZQkw|tchacka5|False|https://redd.it/eephne|5|0.55|0|2|0|woahdude
+eejaff|2019-12-23 11:08:07|Light displayed on a cathedral in Linköping, Sweden|https://imgur.com/5iSm4Au|Latrino|False|https://redd.it/eejaff|12|1.0|0|1|0|woahdude
+eegnkh|2019-12-23 06:13:54|Not your average chess set|https://gfycat.com/respectfulwastefulacaciarat-light-up-chess-induction-whoahdude-science-cool|Sarbaaz|False|https://redd.it/eegnkh|21|0.73|0|2|0|woahdude
+eefti8|2019-12-23 04:55:15|The Circuit Organ|https://i.redd.it/kmzdc8ytdb641.jpg|MrDaydreamArt|False|https://redd.it/eefti8|21|0.93|0|1|0|woahdude
+eeamhd|2019-12-22 21:30:13|Ice frozen into the shape of the leaf|https://v.redd.it/70jvmwclu7641|lMemeMachinel|False|https://redd.it/eeamhd|74|0.92|0|1|0|woahdude
+eeaso8|2019-12-22 21:43:41|The way it ripples is mesmerizing|https://v.redd.it/vgulwj94b4641|mister-mafew|False|https://redd.it/eeaso8|69|0.93|0|1|0|woahdude
+eec3fz|2019-12-22 23:29:54|Add red flavouring?|https://i.redd.it/h5l5n5bk36641.jpg|Dahli9|False|https://redd.it/eec3fz|48|0.88|0|4|0|woahdude
+eejl5c|2019-12-23 11:41:06|Undertale - Another Medium [NewRetrowave Mix]|https://www.youtube.com/watch?v=KGqLIm_iyP4|Gigatron2833|False|https://redd.it/eejl5c|4|0.67|0|1|0|woahdude
+ee68g4|2019-12-22 15:43:05|Perfect rave idea!|https://gfycat.com/cheapgoldendassierat|Venxium|False|https://redd.it/ee68g4|131|0.93|0|7|0|woahdude
+ee4dfo|2019-12-22 12:27:36|Village in The Netherlands|https://i.redd.it/4x13keu5h6641.jpg|spacelyyy989|False|https://redd.it/ee4dfo|149|0.95|0|12|0|woahdude
+edr4s9|2019-12-21 15:27:06|Beauty is in the eye of the beholder!|https://v.redd.it/uptm3ddbmq541|Venxium|False|https://redd.it/edr4s9|12111|0.95|0|170|0|woahdude
+ee5k2v|2019-12-22 14:40:27|Cotton Clouds|https://gfycat.com/constantrashbluejay|brankaivanovic321|False|https://redd.it/ee5k2v|82|0.96|0|12|0|woahdude
+ee9aas|2019-12-22 19:45:11|Phone portal|https://v.redd.it/d0yman5pn8641|walking_darkness|False|https://redd.it/ee9aas|26|0.83|0|2|0|woahdude
+ee775f|2019-12-22 17:02:02|Trippy video motion illusion|https://v.redd.it/w8hnoxaqt7641|m0r13|False|https://redd.it/ee775f|36|1.0|0|4|0|woahdude
+eeh7ta|2019-12-23 07:13:28|This pattern created from painted lattice.|https://i.redd.it/on7vzq3i2c641.jpg|artisticallymusical5|False|https://redd.it/eeh7ta|3|0.71|0|1|0|woahdude
+ee4a8h|2019-12-22 12:15:38|The front door at my Aunt's house has a built in kaleidoscope.|https://v.redd.it/e98nbciff6641|seags99|False|https://redd.it/ee4a8h|68|0.92|0|5|0|woahdude
+ee08ys|2019-12-22 04:09:02|The closer you look the cooler it gets! Imagine dropping acid? 😳|https://i.redd.it/twktahnbcw541.jpg|Skurlett|False|https://redd.it/ee08ys|290|0.93|0|14|0|woahdude
+eeduio|2019-12-23 01:58:46|Beautiful looping galaxy visual by VisualDon|https://www.youtube.com/watch?v=gpwrVoz-YfE|ThatTickingNoise|False|https://redd.it/eeduio|4|0.8|0|1|0|woahdude
+ee0y68|2019-12-22 05:17:06|Stop motion wool animation.. just why are some people so bloody talented ?|https://v.redd.it/o4uwvlzsc4641|Sagnikk|False|https://redd.it/ee0y68|157|0.94|0|9|0|woahdude
+ee6lhr|2019-12-22 16:13:46|Toothpaste and foam bomb|https://v.redd.it/re7q0aktl7641|jacobThozz17|False|https://redd.it/ee6lhr|18|0.7|0|9|0|woahdude
+edsgdw|2019-12-21 17:14:19|Took the OP 5 days to make!|https://v.redd.it/2hgzebcoyzp31|sKyEStErr|False|https://redd.it/edsgdw|1140|0.97|0|18|0|woahdude
+ee3iu1|2019-12-22 10:30:05|Why is that picture moving???|https://i.redd.it/p2dhihbk93641.jpg|ezraboyle24|False|https://redd.it/ee3iu1|26|0.82|0|6|0|woahdude
+edke2e|2019-12-21 03:08:23|The wind blowing through the grass in my neighbours paddock|https://v.redd.it/4nejmld4gw541|Jaxien99|False|https://redd.it/edke2e|13767|0.98|11|289|0|woahdude
+edyvfn|2019-12-22 02:02:29|Meteor turns night into day|https://v.redd.it/gd4u9qiy72641|chiel-b|False|https://redd.it/edyvfn|101|0.92|0|2|0|woahdude
+eedshf|2019-12-23 01:54:04|Before showing him how the world go, Bida asks the Lemme adjutant guard to watch a movie together.|https://youtu.be/pJrjnStmXPc?list=PLVDrMCkP8cske6jJY2Gj_dyopGUXySXsL|dedeium|False|https://redd.it/eedshf|1|0.67|0|3|0|woahdude
+ee982s|2019-12-22 19:40:28|Claus-trophobic - psychedelic plunderphonics Christmas album|https://dorianwallace.bandcamp.com/album/claus-trophobic|dorianwallacemusic|False|https://redd.it/ee982s|2|0.63|0|1|0|woahdude
+eea8io|2019-12-22 21:00:06|Old but gold amv hope u like it ❤️|https://youtu.be/j05Fs11XM3s|gillbeats|False|https://redd.it/eea8io|1|0.57|0|1|0|woahdude
+eduxyl|2019-12-21 20:32:11|Light festival San Jose, Costa Rica|https://i.redd.it/vwyh4d7zq1641.jpg|thegreatsaiby|False|https://redd.it/eduxyl|65|0.95|0|4|0|woahdude
+edcf1r|2019-12-20 16:30:58|Furong, Hunan, China|https://i.imgur.com/hHr5YIr.gifv|St0pX|False|https://redd.it/edcf1r|23790|0.92|3|360|0|woahdude
+edwuj9|2019-12-21 23:08:13|This house in my parents neighborhood.|https://i.redd.it/jnpfcfr0j2641.jpg|Siray|False|https://redd.it/edwuj9|27|0.87|0|5|0|woahdude
+edvanj|2019-12-21 21:00:54|Trippy UV light drawing|https://v.redd.it/7uwx2iraw1641|IkegamiJim|False|https://redd.it/edvanj|29|0.83|0|4|0|woahdude
+edohcs|2019-12-21 10:34:02|Road snow scraper|https://v.redd.it/k403858bsy541|varnijain|False|https://redd.it/edohcs|110|0.92|0|22|0|woahdude
+edo3s1|2019-12-21 09:43:23|Icosahedron with mirrors inside|https://i.redd.it/nf68vl2fjy541.jpg|Sanderr109|False|https://redd.it/edo3s1|73|0.96|0|4|0|woahdude
+edm156|2019-12-21 05:43:03|Grandfather’s leather coin pouch|https://v.redd.it/8p5sco47sv541|THED0CT0RISIN|False|https://redd.it/edm156|132|0.94|0|5|0|woahdude
+edr3lo|2019-12-21 15:24:15|This folded calendar over a trippy light|https://v.redd.it/37e2rl3480641|dylan4N|False|https://redd.it/edr3lo|14|0.84|0|1|0|woahdude
+ednauz|2019-12-21 08:00:38|let there be led|https://v.redd.it/l4spb18k0y541|hinstsui|False|https://redd.it/ednauz|60|0.97|0|8|0|woahdude
+edi28m|2019-12-20 23:44:21|All the people in the world, every boy and every girl|https://v.redd.it/dvt1po7akv541|BereLaPet|False|https://redd.it/edi28m|120|0.92|0|10|0|woahdude
+edjz85|2019-12-21 02:31:01|Put diffraction glasses over my phone camera. This image is not edited|https://imgur.com/szCNuYB|shroomenheimer|False|https://redd.it/edjz85|63|0.92|0|10|0|woahdude
+edkduc|2019-12-21 03:07:52|Bounce|https://gfycat.com/clumsypotabledotterel|aBoyNamed|False|https://redd.it/edkduc|44|0.94|0|1|0|woahdude
+ed1418|2019-12-19 23:06:00|Snowstorm rolling in over Manhattan|https://media.giphy.com/media/SwOBiomRs9THKfgCkQ/giphy.gif|Totally_a_Banana|False|https://redd.it/ed1418|16323|0.95|0|223|0|woahdude
+edh9q0|2019-12-20 22:39:54|The night sky was unequivocally important to our ancient ancestors, but becomes increasingly exotic as light pollution dominates our urban environments. This is my latest compilation in an ongoing project to share the endless beauty of our galaxy with those that cannot readily experience it.|https://v.redd.it/1nbz9dco8v541|SultanOfSquanch|False|https://redd.it/edh9q0|54|0.96|0|11|0|woahdude
+edo3zb|2019-12-21 09:44:06|The Buddhabrot Fractal in 4K - by Benedikt Bitterli|https://www.youtube.com/watch?v=zxIcydL7wwY|cutelyaware|False|https://redd.it/edo3zb|6|0.79|0|1|0|woahdude
+ed8i13|2019-12-20 10:36:49|🔥 helmcken Falls Canada|https://i.redd.it/ibeicg6k5p541.jpg|chiel-b|False|https://redd.it/ed8i13|395|0.97|0|5|0|woahdude
+edi519|2019-12-20 23:50:44|Sunstone under a microscope.|https://i.redd.it/i3sqcs02xt541.jpg|Lazy_James|False|https://redd.it/edi519|29|0.96|0|2|0|woahdude
+edg126|2019-12-20 21:03:45|WITCHCRAFT I TELL YEE|https://i.imgur.com/au4U1Dl.gifv|robot_m8_21|False|https://redd.it/edg126|46|0.95|0|1|0|woahdude
+edd724|2019-12-20 17:29:39|Sphere of apocalypse|https://i.redd.it/37fl6sgppt541.jpg|mak-nil|False|https://redd.it/edd724|80|0.89|0|3|0|woahdude
+edsmak|2019-12-21 17:27:20|Once she inserts the T.F. coin, stuff start to split in two, and split in two, and so on, in Bida's brain and surroundings, like a pendant reaction.|https://youtu.be/UD9QNIt7rJs?list=PLVDrMCkP8cske6jJY2Gj_dyopGUXySXsL|dedeium|False|https://redd.it/edsmak|0|0.4|0|5|0|woahdude
+ed1qcg|2019-12-19 23:52:39|Cold anodized sorcery.|https://v.redd.it/az3gignzgo541|BufordTeeJustice|False|https://redd.it/ed1qcg|1440|0.95|0|33|0|woahdude
+edccya|2019-12-20 16:26:26|Solid or liquid?|https://gfycat.com/powerfulwellworncoypu|h_erbivore|False|https://redd.it/edccya|58|0.9|0|3|0|woahdude
+edebke|2019-12-20 18:55:46|Jellyfish got me hypnotized moving like they're in slow motion|https://v.redd.it/ru0znf2w4u541|IkegamiJim|False|https://redd.it/edebke|20|1.0|0|2|0|woahdude
+edczy1|2019-12-20 17:14:28|God of civilation portal|https://i.redd.it/0ilugqyzmt541.jpg|mak-nil|False|https://redd.it/edczy1|26|0.88|0|4|0|woahdude
+edhi3c|2019-12-20 22:58:44|One Breath Around The World by Guillaume Néry|https://www.youtube.com/watch?v=OnvQggy3Ezw|ed_amame|False|https://redd.it/edhi3c|7|0.9|0|2|0|woahdude
+ecyn4y|2019-12-19 20:10:34|Diffraction glasses|https://v.redd.it/jpl03dvadn541|highhillcastle|False|https://redd.it/ecyn4y|738|0.96|0|17|0|woahdude
+ecx516|2019-12-19 18:23:13|This inviting snowy rainforest in Japan|https://i.redd.it/35h3dzhcum541.jpg|OpsadaHeroj|False|https://redd.it/ecx516|851|0.98|1|11|0|woahdude
+ed5pe7|2019-12-20 05:31:51|Next level science experiment|https://i.imgur.com/uWWB3Aj.gifv|CockBuster34|False|https://redd.it/ed5pe7|99|0.93|0|13|0|woahdude
+edip3b|2019-12-21 00:38:22|layers of time synced with the beat|https://youtu.be/T-CQSXxz0eA|DrBagels|False|https://redd.it/edip3b|2|1.0|0|1|0|woahdude
+ed7494|2019-12-20 07:54:56|Kind of backfired|https://limitlane.com/wp-content/uploads/2019/12/580395.gif|martinkolar02|False|https://redd.it/ed7494|44|0.84|0|3|0|woahdude
+ectz59|2019-12-19 14:33:18|Crunching into frozen flooded grass|https://v.redd.it/mpueis7t0k541|Blep48|False|https://redd.it/ectz59|757|0.96|0|14|0|woahdude
+eckl6i|2019-12-18 23:35:48|A room behind an electrical outlet|https://v.redd.it/50ruh0z59h541|anttiom|False|https://redd.it/eckl6i|8089|0.95|0|139|0|woahdude
+ed4ltb|2019-12-20 03:49:36|Fractal Cathedral|https://i.redd.it/djfnps28np541.jpg|QuietCider|False|https://redd.it/ed4ltb|16|0.86|0|5|0|woahdude
+ed18u5|2019-12-19 23:16:05|Mylar or Paint..|https://i.redd.it/md6mezelao541.jpg|boriswong|False|https://redd.it/ed18u5|19|0.9|0|1|0|woahdude
+ecd8k2|2019-12-18 14:20:50|Long exposure shot of burning incense stick|https://i.redd.it/gf6gxs27ie541.jpg|krnrd|False|https://redd.it/ecd8k2|30195|0.95|1|176|0|woahdude
+ectgvg|2019-12-19 13:52:40|A drawing of a business man|https://i.redd.it/7jwkxe43il541.jpg|Tandizojere|False|https://redd.it/ectgvg|58|0.85|0|4|0|woahdude
+ecmt9q|2019-12-19 02:37:25|Acrylic painting I just finished up!|https://i.redd.it/44p7zltl5i541.jpg|cyangarma|False|https://redd.it/ecmt9q|354|0.97|0|13|0|woahdude
+ecx5gh|2019-12-19 18:24:10|Looks like a galaxy!|https://i.redd.it/4sromzdy2l541.jpg|RedCloverPro|False|https://redd.it/ecx5gh|12|0.82|0|2|0|woahdude
+ecu1uk|2019-12-19 14:39:06|ATHÖKÄÖ [Art]|https://i.redd.it/eqe55ylcql541.jpg|vic8760|False|https://redd.it/ecu1uk|21|0.85|0|2|0|woahdude
+ecwb5f|2019-12-19 17:23:53|This satellite image|https://i.redd.it/fegqscjrkk541.jpg|ElmarkusMC|False|https://redd.it/ecwb5f|12|0.81|0|1|0|woahdude
+ed1k8m|2019-12-19 23:39:43|The Midnight - Lost Boy (OC Music Video)|https://vimeo.com/380299993|coejoburn|False|https://redd.it/ed1k8m|3|0.72|0|2|0|woahdude
+ecbpuq|2019-12-18 12:03:09|Data wave|https://i.imgur.com/wPRst7G.gifv|St0pX|False|https://redd.it/ecbpuq|2143|0.97|0|30|0|woahdude
+eczu6c|2019-12-19 21:35:31|Trippy performance from The Brave Little Toaster|https://www.youtube.com/watch?v=z5wT1gS5RgE&lc=z23cfzninsmjuvvsjacdp43at3jtwkc42nqyv4p2djtw03c010c|fluffnook|False|https://redd.it/eczu6c|3|0.75|0|2|0|woahdude
+eca3ee|2019-12-18 08:51:05|How can someone visualize this with all the different colors before painting?!|https://v.redd.it/sww2obuavc541|Slapdaddy90|False|https://redd.it/eca3ee|2397|0.95|0|52|0|woahdude
+eclkth|2019-12-19 00:56:01|my latest work Phantasia|https://i.redd.it/c349e1mgnh541.jpg|thelandscape|False|https://redd.it/eclkth|93|0.89|0|24|0|woahdude
+ecijzh|2019-12-18 21:00:35|Infinite golden section|https://i.redd.it/b6i5b8iihg541.gif|Virtu-92|False|https://redd.it/ecijzh|100|0.97|0|5|0|woahdude
+ed01c0|2019-12-19 21:48:47|A look at whether abstract principles such as virtue have any value in the physical world|https://youtu.be/FHELq_vg9cg|NancyNice1|False|https://redd.it/ed01c0|1|0.6|0|1|0|woahdude
+ecogi0|2019-12-19 05:00:10|A long exposure shot that I edited to hell in Lightroom|https://i.redd.it/6926mugaui541.jpg|lumpiestspoon3|False|https://redd.it/ecogi0|22|0.79|0|4|0|woahdude
+ec2qcv|2019-12-17 21:58:15|Invisible...|https://i.redd.it/3aryou5wm9541.jpg|mak-nil|False|https://redd.it/ec2qcv|12781|0.86|0|146|0|woahdude
+eclbv0|2019-12-19 00:36:12|Gemstones, waves, and 8-fold symmetry. Hope you all enjoy this animation, spent forever making it.|https://v.redd.it/c1bexvnnjh541|Nosfero32|False|https://redd.it/eclbv0|34|0.93|0|4|0|woahdude
+ecrqal|2019-12-19 11:02:49|160 Year Old Cinema Ancestor Working Again|https://youtu.be/jVUxcmXS1Qs|Mat0fr|False|https://redd.it/ecrqal|3|0.78|0|1|0|woahdude
+ecduhw|2019-12-18 15:11:35|Artwork that messes with people's reality|https://gfycat.com/spectacularlightheartedgreendarnerdragonfly|PrinceBatCat|False|https://redd.it/ecduhw|141|0.96|0|2|0|woahdude
+ecmhvu|2019-12-19 02:11:30|"""Open your eyes""...by Martin Urias"|https://i.redd.it/lk3ighppg4541.jpg|SDreamer88|False|https://redd.it/ecmhvu|18|0.95|0|1|0|woahdude
+ecktu2|2019-12-18 23:55:06|Colorful Wolf|https://v.redd.it/q5a6e1elch541|The_Tree_Beard|False|https://redd.it/ecktu2|23|0.97|0|2|0|woahdude
+ecf2f3|2019-12-18 16:45:32|Laser printing|https://gfycat.com/verifiableheartfeltbarnacle|KevlarYarmulke|False|https://redd.it/ecf2f3|93|0.94|0|16|0|woahdude
+ecnpf4|2019-12-19 03:52:34|If the moon were a pixel|https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html|yevsushgeu|False|https://redd.it/ecnpf4|8|1.0|0|2|0|woahdude
+ecfaqk|2019-12-18 17:02:48|SÖSÇAÅ [Art]|https://i.redd.it/ckj5fft2bf541.jpg|vic8760|False|https://redd.it/ecfaqk|44|0.96|0|6|0|woahdude
+ecd5hn|2019-12-18 14:13:40|Heres to the days soon upon us|https://v.redd.it/94f7k43rge541|XDFreakLP|False|https://redd.it/ecd5hn|54|0.92|0|2|0|woahdude
+ecfz57|2019-12-18 17:52:35|Immortalizing peoples pets with psychedelic pet portraits|https://i.redd.it/62juf2lyjf541.jpg|Sketchy_eddie|False|https://redd.it/ecfz57|25|0.92|0|10|0|woahdude
+ebxkrx|2019-12-17 15:56:00|"I recently colored this drawing of mine and I thought you might like it. It's called ""Over-vision""."|https://i.redd.it/j4mvq6v7u7541.jpg|dec-art|False|https://redd.it/ebxkrx|2174|0.98|4|82|0|woahdude
+ecdcuc|2019-12-18 14:30:54|A drawing of a scorpion|https://i.redd.it/aaxvplqzje541.jpg|Tandizojere|False|https://redd.it/ecdcuc|28|1.0|0|4|0|woahdude
+ecfozx|2019-12-18 17:32:19|no signal|https://i.redd.it/a2djuhzcgf541.jpg|uhhhhwhatt|False|https://redd.it/ecfozx|14|0.75|0|1|0|woahdude
+eckqsa|2019-12-18 23:48:28|Colorwolf|https://v.redd.it/syysbvj9bh541|The_Tree_Beard|False|https://redd.it/eckqsa|3|0.81|0|2|0|woahdude
+ec9ml7|2019-12-18 07:53:07|Flying in to Phoenix the day before thanksgiving.|https://v.redd.it/qq17blc9ja541|GanjaGroupie|False|https://redd.it/ec9ml7|51|0.94|0|3|0|woahdude
+ec7377|2019-12-18 03:35:53|Disappearing glass|https://v.redd.it/67kn5npeb1541|jdomas2323|False|https://redd.it/ec7377|95|0.98|0|8|0|woahdude
+ecbo5i|2019-12-18 11:58:15|High heels art.|https://gfycat.com/enviouscourageouslcont|longsanks|False|https://redd.it/ecbo5i|16|0.9|0|3|0|woahdude
+ecbg47|2019-12-18 11:33:58|NUÄÄTIVÄÖ [A.I Art]|https://i.redd.it/qqlu2e6eod541.jpg|vic8760|False|https://redd.it/ecbg47|10|0.74|0|1|0|woahdude
+ec6ulj|2019-12-18 03:15:29|Made this.|https://i.redd.it/olwhvjkh7b541.png|filtap|False|https://redd.it/ec6ulj|35|0.91|0|12|0|woahdude
+ec3xxz|2019-12-17 23:25:34|Paint and water|https://v.redd.it/aloajw241a541|patri0t_gamer|False|https://redd.it/ec3xxz|65|0.92|0|2|0|woahdude
+ec7wji|2019-12-18 04:50:01|This light bulb|https://i.redd.it/qzads6tcob541.jpg|Whatapeasantsurprise|False|https://redd.it/ec7wji|19|1.0|0|3|0|woahdude
+ecc12y|2019-12-18 12:33:42|[EPILEPSY] Trippy as hell unknown music video - Damning Swan|https://vimeo.com/380033299|xfsmj27|False|https://redd.it/ecc12y|2|0.8|0|1|0|woahdude
+ebir2g|2019-12-16 18:11:11|Guy blowing air bubbles under layers of ice|https://gfycat.com/obesedeargraywolf|PameVargas|False|https://redd.it/ebir2g|10918|0.94|0|198|0|woahdude
+ec4dmf|2019-12-17 23:59:02|The way this mushroom cloud forms (repost for quality)|https://v.redd.it/fr7klhof8a541|HellsNoot|False|https://redd.it/ec4dmf|25|0.91|0|1|0|woahdude
+ec1xgr|2019-12-17 21:02:29|I can hear goodbye, Wataboku, Digital, 2018|https://i.redd.it/12ovi70gy7541.jpg|rWoahDude|False|https://redd.it/ec1xgr|36|0.9|0|1|0|woahdude
+ebwwve|2019-12-17 15:05:14|Arm peel...|https://i.redd.it/ktvfyhj7l7541.jpg|mak-nil|False|https://redd.it/ebwwve|104|0.78|0|19|0|woahdude
+ec0rzw|2019-12-17 19:42:47|This 8 hour picture I took of the Cave Nebula|https://i.imgur.com/2Sfgfqq.jpg|nateman_doo|False|https://redd.it/ec0rzw|36|0.87|0|2|0|woahdude
+ebv96o|2019-12-17 12:33:14|Mandelbrot ride.|https://v.redd.it/yhgxaw9myf441|lol_and_behold|False|https://redd.it/ebv96o|83|0.93|0|11|0|woahdude
+ebzs02|2019-12-17 18:33:58|[OC] [4291x2080] Plastic fluid? Two drops of Red dyed milk into water frozen at 1/40,000th of a second|https://i.redd.it/fbamty2gm8541.jpg|-Dastardly-|False|https://redd.it/ebzs02|22|0.95|0|1|0|woahdude
+ec0lga|2019-12-17 19:30:14|A long way from home.|https://i.redd.it/f8d7vvifw8541.jpg|Hawkkn|False|https://redd.it/ec0lga|14|0.94|0|1|0|woahdude
+ec2k53|2019-12-17 21:45:43|transcending realms!|https://i.redd.it/0743urgoz8541.jpg|worldwrappedinworlds|False|https://redd.it/ec2k53|7|0.64|0|5|0|woahdude
+ebs1jt|2019-12-17 06:21:24|u/1ofZuulsMinions made a glow in the dark galaxy in their resin kitchen floor|https://i.redd.it/w7db3b2qz4541.jpg|scottiebelles|False|https://redd.it/ebs1jt|95|0.9|0|6|0|woahdude
+ec2qzb|2019-12-17 21:59:35|[EPILEPSY WARNING] creepy trippy cartoon on techno music|https://www.youtube.com/watch?v=JPkniZvLV0k&fbclid=IwAR0p442x7zGyBvt4V56WeyQliVGB0guS5JeHCWEmdtNjkwGlrQS--qjOfcU|sdfox|False|https://redd.it/ec2qzb|2|0.64|0|3|0|woahdude
+eb8oca|2019-12-16 02:20:36|Norway is a beautiful place|https://i.imgur.com/tajDLwF.gifv|St0pX|False|https://redd.it/eb8oca|14187|0.97|0|181|0|woahdude
+ebpvvb|2019-12-17 03:05:43|FPV drone approaching abandoned observatory|https://gfycat.com/darlingcolorfulamericancrocodile|KevlarYarmulke|False|https://redd.it/ebpvvb|45|0.88|0|7|0|woahdude
+ebrdiq|2019-12-17 05:16:16|My friend did this for her brother as a gift and I think its dope|https://i.redd.it/tfi13or4o4541.jpg|dankvader159|False|https://redd.it/ebrdiq|23|0.73|0|1|0|woahdude
+ebvg1u|2019-12-17 12:53:26|Every time you listen to this video, it will sound like it’s going up in pitch.|https://v.redd.it/hwipecik15541|zyvsagg|False|https://redd.it/ebvg1u|5|0.72|0|3|0|woahdude
+ebg6dl|2019-12-16 15:00:00|Panoramic, but up and down|https://i.redd.it/70toysrcf0541.jpg|thisisecholalia|False|https://redd.it/ebg6dl|257|0.95|0|11|0|woahdude
+ebq976|2019-12-17 03:36:02|An AI trying to match a human face to Donald Duck|https://v.redd.it/rci2rzfd24541|piponwa|False|https://redd.it/ebq976|17|0.87|0|4|0|woahdude
+ebjr5b|2019-12-16 19:23:34|this incense burner|https://i.redd.it/bj7l04s9q1541.gif|veedublin|False|https://redd.it/ebjr5b|68|0.89|0|7|0|woahdude
+ebtbey|2019-12-17 08:47:37|Sunrise on an icy moon|https://www.youtube.com/watch?v=ALqDP83n8Vk|KyleBernard|False|https://redd.it/ebtbey|2|0.75|0|1|0|woahdude
+eaz95n|2019-12-15 14:01:23|This overpass in Japan looks extremely slope from a certain angle|https://i.imgur.com/JyUXZNo.gifv|St0pX|False|https://redd.it/eaz95n|18005|0.95|0|450|0|woahdude
+ebcjoh|2019-12-16 08:36:12|An octopus dreaming|https://v.redd.it/h1uw7olmpw441|limelylemon|False|https://redd.it/ebcjoh|159|0.99|0|4|0|woahdude

@@ -1,0 +1,1126 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+dszmzo|2019-11-07 15:54:08|r/Minecraft Community News Hub|"#This is the r/Minecraft Community News Hub for all those links you can't find
+---
+
+##Current News
+
+* PS4 Bedrock Edition - announcement and discussion: https://www.reddit.com/r/Minecraft/comments/e8b18s/minecraft_is_better_together_bedrock_version_now/
+
+* PS4 Bedrock Edition - Official Help and FAQ: https://help.minecraft.net/hc/en-us/articles/360037725571-Minecraft-for-PlayStation-TM-4-FAQ
+
+* Latest Minecraft: Java Edition snapshot: [1.15.1 pre-release 1](https://www.reddit.com/r/Minecraft/comments/e9orpv/minecraft_java_edition_1151_prerelease_1_has_now/) [^\(?\)](#hoverbar 'Snapshots/pre-releases are for testing only!') | [How do I play with a snapshot?](https://minecraft.gamepedia.com/Tutorials/How_to_install_a_snapshot)
+
+* Latest Minecraft: Bedrock Edition beta: [1.14.2.50](https://feedback.minecraft.net/hc/en-us/articles/360037681052-Minecraft-Beta-1-14-2-50-Xbox-One-Windows-10-Android-) [^\(?\)](#hoverbar 'Beta/experimental releases are for testing only!') | [How do I play with a beta?](https://www.minecraft.net/en-us/article/how-get-minecraft-betas)
+
+* Current Java Edition live release: [Java 1.15.1](https://redd.it/ebvqaa) | Minecraft Wiki [1.15.1](https://minecraft.gamepedia.com/Java_Edition_1.15.1), [1.15](https://minecraft.gamepedia.com/Java_Edition_1.15), [1.14](https://minecraft.gamepedia.com/Java_Edition_1.14.4), [1.14.3](https://minecraft.gamepedia.com/Java_Edition_1.14.3), [1.14.2](https://minecraft.gamepedia.com/Java_Edition_1.14.2), [1.14.1](https://minecraft.gamepedia.com/Java_Edition_1.14.1), [1.14](https://minecraft.gamepedia.com/Java_Edition_1.14)
+
+* OptiFine development status: r/Optifine/comments/d8nptg/optifine_115_progress_report
+
+* Current Bedrock Edition live release: [Bedrock 1.14.1](https://feedback.minecraft.net/hc/en-us/articles/360037581632-Minecraft-1-14-1-Bedrock-)
+
+* Minecraft: Java Edition ""Combat Test"" snapshot: [Combat Test snapshot \#4)](https://www.reddit.com/r/Minecraft/comments/e3gt34/since_doing_something_this_the_last_minute_on_a/) | a Java Edition 1.14.3 snapshot
+
+* Minecraft Earth - subreddits: /r/Minecraft_Earth /r/MinecraftEarthGame
+
+##Subreddit Rules (read these before posting)
+
+* /r/Minecraft/wiki/rules | [No Memes](/r/Minecraft/w/rules#wiki_specific) | [No Server/Realm/Console Recruitment](/r/Minecraft/w/rules#wiki_specific) | [No Tired Submissions](/r/Minecraft/w/rules#wiki_commonly_posted_and_tired_submissions) | [No Memes](/r/Minecraft/w/rules#wiki_specific) | [Full Rules](https://www.reddit.com/r/Minecraft/wiki/rules) | [Community Guidelines](/r/Minecraft/w/guidelines)
+
+##Finding Players or Servers
+
+* [No server/Realm/console advertising or recruitment here!](/r/Minecraft/w/rules#wiki_specific) Use these links to find friends:
+
+ * Advertising a server - /r/mcservers - read their rules first!
+
+ * Finding a server - /r/mcservers - read their rules first!
+
+ * Finding players for servers, Realms, consoles - /r/MinecraftBuddies
+
+##Mojang Support and Help
+
+* Account lost or stolen? [Contact Mojang Support](https://help.minecraft.net/hc/en-us/requests/new) | Don't post about it here, we cannot help you
+
+* *If you can't login, try the community technical support channel first (see below) - they can help solve your problem faster than a Mojang Support ticket*
+
+* Minecraft Help Centre [Accounts|Buying|Payments|Installation|Troubleshooting](https://help.minecraft.net/hc/en-us)
+
+* [Bugs](https://bugs.mojang.com/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=all) | [Java](https://bugs.mojang.com/projects/MC/issues/) | [Bedrock](https://bugs.mojang.com/projects/MCPE/issues/) | [Legacy Console](https://bugs.mojang.com/projects/MCCE/issues)
+
+* [Minecraft: Bedrock Edition - feedback & suggestions](https://feedback.minecraft.net/hc/en-us)
+
+* Minecraft Official Discord - https://discord.gg/minecraft
+
+* Minecraft Earth Official Discord - https://discord.gg/minecraftearth
+
+##Mojang-endorsed community technical support channel
+
+* Can't login? Problems with downloading/installing/running Minecraft: Java Edition? - [Help channel](https://minecraftirc.net/minecrafthelp/landing/) | [About \#minecrafthelp](https://minecraftirc.net/minecrafthelp/)
+
+##Minecraft Wiki Links
+
+* [The Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki) - a huge resource with everything you ever wanted to know about the game
+
+* [I haven't played since X, what's new?](http://minecraft.gamepedia.com/Version_history) - this is where to get yourself up-to-date
+
+---
+Did we miss something important or get something wrong? [Let us know](https://www.reddit.com/message/compose?to=%2Fr%2FMinecraft&subject=Community%20Hub%20Suggestion)"|mynameisperl|False|https://redd.it/dszmzo|1099|0.99|0|4|1|minecraft
+ekf0g1|2020-01-05 16:18:13|Minecraft Bi-Weekly Build Challenge #88: Steampunk Mansion|"#**[LAST WEEK'S THEME: ICE CAVE](https://www.reddit.com/r/Minecraft/comments/ee4wsb/minecraft_biweekly_build_challenge/)**
+
+
+#**Gold**
+
+[NephilimYT](https://www.youtube.com/watch?v=aO6kEHEPgKk&feature=youtu.be)
+
+Really liked this build and how atmospheric it was. The choice to show it off at night was a very good one. It allowed all of those light sources you added to come into play, by lighting up the build. I also really like what you did in the cave, really cool design and build. My only very very small gripe is that it felt a little too hollow and personally I didn't like that. So I feel the shape inside could have been maybe a little more chaotic or natural, but that's really only my tastes. 
+
+Great build!
+
+#**Silver**
+
+[yoctosecond](https://imgur.com/a/u9gwL0i)
+
+Really liked the atmosphere around this build too. The darkness with the lights really made more special than it would have been if it was just houses on a cliff. I also really liked your block choice. The terracotta really worked well with the colours of the ice, at least in my eyes. My only complaint was the actual pit, or cavern, where there wasn't really anything else. I do realize it was a realistic shape, I think my problem came from being able to see that far. Maybe some glass and some black concrete towards the bottom, to make it seem more like a pit would have made it work better and seem a little more real.
+
+Great build!
+
+**Bronze**
+
+[RandomMuze](https://imgur.com/gallery/T7X7FkV)
+
+Maybe it's because the other two relied a lot on darkness and lighting but I liked this build for how cheerful it was. I liked how much it was built out of wood and also the campfire scene. I also liked how much it actually felt like a cave with the shape of it. I didn't really like the path leading to it because I felt it needed to be a little wider with the amount of detail that went into it. The railings on it seemed to pop out more than the path itself. 
+
+Good build!
+
+
+**Honourable mentions**
+
+[BlitzFreeman](https://imgur.com/a/6HUuaCU)
+
+[aeiouaeious](https://imgur.com/a/BRgOLOn)
+
+[Magical_G1123](https://imgur.com/a/qIb0Itf)
+
+#**Introduction**
+
+For some reason I've been really into steampunk stuff lately and I guess I need some inspiration because that's what kept coming back to me for a theme this week! So, let's get building a large mansion in a steampunk style!
+
+**New Textures**
+
+Since we have an official release of the new textures, they are now allowed (along with the old ones). However, if you use the new textures, please specify. I wouldn't want to think you're using a texture pack and disqualify you. I'm not as used to the textures, so I may not recognize them right away. 
+
+**Inspiration**
+
+[Someone's Steampunk mansion-Couldn't find source](https://i.pinimg.com/originals/61/bc/b9/61bcb99e9e04fa86a1ad1fbd575578fd.jpg)
+
+#**Challenge**
+
+**Steampunk mansion**
+
+Build a steampunk mansion. Since you usually build up in steampunk, the mansion must have at least three floors in it. Those are the only requirements.
+
+____________
+
+#**Rules**
+
+1. **Submitting an entry** To submit an entry, you must comment on this post and format your comment like this:
+
+>**Title of submission**
+
+>**Link to submission photos or video (preferably youtube or Imgur)**
+
+>**Comments**
+
+2\. **Vanilla only** No mods that add new blocks or items are allowed. **No resource packs are allowed**. Any minecraft version is allowed and you may build with custom terrain, creative mode, world edit or etc as long as it doesn't add any new blocks to the game. **Shader pictures can be added in a SEPERATE album as bonus pictures.** None of those pictures will be accounted for when we judge the entries. Only vanilla screenshots.
+
+3\. **Any version of minecraft** i.e. PS3, Xbox 360, Pocket Edition.
+
+4\. **No preexisting builds** We're going with the honour system here but if anything had already been built before the start of the contest, don't submit it.
+
+5\. **Build teams are allowed** There may be more that one person building for a challenge but only one person may submit their entry with their account 
+
+6\. **New textures are allowed** The new versions of Jappa's textures are allowed to be used along with old legacy textures.
+
+____________
+
+#**Points and leaderboards**
+
+[Link to sheet. The leaderboards are on the 2nd page](https://docs.google.com/spreadsheets/d/1jPvIRHMTokS0l4pxYjPVfRyKiigkV1yQYidO4YvhiGk/edit?usp=sharing)
+
+-----------
+
+**For points and judging:**
+
+There is only 3 winners each week. Each participant will get 2 points for submitting their entry. There are honourable mentions but they do not get any extra points. 
+
+Anybody that places Bronze with gets **4 points** 
+
+Anybody that places Silver gets **6 points** 
+
+Anybody that places Gold gets **8 points** 
+
+_____________
+
+#**Schedule (AST)**
+
+------
+
+**Sunday, January 5th 2019:** Challenge begins! 
+
+**Saturday morning (around 11:00 AM AST), January 18th 2019:** Contest is closed. No other submissions will be allowed.
+
+**Sunday morning, January 19th 2019** A new challenge and winners are announced in that post"|kidmania01|False|https://redd.it/ekf0g1|48|0.95|0|17|1|minecraft
+ekz63o|2020-01-06 19:47:32|I created a Texture Pack where blocks are made out of blocks|https://v.redd.it/hinn58bgl7941|leckaschmecka|False|https://redd.it/ekz63o|20381|0.97|3|483|0|minecraft
+eku4i4|2020-01-06 13:26:23|I’m quite into modeling right now since you guys liked the queen bee here’s baby yoda for ya|https://i.redd.it/f3g533xst5941.jpg|MKhas-infinte-pizza|False|https://redd.it/eku4i4|19684|0.89|1|211|0|minecraft
+ekyrog|2020-01-06 19:19:45|honestly screw sand..|https://v.redd.it/wf2na3lmk7941|TheNamesEpic|False|https://redd.it/ekyrog|1263|0.99|0|49|0|minecraft
+ektyoe|2020-01-06 13:11:00|"Portal Gun based on the TV show ""Rick and Morty"""|https://v.redd.it/8h5u5i5rq5941|Anoyn82|False|https://redd.it/ektyoe|7324|0.97|1|149|0|minecraft
+ekwzjp|2020-01-06 17:12:07|Well that’s a new cobble generator?|https://i.redd.it/6wtpt7w1y6941.jpg|SawyerVH|False|https://redd.it/ekwzjp|1365|0.99|0|42|0|minecraft
+ekry6k|2020-01-06 09:45:45|trippy thing I made|https://i.redd.it/j234subdq4941.png|SirMrCosmic|False|https://redd.it/ekry6k|21349|0.95|1|323|0|minecraft
+ektmd5|2020-01-06 12:38:31|Progress|https://i.redd.it/ysxgobf7l5941.png|realkappie2|False|https://redd.it/ektmd5|6140|0.98|0|71|0|minecraft
+ekw907|2020-01-06 16:19:42|World least exciting bungee jump in Minecraft... enjoy...|https://v.redd.it/lu2bn6sdo6941|faketwitchster|False|https://redd.it/ekw907|1555|0.99|1|32|0|minecraft
+eksny8|2020-01-06 11:03:13|Unlike in Minecraft, we only have one world and its vital we change our ways to save the Earth. In the comments, I've linked some charities that aim at tackling climate change and saving the environment. Let's show the world how great this community is!|https://i.redd.it/xqizh1b445941.png|PossumSprings|False|https://redd.it/eksny8|7302|0.92|4|254|0|minecraft
+ekuem3|2020-01-06 13:52:01|What i do when i get bored|https://i.redd.it/kvxh2k9dy5941.jpg|-Amc120-|False|https://redd.it/ekuem3|1948|0.94|0|46|0|minecraft
+eks1t5|2020-01-06 09:56:52|I think this turned out pretty good, what do you think?|https://i.redd.it/pqxy8o9as4941.png|JustFapped69Times|False|https://redd.it/eks1t5|8127|0.99|2|149|0|minecraft
+eku5uu|2020-01-06 13:30:05|Normal Skeletons but they change to swords when close to the player|https://v.redd.it/jlmneomlt5941|pyzn1|False|https://redd.it/eku5uu|1894|0.99|0|55|0|minecraft
+eksp6h|2020-01-06 11:06:44|"A short cinematic of our ""City of Corona"" plot build."|https://v.redd.it/lx9cskhx35941|FallStudiosMC|False|https://redd.it/eksp6h|3029|0.99|0|37|0|minecraft
+ekuf65|2020-01-06 13:53:22|I made the totem of undying look like Jeb!|https://i.redd.it/rfnmk23fy5941.png|B_33K|False|https://redd.it/ekuf65|1188|0.99|0|48|0|minecraft
+ekumgm|2020-01-06 14:11:26|I call this the Trip Room|https://v.redd.it/uee6vlpn16941|vvownido|False|https://redd.it/ekumgm|649|0.97|0|23|0|minecraft
+ekswot|2020-01-06 11:27:56|I built the Citadel from Half-Life 2|https://i.redd.it/7kh6n0hc85941.png|choosingman|False|https://redd.it/ekswot|900|0.99|0|27|0|minecraft
+ekukdh|2020-01-06 14:06:21|My randomised undead resource pack now has over 1000 unique textures hell yeah|https://i.redd.it/1nbcms3s06941.jpg|Randomaspland|False|https://redd.it/ekukdh|486|0.99|0|32|0|minecraft
+ektx7t|2020-01-06 13:07:08|I made a cave dungeon|https://i.redd.it/61xgzedaq5941.png|EleCre3p|False|https://redd.it/ektx7t|537|1.0|0|14|0|minecraft
+ekzho5|2020-01-06 20:08:48|What about a Reddit Community Texture Pack? Send feedback in the comments.|https://i.redd.it/4yfvkxpft7941.png|Kezk_|False|https://redd.it/ekzho5|140|0.97|0|35|0|minecraft
+eku9we|2020-01-06 13:40:34|Endermen are my favorite mob,,, they're so cute :')|https://i.redd.it/4xl5vc2cw5941.png|Skye-DragonGirl|False|https://redd.it/eku9we|459|0.98|0|34|0|minecraft
+ekry06|2020-01-06 09:45:11|I’m playing a survival world with my friends where we do stuff “realistically” (only use tools to break blocks, make a blacksmith before you can smelt iron, etc) and this is the first build I’ve made on the world. Next I’m gonna make an armory to store and be able to use proper weapons and armor.|https://i.redd.it/6pe27w4cq4941.jpg|tokz1|False|https://redd.it/ekry06|898|0.99|0|34|0|minecraft
+el0hky|2020-01-06 21:17:40|A month apart, times flies when you're....|https://i.redd.it/4dceutsp58941.jpg|ToCoSo|False|https://redd.it/el0hky|104|0.99|0|11|0|minecraft
+ekw96m|2020-01-06 16:20:06|How the world gen places dirt|https://gfycat.com/DistantScaryEskimodog|kindanon|False|https://redd.it/ekw96m|244|0.96|0|5|0|minecraft
+el0kn7|2020-01-06 21:23:25|Spirals of Ice and Fire|https://i.redd.it/slh44dww68941.jpg|HecatePlays|False|https://redd.it/el0kn7|88|0.96|0|8|0|minecraft
+ekxgz5|2020-01-06 17:47:13|Quartz Ore and Netherrack Can be Used as Meat for Decoration|https://i.redd.it/akfyw9n437941.png|PeidoMofado3|False|https://redd.it/ekxgz5|159|0.96|0|11|0|minecraft
+ekz7fz|2020-01-06 19:49:55|4x6 Diagonal piston door on my survival server|https://v.redd.it/nw9zc8app7941|BobbyDaemon|False|https://redd.it/ekz7fz|110|1.0|0|7|0|minecraft
+el1a0d|2020-01-06 22:11:52|My friend and I made a giant green screen. This is some professional-level editing.|https://v.redd.it/ycrbds10f8941|TheFinalUltimation|False|https://redd.it/el1a0d|67|0.94|0|5|0|minecraft
+el02ik|2020-01-06 20:48:53|a small castle and a village i made|https://i.redd.it/fkq05a8b08941.png|MrMuffle1|False|https://redd.it/el02ik|88|0.98|0|2|0|minecraft
+ekm3bs|2020-01-06 00:52:16|Through Two Worlds|https://i.redd.it/vxmpm0b432941.png|Chillahbyte|False|https://redd.it/ekm3bs|8622|0.99|4|83|0|minecraft
+ekz9hr|2020-01-06 19:53:35|I was playing on a server and i fell 100 blocks on a hay block with feather falling 4 and took 2 hearts and then i went on creative and tested some things and i tried this|https://v.redd.it/vy1ni15nq7941|Warizard22|False|https://redd.it/ekz9hr|89|0.99|0|11|0|minecraft
+ekmgzz|2020-01-06 01:21:20|Two days later, I finished my Stargate!|https://v.redd.it/8g0cu17982941|15_Redstones|False|https://redd.it/ekmgzz|4335|0.99|2|104|0|minecraft
+ekueu3|2020-01-06 13:52:28|My wizard library|https://v.redd.it/cdyagwucy5941|Jacksensparrow|False|https://redd.it/ekueu3|234|1.0|0|16|0|minecraft
+ekzf5e|2020-01-06 20:04:07|You can add some detail to a fence using a leash|https://i.redd.it/q66ff3crs7941.jpg|RSlashCats|False|https://redd.it/ekzf5e|70|0.98|0|5|0|minecraft
+ekt9hy|2020-01-06 12:04:20|I made a trident inspired by another redditor|https://i.redd.it/8995vcs5f5941.jpg|sushipenguinmaster|False|https://redd.it/ekt9hy|312|0.98|0|16|0|minecraft
+ekszmw|2020-01-06 11:36:40|Working On The Reddit Texture Pack.|https://i.redd.it/vl1kgiq7a5941.jpg|Ecquatic|False|https://redd.it/ekszmw|331|0.92|0|14|0|minecraft
+ekxvas|2020-01-06 18:15:43|I made a flying bee in Minecraft|https://v.redd.it/0q6d081c97941|Jobsen05|False|https://redd.it/ekxvas|94|0.96|0|12|0|minecraft
+ekwz1q|2020-01-06 17:11:06|Map of my work-in-progress, J-shaped mansion without a roof.|https://i.redd.it/br3fjcrjx6941.png|Prooie|False|https://redd.it/ekwz1q|109|0.99|0|6|0|minecraft
+ekwaeg|2020-01-06 16:22:27|Kylo Rens shuttle on my survival world. I broke 2 diamond shovels for this|https://i.redd.it/mfudtx3uo6941.png|WoopaArt|False|https://redd.it/ekwaeg|121|0.97|0|2|0|minecraft
+ekv4mv|2020-01-06 14:53:53|Some abandoned temple scenery from my server|https://i.redd.it/ijqtynue96941.jpg|alexthetrain0|False|https://redd.it/ekv4mv|154|0.99|0|3|0|minecraft
+eky1md|2020-01-06 18:28:11|Japanese Bar (Survival)|https://i.redd.it/ndhuuubnb7941.jpg|Joejwell|False|https://redd.it/eky1md|82|0.99|0|8|0|minecraft
+el1hn5|2020-01-06 22:26:38|Desert Temple|https://i.redd.it/blearx0dh8941.png|Kezzar_Gassi|False|https://redd.it/el1hn5|38|0.96|0|5|0|minecraft
+eklt5e|2020-01-06 00:31:26|Minercraft but its Australia.|https://v.redd.it/3143h7ogz1941|PassingUser|False|https://redd.it/eklt5e|3283|0.96|0|128|0|minecraft
+ekywwf|2020-01-06 19:29:52|My castle base|https://i.redd.it/k1q5emhnm7941.jpg|SomeBoredBoi|False|https://redd.it/ekywwf|63|0.97|0|5|0|minecraft
+ekjjly|2020-01-05 21:47:40|TIL you can fit 2 people in a minecart if you put a boat in it.|https://i.redd.it/grlmo4a761941.png|Dalekek|False|https://redd.it/ekjjly|7330|0.99|1|111|0|minecraft
+ekkg60|2020-01-05 22:52:45|A quick ride|https://gfycat.com/vapidagitatedeskimodog|communistsquared|False|https://redd.it/ekkg60|4287|0.99|1|117|0|minecraft
+ektjid|2020-01-06 12:30:45|Main Street, the mountain town of Rathdruss.|https://i.redd.it/gmmh5ddsj5941.png|Druss_Rua|False|https://redd.it/ektjid|179|1.0|0|13|0|minecraft
+ekynh8|2020-01-06 19:11:24|Help! My kids minecraft world has loaded in small boxy chunks! Can this be undone?|https://imgur.com/xkXYBZt|abandnedsquirrel|False|https://redd.it/ekynh8|51|0.94|0|18|0|minecraft
+ekyj3t|2020-01-06 19:02:40|Cat design I first built about 4 years ago.|https://i.redd.it/34vyzi4sh7941.jpg|BramSlock2610|False|https://redd.it/ekyj3t|51|0.94|0|12|0|minecraft
+ekrioc|2020-01-06 08:57:54|Was painting with my family and made this|https://i.redd.it/zdwstu9wh4941.jpg|BananaOnABike|False|https://redd.it/ekrioc|317|0.97|0|4|0|minecraft
+ekl0dk|2020-01-05 23:32:30|[Fanart] Animated Pixelart Shulker|https://i.redd.it/m4lf5mzsn1941.gif|Cocololzzz|False|https://redd.it/ekl0dk|3025|0.99|0|35|0|minecraft
+eko2a1|2020-01-06 03:26:19|First try at world edit, thoughts?|https://i.redd.it/k36owvjmu2941.png|BeatMyMeatloaf|False|https://redd.it/eko2a1|906|0.98|0|27|0|minecraft
+el1h4p|2020-01-06 22:25:32|Lil' Bunker I Made|https://v.redd.it/yk9lxtorg8941|GamersCentralYT|False|https://redd.it/el1h4p|27|0.89|0|4|0|minecraft
+el19ck|2020-01-06 22:10:34|A coliseum for a huge project I’m working on.|https://i.redd.it/hfjcd3lbf8941.jpg|Sw1n1van|False|https://redd.it/el19ck|26|1.0|0|7|0|minecraft
+ekyuc0|2020-01-06 19:24:41|a little statue watching over my medieval survival world|https://v.redd.it/yetfg21cl7941|joppie69|False|https://redd.it/ekyuc0|45|0.95|0|4|0|minecraft
+ekwjgx|2020-01-06 16:41:14|Here’s a statue I built for a server, thoughts?|https://i.redd.it/4vpqci8js6941.jpg|CaptainBarkey|False|https://redd.it/ekwjgx|67|0.94|0|7|0|minecraft
+el1n02|2020-01-06 22:37:09|This is Milo,you might not see him,but he is my pet cod.He likes to play in coral.Do you appreciate Milo?|https://i.redd.it/wsz6tfa2k8941.jpg|Chex911|False|https://redd.it/el1n02|24|0.87|0|36|0|minecraft
+el0nb1|2020-01-06 21:28:32|Just built my first diagonal windmill in my survival world, pretty happy with it!|https://i.redd.it/huhdfjpt78941.jpg|Molerat_king|False|https://redd.it/el0nb1|30|0.98|0|8|0|minecraft
+eky3rb|2020-01-06 18:32:35|U like?|https://i.redd.it/jjc020mfc7941.jpg|PinkMartin|False|https://redd.it/eky3rb|48|0.74|0|21|0|minecraft
+eky70j|2020-01-06 18:39:06|You can place items into campfires with commands and you can retrieve them by igniting the campfire|https://v.redd.it/an1icb5ad7941|Entire_Feedback|False|https://redd.it/eky70j|47|1.0|0|6|0|minecraft
+ekvfc0|2020-01-06 15:17:02|Since everyone's been posting their amazing projects, I thought I'd share this to, took me like 45 mins, but I'm proud of it, this was also my first build after a 4 year hiatus from playing Minecraft.|https://i.redd.it/4dz14qjjd6941.png|Imsadandhappy|False|https://redd.it/ekvfc0|84|0.94|0|5|0|minecraft
+ekt0ek|2020-01-06 11:38:57|I finally made my own working plane in minecraft!|https://v.redd.it/59ebrg5ja5941|Toxiccboii|False|https://redd.it/ekt0ek|160|0.99|0|9|0|minecraft
+eku4fu|2020-01-06 13:26:11|My base in vanilla Minecraft :'D I'm not the best but not the worst that's for sure!|https://i.redd.it/z7uknhnrt5941.jpg|Skye-DragonGirl|False|https://redd.it/eku4fu|109|0.98|0|13|0|minecraft
+eku7h9|2020-01-06 13:34:19|How the heck do I fix this?|https://i.redd.it/u4cbqzu7v5941.png|HextronPrime|False|https://redd.it/eku7h9|111|0.98|0|23|0|minecraft
+ekztrh|2020-01-06 20:32:06|My little village, compleat with a potion building, library, building for nether portal, blacksmith, mine, farm, and three houses.|https://i.redd.it/hfijnsrqx7941.jpg|dreaminthemadprince|False|https://redd.it/ekztrh|29|0.91|0|2|0|minecraft
+el1by9|2020-01-06 22:15:33|spending my last day of break on Minecraft|https://i.redd.it/1obz58c7g8941.jpg|RogueSpectre51|False|https://redd.it/el1by9|23|1.0|0|6|0|minecraft
+el1gre|2020-01-06 22:24:49|My wall of rare items, took 1 year and half, worth it (MC PS4)|https://i.redd.it/fd9aj25vh8941.jpg|readit_450|False|https://redd.it/el1gre|20|0.96|0|21|0|minecraft
+eknm3d|2020-01-06 02:50:21|Lured this Panda over 2000 blocks.|https://i.redd.it/0aix6tp9o2941.png|MaxMedina|False|https://redd.it/eknm3d|740|1.0|0|24|0|minecraft
+el0oh4|2020-01-06 21:30:54|From house to small “mansion”! The terrain was a bigger pain in the ass than you’d think... but I enjoyed working on it since I’m studying civil engineering lol :) Let me know if you want more & bigger pics|https://i.redd.it/9m4qwwi888941.jpg|jigglethunder|False|https://redd.it/el0oh4|25|0.95|0|2|0|minecraft
+ekzf1i|2020-01-06 20:03:55|A small rabbit farmhouse|https://gfycat.com/jitteryloneglowworm|EnzoDaBoss|False|https://redd.it/ekzf1i|30|0.94|0|1|0|minecraft
+el0haj|2020-01-06 21:17:05|Fishing Village in the Mountains|https://i.redd.it/jwrzfbzo58941.png|BeatMyMeatloaf|False|https://redd.it/el0haj|24|0.94|0|1|0|minecraft
+ekl22c|2020-01-05 23:35:58|Satisfying Sugarcane Redstone|https://i.redd.it/b6rsa8bco1941.gif|SirSnurfle|False|https://redd.it/ekl22c|1433|0.99|0|36|0|minecraft
+ekve0s|2020-01-06 15:14:09|My NetherBase, what u think about it?|https://i.redd.it/4rdfxxwxc6941.png|Banqh|False|https://redd.it/ekve0s|69|0.95|0|10|0|minecraft
+eksvcc|2020-01-06 11:24:00|Added the water fall edges dont like how the top turned out but its what ever|https://i.redd.it/9ux4p3yy75941.jpg|officialkumiji|False|https://redd.it/eksvcc|137|0.97|0|9|0|minecraft
+ekwm41|2020-01-06 16:46:26|Triple Piston Extender 5x3 I Just Designed|https://i.redd.it/bwb7x5jht6941.png|Isavenko|False|https://redd.it/ekwm41|48|0.93|0|7|0|minecraft
+ekxbcj|2020-01-06 17:35:52|i tried my best to recreate the DAF 95XF from hard truck 2 king of the road|https://i.redd.it/8ubib6en17941.png|BADTOMTheAngeryPussy|False|https://redd.it/ekxbcj|38|0.97|0|6|0|minecraft
+ekvz5v|2020-01-06 15:59:16|Who likes my airbase it’s 83 % completed|https://i.redd.it/q3z72ps2l6941.jpg|Skell-tech-|False|https://redd.it/ekvz5v|55|0.95|0|19|0|minecraft
+el1n80|2020-01-06 22:37:30|How to make a big tree 100 % of the time!|https://i.redd.it/erk6fj84k8941.jpg|Kezk_|False|https://redd.it/el1n80|15|0.87|0|10|0|minecraft
+ekz4nd|2020-01-06 19:44:41|ı am new at this game, ı build this|https://i.redd.it/qn0kz1map7941.png|lufukl|False|https://redd.it/ekz4nd|28|0.87|0|15|0|minecraft
+el1sru|2020-01-06 22:48:34|Just finished working on these two. Pretty proud!|https://i.redd.it/50h0bgh3m8941.jpg|red_sock71|False|https://redd.it/el1sru|15|0.89|0|5|0|minecraft
+ekyqpb|2020-01-06 19:17:54|What do you guys think of my auto smelter building?|https://i.redd.it/hf0mgm08k7941.png|dave-505|False|https://redd.it/ekyqpb|29|0.94|0|5|0|minecraft
+ekuuh0|2020-01-06 14:30:35|Tour of my guardian farm that i made by hand!!!|https://v.redd.it/5gz8zlh256941|DufflesMP4|False|https://redd.it/ekuuh0|66|0.94|0|13|0|minecraft
+el0s8s|2020-01-06 21:37:55|Currently working on my first custom map where I'm recreating the world of the Witcher. Here's a little forest in Poviss (Sildur's Shaders)|https://i.redd.it/823wd7rn88941.png|corhine|False|https://redd.it/el0s8s|18|1.0|0|8|0|minecraft
+ekz0kw|2020-01-06 19:37:09|why did I think an egg farm would be a good idea...|https://i.redd.it/bw4v7qfvn7941.png|presspackoverdominan|False|https://redd.it/ekz0kw|26|0.9|0|4|0|minecraft
+el16xi|2020-01-06 22:05:57|Built a U.S battleship|https://i.redd.it/nezot5che8941.jpg|Stealthcarrot41|False|https://redd.it/el16xi|17|1.0|0|4|0|minecraft
+el0zo0|2020-01-06 21:51:50|I like dancing, i like singing, I lIkE SaNd|https://v.redd.it/4wv20g7vb8941|Matixerinio|False|https://redd.it/el0zo0|17|0.88|0|3|0|minecraft
+ekzf60|2020-01-06 20:04:09|A lot of people asked me to upload a picture of a beacon design I mentioned in another post so here it is.|https://i.redd.it/afjz94bjs7941.png|Lil_toe69|False|https://redd.it/ekzf60|24|0.95|0|0|0|minecraft
+ekyf42|2020-01-06 18:54:48|My first's mechanism of 0 ticks afk farm bone meal! I'm new in the redstone world btw step by step is funny!|https://v.redd.it/l11jyg56g7941|DeckeriusBig|False|https://redd.it/ekyf42|28|0.93|0|4|0|minecraft
+el1fvi|2020-01-06 22:23:03|Just stumbled across this giant slime plushie I made 7 to 8 years ago. Pretty messy because it was in storage.|https://i.redd.it/139hm58jh8941.jpg|Sylok_The_Undefiled|False|https://redd.it/el1fvi|16|0.94|0|1|0|minecraft
+ekgp8e|2020-01-05 18:17:34|1 Block high Minecraft base|https://v.redd.it/d51rg12m40941|Paueeel|False|https://redd.it/ekgp8e|5294|0.98|1|113|0|minecraft
+ekxmnx|2020-01-06 17:58:45|There's a starman waiting in the sky|https://i.redd.it/u98jjz8e67941.jpg|babapan0|False|https://redd.it/ekxmnx|36|0.89|0|4|0|minecraft
+ekv14v|2020-01-06 14:45:46|Progress of my realm's End expeditions! Can you spot all the end cities? :)|https://i.redd.it/703l52ry76941.jpg|okaepi|False|https://redd.it/ekv14v|54|0.93|0|28|0|minecraft
+ektrqx|2020-01-06 12:52:38|My lovely little base that I'll be waving goodbye to when I swit h from PS4 to PC.|https://i.redd.it/5m8q445sn5941.jpg|Roy-Smash|False|https://redd.it/ektrqx|78|0.95|0|4|0|minecraft
+ekgymz|2020-01-05 18:36:18|got a pic at night before it corrupted|https://i.redd.it/7s3reqd680941.jpg|SkynetGames|False|https://redd.it/ekgymz|3966|0.99|0|54|0|minecraft
+ekhdbt|2020-01-05 19:04:47|How to build a working fridge in Minecraft!|https://v.redd.it/8qntv8y6d0941|Ihaha07|False|https://redd.it/ekhdbt|3508|0.95|0|75|0|minecraft
+ektizj|2020-01-06 12:29:14|I drew the stray.|https://i.redd.it/qopu2lsjj5941.png|rslashendme|False|https://redd.it/ektizj|77|0.95|0|4|0|minecraft
+el1lgt|2020-01-06 22:34:15|We're making mob eggs have cute mob pictures instead. Opinions?|https://i.redd.it/6ishm9pij8941.png|Aequotis|False|https://redd.it/el1lgt|13|0.86|0|9|0|minecraft
+eksvtu|2020-01-06 11:25:30|Finally got around to finishing the floor of my base, what do you think? Everything was done by hand in Pocket Edition.|https://i.redd.it/ex3twph885941.jpg|pieofdestruction|False|https://redd.it/eksvtu|95|0.98|0|4|0|minecraft
+ekwrvo|2020-01-06 16:57:43|Im starting to build my house in minecraft, what do you think?|https://i.redd.it/j1e6nz4ev6941.png|Matixerinio|False|https://redd.it/ekwrvo|36|0.85|0|11|0|minecraft
+eku515|2020-01-06 13:27:58|A skeleton shot a ghost block and the arrow didn't know what to do|https://v.redd.it/vtcswqfvt5941|Kelopio|False|https://redd.it/eku515|62|0.94|0|7|0|minecraft
+eky39d|2020-01-06 18:31:33|Wandering Trader Chilling|https://i.redd.it/k3oal7b7c7941.png|Chungus1234|False|https://redd.it/eky39d|24|1.0|0|19|0|minecraft
+ekz6z0|2020-01-06 19:49:07|working on a new neighborhood|https://i.redd.it/nc3ziwe1q7941.png|tannerge|False|https://redd.it/ekz6z0|18|0.93|0|0|0|minecraft
+ekxs4i|2020-01-06 18:09:27|Downtown of my Minecraft realm city. Realm is only 1 week old and we’ve built so much!|https://i.redd.it/t04f9m1b87941.jpg|DiamondzZzZzZ|False|https://redd.it/ekxs4i|23|0.92|0|3|0|minecraft
+ekcvqm|2020-01-05 13:16:17|A Minecraft Server where you could build, destroy, grief and hack wherever you want. But just take a look how it turned out to be. (Dead Server)|https://i.redd.it/4msw9n2vmy841.png|Nalyu083|False|https://redd.it/ekcvqm|18839|0.97|1|488|0|minecraft
+ekzxqq|2020-01-06 20:39:52|Some call me crazy but automatic chicken Hatcher is the future|https://i.redd.it/w4jex4v4z7941.png|super_nova_91|False|https://redd.it/ekzxqq|15|0.95|0|2|0|minecraft
+ekzxcf|2020-01-06 20:39:03|I was going around in PE and blowing stuff up and found this, any idea what happened?|https://v.redd.it/svzs0b3xy7941|McPuncake432|False|https://redd.it/ekzxcf|16|0.9|0|12|0|minecraft
+ekr11l|2020-01-06 08:04:50|World eater ready to launch|https://i.redd.it/r3x4bkxe84941.png|YearsSinceISawMyDick|False|https://redd.it/ekr11l|151|1.0|0|38|0|minecraft
+ekx4zf|2020-01-06 17:22:53|Ice biome but every normal block is replaced with wool or colored concrete|https://i.redd.it/xc4xuoyzz6941.png|Pangamma|False|https://redd.it/ekx4zf|28|0.87|0|3|0|minecraft
+el17qc|2020-01-06 22:07:31|A nice picture from my base in a SMP full vanilla|https://i.redd.it/2m4h6bqre8941.jpg|tqldq|False|https://redd.it/el17qc|12|0.83|0|0|0|minecraft
+el0r9z|2020-01-06 21:36:05|Cozy floating island home|https://i.redd.it/gh165c1698941.jpg|SMCS2201|False|https://redd.it/el0r9z|12|0.88|0|0|0|minecraft
+ekohsu|2020-01-06 04:02:36|I remade a lego set I own in Minecraft|https://i.redd.it/bg3sdww713941.jpg|RishTheFish27|False|https://redd.it/ekohsu|314|0.99|0|11|0|minecraft
+ekt36h|2020-01-06 11:46:56|Montagne Innevate|https://i.redd.it/b1xst2bzb5941.png|Megatorious|False|https://redd.it/ekt36h|75|0.97|0|16|0|minecraft
+ekuf1h|2020-01-06 13:53:03|My Shooting range, I fail I hit those sheep|https://i.redd.it/od92vq5ky5941.png|Lemondis|False|https://redd.it/ekuf1h|48|0.89|0|11|0|minecraft
+el0x1p|2020-01-06 21:47:08|when i let my little brother on minecraft|https://i.redd.it/4uutyvw4b8941.jpg|Tijs221|False|https://redd.it/el0x1p|12|0.82|0|12|0|minecraft
+ekxfyz|2020-01-06 17:45:11|My improved house With shaders :)|https://i.redd.it/ii2zc03z37941.jpg|MrVelker|False|https://redd.it/ekxfyz|23|0.96|0|6|0|minecraft
+el1tvw|2020-01-06 22:50:40|My Minecraft House|https://v.redd.it/0tqfneogm8941|OnyxFever_BP|False|https://redd.it/el1tvw|9|1.0|0|0|0|minecraft
+ekx1gh|2020-01-06 17:15:58|Hostile Mobs On Mushroom Island?|https://i.redd.it/zikjdxyny6941.png|WingBoi_|False|https://redd.it/ekx1gh|23|0.95|0|17|0|minecraft
+el0v0y|2020-01-06 21:43:10|I made a park in my Minecraft city celebrating #TeamTrees getting 20 Million Trees planted|https://i.redd.it/gj2tbdifa8941.jpg|ThePurpleWarrior|False|https://redd.it/el0v0y|10|0.87|0|0|0|minecraft
+el1ahl|2020-01-06 22:12:40|How do you guys feel about TARDIS' from Doctor Who?|https://i.redd.it/wp2avtykf8941.jpg|Peachedcrane60|False|https://redd.it/el1ahl|11|0.92|0|2|0|minecraft
+eku7az|2020-01-06 13:33:50|My first mordern house what do you think?|https://i.redd.it/oldcuri4v5941.png|Vatsalminecraft_user|False|https://redd.it/eku7az|46|0.89|0|8|0|minecraft
+el0dif|2020-01-06 21:10:00|Started 2 weeks ago with a friend any tips or thoughts?|https://i.redd.it/xnon26ii48941.jpg|djoee_|False|https://redd.it/el0dif|11|0.94|0|5|0|minecraft
+ekuot5|2020-01-06 14:16:57|our castle|https://v.redd.it/usp4usol26941|Jacksensparrow|False|https://redd.it/ekuot5|43|0.98|0|5|0|minecraft
+el1n11|2020-01-06 22:37:11|Bugged chest|https://v.redd.it/1o2sc530k8941|ZuperZlime|False|https://redd.it/el1n11|10|0.77|0|6|0|minecraft
+el1mc9|2020-01-06 22:35:44|Nice survival base you have there - would be a shame if someone forgot to build a practical entrance|https://i.redd.it/qa3fxvboj8941.png|Blue_Banana_420|False|https://redd.it/el1mc9|9|1.0|0|2|0|minecraft
+el1m7r|2020-01-06 22:35:30|Towers|https://i.redd.it/2vuy8nbmj8941.png|LordOmbro|False|https://redd.it/el1m7r|9|0.91|0|0|0|minecraft
+ektyym|2020-01-06 13:11:47|Took me a while but I built one of those old Chinese temples from scratch!|https://i.redd.it/dni3h267r5941.jpg|YeetMuffin69|False|https://redd.it/ektyym|54|0.95|0|3|0|minecraft
+ekz308|2020-01-06 19:41:52|I started to build a castle on a small island with my own design. Any thoughts about it?|https://i.redd.it/6adjymiso7941.jpg|vladdek|False|https://redd.it/ekz308|16|0.95|0|6|0|minecraft
+el20vv|2020-01-06 23:04:25|A Jewelry Case|https://i.redd.it/qb0u52kxo8941.jpg|Azazicc|False|https://redd.it/el20vv|8|1.0|0|0|0|minecraft
+ekyf9n|2020-01-06 18:55:07|Little nether portal terra forming i did, what do you gamers think, positive critique please :)|https://i.redd.it/p1v7ktufg7941.jpg|SBF_YT|False|https://redd.it/ekyf9n|17|0.85|0|5|0|minecraft
+ekgyad|2020-01-05 18:35:32|After years, I have them all.|https://i.redd.it/3kytfsgc60941.png|Morro_Windy1000|False|https://redd.it/ekgyad|2099|0.98|0|69|0|minecraft
+ekzm67|2020-01-06 20:17:25|anyone have any idea of what this is? it pops up really fast when i launch minecraft 1.8.9 and then turns into the regular mc logo and it makes me lag i think because before this wasnt popping up and i had around 50-60 fps and now im running on 10-15 fps. im on a 4gb ram lowend laptop.|https://i.redd.it/lnaexu7su7941.png|BeratMost|False|https://redd.it/ekzm67|14|0.85|0|7|0|minecraft
+el1u87|2020-01-06 22:51:16|I already know what’ll happen firsthand once I go near that horse, lol|https://i.redd.it/03w5nbikm8941.jpg|RandyLaheyTreverson|False|https://redd.it/el1u87|8|0.83|0|2|0|minecraft
+ekz0wr|2020-01-06 19:37:47|It seems like only yesterday I kidnapped these guys from their village now their having full blown frick parties|https://v.redd.it/fc2dhz2pn7941|imaperson654|False|https://redd.it/ekz0wr|13|1.0|0|1|0|minecraft
+ekptp5|2020-01-06 06:02:10|I recreated my real life house in Minecraft with a custom resource pack|https://i.redd.it/b2bqbwscm3941.png|ZilverKat|False|https://redd.it/ekptp5|172|0.99|0|12|0|minecraft
+el24bo|2020-01-06 23:11:22|The build is evolving...|https://i.redd.it/e753wx64q8941.png|Yrense|False|https://redd.it/el24bo|7|1.0|0|0|0|minecraft
+ekwqh4|2020-01-06 16:54:56|Straight out of West Ardy, it's like a prison over here... well sort of... Wish that hangman's poll had a rope to make more sense.|https://i.redd.it/kfqivncsu6941.jpg|CaptainQPicard|False|https://redd.it/ekwqh4|23|0.89|0|6|0|minecraft
+ekzhg4|2020-01-06 20:08:21|There should be a way to turn enchanted leather armor into enchanted books.|"Perhaps the process could involve the smithing table?
+
+I've been finding so much enchanted leather armor recently, especially in ocean chests. And while they're nice at first they don't serve a purpose after getting enchanted iron/diamond.
+
+So since we have this surplus of enchanted leather, why not create a way to turn the armor into books?
+
+**My proposal**:
+
+\-You input 2 enchanted leather armor and some paper into the table.
+
+\-The output is 1 enchanted book, that randomly has a lower tier of ONE of the enchantments
+
+**Example:**
+
+\-I input 1 leather tunic with thorns II and 1 helmet with unbreaking III (and paper)
+
+\-I get a book with either thorns I OR unbreaking I or II
+
+&#x200B;
+
+^(Also if there's a way to do this or similar with the grindstone let me know. I haven't played in a while.)"|DictatorShadow|False|https://redd.it/ekzhg4|13|0.93|0|3|1|minecraft
+ekdvpa|2020-01-05 14:48:20|Redstone word processor I'm working on, the keyboard and display are connected in serial with a single line of redstone, and it currently has 1 byte of memory.|https://v.redd.it/eio8xmz90z841|Rufus2468|False|https://redd.it/ekdvpa|5808|0.99|6|125|0|minecraft
+ekw8yd|2020-01-06 16:19:36|Portal stuck in the sand! [End gateway is the portal]|https://i.redd.it/x65luqujo6941.png|Diabootus|False|https://redd.it/ekw8yd|22|0.88|0|0|0|minecraft
+ekymxt|2020-01-06 19:10:22|Just a 15 minute quick build but was a bit impressed on how it looked what do all of you think|https://i.redd.it/z8ho7k26j7941.jpg|pipsink|False|https://redd.it/ekymxt|14|0.84|0|6|0|minecraft
+el12r7|2020-01-06 21:57:58|My Minecraft freaks out with a new issue every time I login and I'm so confused|https://v.redd.it/nav6p70oc8941|catmom-teaenthusiast|False|https://redd.it/el12r7|9|0.92|0|7|0|minecraft
+ektthw|2020-01-06 12:57:22|I ain't that good at redstone or any of that stuff. But my automatic music player is cool|https://i.redd.it/luu56i8mo5941.png|Failed20021|False|https://redd.it/ektthw|44|0.95|0|2|0|minecraft
+el1g26|2020-01-06 22:23:25|I figured out how to make balloons|https://i.redd.it/ae05j9slh8941.jpg|Ayden43812|False|https://redd.it/el1g26|7|0.77|0|1|0|minecraft
+ekyuh4|2020-01-06 19:24:58|Another sorting system but blogger and try to blen it in|https://i.redd.it/nm8kxm0sl7941.jpg|731308|False|https://redd.it/ekyuh4|12|0.94|0|0|0|minecraft
+ekx8d3|2020-01-06 17:29:58|I made the honey block boat parkour with redstone for all the survival players out there|https://v.redd.it/2ky8oenl07941|Siebjah|False|https://redd.it/ekx8d3|17|0.84|0|2|0|minecraft
+ekz7dt|2020-01-06 19:49:48|What is the chance of a spawnar zombie with helmet and diamond pants on my mini zombie farm?|https://i.redd.it/1r4g7gi6q7941.jpg|mofyll|False|https://redd.it/ekz7dt|10|0.82|0|0|0|minecraft
+el02d4|2020-01-06 20:48:36|So, decided to build a house in survival. Any tips to improve it somehow?|https://i.redd.it/5jfenvfn08941.jpg|Ter1kat|False|https://redd.it/el02d4|8|0.76|0|10|0|minecraft
+ekten6|2020-01-06 12:17:55|My early game brewing room under my house, what do you think?|https://i.redd.it/6c6x1z2ih5941.png|phatboitim|False|https://redd.it/ekten6|47|0.94|0|5|0|minecraft
+el1ts2|2020-01-06 22:50:29|Recently i lost my horse Marcus, this is old photo😭 He was my oldest horse in Minecraft ever. Rest in Peace!|https://i.redd.it/55emasmfm8941.png|hesick_46|False|https://redd.it/el1ts2|6|0.87|0|6|0|minecraft
+ekqh84|2020-01-06 07:06:01|Ruins (Undertale Minecraft map in progress)|https://i.redd.it/t86jpuums3941.png|AshtinEverNight|False|https://redd.it/ekqh84|112|1.0|0|2|0|minecraft
+ekuyzs|2020-01-06 14:40:59|Bird privilege. (Fun trick with elytra i found while messing around on a server with friends. Anybody knows anything more about it?)|https://v.redd.it/m9lw0ili66941|Just_a_Thif|False|https://redd.it/ekuyzs|27|0.87|0|7|0|minecraft
+ektd8h|2020-01-06 12:14:02|Just in case you needed some Barn/Stable inspiration like me, I went on creative and followed 3 tutorials from 3 different youtubers. Hope it’s helpful (their channels are in the comments)|https://i.redd.it/gwl4dhuvg5941.jpg|MilaRighi|False|https://redd.it/ektd8h|37|0.95|0|3|0|minecraft
+ekuci8|2020-01-06 13:46:58|Chamber of ancient knowledge|https://i.redd.it/m47q2o0dx5941.png|iliketogetrekt|False|https://redd.it/ekuci8|32|0.92|0|2|0|minecraft
+el0tm9|2020-01-06 21:40:34|Infinite Chicken|https://i.redd.it/6rkps8uu98941.png|TotemicFroggy64|False|https://redd.it/el0tm9|7|0.81|0|2|0|minecraft
+eki1jo|2020-01-05 19:51:39|You can use the second hand to atract 2 diferent mobs at the same time|https://i.redd.it/c9dgc2w9l0941.png|Legwion|False|https://redd.it/eki1jo|872|0.99|0|44|0|minecraft
+eke30y|2020-01-05 15:06:17|I made a library|https://i.redd.it/t4x4r1gi6z841.png|fukin_yeet|False|https://redd.it/eke30y|2692|0.97|0|118|0|minecraft
+ekgc0z|2020-01-05 17:51:34|"I'm working on a new resourcepack that doubles the vanilla textures. the ""UnBlock"" pack (yes I know Faifthful exists)"|https://i.redd.it/hrxq77h600941.png|jankkhvej|False|https://redd.it/ekgc0z|1300|0.98|0|58|0|minecraft
+ekyw0l|2020-01-06 19:28:05|What do you think of my house?|https://i.redd.it/gtgwk2wbm7941.png|Maska_01|False|https://redd.it/ekyw0l|12|0.8|0|4|0|minecraft
+ekzy45|2020-01-06 20:40:32|1 Inch - 1 Block Scale of my room. (WIP)|"Been working on this for a couple months and thought i'd share, what do you think of it so far? :)
+
+https://preview.redd.it/fjo5fpkzy7941.png?width=1920&format=png&auto=webp&s=8e5e01b0fb29939c7f71ea3e4e94ec4faa50462f
+
+https://preview.redd.it/5al0qis1z7941.jpg?width=4032&format=pjpg&auto=webp&s=f0361e3768c832811c156dee909437be92bcef9b"|BrwnieReddit|False|https://redd.it/ekzy45|7|0.9|0|5|1|minecraft
+ekzrub|2020-01-06 20:28:21|Scream|https://v.redd.it/239v96yzw7941|farfaraq|False|https://redd.it/ekzrub|6|0.76|0|0|0|minecraft
+ektmc3|2020-01-06 12:38:27|A medieval well I built on my girlfriend’s world|https://i.redd.it/eaemrp19l5941.jpg|suavebirch|False|https://redd.it/ektmc3|31|0.85|0|5|0|minecraft
+ekgptw|2020-01-05 18:18:48|Golden apple enhanced pixel art|https://i.redd.it/19bewmb250941.png|KingKirbyDrawa|False|https://redd.it/ekgptw|1049|0.98|0|21|0|minecraft
+ekvach|2020-01-06 15:06:26|Haven't done the interiors yet|https://i.redd.it/xygaougnb6941.jpg|Spaiccc|False|https://redd.it/ekvach|21|0.83|0|3|0|minecraft
+ekrltq|2020-01-06 09:07:47|4x6 Diagonal piston door I made based off LOBO garage’s design|https://v.redd.it/3blsn3vfh4941|BobbyDaemon|False|https://redd.it/ekrltq|62|0.97|0|3|0|minecraft
+el1mu9|2020-01-06 22:36:48|Crazy Lag|https://v.redd.it/0on2k6yuj8941|iBoomer69|False|https://redd.it/el1mu9|6|0.71|0|0|0|minecraft
+el0ok3|2020-01-06 21:31:04|Church is love, church is life. Texture pack: PureBDCraft. Shaders: idk.|"&#x200B;
+
+https://preview.redd.it/6uhkmk5288941.png?width=1366&format=png&auto=webp&s=3c7701210445af3ec959fc28e9e1e1a91b8c19f9
+
+https://preview.redd.it/obmasi5288941.png?width=1366&format=png&auto=webp&s=b4017adc368841122203a07127ad32d4e191de67
+
+https://preview.redd.it/y4fvai5288941.png?width=1366&format=png&auto=webp&s=ae91cae69db2ee957d832e6a36425219e4979165"|RookiePaw|False|https://redd.it/el0ok3|6|0.7|0|0|1|minecraft
+eknljw|2020-01-06 02:49:11|Attempt at a interrogation room with a one way glass|https://v.redd.it/7vbl7txxn2941|Spymanco|False|https://redd.it/eknljw|192|0.95|0|11|0|minecraft
+ekbgjv|2020-01-05 10:37:18|Do you guys like the mushroom house i build|https://i.redd.it/hrh534wpux841.jpg|MouseEater69|False|https://redd.it/ekbgjv|13482|0.95|0|244|0|minecraft
+eksvts|2020-01-06 11:25:30|Terraces I've made in my vanilla survival lp world! (more in comments)|https://i.redd.it/foj3bct285941.png|youngslothboi_|False|https://redd.it/eksvts|38|0.96|0|3|0|minecraft
+ekyk1b|2020-01-06 19:04:34|Giant tree my friends and I have been working on for a while. It’s over 100,000 blocks on a survival server.|https://i.redd.it/haak3sw4i7941.jpg|Tabsam|False|https://redd.it/ekyk1b|9|0.78|0|9|0|minecraft
+eklxcq|2020-01-06 00:40:00|Biome Blend|https://i.redd.it/697a38j212941.png|DarkSoul237|False|https://redd.it/eklxcq|269|0.97|0|4|0|minecraft
+ekyhhe|2020-01-06 18:59:28|I startes the Mouton Pack, an open pack which allows everyone to have their custom armor! (description in comments)|https://i.redd.it/nbpumz98h7941.png|MoutonDemocrate|False|https://redd.it/ekyhhe|8|0.84|0|1|0|minecraft
+ekyx76|2020-01-06 19:30:31|I'm wanting to build this world into something interesting. It's also the first time since 2012 that I actually want to attempt to beat the game, so I figured I'd do some major food farming before my house, but will make it better at some point. I can also make a YT series if people want to keep up.|https://v.redd.it/qdbuz9hyk7941|YFZSolaris|False|https://redd.it/ekyx76|8|0.77|0|0|0|minecraft
+el24yt|2020-01-06 23:12:38|Me an the bois measuring how many blocks the pyramid will be|https://i.redd.it/30mbp7udq8941.jpg|Killerblox|False|https://redd.it/el24yt|4|0.75|0|0|0|minecraft
+ekrzdx|2020-01-06 09:49:30|i drew sleepy minecraft fox|https://i.redd.it/xeexeoo1r4941.png|jersey_cyanide|False|https://redd.it/ekrzdx|46|0.86|1|3|0|minecraft
+eku02u|2020-01-06 13:14:33|First Build: 2D Sonic|https://i.redd.it/uw8x6itor5941.jpg|HyperSonic6325|False|https://redd.it/eku02u|26|0.9|0|4|0|minecraft
+ekrbbu|2020-01-06 08:35:26|I made this drawing about The End. I’m not really good at drawing. Anything to improvements needed?|https://i.redd.it/6d5ve03wd4941.jpg|K_is_for_KAZOO|False|https://redd.it/ekrbbu|57|0.88|0|12|0|minecraft
+ekxbf3|2020-01-06 17:36:02|This broke my heart (sorry for low quality)|https://v.redd.it/ov12qju627941|DarthJar-x2|False|https://redd.it/ekxbf3|12|0.73|0|5|0|minecraft
+ekvdys|2020-01-06 15:14:02|My first organic build|"What do you guys think? 
+
+Its supposed to be a fantasy mushroom if you can't tell xD
+
+&#x200B;
+
+https://preview.redd.it/ltcdeokxc6941.png?width=1920&format=png&auto=webp&s=030e72c3dce4969544f5af1967c33256e51ad751
+
+https://preview.redd.it/0l4acpkxc6941.png?width=1920&format=png&auto=webp&s=28a239a5acadc50d77dbfcf0f4d334f6b0563e60
+
+https://preview.redd.it/0y84bpkxc6941.png?width=1920&format=png&auto=webp&s=0590a211e05286c520c1a76f94c0b157a407ac29"|QuicK1024_tv|False|https://redd.it/ekvdys|17|1.0|0|2|1|minecraft
+ekik1z|2020-01-05 20:26:41|This is what happens when you travel in the forest by yourself|https://v.redd.it/6cyli8itr0941|Ethoart|False|https://redd.it/ekik1z|563|0.99|0|15|0|minecraft
+ekuh26|2020-01-06 13:58:14|I didn't know rabbits also looked like this. The world also had a witch with a wierd nose glitch. I wasn't able to capture that.|https://i.redd.it/rsc7jzbhz5941.gif|jajajajajajajajah|False|https://redd.it/ekuh26|21|0.85|0|12|0|minecraft
+ektjuj|2020-01-06 12:31:43|My first build i actually wanted to look nice. Criticism accepted. Hope you like it. :)|https://i.redd.it/pg2pkkk1k5941.jpg|x-xx_34|False|https://redd.it/ektjuj|29|0.88|0|23|0|minecraft
+eklvy1|2020-01-06 00:37:10|putting together a modpack and thought i would show an interesting thing you can do in it|https://v.redd.it/wij4g50602941|Macash_reddit|False|https://redd.it/eklvy1|246|0.98|0|40|0|minecraft
+ekxzei|2020-01-06 18:23:45|Doing a 100 Block Survival Challenge! Wish me luck!|https://i.redd.it/fbllp2kqa7941.png|ShoeManRL|False|https://redd.it/ekxzei|8|0.81|0|7|0|minecraft
+ekdqdv|2020-01-05 14:35:31|Think twice before you shoot.|https://v.redd.it/vo1hx0551z841|le_coder_boy|False|https://redd.it/ekdqdv|2116|0.98|0|20|0|minecraft
+ekxv7e|2020-01-06 18:15:28|My automatic sugar farm, vanilla.|https://i.redd.it/83fm33xb97941.jpg|matttech88|False|https://redd.it/ekxv7e|9|0.78|0|10|0|minecraft
+el1mat|2020-01-06 22:35:39|Why are my powered rails not working?|https://v.redd.it/s468tnpoj8941|Paullyo3|False|https://redd.it/el1mat|4|0.83|0|8|0|minecraft
+ektct8|2020-01-06 12:12:51|A Small Swampy Village|https://i.redd.it/009hf43lg5941.png|3-Azula|False|https://redd.it/ektct8|29|0.88|0|3|0|minecraft
+eku0uf|2020-01-06 13:16:40|"""Hey uh, where are we going?"""|https://i.redd.it/nj6lnj00s5941.png|Diabootus|False|https://redd.it/eku0uf|23|0.88|0|0|0|minecraft
+el1ixt|2020-01-06 22:29:14|I built this compact (hopefully) 4x4 door in bedrock. Criticism is okay|https://i.redd.it/94handemi8941.png|pewds_fan1|False|https://redd.it/el1ixt|4|0.83|0|2|0|minecraft
+ekyscv|2020-01-06 19:21:00|The Gang unites ! One of the best nights of the pit|https://i.redd.it/671k0mb2l7941.png|faris_Playz|False|https://redd.it/ekyscv|8|0.73|0|0|0|minecraft
+ekbxd7|2020-01-05 11:33:13|I double dare you to raid my house again, I've got plenty of room left on the wall|https://i.imgur.com/FVGY7ON.png|vmos|False|https://redd.it/ekbxd7|5251|0.98|0|124|0|minecraft
+el1ckp|2020-01-06 22:16:46|My game glitched, and I could see through the ground.|https://i.redd.it/uqkgdhidg8941.png|MulletGiraffe|False|https://redd.it/el1ckp|5|0.64|0|2|0|minecraft
+ekvdp0|2020-01-06 15:13:26|Gonna make this in survival but tried in creative first, thoughts?|https://i.redd.it/v7035v8wc6941.png|Skalomanno|False|https://redd.it/ekvdp0|15|0.83|0|11|0|minecraft
+eks9iq|2020-01-06 10:19:49|My first sorting system in Minecraft and it worked!!!|https://v.redd.it/9sy4uqyaw4941|731308|False|https://redd.it/eks9iq|34|0.97|0|6|0|minecraft
+ekz00e|2020-01-06 19:36:00|Arm lickin' good|https://i.redd.it/rtuveu9ln7941.png|kr8gz|False|https://redd.it/ekz00e|6|0.79|0|0|0|minecraft
+ekp759|2020-01-06 05:03:43|Unlike torches, fences do land in the middle of chiselled stone :D|https://i.redd.it/fm6ouln3c3941.jpg|AbigailHam|False|https://redd.it/ekp759|88|0.86|0|5|0|minecraft
+el22ah|2020-01-06 23:07:16|New pc player,could appreciate some help|Hey! I bought a new pc this week with my money and id like to know which windows I get for my pc and which minecraft versión should I buy for having shaders and mods on|somerslashfan|False|https://redd.it/el22ah|3|1.0|0|7|1|minecraft
+el227d|2020-01-06 23:07:06|I need help pls|https://v.redd.it/ixttewh9p8941|Emilio1126|False|https://redd.it/el227d|3|1.0|0|1|0|minecraft
+ekf3lb|2020-01-05 16:24:25|A wooden cliff mansion that I built in like half a month, thoughts?|https://i.redd.it/zr32z1jgkz841.jpg|Twilight1338|False|https://redd.it/ekf3lb|934|0.99|0|28|0|minecraft
+ekufa7|2020-01-06 13:53:41|My survival sword! :3|https://i.redd.it/uc7kah7oy5941.jpg|PollXy|False|https://redd.it/ekufa7|18|0.87|0|2|0|minecraft
+el0kn5|2020-01-06 21:23:25|Minecraft realms player issue?|"I joined my realms server on java after awhile of not playing,my house was covered in turtles and a chest had a stack off diamond blocks. None off my friends are operators. And right now after having played for an hour i placed some bookshelves around my enchanting table (there were 5 from before and i added 3 new ones) and after awhile i got back  to it and all of them were gone
+
+My question is can someone join a realms server and stay invisible from the tab showing them?"|espen1232|False|https://redd.it/el0kn5|5|0.84|0|3|1|minecraft
+el0kmj|2020-01-06 21:23:23|Is the Debug Stick in 1.15?|I'm using bedrock  on PC, and none of the commands that I have tried worked.|CommunistCatsup|False|https://redd.it/el0kmj|4|1.0|0|3|1|minecraft
+ekxxsm|2020-01-06 18:20:40|Part way through a new castle build thought I’d share some progress with you guys p.s. red and white tower in the back is going to be changed I’m trying to find a design for the top of the tower and am not having any luck with it|https://i.redd.it/q9k973uaa7941.jpg|BBDURG|False|https://redd.it/ekxxsm|7|0.91|0|0|0|minecraft
+ekyjpg|2020-01-06 19:03:55|I thought this was cool and thought you would too.|https://v.redd.it/v81xlphzh7941|Only1Mandee|False|https://redd.it/ekyjpg|5|0.77|0|7|0|minecraft
+eknamf|2020-01-06 02:25:27|I built the ship from voltron|https://i.redd.it/ajhy81jvj2941.jpg|christmastime54321|False|https://redd.it/eknamf|127|1.0|0|10|0|minecraft
+ekygg6|2020-01-06 18:57:24|Created this redstone circuit to act as an on/off switch for my guardian farm but it created a permanent pulse and I'm not sure what I did wrong. Can someone help me make it so that I can press a button and it turns on briefly then turns off so I can activate/reactivate dispensers? Thanks so much|https://i.redd.it/b7zqjl1rg7941.png|mcCTG_30|False|https://redd.it/ekygg6|8|0.76|0|9|0|minecraft
+ekz7m4|2020-01-06 19:50:14|2x3 Tileable Dual Read RAM. Almost Instant Read/Write. 23 Blocks Tall|https://i.redd.it/mpl06047p7941.png|the123king-reddit|False|https://redd.it/ekz7m4|7|0.84|0|0|0|minecraft
+el1juq|2020-01-06 22:31:03|Part of a village my friend ( u/N0thingsleft ) are making any suggestions|https://i.redd.it/pvmjc8gyi8941.png|Learned_Epic|False|https://redd.it/el1juq|3|1.0|0|2|0|minecraft
+el06uy|2020-01-06 20:57:14|Trying to play Minecraft through synergy|I recently purchased synergy so that I can have use my laptop with my desktop's keyboard and mouse. My laptop has much better hardware than my desktop so I thought I could use it to play games  with too. Unfortunatley, it seems that synergy causes the camera to spin wildly, and changing the sensitivity doesn't seem to help. I found the same issue in a post from 7 years ago ( [https://www.reddit.com/r/Minecraft/comments/wbcyz/synergy\_minecraft/](https://www.reddit.com/r/Minecraft/comments/wbcyz/synergy_minecraft/) ) but it seems that a solution was never found. Any suggestions?|Nalyd217|False|https://redd.it/el06uy|5|1.0|0|0|1|minecraft
+el1itb|2020-01-06 22:28:57|Update on island i am starting a temple thing so give me your ideas|https://v.redd.it/687e4c0ii8941|iRooke|False|https://redd.it/el1itb|3|0.71|0|0|0|minecraft
+eky7ny|2020-01-06 18:40:25|How do I change my Microsoft gamer tag on PS4??|https://i.redd.it/4c55ebmtd7941.jpg|JakeMurphy1245|False|https://redd.it/eky7ny|8|0.83|0|20|0|minecraft
+eklm20|2020-01-06 00:16:45|1. I didn't know parrots could go on shoulders. 2. I didn't know they could DANCE on shoulders!|https://v.redd.it/i8r0i5rvw1941|SurgeonOfLaffs|False|https://redd.it/eklm20|173|0.95|0|8|0|minecraft
+ekter0|2020-01-06 12:18:10|Never thought it was possible to find a stronghold at the bottom of the ocean... lol|https://i.redd.it/plnz196gh5941.png|2FootJackal|False|https://redd.it/ekter0|20|0.9|0|8|0|minecraft
+ekk1l2|2020-01-05 22:24:49|I build some Fields, how are they?|https://i.redd.it/dle5wa9tc1941.png|Sarguhl|False|https://redd.it/ekk1l2|249|0.99|0|19|0|minecraft
+el1cmu|2020-01-06 22:16:53|Ender pearls rarely drop.|I have a diamond unbreaking III, sharpness III, looting II, and knockback II sword, and unfortunately, ender pearls rarely drop. I've killed atleast 31 endermen and I've only had 3 drop. I didn't use my enchanted sword when killing the ones that dropped the pearls. It's been like this for weeks. What should I do?|memecakefactory|False|https://redd.it/el1cmu|3|1.0|0|6|1|minecraft
+ekwr70|2020-01-06 16:56:21|I'm working on this library project with a reflective floor and I'm hoping on some opinions and tips of how to accurately measure it to build upside down because I don't have worldedit|https://i.redd.it/x557gavru6941.png|hot_potato_family|False|https://redd.it/ekwr70|9|0.76|0|2|0|minecraft
+el1b2j|2020-01-06 22:13:50|When you guys make map walls, do you zoom out each map to the max?||LogieBear5|False|https://redd.it/el1b2j|3|1.0|0|2|1|minecraft
+el1aqy|2020-01-06 22:13:12|Does anyone know why my cows have all flocked to one corner, it may be something to do with the beehive (tree to the right) but I’m confused as it is a massive pen and they’re all in one corner, any help will be appriciated|https://i.redd.it/5mdhie6sf8941.jpg|L14mTh0m4s|False|https://redd.it/el1aqy|4|1.0|0|6|0|minecraft
+ekzvzy|2020-01-06 20:36:25|Wat is happening? ** it is loading lot of time|https://v.redd.it/doualoegy7941|ms123games|False|https://redd.it/ekzvzy|4|1.0|0|6|0|minecraft
+ekys4s|2020-01-06 19:20:33|I've seen some players put images they found on the internet onto player skulls; how do I do this?||gomalley411|False|https://redd.it/ekys4s|4|0.86|0|0|1|minecraft
+ektfwj|2020-01-06 12:20:55|Not much. But it’s home.|https://v.redd.it/hnxpvcv1i5941|its-bubbles|False|https://redd.it/ektfwj|15|0.77|0|2|0|minecraft
+ekpvoz|2020-01-06 06:07:27|I know it’s not much compared to some of the builds here, but I’ve only been playing for a few months so I’m kinda proud of it. Because everyone needs a Roman Amphitheater inspired farm.|https://v.redd.it/82i2z9y4n3941|jbalazov|False|https://redd.it/ekpvoz|50|0.92|0|4|0|minecraft
+ekxhxj|2020-01-06 17:49:14|My survival build is coming out nicely...|https://i.redd.it/otdz6n2l47941.jpg|terectec|False|https://redd.it/ekxhxj|6|0.89|0|0|0|minecraft
+el0ptk|2020-01-06 21:33:26|I really want to get back into Minecraft, but its getting boring wayyyy to fast. Is there anything (other than mods) that I could use to make it feel more fun like it used too?||Lolbits_TV_YT|False|https://redd.it/el0ptk|3|1.0|0|4|1|minecraft
+ek91pc|2020-01-05 06:02:13|I got my 7-year old cousin into minecraft in mid-2019 and my uncle started a server for us, this is the progress|https://i.redd.it/maugem6nhw841.jpg|Ernie-boi|False|https://redd.it/ek91pc|17350|0.97|0|249|0|minecraft
+eky7nx|2020-01-06 18:40:25|Is there a mod that makes anvil costs for tool repair stay the same no matter how many times it is done?|I play a lot of single player and this takes all the fun out of it for me. It doesn’t make the game feel more interesting like Mojang thought it would, it makes the game feel broken.|ghost958|False|https://redd.it/eky7nx|5|1.0|0|3|1|minecraft
+el0klt|2020-01-06 21:23:22|PS4 bedrock to windows 10|Now that bedrock has been released for PS4, is there a way where I can export it to windows 10?|Surreal-Koya|False|https://redd.it/el0klt|3|1.0|0|0|1|minecraft
+ektlei|2020-01-06 12:35:49|Gotta love those slime blocks in Survival @arabsuperhero|https://v.redd.it/af3nlm36k5941|arabsuperhero|False|https://redd.it/ektlei|16|0.84|0|0|0|minecraft
+ektgj9|2020-01-06 12:22:28|Zombie doesn't target a Villager, please halp ;_;|https://i.redd.it/7l8k50l9i5941.png|coredem1|False|https://redd.it/ektgj9|17|0.84|0|6|0|minecraft
+ekk6nr|2020-01-05 22:34:29|I was playing alone...|https://i.redd.it/f2hke5eoe1941.png|ZoeiraMaster|False|https://redd.it/ekk6nr|190|0.92|0|50|0|minecraft
+el26iq|2020-01-06 23:15:41|Is anyone else having problems with loading in? Also when you do manage to load in the game freezes in the menu.|If anyone has a solution that would be awesome|evildeeds187|False|https://redd.it/el26iq|2|1.0|0|0|1|minecraft
+el26hu|2020-01-06 23:15:37|Server advice|My friend and I share a realm, and at the beginning (over a year ago) everything was super cool. As time went on this thing kept happening that really annoys me, though. He never finishes bigger builds, I get getting burnt out on a big build, but the problem is that he never goes back and finishes them. He just starts a new project, gets bored with it, and then starts a new project. I’ve offered to help finish them by either building with him or collecting the resources he’d need, but he gets all defensive and says that he’ll get around to them. Anyone else deal with something like this before? Any advice?|UrthenAether|False|https://redd.it/el26hu|2|1.0|0|0|1|minecraft
+el24dl|2020-01-06 23:11:29|Fixing auto-craft ratios?|"So I have set up these auto crafting tables hooked up to my ME system, they're being fed the resin and the acorns from my trees: [https://i.imgur.com/xSMLSiP.png](https://i.imgur.com/xSMLSiP.png)
+
+As you may know, trees make more acorns than resin, how do i prevent this from happening? :[https://i.imgur.com/drs7N2i.png](https://i.imgur.com/drs7N2i.png)"|-Pencil_Shavings-|False|https://redd.it/el24dl|2|1.0|0|0|1|minecraft
+ekqpi7|2020-01-06 07:29:52|Wanted to see what the underground sections of my survival house looked like if they were excavated|https://i.redd.it/e1k27oy624941.jpg|Level100Rayquaza|False|https://redd.it/ekqpi7|35|0.94|0|3|0|minecraft
+ekslql|2020-01-06 10:56:49|PSA: manual killers of the wither under the portal trick (1.15.1), Modify the top of your portal to look like this, and only have a 2 high air gap above your obsidian. Otherwise you may end up with some wither roses in the nether and a long fight.|https://i.redd.it/i3qgh32t25941.png|Hate_Feight|False|https://redd.it/ekslql|19|0.96|0|3|0|minecraft
+el06wt|2020-01-06 20:57:19|How to do a build download on a server?|I have a large build in the End on a Survival server that I like to share without giving away coordinates. Is there a way to save the build to a schematic or download the world?|Shelf-Life3|False|https://redd.it/el06wt|3|1.0|0|1|1|minecraft
+el22x0|2020-01-06 23:08:31|Texture packs|I have e never used texture packs on Java edition and I want to use a ore finder, please help|OGbasegalaxy|False|https://redd.it/el22x0|2|0.75|0|2|1|minecraft
+ektb03|2020-01-06 12:08:10|Oh, so that's how they grow [The wither roses]|https://i.redd.it/7narcpgsf5941.png|Diabootus|False|https://redd.it/ektb03|14|0.81|0|1|0|minecraft
+el1vdv|2020-01-06 22:53:30|Simple Skyblock anti-Phantom strategy|"Recently got back into skyblock, but realized the nightmare that is phantoms. I've seen some threads proposing staying under shelter during nights to prevent them from spawning after night 3. I found an even simpler solution:  
+
+
+Move the ilsand below y64. It is only just under the island, and allows one to move about at all times without worrying about spawning phantoms."|Kronzypantz|False|https://redd.it/el1vdv|2|1.0|0|0|1|minecraft
+el1vbc|2020-01-06 22:53:22|In your opinion, what was the best year for minecraft?|"Personally I’d say 2013, as I used to play on a lot of faction servers and at the end of 2013/early 2014 the ultimate cannon was created, so spending time building bases became pointless.
+
+Then the “CoMbAt UpDaTe” was the nail in the coffin for any combat gamemode.
+
+
+What’s the general opinion here?"|JustSomeGuyGuy|False|https://redd.it/el1vbc|2|0.75|0|3|1|minecraft
+ekmoe8|2020-01-06 01:37:08|another bee hive build i made, i been having a lot of fun doing them|https://i.redd.it/03ihepm9b2941.jpg|minecraftyeeter|False|https://redd.it/ekmoe8|101|1.0|0|3|0|minecraft
+el1u21|2020-01-06 22:50:56|I need help with servers and how to start them.|"I want to play a special Modpack with a friend, but I don't know how to make a Server and how to ""hold it open"" so that the other player can join without the host starting the server.
+
+ TL:DR: I want to play a Modpack with a friend but don't know how."|DrAtomik09|False|https://redd.it/el1u21|2|1.0|0|5|1|minecraft
+ekpqnc|2020-01-06 05:54:02|White castle|https://i.redd.it/ugpr00n3l3941.jpg|cowbullriders|False|https://redd.it/ekpqnc|45|0.94|0|6|0|minecraft
+ekvxp8|2020-01-06 15:56:05|What???|https://v.redd.it/kl6675jhk6941|random_boi-|False|https://redd.it/ekvxp8|6|0.67|0|15|0|minecraft
+ekzt4g|2020-01-06 20:30:53|Copying seeds|Does anyone know if copying seeds copies things such as villager trades or items inside of chests?|throwaway467604|False|https://redd.it/ekzt4g|3|1.0|0|1|1|minecraft
+ekwlg6|2020-01-06 16:45:05|[HELP] My minecraft is kinda broken.|"So yesterday i bought myself a new monitor ([iiyama G2530HSU-B1 24,5''](https://www.amazon.co.uk/iiyama-G2530HSU-B1-G-Master-Monitor-FreeSync/dp/B071JH67KN)).
+
+But when i joined my SP world today every block changed when i moved my mouse or walked. (Example: [Coal Ore](https://imgur.com/a/UgCGhKi)) it has some type of purple coming out of the block when i walk to it.
+
+I think there is some type of ghosting, idk if its minecraft or my monitor.
+
+Comment down if you know how to help me, or if you have tips for me. 
+
+&#x200B;
+
+Thank you."|NilsHimself|False|https://redd.it/ekwlg6|5|0.88|0|1|1|minecraft
+ekrf3u|2020-01-06 08:46:46|Minecraft ship I built on a server|https://i.redd.it/bd1sme0xf4941.jpg|Reddit-on-6-fps|False|https://redd.it/ekrf3u|28|0.93|0|2|0|minecraft
+ekzshl|2020-01-06 20:29:34|Server starting fine, but can't connect|So I have set up my minecraft server and it launches fine. I have forwarded port 25565 and left the server ip in the configuration blank, so that you will connect through my public ip address. But for some reason I cannot connect to my server, any help would be appreciated.|Harryb6803|False|https://redd.it/ekzshl|3|1.0|0|2|1|minecraft
+el1pc6|2020-01-06 22:41:34|Help. Do you know how to delete natural mob spawns from Divine RPG?|This post is 6 years old! What should I do???|Ejikus|False|https://redd.it/el1pc6|2|1.0|0|2|1|minecraft
+ekjo18|2020-01-05 21:57:14|A Tour of my Mooshroom Guest Home|https://v.redd.it/6m4mzwpe71941|Fieriii|False|https://redd.it/ekjo18|192|0.99|0|16|0|minecraft
+ekkzyh|2020-01-05 23:31:44|My old base on our survival realm|https://i.redd.it/mrthj3hvo1941.jpg|archiekas88|False|https://redd.it/ekkzyh|142|0.99|0|0|0|minecraft
+el1mlc|2020-01-06 22:36:16|Last night I built this underwater habitat because of my insomnia|http://imgur.com/gallery/sUhw0ZK|KI6WBH|False|https://redd.it/el1mlc|2|1.0|0|10|0|minecraft
+ekh2bn|2020-01-05 18:43:23|I turned villagers into piglagers|https://i.redd.it/c72rdgld90941.png|ShaneH7646|False|https://redd.it/ekh2bn|341|0.99|0|31|0|minecraft
+el1m5x|2020-01-06 22:35:26|Render distance|What render distance do you play.|JackTheJokey|False|https://redd.it/el1m5x|2|1.0|0|2|1|minecraft
+ekue8c|2020-01-06 13:50:59|How do you guys clear how complicated caves without getting horribly lost?|"I use the common method of putting torches on the right side and once I clear out a branch, I put a cobble pillar at the end, to signify that it’s empty of all the good stuff.
+
+If I find a branch that looks promising but I’m currently in another branch, I put up a redstone torch as a point of interest.
+
+Trouble started brewing last night when I cleared out the diamond layer in this cave system and started mining the 15-30 Y-axis range. These caves were Swiss cheese (caves going up and down) and I got lost, eventually croaked. 
+
+I thought about just sticking to diamond layer caves and abandoning everything above that. 
+
+What’s your system? I have an item elevator to the surface and a hopper minecart carrying everything to my base. Kinda tempted to clear out all the layers just because of the time spent setting up the system."|craft_dillery|False|https://redd.it/ekue8c|11|1.0|0|8|1|minecraft
+el1m0a|2020-01-06 22:35:11|An overlook of my farm|https://i.redd.it/rl2a2rzoj8941.jpg|heck300|False|https://redd.it/el1m0a|2|0.67|0|0|0|minecraft
+ekb2bs|2020-01-05 09:50:15|Finally did it! xD|https://i.redd.it/olwid4namx841.png|Sektrif|False|https://redd.it/ekb2bs|2745|0.98|0|75|0|minecraft
+ekpzox|2020-01-06 06:17:39|My Bee Hive House I plan on building on a survival realm!|https://i.redd.it/4jtrg5zap3941.jpg|LoganH1219|False|https://redd.it/ekpzox|45|0.92|0|1|0|minecraft
+ekv6od|2020-01-06 14:58:31|Hey guys sorry for my english in advance XD. Can you give me some ideas on what to build here? Just started playing months ago.|https://i.redd.it/gidmwtk8a6941.jpg|StrongestAvenger12|False|https://redd.it/ekv6od|8|0.82|0|7|0|minecraft
+ektcqf|2020-01-06 12:12:37|This one App destroyed my world . Good thing i have a copy|https://i.redd.it/hjjaegwmg5941.jpg|Hamzaelite|False|https://redd.it/ektcqf|13|0.88|0|9|0|minecraft
+eky0mc|2020-01-06 18:26:06|If anyone was wondering, the trick with zombie and villagers to get discounts is still working in 1.15.1!|https://i.redd.it/9dkxb4n4b7941.jpg|thedolanduck|False|https://redd.it/eky0mc|2|0.71|0|7|0|minecraft
+ekaj2o|2020-01-05 08:45:22|My base on a bedrock server, unfinished but thoughts?|https://i.redd.it/ujmjft0qax841.png|YaBoiJasper|False|https://redd.it/ekaj2o|3785|0.99|0|103|0|minecraft
+el18ku|2020-01-06 22:09:09|Maps For a Map Room|I am making a map room with a wall 16x16 for maps. What is a good zoom for the maps so I can have a good balance of detail and coverage? Materials are of no consequence.|Big-Dog42|False|https://redd.it/el18ku|2|1.0|0|0|1|minecraft
+ekz9jn|2020-01-06 19:53:43|Questions|"1. Is there a new 1.15 update 
+
+2. Name some ideas I could build in my survival world I’m running out"|YT_Rizzle|False|https://redd.it/ekz9jn|3|1.0|0|4|1|minecraft
+el16ks|2020-01-06 22:05:14|Need Inspiration|I've constructed my own private island and I've built paths and streetlights but I've no clue what to put on it, can someone please give me some inspiration.|CalpolCurry|False|https://redd.it/el16ks|2|0.75|0|2|1|minecraft
+el13ec|2020-01-06 21:59:13|Minecraft Minimizes when clicking on second monitor|"Exactly what the title says.
+Dont think there is a borderless windowed option in minecraft but im not at my computer atm. If it does exist in the options settings ive tried it.
+Tired have my computer pausing for a moment before i can click on anything else
+Please help"|Tetanus_|False|https://redd.it/el13ec|3|1.0|0|6|1|minecraft
+ekwsbj|2020-01-06 16:58:31|How to make house/base bigger on the inside?|"I play Minecraft on the PS4, and I love it. One thing I'm interested in doing is having a huge base disguised in what looks like a small home. Can someone tell me how I can do that (If I need mods to do it, can someone tell me how to download mods on the PS4?)?
+
+Btw, I'm playing on creative.
+
+Thanks"|HeyIm5hane|False|https://redd.it/ekwsbj|4|1.0|0|3|1|minecraft
+ekz44b|2020-01-06 19:43:46|Bedrock Glitch: instant full health Elytra with mending|"Need: 2 Elytras with mending enchantments
+
+Wearing the full health elytra, collect experience while holding the very used one.
+
+This glitches the one in your hand to be as full as the one youre wearing!
+
+I just figured this one out this morning on my xbox. I did the reverse and it took the health from the full health one so the glitch goes both ways."|z0mbieubicorns|False|https://redd.it/ekz44b|3|0.72|0|0|1|minecraft
+ekvvaz|2020-01-06 15:51:02|So This Is My New House I Built On Minecraft Bedrock(Pocket) Hope U Like It.👍|https://i.redd.it/v0nh2y0mj6941.png|YungeenWhip|False|https://redd.it/ekvvaz|6|0.71|0|6|0|minecraft
+ekmy0f|2020-01-06 01:58:01|Kookaburra in an old gum tree.|https://i.redd.it/o2sstfxwe2941.png|FlamingJark|False|https://redd.it/ekmy0f|76|0.93|0|9|0|minecraft
+ekoefp|2020-01-06 03:53:52|I was fed up of seeing the dull old section of the nether whenever I stepped through. So I created this embarkation room with hidden crafting and storage features. [snow & cyan terracotta]|https://i.redd.it/tw7ftpqnz2941.jpg|Roy-Smash|False|https://redd.it/ekoefp|55|0.97|0|8|0|minecraft
+eknmxv|2020-01-06 02:52:09|my ceramic box project, I didn’t put enough of the brown dirt glaze|https://i.redd.it/mxmchm7no2941.jpg|kylewalkerj|False|https://redd.it/eknmxv|65|0.93|0|5|0|minecraft
+el0qrw|2020-01-06 21:35:07|New chunk generation and the search for bees.|"I have a world which was created in 1.14 and I am pretty invested in it. I am almost certain that travelling outside of   
+old chunks will generate new chunks, but what I am uncertain about is the possibility of these new chunks containing elements from the latest patch (1.15) , specifically bees. I searched the wiki and found some evidence that this may be possible, but I don't want to use external software to update existing chunks. Does anyone have a definitive answer regarding new chunk generation and those new chunks containing elements of the most recent patch despite the world being created in an older version?"|Grandpavape666|False|https://redd.it/el0qrw|2|1.0|0|6|1|minecraft
+ekpx2j|2020-01-06 06:10:59|My server´s hub entrance :D, i loved it <3|https://i.redd.it/419nr1w3o3941.png|DerEisendrache68|False|https://redd.it/ekpx2j|39|0.93|0|3|0|minecraft
+ekfdoj|2020-01-05 16:44:33|Look what I drew on a glass|https://i.redd.it/3hkqbno8oz841.jpg|Neepi_|False|https://redd.it/ekfdoj|412|0.97|0|13|0|minecraft
+ekrj31|2020-01-06 08:59:11|I was messing with redstone in my testing world and I made (probably) a randomizer, using only redstone dust, redstone torches and blocks, the redstone lamp is output (There are surely a more compact ways to build a randomizer, I just though this looks nuts :D).|https://v.redd.it/edm47ogdh4941|FeedTheMEe|False|https://redd.it/ekrj31|22|1.0|0|4|0|minecraft
+el0mgm|2020-01-06 21:26:50|Hello :)|I am new to this subreddit and a long time ago I played this game on mobile but it was hacked and my first version was 0.11.1 in 2014. And a year later I deleted it because I got bored and this December I bought the original version on Play Store and was surprised by the game by the things I hadn't seen in the versions I've known (0.11.1 - 0.14.1) and I liked the game again|Loco_2005|False|https://redd.it/el0mgm|2|0.75|0|0|1|minecraft
+ekqomf|2020-01-06 07:27:13|Little underwater pond thingy I made. Sorry about the bubbles, couldn’t figure out a way to get rid of them in PE|https://i.redd.it/q6uu1lin14941.jpg|notareddituser101|False|https://redd.it/ekqomf|26|0.92|0|5|0|minecraft
+eksal9|2020-01-06 10:23:14|This is a build I'm working on on my ps4, it's the second base out of 4 that I'm building with 4 different themes. In this shot here you can see a long tunnel with a light at the end. That light is the overworked. (the tunnel starts inside the ocean monument I'm standing in and ends above water)|https://i.redd.it/oamhsvy3x4941.jpg|Caturtle_21|False|https://redd.it/eksal9|16|0.95|0|3|0|minecraft
+ekgxf1|2020-01-05 18:33:47|A wireframe steve|https://i.redd.it/oc89zggc70941.jpg|CraftBox|False|https://redd.it/ekgxf1|278|0.96|0|12|0|minecraft
+ekx9tn|2020-01-06 17:32:52|Hey guys i really need advice for connecting places using nether portals , so pls answer||dynamite10x|False|https://redd.it/ekx9tn|4|1.0|0|7|1|minecraft
+ekx6g2|2020-01-06 17:25:59|My little observatory|https://i.redd.it/5r192t7h07941.png|Fizzy47|False|https://redd.it/ekx6g2|5|0.72|0|0|0|minecraft
+ekvcqv|2020-01-06 15:11:34|Screenshot of a pretty large and ambitious project me and a friend (YologirlTV) have been working on for the past 3 months... this is only the surface (quite literally as there is something much MUCH larger underground)|"&#x200B;
+
+https://preview.redd.it/0wws7wwac6941.png?width=1920&format=png&auto=webp&s=9010d56fc7a982e271a84390e79a9c6484338f16
+
+https://preview.redd.it/vv68sjxac6941.png?width=1920&format=png&auto=webp&s=84719adf14ce8b28149001978f961d79ce5df0e1
+
+https://preview.redd.it/hx75nkudc6941.png?width=1920&format=png&auto=webp&s=e41fcb1788d859d0625742b3e36720647c7ac333
+
+[Here's a small peak at what's below. this extends much further away.](https://preview.redd.it/l7tp731bd6941.png?width=1920&format=png&auto=webp&s=20f51a2af54ae1f7d9b561c813918880ed7acd79)
+
+&#x200B;
+
+This is all still a work in progress, and probably won't be done for another year or so just from the massive size of the project and the fact that there are only two people working on it with time constraints."|nserngadichaiwi3|False|https://redd.it/ekvcqv|7|0.86|0|1|1|minecraft
+eknn9e|2020-01-06 02:52:52|I put 20 pages of the Bee movie script in a book|https://v.redd.it/bmwr4p9mo2941|ItsAlwaysYannis|False|https://redd.it/eknn9e|53|0.92|0|5|0|minecraft
+ekezuw|2020-01-05 16:17:02|When there is raid going on but the rave is real...|https://v.redd.it/a73rlee9jz841|Bardowing|False|https://redd.it/ekezuw|410|0.99|0|8|0|minecraft
+ekjdbi|2020-01-05 21:32:30|Me trying to get the on a rail achievement (travel 500 blocks in a minecart)|https://v.redd.it/su08cqcj31941|Jonathsans|False|https://redd.it/ekjdbi|148|0.92|0|23|0|minecraft
+ek9lx9|2020-01-05 07:01:07|House on an island I made|https://i.redd.it/i8fla7f5sw841.jpg|SMCS2201|False|https://redd.it/ek9lx9|4425|0.99|0|35|0|minecraft
+el05k1|2020-01-06 20:54:41|What is the hardest style to build in?||somethingnamelike|False|https://redd.it/el05k1|2|0.75|0|6|1|minecraft
+el03q2|2020-01-06 20:51:00|I need help|So i created a world in 1.15 and for a while i have been playing on it. But then i decided to go back to 1.14 and try a shader  (optifine) and when i  got in to the world all progress i  had maked was all gone. and first i thought i was not a big deal, so i went back to the current edition of minecraft. but it is here the problem appered, when i got in to the world my progress was again  all gone and now i have no idea what i am supposed to do?|KattenLeif|False|https://redd.it/el03q2|2|1.0|0|2|1|minecraft
+ek98bp|2020-01-05 06:19:51|Took 1 hour but I did it|https://i.redd.it/pj21ufzqkw841.jpg|wibble1234|False|https://redd.it/ek98bp|6390|0.98|1|85|0|minecraft
+ekqfdw|2020-01-06 07:00:57|This hot air balloon i made|https://i.redd.it/yp30vy51x3941.png|tobiasgamer1234|False|https://redd.it/ekqfdw|25|0.83|0|0|0|minecraft
+ektyww|2020-01-06 13:11:38|I Save the Village|https://i.redd.it/g3lzusr4r5941.jpg|sim_t3n|False|https://redd.it/ektyww|6|0.69|0|2|0|minecraft
+ekzzjt|2020-01-06 20:43:07|Minecraft stops loading...HELP!!!! pls|Hey!! I have an issue with my Minecraft launcher or loading screen. The red loading bar gets to about 90% then just stops. I have tried to uninstall and reinstall but nothing I have tried worked. the most amount of time that I have waited for it to load is around 3 hours.|Montna|False|https://redd.it/ekzzjt|2|1.0|0|0|1|minecraft
+eklb54|2020-01-05 23:54:03|I’ll probably never hit a shot this good again.|https://v.redd.it/dvn9s9fus1941|RusseyG801|False|https://redd.it/eklb54|95|0.89|0|7|0|minecraft
+ekwnns|2020-01-06 16:49:19|I got a survival world and don’t know what to put In it any ideas||zakmorgan2005|False|https://redd.it/ekwnns|4|0.81|0|4|1|minecraft
+ekzuue|2020-01-06 20:34:12|Help with my villager breeder 1.15|"I set up a simple villager breeder in 1.14 and it worked really well. So I updated to 1.15 and now my villagers keep getting out of their beds and trying to pathfind to some of the 'decoy' beds I use to get them to breed. 
+
+I've tried breaking and replacing beds. But they'll literally wake up in the middle of the night and try and get to the decoy beds as soon as I place them. 
+
+Now they won't breed. Both have full food and try and instigate breeding with hearts and all but the other refuses. Weirdly both can try and instigate and the other refuses. The whole thing seems bugged out. I thought in 1.15 they were meant to be better at remembering their points of interest."|the_hucumber|False|https://redd.it/ekzuue|2|1.0|0|0|1|minecraft
+ekixjh|2020-01-05 20:52:44|Minecraft world drawing :)|https://i.redd.it/x69hdhziw0941.png|ImJustACoolGuy1|False|https://redd.it/ekixjh|159|0.95|0|7|0|minecraft
+ekr50i|2020-01-06 08:16:22|so I built the reddit snoo head in minecraft, since someone else has built the 4chan logo.|https://i.redd.it/dve6qe5da4941.png|iTuschel|False|https://redd.it/ekr50i|19|0.89|0|3|0|minecraft
+eknfk6|2020-01-06 02:36:19|A Greenhouse I made a bit ago.|https://i.redd.it/vzgljsgkl2941.png|Jtkuvsmu|False|https://redd.it/eknfk6|50|0.95|0|3|0|minecraft
+ekzp9h|2020-01-06 20:23:20|I cant make plugins work in my server|Im trying to make a server with mods and plugins (minecraft bukkit 1.12.2) and my plugins dont work any idea of the issue??|Pchaoz|False|https://redd.it/ekzp9h|2|1.0|0|4|1|minecraft
+ekzlpy|2020-01-06 20:16:29|Converting mushroom biomes in 1.15|"So since water doesnt make mycelium turn into dirt anymore... whats the best way toturn mushroom islands into grass
+
+edit: without having access to commands"|TickoTicko-Nii|False|https://redd.it/ekzlpy|2|0.76|0|1|1|minecraft
+ekxokk|2020-01-06 18:02:36|U can keep leashed animals when switching to spectator|"&#x200B;
+
+https://preview.redd.it/grda8pz867941.png?width=1920&format=png&auto=webp&s=a116b86d389654ef07a5644945ebe65e6826e778"|IknowRedstone|False|https://redd.it/ekxokk|3|1.0|0|0|1|minecraft
+ekml8v|2020-01-06 01:30:29|Minecraft's structure generation is going haywire|https://i.redd.it/lhrqlgvs92941.png|IronicBush|False|https://redd.it/ekml8v|68|0.96|0|7|0|minecraft
+ekjv8s|2020-01-05 22:12:05|I wrote 128 commands so that I could build mega structures with reflections without having to repeat anything|https://v.redd.it/xcg3p66aa1941|shoulderlizard|False|https://redd.it/ekjv8s|112|0.98|0|11|0|minecraft
+ekdbra|2020-01-05 13:58:47|Made this clock in year 5 woodwork(when I was 10) and still use it today, 6 years later.|https://i.redd.it/m5y7kc1ouy841.jpg|BongoCat777|False|https://redd.it/ekdbra|539|0.98|0|13|0|minecraft
+ekxlx1|2020-01-06 17:57:12|How do you make a server?|My boyfriend and I are trying to make a server so we can play together with increasing difficulty. We can’t figure it out. He’s trying to make one on 1.7.2 so his laptop doesn’t die from lag and google hasn’t been helpful in the slightest. Help us please|DragonRider7710|False|https://redd.it/ekxlx1|3|0.71|0|11|1|minecraft
+ekxlma|2020-01-06 17:56:33|Is there any way to move minecraft java world files to my bigger 2 tb hard drive?|my main boot ssd is nearly full and this would help me allot|PureFandomonium|False|https://redd.it/ekxlma|3|1.0|0|1|1|minecraft
+ekdv2j|2020-01-05 14:46:44|The start of my mega block house with the normal size blocks version|https://i.redd.it/g04h3u683z841.jpg|aaahhhh_-|False|https://redd.it/ekdv2j|456|0.99|0|24|0|minecraft
+ekzad5|2020-01-06 19:55:14|Launching a URL with Minecraft?|Is it possible to run a Minecraft server which would help you navigate a webpage? Like if you clicked on a particular block it would pop up a web browser taking you to say a photo gallery?|arfbrookwood|False|https://redd.it/ekzad5|2|1.0|0|2|1|minecraft
+eknpxd|2020-01-06 02:58:53|Minecart bubble column lift exit|https://v.redd.it/dsi2o7hun2941|KahyKhan|False|https://redd.it/eknpxd|49|0.96|0|3|0|minecraft
+ekz4gj|2020-01-06 19:44:22|How to get a nice seed?|"I’ve been playing Minecraft since 2011 and have always wanted to make a cool ass build.  The problem is that I can never find a good seed and if I use one from online it almost never works.
+
+Any suggestions are appreciated :^)"|iAppleGod420|False|https://redd.it/ekz4gj|2|0.76|0|4|1|minecraft
+ekx924|2020-01-06 17:31:22|For some reason, paintings can be destroyed in adventure mode, even while holding a sword. (Bedrock edition)|I'm making an adventure map/mini game with hidden rooms and hiding spots, and I continuously need to replace broken paintings, as they break instantly when hit in adventure mode.  They're pretty unusable in adventure maps at this point.|IslandIdiot|False|https://redd.it/ekx924|3|1.0|0|4|1|minecraft
+ekyxzi|2020-01-06 19:32:06|ps4 bedrock not letting me play infinity skyblock which i own?|i click on my world templates and it says initiating world template then puts me back on my world templates i have tried restoring licences and still does the same thing any help??|CanHeOrKante|False|https://redd.it/ekyxzi|2|1.0|0|0|1|minecraft
+ekdmj5|2020-01-05 14:25:48|Me and my friend was looking at our old legacy worlds when we found this noice pixel art.|https://i.redd.it/dx5v3xjhzy841.jpg|applemoose69|False|https://redd.it/ekdmj5|437|0.98|0|21|0|minecraft
+eku6wg|2020-01-06 13:32:48|What version should I use for modding?|Title|Nihilist_123|False|https://redd.it/eku6wg|4|0.88|0|5|1|minecraft
+el26ra|2020-01-06 23:16:09|Best way to travel quickly with limited resources?|"Haven't played minecraft for a couple years. Got a switch for christmas, bought MC and my first world put me sin a cluster of very small islands. I have access to rock and trees. I dont want to create a new world. 
+
+Is a boat my best bet to get to a large land mass? I've died once already due to being stranded with limited resources. Not even sure which direction to head in."|DiscoDownTonight|False|https://redd.it/el26ra|1|1.0|0|1|1|minecraft
+eku69j|2020-01-06 13:31:11|Bad Omen: Can it only be earned once per Pillager Outpost?|"I found a pillager outpost close to a village and was estatic, I dreamed of triggering pillager raids regularly.
+
+After my first raid (level 1 - because I had no idea it had multiple levels), I have not been able to find a single banner pillager at the outpost. Is this normal for Bedrock edition?
+
+Edit: I know the ""Bad omen"" can be earned many times, but can the raid pillager spawn at the OUTPOST multiple times?"|Kenji_03|False|https://redd.it/eku69j|6|1.0|0|12|1|minecraft
+el257w|2020-01-06 23:13:08|Minecraft insomnia build part 2 western green cabin castle|http://imgur.com/gallery/kSdXgJG|KI6WBH|False|https://redd.it/el257w|1|1.0|0|0|0|minecraft
+ekx0x9|2020-01-06 17:14:50|Why is my realm lagging so much?|"I’m in Xbox one and I’m on the bedrock version...
+I afk all night and come on after work and for some reason everything is take 30 seconds to react"|Duggiedrop|False|https://redd.it/ekx0x9|3|1.0|0|0|1|minecraft
+el22bq|2020-01-06 23:07:20|When is the next update coming out ?||Angor-rot|False|https://redd.it/el22bq|1|0.6|0|4|1|minecraft
+el202m|2020-01-06 23:02:46|cant find end portal|im in  the stronghold at XYZ: 568, 35, 962. if any knows a website i can use to find the exact location of the portal or can go in  and find it in creative or something that would be very helpful. im on ps4 btw v1.14.1|SlikeyBliest|False|https://redd.it/el202m|1|1.0|0|0|1|minecraft
+el1xzu|2020-01-06 22:58:43|Pillager update!!!|https://i.redd.it/hdypk2wvn8941.jpg|420uwuwotsthis666|False|https://redd.it/el1xzu|1|0.6|0|0|0|minecraft
+el1x3x|2020-01-06 22:56:57|How do I fix this Replay mod interface problem?|https://i.redd.it/3sdpwtcjn8941.png|RandomBuilderinMC|False|https://redd.it/el1x3x|1|0.6|0|0|0|minecraft
+el1wfk|2020-01-06 22:55:36|Wine in minecraft?|Is there anyway to make wine or some kind of drink in minecraft without a mod? So far I only know to add water and sweet berries to a barrel. But idk if that will actually work|emoji152712|False|https://redd.it/el1wfk|1|0.67|0|2|1|minecraft
+ekgw6q|2020-01-05 18:31:30|Took about a day, and it’s not all of them, but I have potion recipes|https://i.redd.it/43009keb70941.jpg|d_money_123|False|https://redd.it/ekgw6q|188|0.99|0|29|0|minecraft
+el1vma|2020-01-06 22:53:57|Where should I afk for my iron farm|Yo, I just built [Docm's iron farm](https://www.youtube.com/watch?v=POTL0MiYqDc) and I'm wondering where I should afk for maximum results. Should I build a platform way up above it or just stay at ground level?|xJacon|False|https://redd.it/el1vma|1|1.0|0|1|1|minecraft
+ekykjc|2020-01-06 19:05:30|Sigh...|Today I tried to trade w/ an iron golem -\_-|Cheeseman1928|False|https://redd.it/ekykjc|2|0.67|0|2|1|minecraft
+ekqido|2020-01-06 07:09:23|So uh I’ve lost my world along with my motivation to play.|https://i.redd.it/bciemz6jy3941.jpg|InsanePenguin37|False|https://redd.it/ekqido|17|0.82|1|6|0|minecraft
+el1tpo|2020-01-06 22:50:23|i need help with a mcpe addon|i was going to add ghost blocks to minecraft, i noticed that entities have a collision setting, do blocks? if not, does anyone know how to achieve this?|devil-ranger|False|https://redd.it/el1tpo|1|1.0|0|0|1|minecraft
+el1tib|2020-01-06 22:49:57|Started a new world on Minecraft mobile after getting a new phone. Always been a fan of the underground home with a nondescript enterance. (2 hours work, WIP)|https://v.redd.it/c0s86vn9m8941|TheTasteOfThePoision|False|https://redd.it/el1tib|1|0.67|0|0|0|minecraft
+ekki11|2020-01-05 22:56:24|My first world. I lost this due to file corruption|https://i.redd.it/eg5r17bli1941.jpg|Roy-Smash|False|https://redd.it/ekki11|80|0.95|0|14|0|minecraft
+ekyi4e|2020-01-06 19:00:39|Trouble defeating an Ocean Monument|"Hello everyone ! 
+
+As said in the title, I have troubles to defeat a Monument. I already found 2 elder guardian, but I'm unable to find the last one. I already spent 6 potions of water breathing. It becomes ridiculous and I almost died once. 
+
+It's the first time I raid a Monument. To you guys have an idea to help me finding the last one ? I thought that I could place carpets on the ground where I went... But obviously you can't put carpet under water. 
+
+Thanks in advance :)"|JohnnyPlasma|False|https://redd.it/ekyi4e|2|1.0|0|6|1|minecraft
+el1lq8|2020-01-06 22:34:39|Need help with Forge and Optifine|Need help trying to use both forge and optifine at the same time, can use one at a time but not both and I think its because I cannot fine the optifine download optifine 1.14.4 hd u f4 pre2, if someone has it please link it but using the normal Optifine link I couldn't find it.|chogma|False|https://redd.it/el1lq8|1|1.0|0|2|1|minecraft
+ekwgiy|2020-01-06 16:35:12|Minecraft FPS dipping below 10 for no reason all of the sudden|After playing Minecraft yesterday, at 50fps avg, I logged on today and it's inexplicably hitting 10-1fps and I can't find a fix anywhere, I've re installed it, allocated more ram and all but nothing|Liguareal|False|https://redd.it/ekwgiy|3|1.0|0|5|1|minecraft
+el1kmj|2020-01-06 22:32:34|Is it possible to have forge mods on while using optifine?||foggyyyy0|False|https://redd.it/el1kmj|1|1.0|0|2|1|minecraft
+ekv65a|2020-01-06 14:57:20|Zombies dont pick up items?|Do zombies not pick up items anymore in 1.15? I cant get any zombies to equip anything I drop near them or even be forced to by using a dispenser. I took forever building an iron farm that kind of hinges on making the zombie non-despawnable|ceaserislonely|False|https://redd.it/ekv65a|4|1.0|0|5|1|minecraft
+eky892|2020-01-06 18:41:31|Heads up: Memory/RAM usage spiking when joining a server while using a resource pack? Solution here:|"Hi all. I've been trying to fix the issue of bizarre memory usage (16GB+) on client side when joining a server that was very hard to explain. On single player, everything worked fine and used at most 4 to 5G ram, but on the (very small-scale) server it spiked to 16GB and higher making it basically unplayable. (In this case, the texture pack was Default 3D Medium)
+
+After a solid few hours I found the reason, I was running OrebFuscator plugin to battle X-Raying, but this also means radically increasing the amount of ""ores"" around the player. Running something like a 3D resource pack results in making all ores 3D textured, and thus using a lot of memory. Disabled the plugin on the server and now it works fine."|IntroDucktory_Clause|False|https://redd.it/eky892|2|1.0|0|0|1|minecraft
+ekrikm|2020-01-06 08:57:35|I love how this turned out.|"&#x200B;
+
+https://preview.redd.it/a6phffqoh4941.png?width=1920&format=png&auto=webp&s=d4adb67e68f8d208a75c06151cca16846615f34d"|FearTheVoid111|False|https://redd.it/ekrikm|13|0.88|0|0|1|minecraft
+eknhe3|2020-01-06 02:40:12|A sunset shot of my first pyramids, just a small tribute to my heritage.|https://i.redd.it/47ifeqmim2941.png|Tapia355Angel|False|https://redd.it/eknhe3|34|0.89|0|0|0|minecraft
+el1gio|2020-01-06 22:24:23|Is my old license invalid?|I hadn't played Minecraft since 2015ish I think. I logged in this morning, fiddled around with it and thought I would take it up again as a hobby. When I loaded it a second time it installed an update now it's asking me for a user name and password I never had to give it before. Is there some way to find the license I had for the game in the software and get an account set up with it or do I have to buy it again, because I'm not. I don't want to play it online, I never did the fact the game has been changed to try and force me to play online pisses me off.|Usdom|False|https://redd.it/el1gio|1|0.67|0|6|1|minecraft
+ekibl7|2020-01-05 20:10:49|Me and my friends after beating the ender dragon legitimately for the first time (Im the one on the bottom right)|https://i.redd.it/iwc9jci1p0941.png|Vandetta231|False|https://redd.it/ekibl7|127|0.94|0|18|0|minecraft
+eky3d6|2020-01-06 18:31:47|Idea's for a scale version of Earth server with different towns/cities|"Let's have a casual conversation about this idea.
+
+So I have been thinking after reading some comments and posts on the subreddit. Imagine how awesome it would be to run a huge server with many people in that create a world.
+
+But a world that has separate towns/cities that need to form bonds and trade links in hopes to help each other's towns/cities to be friendly with each other.
+
+It could be modded to add more agricultural or mining aspects and maybe some rare items/ores to help the flow of the economy.
+
+A conflict could arise with a war brewing out between cities/countries that could end in disaster. A big server for this would be absolutely amazing, talk about this below to give me and other people ideas!"|CoreyReynolds|False|https://redd.it/eky3d6|2|0.75|0|3|1|minecraft
+el1cjq|2020-01-06 22:16:42|I made a nocturnal library|https://imgur.com/a/BrFuiHi|fearlessDreamer2|False|https://redd.it/el1cjq|1|1.0|0|0|0|minecraft
+ekqqke|2020-01-06 07:33:06|Smoker-Powered Smelter array Hot tub|https://i.redd.it/ak5h0jfn24941.png|RedstoneplaysMC|False|https://redd.it/ekqqke|17|0.92|0|0|0|minecraft
+eky1vu|2020-01-06 18:28:44|Twitch Mod Error: I was trying to play SkyFactory4 and Engineer's Life mods and both of them gave me thisbl error. Anyone know why?|https://i.redd.it/rki2jjqqb7941.jpg|Luciano3601|False|https://redd.it/eky1vu|2|0.67|0|1|0|minecraft
+el1az6|2020-01-06 22:13:39|Can a resource pack be used to make blocks look like an end portal or gateway?|I noticed that the end portal texture isn't JUST an animated texture, but seems to be the same texture overlayed and tilted inside the block like looking into a window or something. Can a resource pack make other blocks have this effect? I want to make a painting do this in my resource pack but I kind of doubt it's possible.|Xbxbxb123|False|https://redd.it/el1az6|1|1.0|0|0|1|minecraft
+ekuzfa|2020-01-06 14:41:58|Question to my fellow PS4 Minecrafters|So my girlfriend bought the traditional Skyblock map (The one with the automated cobblestone miner and lucky blocks/lucky spades), and was wondering whether anyone on here can either tell me or provide me with the a link telling what all the possible drops that come out of the lucky blocks are. As we were hoping to get a multitude of things that we're not sure whether we can get through the lucky blocks or not. I've been searching on the internet for an answer but there's absolutely nothing. Thanks in advance.|TIIG3Rr|False|https://redd.it/ekuzfa|4|1.0|0|3|1|minecraft
+ekoetx|2020-01-06 03:55:01|Who likes this ship I built|https://i.redd.it/012gg8nuz2941.jpg|potato_godgamez|False|https://redd.it/ekoetx|29|0.8|0|5|0|minecraft
+ekq3mu|2020-01-06 06:28:29|I do that farm of potatoes in a Argentinian server (i'm from argentina) and this is the result, enjoy it :)|https://i.redd.it/t1f3qnf2q3941.png|Sanjuanino_|False|https://redd.it/ekq3mu|17|0.96|0|6|0|minecraft
+ekn2p7|2020-01-06 02:08:08|Football Stadium 🏟|https://i.redd.it/31b74ynsg2941.jpg|LdnOwen|False|https://redd.it/ekn2p7|36|0.9|0|9|0|minecraft
+eksykn|2020-01-06 11:33:30|Just a small example of my screen flickering, it does a lot more, just couldn’t snap it. Unsure how to fix it, please help|https://i.redd.it/il96dspn95941.jpg|ballinisahabitlol|False|https://redd.it/eksykn|7|0.75|0|7|0|minecraft
+eku1o9|2020-01-06 13:18:45|Render distance problems in realms|My friend bought minecraft java and got the free month realm trial. Everything works well except the render distance is very low. When i played the free trial with my friends a few months ago, this wasn't a problem. Wasn't the rendering improved in 1.15? Why does it do the opposite? Everything works fine in singleplayer but in realms i can see like 3 chunks in front of me.|Kupp1|False|https://redd.it/eku1o9|5|1.0|0|2|1|minecraft
+ekutjf|2020-01-06 14:28:20|Can minecraft worlds made on ps4 be transferred and played on PC?|i was just wondering if this would be possible as i want play a world that i made on my ps4 on my pc|Shorty__23|False|https://redd.it/ekutjf|5|0.84|0|3|1|minecraft
+el12wu|2020-01-06 21:58:16|What is a blue wither skull?|I just learned about blue wither skulls. I’m quite a big fan and have no idea how their existence has evaded me for so long. What do they do? How do you get them? Is there any other useful information or properties about them? Sorry for any inconvenience and thank you in advance.|FattiBombatti|False|https://redd.it/el12wu|1|0.67|0|5|1|minecraft
+el12nh|2020-01-06 21:57:46|Can't change skin color in ps4 character creator|I am unable to reach the color palette necessary to change my skin color thanks to our new UI. Am I doing it wrong or is it bugged?|Timewornheart|False|https://redd.it/el12nh|2|1.0|0|0|1|minecraft
+ekxstr|2020-01-06 18:10:50|What is this grid-like ground texture? Is it my texture pack or some weird setting? It's a bad picture but in-game I can see through the ground and it's very irritating.|https://i.redd.it/9ke6833487941.png|Skelligrock75|False|https://redd.it/ekxstr|2|0.67|0|6|0|minecraft
+ektciv|2020-01-06 12:12:09|🎵 Hello from the other side 🎵|https://i.redd.it/t4ti6x0gg5941.png|IAmSuave|False|https://redd.it/ektciv|7|0.65|0|1|0|minecraft
+ektx4f|2020-01-06 13:06:52|Fatal errored the switch|"Getting bored with manually mounting a platform of sand I used the fill command but instead of typing five blocks I typed 50.
+
+The equivalent cube was 27, 000± blocks affected. Minecraft froze for about 20 minutes and then the switch had a fatal error and had to reset."|KI6WBH|False|https://redd.it/ektx4f|5|1.0|0|4|1|minecraft
+ekvw6j|2020-01-06 15:52:51|My screen turns off from time to time and i don't know why|I have a new PC with a Ryzen 5 3400G, a GTX 1660Ti and 8GB RAM, which in theory should be more than enough, and it is when it comes to fps, but then i get those random moments when my screen just turns off for like 2 seconds and then turns back on. It only happens while i'm playing MC, i've tested it with other games and it didn't happen. Do someone know what could be the cause? It's really annoying.|GomezGP|False|https://redd.it/ekvw6j|3|0.8|0|14|1|minecraft
+ekvvch|2020-01-06 15:51:05|How can i make an iron golom farm on ps4|"I am unable to find anything recent. And it seems villager mechanics are very different on ps4.
+
+So. can someone maybe link or explain what the best way is to make an iron golom farm?"|ThisIsJegger|False|https://redd.it/ekvvch|3|1.0|0|5|1|minecraft
+el0w3g|2020-01-06 21:45:15|long winded port question (Ps4 to computer)|so simply put im asking if i have minecraft on ps4, which has recently updated to bedrock edition, does that mean the microsoft acccount thats connected to allows me to get minecraft for computer?|Valtor02|False|https://redd.it/el0w3g|1|0.67|0|2|1|minecraft
+ekr3bg|2020-01-06 08:11:30|My house irl (not done yet)|https://i.redd.it/yhlipvqk94941.jpg|Greypork|False|https://redd.it/ekr3bg|13|0.83|0|6|0|minecraft
+el0s6d|2020-01-06 21:37:47|Possible end rod changes|"End rod ideas/changes
+
+Possible changes for end rod
+• base changes to color of block.
+• glow changes to have slight color of block placed on. 
+• base goes on any block (multiple bases this also could revert color changes or mix them.)
+• end rod is a straight line if in between two other end rods and changes color according to other rods.
+
+These are the only changes I could think of so if any other changes possible pls comment.
+
+
+From comments: right angles so sharp turns (can place two end rods in block space and will connect at middle plus cut off any hanging bits"|insertname13579|False|https://redd.it/el0s6d|0|0.5|0|0|1|minecraft
+ekrb8c|2020-01-06 08:35:08|my game keeps crashing... idk what this is, but it does this right before it crashes. in fact, my entire pc has been acting up. it will shut down all of my programs, freeze, and then give me a black screen. i have to hard reboot by taking away the power, only for it to do it again in an hour... help|https://i.redd.it/9h8sdy1td4941.jpg|sp00kee_b0y|False|https://redd.it/ekrb8c|11|0.83|0|17|0|minecraft
+ekxg4n|2020-01-06 17:45:31|Any good alternatives to chunkbase?|I've gone thousands of blocks on my survival seed  looking for a desert. I'm starting to think this seed may be cursed. I'm also playing on bedrock|msuired|False|https://redd.it/ekxg4n|2|1.0|0|3|1|minecraft
+ekhrp5|2020-01-05 19:33:01|Almost done with a painting for my mine and my gf's 1-month anniversary! I hope she likes it!|https://i.redd.it/90t2qf19i0941.jpg|chaoticneutraldoggo|False|https://redd.it/ekhrp5|118|0.95|0|11|0|minecraft
+ekoerr|2020-01-06 03:54:49|I’m only a few days into my new world and I would say it’s coming along nicely. I want to make a Easter island head on the coast as well.|https://v.redd.it/fuugmbd1y2941|Meeepster|False|https://redd.it/ekoerr|24|0.94|0|8|0|minecraft
+ekvi1f|2020-01-06 15:22:42|LF advice on modding 1.12|"Hey guys! I always played on vanilla, but now I'd like to try a heavily modded 1.12 playthrough and could use your suggestions, 'cause I'm out of the loop on mods.  
+
+I'm looking for singleplayer hardcore adventure mods, like Aether II and RLCraft. Are they compatible? What other mods do you recommend that can be used along those? Are there mods with combat overhaul, like new attacks or weapon types? What about large content expansion mods like Aether? Thanks in advance."|Lambbda|False|https://redd.it/ekvi1f|2|0.8|0|1|1|minecraft
+el0ik6|2020-01-06 21:19:29|Help me make the perfect Homebase relocation pack|"Due to encroachment from our neighbors, my buddy and I are relocating our minecraft operations and plan on going on a grand exploration adventure to relocate our operations in a fresh and exciting new environment free of other players being too close for comfort.
+
+We are trying to minimize the amount of set up so all we meed to do is build. Right now we are bringing
+
+* 30 Bookcases
+* Enchanting Table
+* All iron, gold, diamonds, reddtone, lapis, and emeralds in their block forms
+* A stack of all seeds we've gathered (Melon, Pumpkin, Wheat, Beets, Carrots, Potatos, and Sugarcane)
+* A stack of oak and spruce tree saproilings
+* A stack each of oak and spruce logs
+* A stack of cobblestone each
+* A stack of coal blocks
+* A stack each of dirt
+* An anvil
+* 2 stack each of cooked beef
+* Tools: Mending Pickaxe, Sword, Axe, Fishing Rod
+* A stack each of torches
+* Bucket of Water each
+* A boat
+
+Is there anything major that I'm missing?"|DelicateJohnson|False|https://redd.it/el0ik6|1|1.0|0|1|1|minecraft
+el0go6|2020-01-06 21:15:49|"A title | Ft. CuteGirlPuff99"|https://www.youtube.com/watch?v=svLUaKbiSQ8&feature=share|Bosrosb|False|https://redd.it/el0go6|0|0.5|0|0|0|minecraft
+el0gnh|2020-01-06 21:15:46|Server hosting companies|Are there any good server hosting websites you guys know? I heard mcprohosting might be bad? Any ideas?|Fookinlazahsights|False|https://redd.it/el0gnh|1|0.67|0|3|1|minecraft
+ekl8fm|2020-01-05 23:48:41|Oshimizu-ki temple, Chiba (this isn’t real)|https://i.redd.it/f4z0372xr1941.jpg|an_anime_nerd|False|https://redd.it/ekl8fm|52|0.89|0|4|0|minecraft
+ekth2t|2020-01-06 12:23:55|I don't take fall damage, fire damage and can't drown in my Hardcore World? Anyone ever heard of this glitch or know why this is happening?|https://v.redd.it/kncofd5tf5941|RRhinoG|False|https://redd.it/ekth2t|3|1.0|0|12|0|minecraft
+el0brw|2020-01-06 21:06:43|Stuck on Creative world Ideas|I just started a creative world a few days ago and it’s looking pretty good but I’m stuck on ideas. Anything I should make that’s a bit challenging to make.|Ar-to|False|https://redd.it/el0brw|1|0.99|0|0|1|minecraft
+ekhfyx|2020-01-05 19:09:58|Did any of you guys know that baby squids existed?|https://i.redd.it/1o9m1ex6e0941.jpg|Jonathsans|False|https://redd.it/ekhfyx|122|0.95|0|19|0|minecraft
+ekk4jd|2020-01-05 22:30:25|My girlfriend and I began a server and added our friends to it. This is our town progress :)|https://i.redd.it/idtr05xcc1941.png|IJDRI|False|https://redd.it/ekk4jd|67|0.97|0|4|0|minecraft
+el0ag7|2020-01-06 21:04:06|Do I have to buy it again?|Alright so I am on windows 10 and I recently factory reset the computer, and I want to download Minecraft. I already payed for it before I reset, so I signed into my Minecraft account. But I don’t know if you have to buy it again. Can someone help?|livingbleach|False|https://redd.it/el0ag7|1|0.6|0|4|1|minecraft
+ekx219|2020-01-06 17:17:11|Broken Jungle Temple [PS4]|Finally found a jungle temple and when I go in to loot it theres no chests. Not a free one nor a hidden one. I took apart the whole temple and there wasn’t even a dispenser with arrows to fire at me when i tripped the tripwire. Has this happened to anyone else?|ClickMyHero|False|https://redd.it/ekx219|2|1.0|0|2|1|minecraft
+ekx1vc|2020-01-06 17:16:48|My Minecraft still isn’t working.|"Some info:
+•I am NOT running Minecraft Forge at the moment. I am trying to run Minecraft 1.15.1.
+•I have deleted the installer/launcher and reinstalled it.
+•I am not using any mods on this folder.
+•I have restarted my computer.
+•This is Minecraft Java, not the Windows 10 edition.
+
+When I try to load my Minecraft 1.15.1, it stops at around 7/8 in the bar and comes up at the top ‘Minecraft 1.15.1 (Not Responding). This has happened several times and also happened with my Minecraft Forge 1.12.2 (it’s an old build because of the mods I use; if this might be a problem or if anyone has links to 1.15.1 mods or how to get them, all help is appreciated in the replies). 
+
+Does anyone know how to fix this? I haven’t played Minecraft in a few weeks and I got it recently and I really want to play it."|beansforbarry|False|https://redd.it/ekx1vc|2|1.0|0|7|1|minecraft
+eknjym|2020-01-06 02:45:37|Making a lot of progress in the city!|https://i.redd.it/qm75iphhn2941.jpg|flamingo4t|False|https://redd.it/eknjym|32|0.87|0|3|0|minecraft
+ekky7o|2020-01-05 23:28:08|Some old sketch requests of people's Minecraft skins|https://i.redd.it/lyeovki8o1941.jpg|Bnig98JR|False|https://redd.it/ekky7o|56|0.9|0|19|0|minecraft
+ekp59l|2020-01-06 04:59:02|Nether fanart|https://i.redd.it/f6lptx1ab3941.png|WolfDoesSomeReddit|False|https://redd.it/ekp59l|18|0.76|0|1|0|minecraft
+ekr8ak|2020-01-06 08:26:05|Me and the realm spent some time doing 3v3 games tonight in the new battle arena!|https://i.redd.it/1cmzch28c4941.jpg|RusseyG801|False|https://redd.it/ekr8ak|10|0.87|0|3|0|minecraft
+eke01s|2020-01-05 14:59:32|New year new word I just finished my starter base|https://i.redd.it/r7igd2jc5z841.jpg|danana_boi|False|https://redd.it/eke01s|250|0.96|0|8|0|minecraft
+ek5ou6|2020-01-05 01:10:45|So i built a wooden survival house on my minecraft world|https://i.redd.it/9fdng95n1v841.png|soqny|False|https://redd.it/ek5ou6|8774|0.98|1|145|0|minecraft
+ekwurb|2020-01-06 17:03:09|Single Biome World (Java)|"So I made a Single Player Survival World a single Badlands Biome under “customize” before generating the world.
+
+I loaded in (it worked) and I got the seed.
+
+I used that seed for my server and it doesn’t work, I get some random world.
+
+WHY?! I was on 1.14 to create the seed and my server runs on 1.14.
+
+Does anyone have any insight to help us out?"|The_Copper_Shovel|False|https://redd.it/ekwurb|2|0.75|0|6|1|minecraft
+ekwrrl|2020-01-06 16:57:30|Server help|"Ok so I'm trying to make a server, and when im accessing my routers website, is said that I should enter:
+WAN port, LAN port, Source IP and Destination IP. I know that 2 of those should be 25565 (Minecraft server port), but what should the other 2 be?"|Frallex1|False|https://redd.it/ekwrrl|2|0.75|0|2|1|minecraft
+eke2cg|2020-01-05 15:04:41|another view of my village!|https://i.redd.it/5jhft4bf6z841.jpg|deuceshawty|False|https://redd.it/eke2cg|239|1.0|0|8|0|minecraft
+ekfpso|2020-01-05 17:08:37|My mom made creeper peeps for my birthday 6 years ago!|https://i.redd.it/a5aouqfjsz841.jpg|c-davis007|False|https://redd.it/ekfpso|157|0.95|0|9|0|minecraft
+ekr2f3|2020-01-06 08:09:04|im working on a survival world with some friends, getting kinda bored on what to build or create, any ideas?|https://i.redd.it/wei4tmus84941.png|Harrison_13|False|https://redd.it/ekr2f3|9|0.77|0|6|0|minecraft
+ekuy1f|2020-01-06 14:38:43|enchantment suggestion: Hot|"it can be applied to any tool, has one rank and here is what it will do in certain situations:
+
+mining iron or gold ore: will give iron or gold ingots depending on which ore you mine
+
+mining stone: will give smooth stone
+
+mining sand: will give glass
+
+mining cacti: will give green dye
+
+etc etc basically it just smelts what it mines. 
+
+however, when killing animals it gives the cooked version of them, and on swords it gives a slight damage boost
+
+edit: just to clarify the effects would be slightly different depending on the tool, also it would give tools
+a slightly faster mining time when mining metal (e.g iron and gold blocks)
+ and because it feels a bit op, probably only found in book form (like efficency 5)
+
+edit 2: also, hitting ice with this will melt the ice, or possibly it could function like a reverse frost
+walker but only for blocks next to you"|XyZ_MaN|False|https://redd.it/ekuy1f|3|0.58|0|16|1|minecraft
+ekuwh0|2020-01-06 14:35:02|beehive not working?|"Okay i guess im a slight beginner at minecraft as i havent played it in about 5 years, but recently bought minecraft PE
+so im new to all the new-ish mobs like bees!
+
+Im wanting to have bees near my home, so ive planted loads of flowers, trees, and made a bee hive and put it on a tree
+
+but no bees
+I've tried luring bees by holding a flower but no luck, they eventually fly away
+and i dont have silk touch so i cant harvest a natural bee hive
+
+please help me"|rattiehome|False|https://redd.it/ekuwh0|3|0.81|0|4|1|minecraft
+ekraof|2020-01-06 08:33:34|Is this correct? I’m on Switch|https://i.redd.it/zjc6uxqjd4941.jpg|Mr-Cipher-mkay|False|https://redd.it/ekraof|9|0.91|0|11|0|minecraft
+eknqcx|2020-01-06 02:59:51|I decided to beautify my mine|https://i.redd.it/n1p3uws0q2941.png|CrimsonNeuron|False|https://redd.it/eknqcx|24|0.87|0|2|0|minecraft
+ekpncd|2020-01-06 05:45:12|Here is a daylight post of my corrupted world I posted a few hours ago. Such a shame I never got any shots of the courtyard within the trees or the massive underground structures. It was situated directly above a slime chunk.|https://i.redd.it/x8y4gktij3941.jpg|Roy-Smash|False|https://redd.it/ekpncd|15|1.0|0|0|0|minecraft
+ekzp6m|2020-01-06 20:23:11|what does putting a campfire under a beehive do?|ive seen people do it, but like, what does it do? i hope it makes them friendly when i collect honey, because my bees, boss baby and barry b benson, died because they got angry when i took their honey|borb__|False|https://redd.it/ekzp6m|1|0.6|0|4|1|minecraft
+eksysn|2020-01-06 11:34:10|Can my friend play with me in his Wii U?|I play with an xbox one and I am not sure if it is possible.|Angel2605|False|https://redd.it/eksysn|5|0.78|0|16|1|minecraft
+ekzm6b|2020-01-06 20:17:25|Purchased content not working but worked yesterday|i click on my infinity skyblock world templates and it says initiating world template then puts me back on my world templates i have tried restoring licences and still does the same thing any help??|CanHeOrKante|False|https://redd.it/ekzm6b|0|0.5|0|0|1|minecraft
+ekwedn|2020-01-06 16:30:50|Question on item frame locks|"So I've been searching a bit and all I can find is stuff about combination locks so I'll just ask good ol' Reddit
+
+&#x200B;
+
+Is it possible for an item frame lock (or any other lock for that matter) to only work when a specific item is put in? Or is the item frame lock method only to increase a redstone signal on rotation?"|Appelflapjee|False|https://redd.it/ekwedn|2|1.0|0|3|1|minecraft
+ekq869|2020-01-06 06:40:58|GF wanted to play Minecraft, this is what she accomplished!|"I have been playing this game since you could only play it on the browser, she had never played it before I introduced it to her. It is very funny seeing her be overjoyed about the little things (of course the turtles). She doesn't know the controls too well but still enjoys playing.   
+[https://imgur.com/a/Piet3HC](https://imgur.com/a/Piet3HC)"|Skylord_Brebro|False|https://redd.it/ekq869|14|0.85|0|0|1|minecraft
+ekm2va|2020-01-06 00:51:19|By the village, over the wheats|https://i.redd.it/e8ze2fev22941.png|_phantastik_|False|https://redd.it/ekm2va|35|0.94|0|3|0|minecraft
+ekrtbt|2020-01-06 09:31:04|I quickly get burnt out on Minecraft and it's always around the time I start preparing my gear for the Ender dragon.Is there any way to fix this quick burn out?||JonVik68|False|https://redd.it/ekrtbt|6|0.89|0|13|1|minecraft
+ekne4y|2020-01-06 02:33:08|After more than 2 months of this project I finally finished the pillars the water and now I just have to finish the grass and the actual Enderman grinder and then this is finally done. 5 months in on my hardcore world and I think this looks pretty good...|https://i.redd.it/r8fkwx29l2941.jpg|BunnySlimeMan22|False|https://redd.it/ekne4y|26|0.89|0|10|0|minecraft
+ekw6sj|2020-01-06 16:15:02|Minecraft for PC|"Hi! Sorry if I post this on the wrong subreddit  I'm still pretty new at this (I'm also just starting to get into playing on PC).
+
+I'm updating my computer for Windows 10 soon but I don't have it yet. My question is that if I buy and download the Java Edition and later buy the Windows 10 Edition, would I only have to pay the price difference? Or would I have to buy the whole game for full price again?"|witheredutopia|False|https://redd.it/ekw6sj|2|1.0|0|3|1|minecraft
+ekw6b1|2020-01-06 16:14:02|skins wont load|"as you know ps4 recently recieved the bedrock version of the game yet it wont load any skins
+
+i go on the profile and try and select a skin and it loads for ever. its not my internet as i can easily join any game with no lag can we see a patch for this in the future its quite annoying thank you"|dogeboi888|False|https://redd.it/ekw6b1|2|0.76|0|2|1|minecraft
+ekw5sp|2020-01-06 16:12:52|When u reset the nether does the nether portals stay. Would I have to remake the nether portal position for the nether high way||wiscup1748|False|https://redd.it/ekw5sp|2|1.0|0|2|1|minecraft
+ek66mp|2020-01-05 01:51:00|I was playing on my world and catched my fox smoking a blunt. This guy -__-|https://i.redd.it/14ho8tvt8v841.jpg|L3GALC0N|False|https://redd.it/ek66mp|6014|0.97|0|130|0|minecraft
+ekw4l3|2020-01-06 16:10:18|What are some good world seeds?||Mr_Stealyokarma|False|https://redd.it/ekw4l3|2|0.67|0|6|1|minecraft
+ekza2d|2020-01-06 19:54:42|Trouble with running beta 1.8.1|"Hello, I'm using a normal Launcher, I need to run beta 1.8.1 but every time I'm trying to download it, I'm getting this error: 
+
+Failed to download file, the file contents differ from what was expected.  
+Name: jinput-platform-2.0.5-natives-windows.jar  
+URL: https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar  
+Filename on disk: jinput-platform-2.0.5-natives-windows.jar  
+Path: C:\\Users\\Norbi\\AppData\\Roaming\\.minecraft\\libraries\\net\\java\\jinput\\jinput-platform\\2.0.5\\jinput-platform-2.0.5-natives-windows.jar  
+Exists: File   
+
+
+Dunno what to do, every beta (just tried 1.7) is giving me this error, tried deleteing all files from .minecraft but nothing have changed. :/
+
+1.15.1 works fine"|ndy_ndy|False|https://redd.it/ekza2d|0|0.5|0|0|1|minecraft
+ekso58|2020-01-06 11:03:43|Micro biomes|"Okay I've made a killer village. I was just wondering if anyone can answer.
+What would I need to do to size and content wise to make a mini biome near my village to spawn animals such as pandas.(jungle biome)
+
+Is this possible?"|PrebGirl|False|https://redd.it/ekso58|6|0.73|0|5|1|minecraft
+eknqvu|2020-01-06 03:01:04|I told my friend he had to give me a stack of diamonds if I landed the shot :)|https://v.redd.it/m1fqzil7q2941|big_boy_angman10084|False|https://redd.it/eknqvu|22|0.97|0|3|0|minecraft
+ekz614|2020-01-06 19:47:24|Slime Chunk finder|Need to find a slime chunk on my world but I can’t get onto the chunkbase website on my pc or my phone. Is there any other accurate chunk finders on the web?|Ethxn_24|False|https://redd.it/ekz614|1|1.0|0|0|1|minecraft
+eko44d|2020-01-06 03:30:28|My favorite comepletely self-built/ kinda designed (its based off a real house i saw online) house. (modded)|https://i.redd.it/jscrzo87v2941.png|colbyhea|False|https://redd.it/eko44d|18|0.93|0|5|0|minecraft
+ekz3z4|2020-01-06 19:43:31|"Replay MOD Dev said ""there are no plan for 1.15 replay"""|https://twitter.com/CrushedPixel/status/1205576730943066113|Udong|False|https://redd.it/ekz3z4|1|0.67|0|2|0|minecraft
+ekz3rs|2020-01-06 19:43:12|Can you test my minecraft mod|Kill 10 polar bears to get rewarded with somthing|bazalvid|False|https://redd.it/ekz3rs|0|0.5|0|2|1|minecraft
+ekmisr|2020-01-06 01:25:03|cozy little mushroom house i made|https://i.redd.it/rpmalgy392941.jpg|minecraftyeeter|False|https://redd.it/ekmisr|26|0.87|0|1|0|minecraft
+ekvxjn|2020-01-06 15:55:47|Cooked Porkchop VS Golden Carrots|I have villager that sells 5 Cooked Porkchop for 1 emerald, and one that sells 3 Golden Carrots for 1 emerald. I have endless emeralds. Which one should I use?|GL_Gasoline|False|https://redd.it/ekvxjn|2|0.75|0|7|1|minecraft
+ek9ohb|2020-01-05 07:09:18|Why was this skin removed from the default selection on console Minecraft? It was my favorite.|https://i.redd.it/19slj16mtw841.jpg|Kikowani|False|https://redd.it/ek9ohb|909|0.98|0|111|0|minecraft
+ekkk5w|2020-01-05 23:00:38|I was in my Hardcore World and a creeper dropped directly on top of me and killed me. It was a good run, and I'm surprised I lasted this long.|https://i.redd.it/03j0zi26j1941.png|Min3cr4fT4Lif3|False|https://redd.it/ekkk5w|46|0.93|0|12|0|minecraft
+ekvwgo|2020-01-06 15:53:29|Android minecraft GUI is too small, any resource packs for this?|"I'm trying to play minecraft on my phone, which has plenty of power to play, but the gui is too small for my meaty fingers... I tried one that was supposed to add a gui size slider but that was to no avail.. any help would be great, it's just all too small to play right now, I can't select things without multiple tries , and I can't be in combat because i can't swap hotbar items rapidly
+
+
+Thanks for your time"|_Swaby_|False|https://redd.it/ekvwgo|2|1.0|0|1|1|minecraft
+ekz0u9|2020-01-06 19:37:36|Specs for Modded Minecraft?|What are the Minimum computer specs to run minecraft with mods?|dgd863|False|https://redd.it/ekz0u9|1|1.0|0|3|1|minecraft
+eko0at|2020-01-06 03:21:45|Two Ghasts messing each other up|https://v.redd.it/70f64kttt2941|yoctometric|False|https://redd.it/eko0at|20|0.85|0|2|0|minecraft
+ekn2l2|2020-01-06 02:07:54|My city at sunrise|https://i.redd.it/n58eri4rg2941.jpg|FaintPups|False|https://redd.it/ekn2l2|26|0.9|0|8|0|minecraft
+ekvuax|2020-01-06 15:49:06|need help with a really good modloader and stuff i need to make mods work in minecraft|hi im really new to mods on minecraft all i know is dont download viruses lol but i need a good trusty modloader because i got all my mods but i dont know how to load them into the game so help would be appreciated|imsinglehelpme|False|https://redd.it/ekvuax|2|1.0|0|2|1|minecraft
+eku7pk|2020-01-06 13:34:52|RLCraft keeps crashing.|"Here's the full logs.
+
+ 
+
+21:30:29.825  
+Starts to replace vanilla recipe ingredients with ore ingredients.
+
+21:30:29.841  
+Invalid recipe found with multiple oredict ingredients in the same ingredient...
+
+21:30:29.857  
+\[OptiFine\] Version found: D3
+
+21:30:29.864  
+Replaced 1227 ore ingredients
+
+21:30:30.089  
+Searching C:\\Users\\win10\\Twitch\\Minecraft\\Instances\\RLCraft (2)\\mods for mods
+
+21:30:30.966  
+Mod betterfoliage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.2.0
+
+21:30:31.088  
+Mod craftablechainmail is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0
+
+21:30:31.394  
+Mod enhancedvisuals is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+
+21:30:31.408  
+Mod fbp is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.1
+
+21:30:32.062  
+Mod mainmenuscale is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+
+21:30:32.207  
+Using sync timing. 200 frames of Display.update took 214633500 nanos
+
+21:30:32.672  
+Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.0.72
+
+21:30:32.848  
+Forge Mod Loader has identified 123 mods to load
+
+21:30:32.989  
+FML has found a non-mod file gigaherz.commons-1.12.1-0.6.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+
+21:30:34.027  
+Attempting connection with missing mods \[minecraft, mcp, FML, forge, creativecoredummy, itemphysic, ivtoolkit, foamfixcore, tnt\_utilities\_core, adhooks, advanced-fishing, alcatrazcore, antiqueatlas, antiqueatlasoverlay, anvilpatch, aquaculture, armorunder, autoreglib, bacodifficulty, battletowers, baubles, baubleshud, mujmajnkraftsbettersurvival, bettercombatmod, betterfoliage, bloodmoon, bnbgaminglib, bountifulbaubles, campfire, carrots, carryon, chunkanimator, comforts, compatskills, coralreef, corpsecomplex, craftablechainmail, craftablehorsearmour, ctgui, crafttweaker, crafttweakerjei, creativecore, custommainmenu, defiledlands, disenchanter, dldungeonsjbg, dttraverse, dsurround, dynamictrees, enchdesc, enhancedvisuals, familiarfauna, fbp, firstaid, foamfix, foodexpansion, forgeendertech, forgelin, forgottenitems, friendlyendermite, globalgamerules, grapplemod, iceandfire, infernalmobs, inventorytweaks, iseedragons, itlt, jei, levelup2, loadingscreens, lostcities, lostsouls, lycanitesmobs, mainmenuscale, mobends, mousetweaks, multimine, neat, notreepunching, potioncore, potionfingers, qualitytools, realistictorches, reborncore, reccomplex, reskillable, resourceloader, roguelike, roughtweaks, ruins, scalinghealth, sereneseasons, silentlib, sit, somanyenchantments, soundfilters, spartanfire, spartanshields, spartanweaponry, spawnercontrol, stg, switchbow, tanspit, tickprofiler, tnt\_utilities, toolbelt, toughasnails, traverse, xat, trumpetskeleton, tschipplib, tumbleweed, variedcommodities, waystones, wearablebackpacks, wolfarmor, xpfromharvest, xpbook, dshuds, llibrary, orelib, phosphor-lighting, snowrealmagic\] at CLIENT
+
+21:30:34.028  
+Attempting connection with missing mods \[minecraft, mcp, FML, forge, creativecoredummy, itemphysic, ivtoolkit, foamfixcore, tnt\_utilities\_core, adhooks, advanced-fishing, alcatrazcore, antiqueatlas, antiqueatlasoverlay, anvilpatch, aquaculture, armorunder, autoreglib, bacodifficulty, battletowers, baubles, baubleshud, mujmajnkraftsbettersurvival, bettercombatmod, betterfoliage, bloodmoon, bnbgaminglib, bountifulbaubles, campfire, carrots, carryon, chunkanimator, comforts, compatskills, coralreef, corpsecomplex, craftablechainmail, craftablehorsearmour, ctgui, crafttweaker, crafttweakerjei, creativecore, custommainmenu, defiledlands, disenchanter, dldungeonsjbg, dttraverse, dsurround, dynamictrees, enchdesc, enhancedvisuals, familiarfauna, fbp, firstaid, foamfix, foodexpansion, forgeendertech, forgelin, forgottenitems, friendlyendermite, globalgamerules, grapplemod, iceandfire, infernalmobs, inventorytweaks, iseedragons, itlt, jei, levelup2, loadingscreens, lostcities, lostsouls, lycanitesmobs, mainmenuscale, mobends, mousetweaks, multimine, neat, notreepunching, potioncore, potionfingers, qualitytools, realistictorches, reborncore, reccomplex, reskillable, resourceloader, roguelike, roughtweaks, ruins, scalinghealth, sereneseasons, silentlib, sit, somanyenchantments, soundfilters, spartanfire, spartanshields, spartanweaponry, spawnercontrol, stg, switchbow, tanspit, tickprofiler, tnt\_utilities, toolbelt, toughasnails, traverse, xat, trumpetskeleton, tschipplib, tumbleweed, variedcommodities, waystones, wearablebackpacks, wolfarmor, xpfromharvest, xpbook, dshuds, llibrary, orelib, phosphor-lighting, snowrealmagic\] at SERVER
+
+21:30:34.591  
+\[com.creativemd.creativecore.transformer.CreativeTransformer:transform:49\]: \[itemphysic\] Patched net.minecraft.client.renderer.entity.RenderEntityItem ..."|MEEEEAAAAAAWWWW|False|https://redd.it/eku7pk|3|0.67|0|2|1|minecraft
+ekdpsd|2020-01-05 14:33:59|My New House|https://i.redd.it/gigb8kdy0z841.png|XXAliASuxXX|False|https://redd.it/ekdpsd|205|0.97|0|5|0|minecraft
+ekow8y|2020-01-06 04:37:08|I spawned literally looking at a ocean monument|https://i.redd.it/iq9oyvpd73941.jpg|keltosharto59|False|https://redd.it/ekow8y|17|0.82|0|6|0|minecraft
+ekyqzo|2020-01-06 19:18:25|Mob spawning in world painter.|If you make a world in world painter, is it still possible for mobs to spawn?|SomewhereInADesert|False|https://redd.it/ekyqzo|1|1.0|0|0|1|minecraft
+ekovcx|2020-01-06 04:34:49|my farm house, its really epic|https://i.redd.it/i8tlbent63941.png|JackDrawsStuf|False|https://redd.it/ekovcx|15|0.81|0|0|0|minecraft
+eknyib|2020-01-06 03:17:48|I started building a bee testing facility onto the multiplayer server i play on (for fun) and its turning out really good :D|https://i.redd.it/usiovf50t2941.png|Midnight_Sun_37|False|https://redd.it/eknyib|21|0.84|0|0|0|minecraft
+eku1e3|2020-01-06 13:18:04|Max XP that can be stored inside a furnace with an auto XP bank?|"Hello everyone!
+
+So I have a 24hr 1.15 vanilla server running at the moment, and a friend emptied one of our XP bank furnaces and went from level 10 to level 54.
+I wanted to know what the theoretical max amount of XP is that could be stored inside a furnace (ignoring max player XP caps).
+
+Someone else posted something similar but it's about whether a furnace can store enough to go from 0 -> 30 but that's not really what I'm looking for."|Dunsparce_Meta|False|https://redd.it/eku1e3|3|1.0|0|3|1|minecraft
+ek4m9t|2020-01-04 23:44:40|My son and I have been really into Minecraft lately, so my wife made him this birthday cake.|https://i.redd.it/bqbxazaamu841.jpg|zuriel2089|False|https://redd.it/ek4m9t|10004|0.98|0|120|0|minecraft
+eklzf1|2020-01-06 00:44:02|An island city I just finished|https://i.redd.it/okceiigm12941.png|Tenna922|False|https://redd.it/eklzf1|31|0.92|0|1|0|minecraft
+ekrrq3|2020-01-06 09:25:49|I did a thing|https://imgur.com/a/HFZdDTk|Jese12354|False|https://redd.it/ekrrq3|6|0.8|0|5|0|minecraft
+ekos9p|2020-01-06 04:27:08|A Viking longship I made in a medieval/mild fantasy world I’m doing in creative|https://i.redd.it/sl9xmfbl53941.jpg|boonutbro154|False|https://redd.it/ekos9p|15|0.95|0|2|0|minecraft
+eksb4w|2020-01-06 10:24:52|BEDROCK EDITION BUG Didn't receive any xp beating the ender dragon, but got it on another account LOL|"A weird glitch appeared after I fought the ender dragon. I was playing with my son, and we killed him really fast  as we had a lot of enchanted stuff. He was playing with his own Xbox One and me and on my one. When the dragon died, it didn't drop any experience orbs.. My son was surprised, he asked me : did you pick up the exp ? I didn't , I promise, even if he didn't really believe me :D
+
+Right after this we decide to visit ender cities, and he was unlucky enough to drop a perl right on the edge of a platform between the islands.. and he died with all his good stuff, falling to the void. Before he crafted a rope to hang hilmself to end a so unfortunate life in Minecraft, I told him to not worry, I will fish, fish and fish again to get all his stuff back.
+
+&#x200B;
+
+So, after this sad story, it is what happened : I decided to **double fishing**, by connecting another controler in my game(a little bit tricky and confusing but it worth it), **playing LAN** this time. **I connected an account I never played before minecraft with**. And.... TaaDDaaaaaa !!
+
+This new account started the game with **68 level xp**, I guess the xp I was supposed to get by defeating the ender dragon.
+
+I was able to use the exp with but why did it come on this account I never played before and not on my main one I play for weeks ?"|Mister_Ozzy|False|https://redd.it/eksb4w|4|0.84|0|2|1|minecraft
+ekgw6r|2020-01-05 18:31:30|Simple island retreat|https://i.redd.it/eewpddl870941.png|mitten82|False|https://redd.it/ekgw6r|96|0.98|0|5|0|minecraft
+ekgvk5|2020-01-05 18:30:13|the torch lines up with the pupil of the eye of ender|https://i.redd.it/gqked46w60941.png|Ethxn_24|False|https://redd.it/ekgvk5|95|0.92|0|4|0|minecraft
+ekyema|2020-01-06 18:53:49|I have some questions about a raid farm|"I’m using [this](https://youtu.be/CgBfnteG3HU) Raif farm design, and I’m wondering if one of the two villagers could be replaced with a nitwit villager. If so which one the top or the bottom one?
+
+Can nitwit villagers be used in raid farms?"|Satirical-Intent|False|https://redd.it/ekyema|1|1.0|0|1|1|minecraft
+ekmmpg|2020-01-06 01:33:28|Found an abandoned village surrounded by a jungle|https://i.redd.it/hm1muccfa2941.jpg|Doo_liss69|False|https://redd.it/ekmmpg|24|0.88|0|0|0|minecraft
+ekgufk|2020-01-05 18:27:57|The beginning of my medieval town (can’t take screenshot because I’m on Xbox)|https://i.redd.it/n3hauinm60941.jpg|that-one-spooky-boi|False|https://redd.it/ekgufk|90|0.98|0|13|0|minecraft
+eky62a|2020-01-06 18:37:16|Launcher remember me not working|"I have to authenticate every time I launch Minecraft. This is only an issue in OS X. My Win10 and Elementary OS machines are fine. This is the only machine I have for offline line use however. I can authenticate and then play after disconnecting, but this doesn't help when I don't have internet access. I also use(d) it for multiplayer on my local server when I play with my son under the same user account (by editing the launcher\_profile user record).
+
+I thought it might be a permissions issue, maybe the successful authentication record isn't persistent? I went into recovery mode and ran a permissions repair through Terminal with no success. Ran Disk Repair while I was at it... I've wiped the \~Library/Application Support/minecraft folder and started fresh again, no success. 
+
+I know just enough to get myself in trouble... Any help is appreciated
+
+2011 Macbook Pro, OS X 10.11.6"|ranamok|False|https://redd.it/eky62a|1|1.0|0|1|1|minecraft
+eksoqr|2020-01-06 11:05:27|Need Help|Is there any websites that make pictures more pixelated for pixel art?|JustXL--|False|https://redd.it/eksoqr|4|0.83|0|3|1|minecraft
+ektmkw|2020-01-06 12:39:06|My difficulty scaling datapack allows mobs that set everything nearby on fire to spawn. bring your splash water bottles!|"&#x200B;
+
+https://reddit.com/link/ektmkw/video/fwolqcrkk5941/player"|Saewin|False|https://redd.it/ektmkw|3|0.72|0|0|1|minecraft
+eky5ki|2020-01-06 18:36:17|Can consoles play on servers yet?|If I paid for a monthly bedrock server would my friends and I be able to connect to it on ps4 or would I be wasting my money?|NickCQ12|False|https://redd.it/eky5ki|0|0.33|0|5|1|minecraft
+eknny2|2020-01-06 02:54:25|Savannah House|https://i.redd.it/t772ynv1p2941.jpg|SMCS2201|False|https://redd.it/eknny2|19|0.9|0|2|0|minecraft
+ektk6p|2020-01-06 12:32:39|Ps4 Microsoft login|"Anyone else getting the error that something went wrong when trying to connect to your Microsoft account when you log into Minecraft?
+
+I joined my buddy’s world (he’s ps4 and I’m Xbox) and spent a day building and now I can’t play that world lol"|huffmanjarrod|False|https://redd.it/ektk6p|4|0.75|0|1|1|minecraft
+ek7dqp|2020-01-05 03:31:47|Scariest moment of my life|https://v.redd.it/szgrwu5sqv841|EntropySpacex|False|https://redd.it/ek7dqp|1637|0.98|0|37|0|minecraft
+eknrma|2020-01-06 03:02:43|My little orphanage for little baby villagers|https://i.redd.it/9d6bvr6jq2941.jpg|I_eat_shoes123|False|https://redd.it/eknrma|16|0.92|0|4|0|minecraft
+eky02o|2020-01-06 18:25:00|I’m interested to know which Minecraft youtuber you watch the most?||Jack-S11|False|https://redd.it/eky02o|1|0.67|0|3|1|minecraft
+eko8mz|2020-01-06 03:40:42|Currently making a japanese festival themed build. (btw these structures are mostly from tutorials, I’m a noob builder lol)|https://i.redd.it/jlxsiu5bx2941.jpg|SolarRDT|False|https://redd.it/eko8mz|17|1.0|0|6|0|minecraft
+ekioch|2020-01-05 20:35:16|Nothing to see here..🌵🐑|https://i.redd.it/g5tcnd6dt0941.jpg|codysquirtle|False|https://redd.it/ekioch|59|0.91|0|7|0|minecraft
+ekoqvq|2020-01-06 04:23:41|How to Restore a Corrupted Minecraft Save.|"**ALL CREDIT GOES TO YOUTUBER KAYSPLAYS**
+[Video Here](https://youtu.be/yUl1_SzIN8A)
+
+So there you are, playing the survival world you have been playing for an entire month now. You have acquired god like weapons and tools and you have a fancy mob grinder that became so overstuffed it caused your game to lag and crash. No big deal until you reload the game only to find that your world no longer appears on the list of playable worlds. So, what do you do? You search how to get your world back of course, only to find that most guides are just wrong. Well, all except for one. In this guide I will show you how to recover your lost world in both versions of Minecraft.
+
+**Minecraft Java**
+
+If you decided to continue reading instead of jumping to the video I will tell you step by step how to recover your world for the java edition of minecraft.
+
+**Step 1:** Find the problem. 
+
+If your problem is similar to the one given in the example above fixing the save may result in another crashed save. That is why I recommend finding a solution to the issue first.
+
+**Step 2:** Create a new world.
+
+This generates new, uncorrupt files that we will need. If you can, use the same seed.
+
+**Step 3:** Open up your saves directory.
+
+Found here - C:\Users\YOURNAME\AppData\Roaming\\.minecraft\saves
+
+**Step 4:** Find your new world and open the files. Copy the Level.dat - Level.dat_old - session.lock - and spc.settings files.
+
+**Step 5:** Find your corrupt world files. Delete and replace the same four folders.
+
+**Step 6:** Run minecraft. If you have completed these steps successfully your world should show up. **NOTE THAT YOU WILL SPAWN IN A RANDOM SPOT PREPARE TO NEED TO BREAK BLOCKS AS YOU MAY SPAWN INSIDE ONE**.
+
+If all goes well you have your world, and your items, back.
+
+**Minecraft Bedrock**
+
+The steps to recover a save on the bedrock edition are surprisingly similar to those shown in the video. They are different, however. Using the video I figured out how to recover a world in the bedrock edition after my own world became corrupted. Here are the steps:
+
+**Step 1:** Same as java edition. Identify the problem.
+
+ If your problem is the same as the one in my example you may need to set your difficulty to peaceful before loading the fixed save, as it may crash again.
+
+**Step 2:** Create a new world.
+
+Again the same as java edition. This creates new, uncorrupted files that we need to repair the old world. You are going to want to try to use the same seed if you can.
+
+**Step 3:** Open your worlds directory.
+
+This directory is a tough one to find. And a long one at that. Too long for me to type on mobile, so [Here](https://gaming.stackexchange.com/a/330412) is a link to an answer on stack exchange on how to reach the directory.
+
+**Step 4:** Find your new world folder.
+
+After opening your minecraftworlds folder you should see files with names like ""1g4AAHBsAQA="". These are your worlds. You can tell what world is what by opening the file and opening levelname.txt.
+
+**Step 5:** Copy the new Level.dat and Level.dat_old files. Note that level.dat may display as only level in the world folder 
+
+**Step 6:** Go to the corrupt world and replace the two corrupt level.dat files with the two new ones.
+
+This will fix your save and make it playable once again. You won't spawn in some random spot like in java edition and you will keep all of your items.
+
+
+I hope this guide was able to help you fix your corrupt saves. And thanks to YouTuber KaysPlays for creating an amazing guide to help me recover my own world. 
+
+Have fun and enjoy playing on your worlds!"|ItzBraden|False|https://redd.it/ekoqvq|14|0.88|0|11|1|minecraft
+ekmzm6|2020-01-06 02:01:29|Big Chonker of a Tree in Hardcore|https://i.redd.it/v27fn7mff2941.png|CarpalTunnelCoy|False|https://redd.it/ekmzm6|20|0.84|0|1|0|minecraft
+ekktcv|2020-01-05 23:18:20|A little park I built in my base as a walk through area to give it some life. (enigmatica 2)|https://i.redd.it/4yvw521im1941.png|Azrael179|False|https://redd.it/ekktcv|33|0.96|0|14|0|minecraft
+ekuuo7|2020-01-06 14:31:06|Any ideas for what do do?|Hi everybody! so, i got minecraft a three years ago and played it constantly. then, a year ago, i just . . . got *bored*. i had built huge bases in survival, beaten the ender dragon a dozen times, explored, made a castle, experimented with mods . . . i just don't know what to do. Since i don't have much patience i am not a good builder, and exploring is very boring for me. Any ideas that will revive my once-strong love for minecraft?|RavenTCW|False|https://redd.it/ekuuo7|2|0.75|0|7|1|minecraft
+ekut2t|2020-01-06 14:27:16|Can anyone help me with this pc problem so I can play Minecraft again?|"Getting error ""Could not create the Java Virtual Machine"" while trying to install Java
+
+I originally got this error out of nowhere while trying to play modded minecraft (same mod had worked fine before). After trying several solutions on this website:  [https://appuals.com/fix-could-not-create-the-java-virtual-machine/](https://appuals.com/fix-could-not-create-the-java-virtual-machine/)  and doing some research, I uninstalled java and tried to reinstall using the 64 bit version (based on the solution from this reddit post  [https://www.reddit.com/r/Minecraft/comments/25kd5u/could\_not\_create\_the\_java\_virtual\_machine\_help/](https://www.reddit.com/r/Minecraft/comments/25kd5u/could_not_create_the_java_virtual_machine_help/) ).  
+
+&#x200B;
+
+Now, when I try to install Java, I get the same error message.  I've tried the solutions on Java's website and none of them have worked.  Any other advice would be appreciated, thanks. Now I don’t have java on my computer at all, can’t seem to install it, and can’t get Minecraft to run. I posted this same issue on r/techsupport and also tried their live chat several times and haven’t gotten a single response so I’m at a loss now."|buurd|False|https://redd.it/ekut2t|2|0.76|0|2|1|minecraft
+ekdvsz|2020-01-05 14:48:34|Welcome to the Melon Throne Room, for the one true king of melons (Enter name here).|https://i.redd.it/cthmzqyj3z841.png|Subject_4T22|False|https://redd.it/ekdvsz|156|0.98|0|17|0|minecraft
+ekxr9u|2020-01-06 18:07:57|DooM in MinecrafT|I built E1M1 from doom one in my minecraft survival world on the pocket edition, I think it turned out pretty good. I used an add-on so I could craft spawn eggs and spawners so that my custom mobs could spawn. Sorry I don't have a picture, maybe when I get windows 10 I'll edit this post to have a screenshot of it.|Minecrafter_69420|False|https://redd.it/ekxr9u|0|0.5|0|2|1|minecraft
+ekmvcm|2020-01-06 01:52:02|My survival village I'm working on.|https://i.redd.it/wicl7glsd2941.png|_Callumari_|False|https://redd.it/ekmvcm|19|1.0|0|0|0|minecraft
+ekxq9s|2020-01-06 18:06:02|Minecraft skin combiner|"hi, so I was looking for a skin combiner, and I cannot find one that works for what I am doing. I am trying to get theater layer of the 1st skin onto the second as an outer layer. none of the skin combiners work correctly and I am awful with manually doing it. Can someone point me in the right direction?
+
+[1st skin](https://preview.redd.it/ufvfq1cg77941.png?width=64&format=png&auto=webp&s=7b8c3d7dff0946553187a8b4bfa601077cbc7e42)
+
+&#x200B;
+
+[2nd skin](https://preview.redd.it/st2mjxkl77941.png?width=64&format=png&auto=webp&s=6f8ad79f9a0f306ea5f9a177090fedd670585685)
+
+thanks.
+
+MP"|Cautious_Requisites|False|https://redd.it/ekxq9s|1|0.67|0|0|1|minecraft
+ekk731|2020-01-05 22:35:21|I think nether update should also add black quartz?!|https://i.redd.it/24ucguxte1941.jpg|ZeatNest|False|https://redd.it/ekk731|35|0.98|0|10|0|minecraft
+eklnu6|2020-01-06 00:20:23|My House :3|https://i.redd.it/i5oor0kkx1941.jpg|MrVelker|False|https://redd.it/eklnu6|25|0.9|0|5|0|minecraft
+ekt8oj|2020-01-06 12:02:08|Can I transfer my pet from one world to another?|I have this realm, and recently I saved it and replaced it with that save, and I made a lot of progress on this recent save but after a few days I noticed that 2 of my horses are completely gone from the game. I checked the game files and saw that the old save had a few more files in the “db” folder. So I’m wondering if I can somehow get my horses from the old save file and put them inside the new save file without having to completely go back to the old save file. If anyone has answers please reply.|Surferfag69420|False|https://redd.it/ekt8oj|3|1.0|0|5|1|minecraft
+ekje4j|2020-01-05 21:34:40|I've been messing around with resource packs and I wanted to show some of the fun Elytra I've done!|https://i.redd.it/h5nqfd6z31941.jpg|RubikOwl|False|https://redd.it/ekje4j|44|0.89|0|8|0|minecraft
+ekxho3|2020-01-06 17:48:46|All my marketplace packs gone after linking PS4 and Microsoft account|"I’m not sure if anyone else is having this issue but of coarse I’m trying to get ahold of support to get it figured out but haven’t heard anything so I think I’ll just come here see if anyone has the same issue or fixed it themselves. 
+
+I linked my Microsoft account that I use for mobile and windows 10 to the PS4 after bedrock was released. Immediately wanted to play on my windows 10 version and noticed my texture packs were all missing from the marketplace. Same on the phone but they are on the PS4. I’m confused because if it works cross platform with my windows 10 and mobile why not the PS4? Instead they only show on my PS4. I’ve gone crazy trying to figure it out. I definitely won’t be purchase them again."|TheStormisHere13|False|https://redd.it/ekxho3|1|0.67|0|0|1|minecraft
+ekui55|2020-01-06 14:00:56|Need a help with Thaumic additions reconstructed|"Can't click ""+"" or ""-"" in shadow enchanter for some reason"|Mirakakel|False|https://redd.it/ekui55|2|0.75|0|0|1|minecraft
+ekozsa|2020-01-06 04:45:22|Sad gamer hours|https://v.redd.it/1k5fevlq83941|guys_help_i_shidded|False|https://redd.it/ekozsa|12|0.81|0|10|0|minecraft
+eki9a8|2020-01-05 20:06:34|This is me worm|https://i.redd.it/blyi985ao0941.jpg|scanontcannon|False|https://redd.it/eki9a8|56|0.91|0|8|0|minecraft
+ekns16|2020-01-06 03:03:38|Didn’t your parents teach you not to joyride in other people’s boats!?|https://i.redd.it/pr1iic9pq2941.jpg|TheYoungFruit|False|https://redd.it/ekns16|16|0.85|0|0|0|minecraft
+ekxdn5|2020-01-06 17:40:27|Slashblade mod bamboo for 1.7.10|"So Ive Started Playing 1.7.10 With Mods Again and Im Using The Mod Slashblade but i know some of the swords are from a compatability ""Babmboo Mod"" by Ruby and im wondering if anyone has the mod because it doesnt have a download page anymore and i cant find any other source."|VladBigHands|False|https://redd.it/ekxdn5|1|1.0|0|0|1|minecraft
+eks4r1|2020-01-06 10:06:00|Help me find some good old buddy old pals|"So I used to play on this server called “Scragcraft,” owned by Scragleton. I only played for maybe a few months before the server shut down, but it has probably been my favorite server to play on. Which is crazy because it was such a small server, but the community there was the reason it was my favorite. I have various names that I remember fully but most consisted of various characters such as X’s, underscores, and numbers which are hard to remember when the last time you played with them was 7 years ago lol.
+
+Some of the players:
+jerry12321,
+ajk8934,
+Werigon_01,
+super_cylo (I don’t remember if this is exactly correct since I just referred to them as “cylo”),
+RubenBGarcia,
+EpicTrolFish,
+Kingdoffy,
+UnknownGamer (there were some numbers in substitute for letters but you get the gist hahaha)
+
+My name at the time was mason2cool24
+
+That’s just the few whose names I can spell lmao. If any of y’all are on this sub, we should def play together sometime."|BigMaSone|False|https://redd.it/eks4r1|4|1.0|0|0|1|minecraft
+ekxbyd|2020-01-06 17:37:11|Why can't i downlad mods on mc?|"I use twitch app to download crackpack 4. But every tim i press Play in the mc launcher it says 
+
+Failed to download the file, the contents of the file differ from what was expected. 
+
+ Name: jopt-simple-5.0.3.jar"|Tor-on|False|https://redd.it/ekxbyd|1|1.0|0|0|1|minecraft
+ekxbpr|2020-01-06 17:36:38|My Castle Creative World WIP #1|https://imgur.com/gallery/JY5pRJ0|rinzlerk|False|https://redd.it/ekxbpr|1|0.67|0|0|0|minecraft
+eks3po|2020-01-06 10:02:52|my base design for my survival world 70% done thoughts?|"&#x200B;
+
+https://preview.redd.it/nj4mek0ft4941.png?width=1920&format=png&auto=webp&s=a27f66f1c7815f8150ef322b519a5ebea5174d31"|sytzeman1|False|https://redd.it/eks3po|4|0.83|0|0|1|minecraft
+ekjg68|2020-01-05 21:40:09|Well this happened.|https://v.redd.it/01j3s04w41941|Branman1234|False|https://redd.it/ekjg68|40|0.88|0|8|0|minecraft
+ekellt|2020-01-05 15:47:29|Just a regular day in the caves, small looped video I made|https://v.redd.it/efa1bbxxdz841|RobotPantaloons|False|https://redd.it/ekellt|113|0.98|0|11|0|minecraft
+ekg6vg|2020-01-05 17:42:03|I mapped out the area where all my builds are, each block is a 128x128 area|https://i.redd.it/56qxwj8iyz841.jpg|gfsjjtwwdgiiyr|False|https://redd.it/ekg6vg|78|0.97|0|6|0|minecraft
+ekuaal|2020-01-06 13:41:32|im trying to mod minecraft using forge but the mods come in folders not java files. can some 1 tell me why|"mods:
+
+&#x200B;
+
+ [https://www.curseforge.com/minecraft/modpacks/basicpack](https://www.curseforge.com/minecraft/modpacks/basicpack) 
+
+&#x200B;
+
+ [https://www.curseforge.com/minecraft/modpacks/basicpack](https://www.curseforge.com/minecraft/modpacks/basicpack)"|airbornkillers|False|https://redd.it/ekuaal|2|0.67|0|10|1|minecraft
+ekmjtb|2020-01-06 01:27:19|What do you think of my little project that I have only worked on car rides.|https://v.redd.it/9pxhtop592941|DF-Isgoinon|False|https://redd.it/ekmjtb|19|0.88|0|2|0|minecraft
+ekrbqx|2020-01-06 08:36:38|I wanna start this decade by posting my survival world. Im going to post my progress here every once in awhile. P.S im not the first one that has done this.|https://i.redd.it/7dwbzxl3e4941.jpg|LetCarloPlayz|False|https://redd.it/ekrbqx|5|0.64|0|0|0|minecraft
+ekx3bl|2020-01-06 17:19:42|MC Patcher 1.15|Does anyone know if MC Patcher for 1.15.1 is out? I'm not sure which is the official site and I don't want to get a virus, so I thought I'd check with you guys who have downloaded it in the past|url-|False|https://redd.it/ekx3bl|0|0.5|0|3|1|minecraft
+ekoza7|2020-01-06 04:44:13|I wrote a world generator where every tree is unique|"Today I posted on Spigot the first playable demo in 8 months for my world generator project. The trees are all unique and are generated in real-time as the world generates, in other words they are not pasted schematics. Also the terrain has multiple levels to it, in the case of my demo there is a desert layer and an underground river layer. The desert is pierced with oasis jungles that grow on the sides of the underground rivers.
+
+[https://www.spigotmc.org/resources/danns-world-generator-oasis-desert-demo.74083/](https://www.spigotmc.org/resources/danns-world-generator-oasis-desert-demo.74083/)
+
+[Some sheep on a tree.](https://preview.redd.it/dqioit5183941.png?width=1708&format=png&auto=webp&s=581cc1d4039d4ff48941148c71139f57cc657ad6)
+
+[A jungle tree crawling on the side of a cliff.](https://preview.redd.it/y5ji8u5183941.png?width=1708&format=png&auto=webp&s=11ac0e92e2e4b73390dbfc07cccf2b4ac238add5)
+
+[River next to a cliff with a large tree on the left.](https://preview.redd.it/9a8kpcli73941.png?width=1708&format=png&auto=webp&s=446c70c756f844fc1a4bfcdc8adafdd119179353)
+
+[River inside crevice going into tunnel under desert.](https://preview.redd.it/o7ma5cli73941.png?width=1708&format=png&auto=webp&s=ecc2bf8da9f31c8ebf8b7880daeda0ebe4f35120)
+
+[Bifurcation of an underground river with some trees.](https://preview.redd.it/ybkqkdli73941.png?width=1708&format=png&auto=webp&s=d15329da81fbe742cb706a9fca1f9e9f37e85191)
+
+[View from inside a cave looking towards the jungle.](https://preview.redd.it/p8wnzbli73941.png?width=1708&format=png&auto=webp&s=98a8d0beba20a54db57b64ea0a58ac66629f524f)
+
+[A large tree on the side of water.](https://preview.redd.it/whxxwcli73941.png?width=1708&format=png&auto=webp&s=7deebc973297d78598967de7a7b032edd543cf6b)"|sleepingpieee|False|https://redd.it/ekoza7|10|1.0|0|1|1|minecraft
+ejzeqp|2020-01-04 17:23:24|A calming view of my farming area|https://i.redd.it/0ub1hby8qs841.png|Sabransky|False|https://redd.it/ejzeqp|36426|0.97|3|412|0|minecraft
+ekmhlv|2020-01-06 01:22:31|Built a Scottish castle, what do you think?|https://i.redd.it/gq5esdck82941.jpg|cpohgee|False|https://redd.it/ekmhlv|20|0.83|0|8|0|minecraft
+ekntuv|2020-01-06 03:07:32|Im lucky? :c|https://v.redd.it/wl3xa4n3r2941|Sempaiishere14|False|https://redd.it/ekntuv|11|0.85|0|9|0|minecraft
+ekfdl2|2020-01-05 16:44:23|view of a street in my wip city|https://i.redd.it/dvw3t382oz841.png|lilmees|False|https://redd.it/ekfdl2|88|0.99|0|14|0|minecraft
+eksmo6|2020-01-06 10:59:40|Help with education editon|"How do you change the education editon textures .
+For example change the oxygen block to something custom .
+The problem I have is that I don’t know their file names.
+I tried element_8,oxygen,8
+Pls help guys"|Darth-Nihilus1|False|https://redd.it/eksmo6|3|1.0|0|1|1|minecraft
+ek35p0|2020-01-04 21:54:53|Made a Minecraft bookend!|https://i.redd.it/5xorr46p2u841.jpg|Stove-Vault|False|https://redd.it/ek35p0|8274|0.99|1|59|0|minecraft
+ekodrp|2020-01-06 03:52:10|I made a small Lagoon.|https://i.redd.it/g53727ncz2941.png|FalloutReese|False|https://redd.it/ekodrp|11|1.0|0|6|0|minecraft
+ekwok9|2020-01-06 16:51:00|How would I go about finding a slime chunk?|Now I understand normally I could just use the chunk finder website, but my world version is a bit screwed up. I play on ps4 and made the world in 1.14, but ps4 updates to bedrock and the world is now in 1.15 and it’s unlimited instead of small like I made it. So if I were to use the website I’m not sure what version I would use. If I put the seed in for 1.15 bedrock, won’t it be different than what I have? Or if I put the seed in for 1.14 legacy wouldn’t it still be different? Thank you!|AlphaCannedWalrus|False|https://redd.it/ekwok9|0|0.5|0|3|1|minecraft
+ekpxva|2020-01-06 06:12:53|I've been working on a mushroom island village. What do y'all thing so far?|"Most of the houses are the giant red mushrooms with acacia floor and dark oak doors.
+
+https://preview.redd.it/4y4b5h4so3941.png?width=1300&format=png&auto=webp&s=ef5922b62d4719dedbea5782ce14375093cb1f43"|hhthurbe|False|https://redd.it/ekpxva|7|0.77|0|1|1|minecraft
+ekwi7g|2020-01-06 16:38:40|Is there a plugin/mod where it says how many blocks i break per second?||Aisaka16|False|https://redd.it/ekwi7g|1|1.0|0|0|1|minecraft
+ekmwng|2020-01-06 01:54:58|The seed 1937332094 is quite interesting and beautiful (Survival on Bedrock)|https://i.redd.it/brj498sfe2941.jpg|derp_y_|False|https://redd.it/ekmwng|15|0.86|0|1|0|minecraft
+ekig1u|2020-01-05 20:19:17|With the new update for PS4, somehow a world that had countless (probably hundreds) of hours spent in it got deleted. This is one of the only pictures to prove it.|https://i.redd.it/t8af97yjq0941.jpg|Nosliw05|False|https://redd.it/ekig1u|40|0.97|0|10|0|minecraft
+eksf34|2020-01-06 10:37:11|How do I create a server on which my friends can join when I’m offline on PS4?|I thought a realm was a such a server but I can’t seem to find how to create a realm. Currently I’m just sharing a world with a friend but we always have to be online at the same time. Does anyone know how to get a multiplayer server on ps4 ?|maximus77899|False|https://redd.it/eksf34|1|0.6|0|4|1|minecraft
+ekwfoy|2020-01-06 16:33:32|"Issue with Village ""meeting place""/Bell (Bedrock edition)"|"I have a pretty extensive underwater base with about 70 villagers. Additionally I have a large area that I've designed for a golem/cat farm. I place the bell in an appropriate area near this spawn with a villager next to it and it works great for a little bit. Cats and and eventually golems start spawning and are automatically killed and their loot moved into a chest.
+
+At some point the spawn area moves and cats are all over my base in a different area. 
+
+I've searched exhaustively online for a solution but I cannot figure out why the meeting place wont remain at the bell. 
+
+It's moving to a work station nearby, I think. How do I ensure the bell remains the spawning area?"|BurritoSchits|False|https://redd.it/ekwfoy|1|1.0|0|2|1|minecraft
+ekwfde|2020-01-06 16:32:53|Whats the maximum amount of blocks/chunks that farms will work in?|Stuff like iron farms/mob farms/ stuff like that whats the max blocks I can build it from my base and have it working/running the entire time im in my base?|Xeroish|False|https://redd.it/ekwfde|1|1.0|0|1|1|minecraft

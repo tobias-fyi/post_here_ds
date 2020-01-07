@@ -1,0 +1,473 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+ehiqyz|2019-12-30 07:07:29|Weekly /r/Gadgets Advice Superthread!|"Hey, gadgeteers! Here is this week's thread where we can all post up discussions, comparisons and advice on various gadgets.
+For specific questions we highly recommend you also look [at the list of related subreddits](https://www.reddit.com/r/gadgets/wiki/related_subreddits) since you are more likely to find an answer in a specialized subreddit. 
+
+[Sort by new](/r/gadgets/about/sticky/?sort=new) to see unanswered questions."|AutoModerator|False|https://redd.it/ehiqyz|4|0.69|0|7|1|gadgets
+eej06l|2019-12-23 10:35:19|/r/Gadgets Discord Server|https://discord.gg/ks4Uvbf|SuitingUncle620|False|https://redd.it/eej06l|4|0.55|0|2|0|gadgets
+ekuajb|2020-01-06 13:42:04|Samsung's new 'Selfie Type' tech uses its Galaxy phones' front camera and AI to turn any surface into a keyboard|https://www.tomsguide.com/news/samsungs-selfie-type-could-turn-any-surface-into-a-smartphone-keyboard|nopantsdolphin|False|https://redd.it/ekuajb|2602|0.9|0|298|0|gadgets
+ekq2mp|2020-01-06 06:25:34|Chinese TV giant Skyworth goes big into US market with OLED, 8K|https://www.cnet.com/news/ces-2020-chinese-tv-giant-skyworth-goes-big-to-enter-us-market/|holyhacker|False|https://redd.it/ekq2mp|233|0.69|0|154|0|gadgets
+ekbx4p|2020-01-05 11:32:23|Samsung to reveal completely bezel-free Q950TS 8K QLED TV at CES|https://mspoweruser.com/samsung-announces-the-first-true-zero-bezel-tv/|kokoschka41|False|https://redd.it/ekbx4p|8128|0.94|0|1072|0|gadgets
+ekusv2|2020-01-06 14:26:41|Asus and Nvidia Announce First Consumer Ready 360Hz Monitor|https://www.theverge.com/2020/1/5/21050309/asus-nvidia-360hz-gaming-monitor-rog-swift-360-ces-2020|splityoassintwo|False|https://redd.it/ekusv2|21|0.91|0|9|0|gadgets
+ekwyvx|2020-01-06 17:10:48|Roku launches program to let third-party soundbars integrate with Roku TV|https://www.theverge.com/2020/1/6/21051499/roku-tv-ready-program-announced-tcl-denon-ces-2020|Abscess2|False|https://redd.it/ekwyvx|8|1.0|0|1|0|gadgets
+ekuljp|2020-01-06 14:09:20|Samsung Galaxy Chromebook packs 4K OLED display, 10th gen Core i5 for $999|https://www.tomsguide.com/reviews/samsung-galaxy-chromebook|mspoonygp|False|https://redd.it/ekuljp|12|0.73|0|5|0|gadgets
+ekm5u7|2020-01-06 00:57:40|Acer X32 Announced, 32in 4K 144hz MiniLED DisplayHDR 1400|https://www.theverge.com/2020/1/5/21048496/acer-predator-monitor-55-inch-4k-oled-curved-display-price-ces-2020|splityoassintwo|False|https://redd.it/ekm5u7|101|0.86|0|30|0|gadgets
+ekwwpl|2020-01-06 17:06:42|Samsung has made an invisible AI-powered keyboard for your phone|https://www.theverge.com/circuitbreaker/2020/1/6/21051571/samsung-invisible-virtual-keyboard-ai-selfietype-ces-2020|Abscess2|False|https://redd.it/ekwwpl|5|0.84|0|0|0|gadgets
+ekwrpe|2020-01-06 16:57:23|Reliefband unveils therapeutic wearables and gets expanded FDA approval for treating anxiety|https://venturebeat.com/2020/01/06/reliefband-unveils-therapeutic-wearables-and-gets-expanded-fda-approval-for-treating-motion-sickness/|Abscess2|False|https://redd.it/ekwrpe|2|1.0|0|1|0|gadgets
+ekuwlu|2020-01-06 14:35:19|Mophie looks to the car to expand its line of batteries|https://www.theverge.com/2020/1/6/21046677/mophie-powerstation-go-car-battery-wireless-charging-price-ces-2020?utm_content=facebook&utm_source=facebook&utm_campaign=theverge.socialflow&utm_medium=social|holyhacker|False|https://redd.it/ekuwlu|3|0.67|0|1|0|gadgets
+ejwurl|2020-01-04 13:51:22|Leaked GPU Specs Suggest Xbox Series X Substantially More Powerful Than PS5|https://www.extremetech.com/extreme/303964-leaked-gpu-specs-suggest-xbox-series-x-substantially-more-powerful-than-ps5|holyhacker|False|https://redd.it/ejwurl|20184|0.83|0|3475|0|gadgets
+ekq80c|2020-01-06 06:40:32|Intel Teases Comet Lake-H, Ghost Canyon NUCs, and Tiger Lake Processors|https://www.tomshardware.com/news/intel-teases-comet-lake-h-ghost-canyon-nucs-and-tiger-lake-processors|JimBoBarnes|False|https://redd.it/ekq80c|2|0.67|0|0|0|gadgets
+ek9axd|2020-01-05 06:27:19|This electronic album was made for the SNES and you can buy it as a cartridge|https://www.theverge.com/2020/1/3/21046582/remute-german-techno-pop-musician-first-plug-play-snes-cartridge-album|cryptoz|False|https://redd.it/ek9axd|146|0.9|0|6|0|gadgets
+ekcv70|2020-01-05 13:14:43|Report: Nvidia RTX 3080 Cards Launch June 2020|https://www.pcmag.com/news/371940/report-nvidia-rtx-3080-cards-launch-june-2020|holyhacker|False|https://redd.it/ekcv70|40|0.84|0|34|0|gadgets
+ekuvxn|2020-01-06 14:33:51|CES 2020: Oral-B and Colgate Unveil New iPhone-Connected Smart Toothbrushes|https://www.macrumors.com/2020/01/06/oralb-io-colgate-plaqless-pro-ces-2020/|holyhacker|False|https://redd.it/ekuvxn|0|0.29|0|2|0|gadgets
+ekqhso|2020-01-06 07:07:46|Weekly /r/Gadgets Advice Superthread!|"Hey, gadgeteers! Here is this week's thread where we can all post up discussions, comparisons and advice on various gadgets.
+For specific questions we highly recommend you also look [at the list of related subreddits](https://www.reddit.com/r/gadgets/wiki/related_subreddits) since you are more likely to find an answer in a specialized subreddit. 
+
+[Sort by new](/r/gadgets/about/sticky/?sort=new) to see unanswered questions."|AutoModerator|False|https://redd.it/ekqhso|1|0.6|0|0|1|gadgets
+eknf8g|2020-01-06 02:35:37|HP Envy 32 All-in-One review: iMac killer?|https://www.digitaltrends.com/desktop-computer-reviews/hp-envy-32-all-in-one-review/|MyNameIsGriffon|False|https://redd.it/eknf8g|0|0.4|0|4|0|gadgets
+ek81hn|2020-01-05 04:30:07|Konka brings OLED TV to the US to take on LG and Sony|https://www.cnet.com/news/konka-brings-oled-tv-to-the-us-to-take-on-lg-and-sony/#ftag=CADf328eec|child_sized_tequila|False|https://redd.it/ek81hn|14|0.71|0|11|0|gadgets
+eka67k|2020-01-05 08:04:12|OnePlus Shows Off a Phone With a Disappearing Rear Camera|https://www.wired.com/story/oneplus-concept-one/amp|holyhacker|False|https://redd.it/eka67k|7|0.69|0|6|0|gadgets
+ekmql5|2020-01-06 01:41:40|Help me choose apple or Google?|"So I'm looking to buy a new phone but not only that id like it to be my start into a full ecosystem. I've had an iPhone before and while I enjoyed it's simplistic ui and home screen and it's study build quality I wasn't a huge fan of the price so I'm thinking about getting a pixel but they are obviously new to phones and I do hear about frequent issues but they are alot cheaper especially the 3a
+ So if given the choice would you go with a pixel Chromebook Google home wear os watch Google home with nest or an iPhone apple watch macbook air and apple home?"|Huolihan|False|https://redd.it/ekmql5|0|0.25|0|21|1|gadgets
+ejflth|2020-01-03 13:47:24|Kohler puts an Alexa-enabled smart speaker in a showerhead|https://www.theverge.com/circuitbreaker/2020/1/3/21047954/kohler-moxie-alexa-smart-speaker-shower-showerhead-ces-2020|mspoonygp|False|https://redd.it/ejflth|8863|0.91|0|865|0|gadgets
+ejzcg6|2020-01-04 17:18:23|This tiny box protects your whole network.|https://www.pcmag.com/review/363983/firewalla|holyhacker|False|https://redd.it/ejzcg6|8|0.72|0|19|0|gadgets
+ekf1ft|2020-01-05 16:20:11|iOS Vs Android comparison worth watching.|https://youtu.be/5eckkVyikYQ|udupa82|False|https://redd.it/ekf1ft|0|0.14|0|1|0|gadgets
+ejd9jr|2020-01-03 09:43:23|OnePlus Shows Off a Phone With a Disappearing Rear Camera|https://www.wired.com/story/oneplus-concept-one/|khunshan|False|https://redd.it/ejd9jr|2237|0.93|0|332|0|gadgets
+ek6gy0|2020-01-05 02:14:24|I live near a landfill. Any suggestions for a good air quality tester?|"I recently moved near a landfill. I didn't think it would be too bad, and everything else about the neighborhood seemed perfect. Now I frequently smell the funny odors, and am concerned about long term health risks.
+
+I am thinking that maybe by monitoring the air quality, I can identify when it's a safe time to be spending time outside, and when it is preferable to stay indoors.
+
+Can anyone recommend a good air quality tester. The ones on Amazon don't seem to have great reviews (I always ignore the five star reviews. I just compare the ratio of 4 star reviews to 1 star reviews).
+
+Thank you for your help."|Michael_Kapp|False|https://redd.it/ek6gy0|0|0.44|0|9|1|gadgets
+ejy4p5|2020-01-04 15:44:48|What is CES 2020 and what should you expect|https://youtu.be/tnEDhK39Cy0|holyhacker|False|https://redd.it/ejy4p5|6|0.63|0|0|0|gadgets
+ek3xcs|2020-01-04 22:52:37|Which tracker has the best app?|Basically question above: I am wondering which app is most fun with lots of info about steps, sleep, etc, but in a fun way (with big fireworks when you reached your daily goal etc)|Irishtara|False|https://redd.it/ek3xcs|1|0.6|0|7|1|gadgets
+ejvy0f|2020-01-04 12:11:20|Samsung Galaxy S20 and Fold 2 will be unveiled on February 11|https://www.sammobile.com/2020/01/04/breaking-the-samsung-galaxy-s20-and-fold-2-will-be-unveiled-on-february-11/|nopantsdolphin|False|https://redd.it/ejvy0f|9|0.7|0|1|0|gadgets
+ek0yd0|2020-01-04 19:14:16|Best cheap tablet that will run PowerPoint|As the title says, I basically just need a small simple tablet that I can use to run and edit PowerPoints and access the internet. Nothing crazy. Ideas?|Organicissexy|False|https://redd.it/ek0yd0|0|0.38|0|10|1|gadgets
+ejntlt|2020-01-03 23:34:29|Samsung announces the Galaxy S10 Lite and Note 10 Lite|https://www.theverge.com/circuitbreaker/2020/1/3/21048025/samsung-galaxy-s10-lite-note-10-ces-2020-mobile-phones-budget-announcement|cryptoz|False|https://redd.it/ejntlt|11|0.84|0|3|0|gadgets
+ejp0vg|2020-01-04 01:02:11|TCL SOCL500TWS wireless earbuds hands-on: You get what you pay for|https://www.digitaltrends.com/headphone-reviews/tcl-socl500-tws-true-wireless-earbuds-hands-on/|MyNameIsGriffon|False|https://redd.it/ejp0vg|10|0.69|0|3|0|gadgets
+eiz493|2020-01-02 14:49:52|Apple rumored to be making $5,000 gaming PC|https://www.tomsguide.com/news/apple-could-be-making-a-dollar5000-gaming-pc-heres-why-that-makes-sense|mspoonygp|False|https://redd.it/eiz493|9422|0.67|0|2385|0|gadgets
+ejiyde|2020-01-03 17:53:53|In the Spider-Man game, he uses rfid tags to search for a lost backpack. Realistically, Can rfid tags be used this way?|In the game, once at a certain range, the backpack starts beeping and the closer you get the louder the sound is. I am curious if rfid tags can be used as such to find lost items that have the tags on them.|asguerr4|False|https://redd.it/ejiyde|13|0.83|0|12|1|gadgets
+eiyb60|2020-01-02 13:36:24|I need a USB-C hub for basically everything on my laptop.|"Hey
+
+I'm looking to buy a USB-C hub for my new notebook.
+
+Requirements would be 3 USB-A, either 2 USB-C or 1 USB-C + power delivery, HDMI & Ethernet.
+
+Ive no experience with anything similar yet so I don't know what to get. Thanks for any help.
+
+Edit: I realize i made a mistake in not putting down more info.
+
+I don't want it for stationary use, instead I'll carry it around with me and the notebook. That means it shouldn't be more than about 0.5kg (1lb) and it shouldn't need it's own charger, unless it's already included in the hub.
+
+The notebook is a new XPS 13 2-in-1 7390. So it's not just USB-c, but Thunderbolt 3 would works aswell ( and is probably even better)."|XeroFl4sh|False|https://redd.it/eiyb60|1239|0.88|0|406|1|gadgets
+ejpkp4|2020-01-04 01:44:11|Question: Are there any Customizable Bluetooth LED Glasses, with the ability to create original LED animations besides the CHEMION?|"Sorry for the wordy title but I'm at my wit's end.  
+I've recently been looking for a decent pair of LED glasses so that I could take it apart and incorporate its parts into a DIY project, the jist being inserting the LED matrix into a ski mask to make a fancy wearable mask with cool custom LED effects. 
+
+  
+While searching for the right product to use [CHEMION LED glasses](https://www.amazon.ca/CHEMION-Customizable-Bluetooth-Festivals-Animation/dp/B01B41PHJM/ref=pd_rhf_sc_p_img_3?_encoding=UTF8&psc=1&refRID=FKZ3EJFTPCNGX447BMAV) stood out as the clear favourite the only problem being its price at 87$ Canadian. The tipping factor is the glasses app which allows users to   
+ create custom animations, a feature that I have been unable to find within cheaper alternatives.
+
+  
+Now, before I shell out 87$ for something I'm just gonna take apart, I thought to put the question out there to perhaps catch anything I may have missed."|NewguyS79|False|https://redd.it/ejpkp4|0|0.5|0|0|1|gadgets
+ejgav0|2020-01-03 14:45:06|Gadgets to avoid surveillance/facial recognition|"If this doesnt follow the rules or this might be the wrong subreddit I aplogize and yes my english could be better I know. 
+
+So a little context. I have a group presentation due in school. My Part is about technical gadgets, apart from the usual what are gadgets, most Importan gadget etc.. It should also involve 1 or 2 gadgets that have to do with surveillance/how to avoid it.
+
+Now my Problem is I find alot of infos about cctv cams and the usuall spy toys for children but not really on any other proper gadgets. So if you have any recomendation or useful Websites I would be very thankful.
+
+Edit: thanks for the comment the paint is intressting. But maybe some more tec gadgets and not somthing to rob a Bank or Start a Revolution with xd"|EarlvonGrey|False|https://redd.it/ejgav0|2|0.7|0|11|1|gadgets
+ejfa4z|2020-01-03 13:16:58|Digital Photoframe with app support to show pictures to grandparents|"Hi gadget community! 
+
+Recently, I figured it would be nice if I could show my grandparents some pictures instead of just calling them from time to time. Unfortunately they are not tech savvy whatsoever, so a smartphone is out of the question. I found some digital photo frames online, where I could add pictures via app as soon as its set up. What I couldn't figure out yet is, if there is a frame out there that supports showing only specific pictures when I want to show them (so I could reference specific pictures while I'm on a call with them, by showing them in real time). Does anyone of you know of any such frame?  
+
+
+Ideally other characteristics would be:  
+\- no maintenance after setup  
+\- adding and deleting of photos by multiple users via app  
+\- maybe a ""sleep"" mode so it doesn't shine during night  
+
+
+Highly interested in your input!"|Querray|False|https://redd.it/ejfa4z|3|0.75|0|9|1|gadgets
+ej0zzf|2020-01-02 17:15:15|"CES 2020 | Alienware unveils Alienware 25, a 25-inch 240 Hz gaming monitor with a 1 ms response time."|https://www.notebookcheck.net/Alienware-unveils-Alienware-25-a-25-inch-240-Hz-gaming-monitor-with-a-1-ms-response-time.447394.0.html|RenegadeUK|False|https://redd.it/ej0zzf|85|0.86|0|42|0|gadgets
+ejsbyp|2020-01-04 05:25:56|OnePlus just changed the game for smartphone design|https://youtube.com/watch?v=OW0F1vkOAWI|Un_wrapper|False|https://redd.it/ejsbyp|0|0.24|0|4|0|gadgets
+ejdu4j|2020-01-03 10:48:06|Wireless charger Samsung EP-N5200, strange sounds.|"Hey!I have a question about wireless charger, Samsung 15W Wireless Charging Stand (EP-N5200) to be exact.My has some snapping sound near USB, its not a fan sound.Here is a video:  [https://www.youtube.com/watch?v=OYoaekfe6uo&feature=youtu.be](https://www.youtube.com/watch?v=OYoaekfe6uo&feature=youtu.be) 
+
+From 6 second, if you put your volume up, you can hear it, as I know those must be transistors, but is it safe and should I give it for a replacement?
+
+The phone is Samsung Note 8, and it mostly appears when fast charging is on. Bought this charger for my future s11/s20. :P"|crystalpix|False|https://redd.it/ejdu4j|0|0.5|0|5|1|gadgets
+eja50s|2020-01-03 04:24:06|LG Planning To Release A Smartphone Case With A Flexible Display|https://www.androidheadlines.com/2019/12/lg-planning-to-release-a-smartphone-case-with-a-flexible-display.html|ChickenTeriyakiBoy1|False|https://redd.it/eja50s|2|0.67|0|3|0|gadgets
+ejcf8y|2020-01-03 08:02:50|Best Bluetooth transmitter along with best wireless earbuds for office work?|Can someone point to me a good Bluetooth transmitter along with good wireless earbuds? I’m often going through files and tinker with other stuff at my office, and I’m looking for a completely wireless alternative. I usually use the office PC for music since I don’t like using my phone while at work. Unfortunately, it’s one of those older Dell models that doesn’t have built in Bluetooth.|EHnter|False|https://redd.it/ejcf8y|0|0.44|0|9|1|gadgets
+ejc7yh|2020-01-03 07:40:16|[PC] peripheral for audio? static/crackling noise when connection through IO ports|As title says, I have some bad electric wiring in my house which would take too much effort to solve. My appliances work fine, but my pc has been getting static and crackling noises in the speakers/headphones/mic when connected on the 3.5mm ports. I ask if a USB audio connector would solve this issue and if yes, any decent ones where there is no loss in Audio quality. Thanks.|striker09xx|False|https://redd.it/ejc7yh|0|0.5|0|6|1|gadgets
+ejeaf4|2020-01-03 11:38:34|JBL Boombox 2 incoming!|/r/JBL/comments/ejea67/jbl_boombox_2_incoming/|Balance-|False|https://redd.it/ejeaf4|0|0.22|0|0|0|gadgets
+ej1dxd|2020-01-02 17:43:12|Recommendations: Universal Docking Station - USB C and 3, & Dual Monitor|"Hello,
+
+Looking for a recommendation for a docking station that can be used for a USB C laptop and a laptop with only USB 3.0. I also need dual monitor output.
+
+Thanks in advance!"|ShootASealSaveAWhale|False|https://redd.it/ej1dxd|4|0.64|0|5|1|gadgets
+ej175e|2020-01-02 17:29:38|Dell's Latitude 9510 Business can offer up to 30 Hrs of Battery Life|https://www.pcmag.com/feature/372696/first-look-dell-s-latitude-9510-business-flagship-promises-e|michaelkan1|False|https://redd.it/ej175e|4|0.64|0|3|0|gadgets
+ei5thn|2019-12-31 17:23:47|Guardian XO is an exoskeleton that allows you to lift over 200 pounds|https://www.digitaltrends.com/cool-tech/sarcos-robotics-powered-exosuit-guardian-xo/|ChickenTeriyakiBoy1|False|https://redd.it/ei5thn|9665|0.95|2|936|0|gadgets
+eizh4o|2020-01-02 15:18:59|Looking for advice on a new phone|"The primary things I'm looking for are a massive battery and I guess speed and performance in general. I don't give a rat's ass about the camera. The other stuff like size, resolution, display refresh rate, google assistant features, having a headphone jack, water resistance, durability, general aesthetic - secondary concerns. I want performance and a huge battery, preferably at as low a cost as I can get it obviously. 
+ 
+My day to day app usage is maybe a dozen apps involving some games, messaging apps, some misc. etc.. I know it's not a huge deal but I'd like to maximize performance to minimize in-game lag or whatever.
+
+I've been eyeing the Asus ROG phone - 6000 mAh battery + flagship phone specs + headphone jack, at what seems to be a reasonable price. But I wanted to get some other opinions from more informed people. There seem to be different models and I'm not sure which one to buy. And are there existing better phone options for what I'm looking for? Am not a huge techie. Thanks."|heavenlyangels|False|https://redd.it/eizh4o|1|0.5|0|17|1|gadgets
+ehq5h9|2019-12-30 18:49:19|Google Pixel 4a Design Revealed Months Ahead Of Its Release|https://www.androidheadlines.com/2019/12/google-pixel-4a-design-revealed-months-ahead-of-its-release.html|ChickenTeriyakiBoy1|False|https://redd.it/ehq5h9|4370|0.93|0|621|0|gadgets
+ei5vhw|2019-12-31 17:27:23|Teslasuit Glove allows users to feel textures in VR|https://www.digitaltrends.com/cool-tech/teslasuit-glove-haptics-biometry/?utm_source=reddit&utm_medium=web|ChickenTeriyakiBoy1|False|https://redd.it/ei5vhw|29|0.87|0|33|0|gadgets
+eihge9|2020-01-01 11:31:37|Best earbuds under 50$|"I want a good design and for them to be decently loud.
+Any suggestions?"|Saldenieks|False|https://redd.it/eihge9|0|0.5|0|16|1|gadgets
+ei1rof|2019-12-31 11:32:25|Casemaker says Galaxy S20 Ultra will be Samsung's 6.9-inch flagship, no more 'e' phone|https://www.tomsguide.com/news/get-ready-for-a-huge-galaxy-s20-ultra-and-for-galaxy-e-to-die|mspoonygp|False|https://redd.it/ei1rof|55|0.78|0|14|0|gadgets
+eij5e5|2020-01-01 14:58:39|Snapdragon 730g 6gb ram vs 8gb ram|Is it worth it to pay 50 dollars more for 128 gb storage and 8gb ram whit a SD 730g?|Ctesc|False|https://redd.it/eij5e5|0|0.41|0|4|1|gadgets
+ei7ji6|2019-12-31 19:26:37|Fitbit Versa 2 (£160) or Apple Watch Series 3 (£200) - To use with iPhone|"Hi.
+
+I want a smart watch, my first one. And I am torn between the Fitbit Versa 2 or Apple Watch 3. They are both in my budget range.
+
+I need something that I can track sleep with, monitoring heart rate is useful, see notifications from Insta, Twitter and WhatsApp, and be able to use Apple or Fitbit Pay.
+
+Which of the two is better in your opinion? The fact I have an iPhone, will that make a difference?
+
+I use Spotify, so I assume I can skip and replay tracks from the watch?
+
+I lean towards the Fitbit as it has a much longer battery. But worry about the compatibility. Would the watch be able to show emojis I receive from text messages as well? As this doesn’t work with some watches.
+
+Thanks."|RxArsenal|False|https://redd.it/ei7ji6|0|0.44|0|19|1|gadgets
+egug0y|2019-12-28 18:46:55|Sonos Doesn't Care About Reusing Old Speakers, Bricks Them Instead - Old speakers and audio equipment are bricked and tossed in the trash, but environmentalists suggest Sonos should resell them instead. Sonos also prevents customers from reversing their decision to trade in devices.|https://www.pcmag.com/news/372746/sonos-doesnt-care-about-reusing-old-speakers-bricks-them-i|speckz|False|https://redd.it/egug0y|9073|0.95|0|941|0|gadgets
+egqudy|2019-12-28 13:39:25|Animated, interactive digital books may help kids learn better|https://techcrunch.com/2019/12/27/animated-interactive-digital-books-may-help-kids-learn-better/|cryptoz|False|https://redd.it/egqudy|2435|0.93|0|136|0|gadgets
+ehb8b8|2019-12-29 20:45:02|Using Old Dell Laptop Screen for a Monitor|"Fellas,
+
+My buddy already tried this in the past but gave up on it. I have a Raspberry Pi that I would like to use and do not have an available open slot for an HDMI on my existing monitor. I have an old Dell Inspiron 5421 that is around 7 years old and it has damage to the board. Would it be possible, and what would I need to do to turn the screen (which still works fine) into a monitor for my Raspberry Pi?
+
+Thanks for any advice,
+
+Nick"|nick_the_maverick|False|https://redd.it/ehb8b8|2|0.55|0|5|1|gadgets
+egdd54|2019-12-27 16:41:05|FAA proposes nationwide real-time tracking system for all drones|https://www.digitaltrends.com/cool-tech/faa-proposes-nationwide-real-time-tracking-system-for-all-drones/|MicroSofty88|False|https://redd.it/egdd54|10957|0.92|0|1440|0|gadgets
+ehf2hd|2019-12-30 01:36:53|Windows Explorer stops responding when an old hard drive is plugged in|"Hey guys,
+
+Alright, so the hard drive from the laptop in my previous post was taken out of the old laptop. It ran Windows 8.1 at the time. I plugged the old hard drive into a SATA cable and plugged the other end into a USB port on my new laptop that runs Windows 10. The drive will show up in Windows Explorer as ""D: Local Disk"". The drive says it has no files and when I right click and try to format it, Windows Explorer stops responding and I have to restart it from the task manager. Am I doing something wrong? Is the Windows 8.1 hard drive trying to run Windows 8 boot files while Windows 10 is running on my current PC? I am not sure what is causing the hard drive to stop Windows Explorer from accessing it. The hard drive has no obvious damage and doesn't click or make noises either. Any help would be appreciated!
+
+Thanks guys,
+
+Nick"|nick_the_maverick|False|https://redd.it/ehf2hd|0|0.29|0|4|1|gadgets
+egh0wm|2019-12-27 21:15:13|Researchers Teleport Data Between Two Chips Via Quantum Entanglement|https://www.tomshardware.com/news/researchers-teleport-data-between-two-chips-via-quantum-entanglement|TastyTreatsRTasty|False|https://redd.it/egh0wm|567|0.95|0|97|0|gadgets
+egktkd|2019-12-28 02:27:59|Adding an HDD to a laptop with an SSD|"Fellas,
+
+I have a Dell Inspiron 7573 that came with a 256 GB SSD. There is an open hard drive slot inside the computer and I recently got a brand new HDD from my grandmother. I wanted to have both drives in so I can have extra storage. Maybe a good idea would be to put the Windows OS on the SSD and all of my other files on the HDD. Putting it in would be the easy part. However, I am not sure what I would have to do to get it running. I am green as grass when it comes to PCs and electronics so any advice for a beginner would be greatly appreciated!
+
+Thanks guys,
+
+Nick"|nick_the_maverick|False|https://redd.it/egktkd|8|0.7|0|6|1|gadgets
+efv2r2|2019-12-26 12:49:58|LG indoor gardening appliance lets you grow your own veggies at home|https://www.slashgear.com/lg-indoor-gardening-appliance-lets-you-grow-your-own-veggies-at-home-25604414/|nopantsdolphin|False|https://redd.it/efv2r2|7199|0.93|0|598|0|gadgets
+egivvz|2019-12-27 23:41:29|New leaked renders of the Samsung Galaxy S11 show new camera patch|https://pocketnow.com/new-leaked-renders-of-the-samsung-galaxy-s11-with-a-better-looking-camera|nopantsdolphin|False|https://redd.it/egivvz|7|0.79|0|8|0|gadgets
+egy3c8|2019-12-28 23:31:41|iPhone 11 How do I back out of posting a comment on the reddit app?|I’ve had to close and re open the app as I can’t find a way to go back? Am I missing something?|Ottofery|False|https://redd.it/egy3c8|0|0.19|0|7|1|gadgets
+egud56|2019-12-28 18:40:46|Thread that allows me to create posts for recommendations?|"I am pretty disappointed that I am not allowed to ask for buying recommendations here but have to post them in the comments of a thread (where clearly hardly anyone ever replies to shopping recommendation requests, of course).
+
+Can anyone recommend a threat r/x for smart devices that is more liberal?"|Irishtara|False|https://redd.it/egud56|0|0.13|0|2|1|gadgets
+egjer4|2019-12-28 00:25:07|Cheap back up phone|I need help choosing a cheap back up phone. Moto g3 or Huawei y5 2017? What’s best?|kindestcolors|False|https://redd.it/egjer4|3|0.71|0|8|1|gadgets
+efibol|2019-12-25 16:21:43|GM requests green light to ditch steering wheel in its self-driving cars|https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/|mspoonygp|False|https://redd.it/efibol|20860|0.91|2|2575|0|gadgets
+egch7l|2019-12-27 15:29:45|GoPro's $50 Light Mod is available and does more than light up your video|https://www.cnet.com/news/gopros-50-light-mod-has-uses-beyond-lighting-up-your-video/|Philo1927|False|https://redd.it/egch7l|2|0.49|0|6|0|gadgets
+eg7tmc|2019-12-27 06:56:22|Best TV for PS4 PRO|Guys what tele should I get for my ps4 pro i dont want to spend more than a grand|Bludy113|False|https://redd.it/eg7tmc|0|0.55|0|19|1|gadgets
+eg2ayh|2019-12-26 22:49:06|looking for a GPS tracker for keys and wallet.|"So just this month have my mother lost both her car keys, her work keys and her wallet. And i feel that it's finally  time to buy something i have jokingly poked at her once and for all, and that is some sort of tracker. But all the ones i find are these bluetooth trackers that only works if you are close enough. 
+
+What i want is something that works if she loses it across the town or something. Anyone who has any suggestion on something like that. Live in sweden so if it's something i can only find online then it has to be able to ship to here"|swedhitman|False|https://redd.it/eg2ayh|3|0.63|0|10|1|gadgets
+ef3xfb|2019-12-24 16:59:54|FDA Approves AR Surgery Tool That Gives Surgeons 'X-ray Vision'|https://www.digitaltrends.com/cool-tech/xvision-spine-system-ar/?utm_source=reddit&utm_medium=web|ChickenTeriyakiBoy1|False|https://redd.it/ef3xfb|9999|0.96|0|156|0|gadgets
+eg36xk|2019-12-26 23:59:47|URGENT: Traveling in 2 days and need to place an order tonight. Just got the iPhone 11 and need the glass protectant and power bank for a Eurotrip. Please suggest.|"I just got a new IPHONE just for my travel as I was lugging around a 6s plus whose battery was a joke.
+
+Do i need a power bank? i suppose i do i guess? unless i carry my charger around?
+
+&#x200B;
+
+Need to order the stuff by tonight.
+
+&#x200B;
+
+If anyone has the iphone 11, please let me know which of the following to get: Looking to hear about products and your experiences with them. 
+
+1. Which glass protector?
+2. Which Powerbank?
+
+many thanks!!"|UnofficialUnicorn|False|https://redd.it/eg36xk|0|0.21|0|39|1|gadgets
+ef8v14|2019-12-24 23:33:56|iPhone XR has been the best-selling smartphone every quarter this year|https://9to5mac.com/2019/12/24/best-selling-smartphone/|SuitingUncle620|False|https://redd.it/ef8v14|79|0.83|0|39|0|gadgets
+eents7|2019-12-23 17:46:36|Hidden Magnets and a Video Projector Make This the Most Advanced Pinball Machine Yet|https://gizmodo.com/hidden-magnets-and-a-video-projector-make-this-the-most-1840242884|Philo1927|False|https://redd.it/eents7|4092|0.9|0|171|0|gadgets
+eeno4i|2019-12-23 17:35:03|Lenovo ThinkPad X1 Extreme Gen 2 Review: The fastest Thinkpad ever|https://www.digitaltrends.com/laptop-reviews/lenovo-thinkpad-x1-extreme-gen-2-review/|MyNameIsGriffon|False|https://redd.it/eeno4i|415|0.87|0|140|0|gadgets
+ef74h0|2019-12-24 21:08:06|A Christmas present Powerbank-conundrum|"Hi r/gadgets. As the title suggests, I've got a bit of a gift-conundrum.
+
+For Christmas this year, I got two 20.000 mAh Powerbanks for my mobile phone, as two separate members of the family had the same great idea, to expand my mobile (which I am - as they put it - glued to) 's battery life. So now, I' m trying to figure out which to keep, and which to exchange for another gadget. 
+
+Now, the first one is a Goobay 20.0 Powerbank, which boasts three output ports, of 2.0 Amps and 5 V
+A 3.7 V Lithium-Polymer Akku battery of max. 20.000 mAh
+
+While the other is a hoco. Model: B31B
+Also 20.000 mAh
+Two 2.1 A, 5V USB outputs,
+As well as ""ABS + PC Flame Retardent Material""
+It doesn't say on the box, (and this specifik one doesn't appear on their website either) but judging from the other Powerbanks that they sell, the battery is a Lithium-ion 18650
+
+Neither of them are brands that I'm familiar with, and apparently to me, the only difference is the battery type, but I cant really tell which is better. Are there some obvious details I'm missing? Are anyone familiar with the brands, maybe and could give some insight?
+
+Links to stores:
+
+https://www.mytrendyphone.eu/shop/hoco-b31-20000mah-power-bank-240471p.html
+
+https://www.conrad.com/p/goobay-powerbank-200-power-bank-spare-battery-lipo-20000-mah-72204-1511499"|SomeNerdWithFreetime|False|https://redd.it/ef74h0|2|0.54|0|3|1|gadgets
+eezf58|2019-12-24 09:57:40|Question about battery life and my new phone|"Hey, 
+
+I bought myself LG G7 from ""Allegro"", polish site with mostly(but not only) used stuff, smartphone is supposed to be new and I'm told it comes with manufacturer's guarantee. I'm mentioning all of this because my phone came 100% charged which I found quite unusual, very occasionally, mostly during unlocking, it seems to have a 0,5-1sec lag which I also find strange for a brand new phone, a plasticy packaging it was in right out of the box was also unsealed I think now that I recall to that moment(though I'm not sure so we'll never know I guess) and it had no things to peel off on it, basically, did I get scammed?
+
+I also checked IMEI code and site said this phone is:  Device age 1 year(s) 5 month(s) 8 day(s), but I don't know if it actually means anything useful, my guess would be that it doesn't but better mention it than not
+
+With that out of the way, I started looking for some guides how to treat a new battery, assuming that the one I have is really new, I only found tips like never discharge fully, don't charge over 80%, start charging when it drops down to 10-15%. LG's official UK site had little guide what to do and not. At the end they wrote this:
+
+""**CALIBRATION OF THE BATTERY** 
+
+It is recommended to calibrate the battery once every 3 months (if you often use the device). This procedure involves a fully dishcharged battery.
+
+Use the gadget until the battery is fully discharged.
+
+Then wait six hours and fully recharge the battery.
+
+When the battery reaches 100%, leave the device connected to the power supply for 2 hours.
+
+At this point the battery has been properly calibrated and the device is ready for normal use.""
+
+&#x200B;
+
+Is this a good advice? If it is then I guess I should do it"|BorsukBartek|False|https://redd.it/eezf58|4|0.86|0|3|1|gadgets
+eeolab|2019-12-23 18:41:10|Why Your USB Cable Might Not Charge Your Android Smartphone.|https://www.lifehacker.co.uk/2019/12/23/why-your-usb-cable-might-not-charge-your-android-smartphone|RenegadeUK|False|https://redd.it/eeolab|61|0.83|0|19|0|gadgets
+eemdwk|2019-12-23 16:00:19|A universal USB|"I was wondering if anyone is aware of a cable where both ends can have their ports changed. Such as:¶
+micro - micro. 
+USB A - lightning. 
+USB C - USB C. 
+etc. 
+I'm fed up of having loads of cables, and whilst I know i can get adapters for cables I have, I was wondering if anyone has seen a product where its all in one place?
+
+Thanks in advance"|OriginalPenguin94|False|https://redd.it/eemdwk|72|0.76|0|87|1|gadgets
+eeh5vo|2019-12-23 07:07:37|Weekly /r/Gadgets Advice Superthread!|"Hey, gadgeteers! Here is this week's thread where we can all post up discussions, comparisons and advice on various gadgets.
+For specific questions we highly recommend you also look [at the list of related subreddits](https://www.reddit.com/r/gadgets/wiki/related_subreddits) since you are more likely to find an answer in a specialized subreddit. 
+
+[Sort by new](/r/gadgets/about/sticky/?sort=new) to see unanswered questions."|AutoModerator|False|https://redd.it/eeh5vo|321|0.86|1|188|1|gadgets
+eew8f8|2019-12-24 04:33:13|MKBHD: Smartphone Awards 2019|https://youtu.be/4OnwUz-I2GI|tubeii|False|https://redd.it/eew8f8|3|0.54|0|15|0|gadgets
+ee1qmt|2019-12-22 06:38:15|Nawa's stylish e-motorbike uses an ultracapacitor to drastically boost range|https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/12/20/nawa-racer-e-bike-ultracapacitor/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F12%2F20%2Fnawa-racer-e-bike-ultracapacitor%2F|McBain3188|False|https://redd.it/ee1qmt|1293|0.94|0|115|0|gadgets
+edsx8q|2019-12-21 17:51:18|8BitDo Zero 2 is a Gamepad that Fits In Your Pocket|https://www.digitaltrends.com/game-reviews/8bitdo-zero-2-review/?utm_source=reddit&utm_medium=web|ChickenTeriyakiBoy1|False|https://redd.it/edsx8q|3940|0.92|0|313|0|gadgets
+edeffo|2019-12-20 19:03:44|Foldable Motorola Razr launch delayed due to 'high demand'|https://www.tomsguide.com/news/foldable-motorola-razr-launch-delayed|mspoonygp|False|https://redd.it/edeffo|10320|0.95|0|773|0|gadgets
+edvd9v|2019-12-21 21:07:05|Hands-On with the Holographic Display|https://www.youtube.com/watch?v=-EA2FQXs4dw|unsilviu|False|https://redd.it/edvd9v|35|0.74|0|5|0|gadgets
+ee11s3|2019-12-22 05:27:00|Feedback needed on these small/portable keyboards with trackball(pics included).|/r/keyboards/comments/ee0wbb/feedback_needed_on_these_smallportable_keyboards/|mrfinancecracker|False|https://redd.it/ee11s3|4|0.57|0|4|0|gadgets
+edtl5u|2019-12-21 18:43:23|Google Glass and Galaxy Fold Show How Attitudes to New Tech Change|https://www.digitaltrends.com/mobile/google-glass-galaxy-fold-attitudes-to-new-tech-changes/?utm_source=reddit&utm_medium=web|ChickenTeriyakiBoy1|False|https://redd.it/edtl5u|20|0.8|0|7|0|gadgets
+edxc76|2019-12-21 23:49:33|[help] Looking for an ultrasonic sound emitter with variable volume dial?|"I’ve been doing research on this but I don’t fully understand sound waves or the hardware that it takes to produce them.
+
+I’m looking for an ultrasonic sound emitter that emits frequencies of 25-30 kHz for my  dog.
+
+I want a variable volume switch because I hear that the dogs will eventually discount the sound as they associate it with no negative effects. If I have one that I can emit at a low volume and gradually turn it up if the animal doesn’t respond to give the sense of effect to not responding to it.
+
+It goes without saying that I don’t want anything that would hurt my beloved animal. I’d like info on safe decibel levels at those frequencies for dogs(?) I don’t know how it works. Thanks!"|sexyspacewarlock|False|https://redd.it/edxc76|0|0.5|0|3|1|gadgets
+ed5awb|2019-12-20 04:53:23|Google Originally Wanted The Pixel 3 To Have A 120Hz Display|https://www.androidheadlines.com/2019/12/google-originally-wanted-the-pixel-3-to-have-a-120hz-display.html|ChickenTeriyakiBoy1|False|https://redd.it/ed5awb|2635|0.85|0|328|0|gadgets
+edjg2p|2019-12-21 01:42:38|LG Reveals 31.5-Inch UltraFine Ergo 4K Monitor with Ergonomic Arm|https://www.anandtech.com/show/15252/lg-reveals-315inch-ultrafine-ergo-4k-monitor-with-ergonomic-arm|PhotoSpike|False|https://redd.it/edjg2p|23|0.82|0|4|0|gadgets
+edean4|2019-12-20 18:53:47|Gift ideas for a techie?|"Hey all, my boyfriend is a big tech and DIY lover but I’m pretty far from all that stuff so I have no clue what he’d find interesting and/or challenging.
+Any ideas would be appreciated! I have to note he has incredibly advanced knowledge of pretty much all technology. He’s not a gamer. His speciality is programming and building stuff. What can I get him that he can use as a project? Thank you!!"|Which-Spell|False|https://redd.it/edean4|7|0.9|0|20|1|gadgets
+eco8m5|2019-12-19 04:39:22|Man Hacks Ring Camera in Woman's Home to Make Explicit Comments|https://www.digitaltrends.com/home/man-hacks-ring-camera-in-womans-home-to-make-explicit-comments/|ChickenTeriyakiBoy1|False|https://redd.it/eco8m5|11485|0.95|0|836|0|gadgets
+ed92fx|2019-12-20 11:39:31|Looking for a decent Android tablet supporting NFC|"So currently I have a SM-T719 tablet and, let's face it, it won't last another year - on its fourth battery, third screen, USB port all but wrecked, and no firmware upgrades as it's rooted. So I'm looking for a replacement that has...
+
+* NFC support for GPay
+* is rootable with Magisk
+* similar physical dimensions as my current one (8 inch display)
+* USB-C
+* fingerprint scanner
+* no no-name Chinese crap or Huawei
+* a proper camera with flash
+* Don't need 5G, 4G is sufficient
+
+Anyone has some hints? NFC support in tablets is spotty, as is a decent camera..."|mschuster91|False|https://redd.it/ed92fx|1|0.53|0|6|1|gadgets
+ecsrf8|2019-12-19 12:49:53|First Galaxy Fold 2 leaked images show new clamshell design|https://www.tomsguide.com/news/galaxy-fold-2-photos-just-leaked-heres-your-first-look|mspoonygp|False|https://redd.it/ecsrf8|29|0.76|0|30|0|gadgets
+ec9e3y|2019-12-18 07:25:11|UK proposes ruling banning the sale of locked phones.|https://www.engadget.com/2019/12/17/uk-locked-mobile-phone-ban-ofcom/|PhotoSpike|False|https://redd.it/ec9e3y|9379|0.98|0|405|0|gadgets
+ecssd2|2019-12-19 12:52:22|Twin rotors drone with 50mins flight time|https://www.gearbest.com/blog/tech-news/v-coptr-falcon-drone-unveiled-the-worlds-first-v-shaped-twin-rotors-50mins-battery-life-9711|maximilianyuen|False|https://redd.it/ecssd2|22|0.76|0|0|0|gadgets
+ecqo82|2019-12-19 08:57:01|Huawei to release second folding phone, Mate Xs, in February|https://mashable.com/article/huawei-mate-xs-mwc-2020/|PhotoSpike|False|https://redd.it/ecqo82|15|0.72|0|1|0|gadgets
+ec1bef|2019-12-17 20:21:13|iPhones and iPads finally get key-based protection against account takeovers|https://arstechnica.com/information-technology/2019/12/idevices-finally-get-key-based-protection-against-account-takeovers/|PhotoSpike|False|https://redd.it/ec1bef|5965|0.95|0|216|0|gadgets
+eci9p6|2019-12-18 20:39:32|Apple, Google, Amazon, Zigbee partner on smart home|https://www.cnbc.com/2019/12/17/apple-google-amazon-zigbee-partner-on-smart-home.html|swannygod|False|https://redd.it/eci9p6|15|0.84|0|1|0|gadgets
+ecft3k|2019-12-18 17:40:21|Nest WiFi Review: Great for Mesh Newbies|https://www.droid-life.com/2019/12/12/nest-wifi-review-great-for-mesh-newbies/|ChickenTeriyakiBoy1|False|https://redd.it/ecft3k|14|0.81|0|6|0|gadgets
+ecdxuv|2019-12-18 15:19:06|Can you make the Galaxy Fold sound like a Shiekah Slate?|"It's too early for a Shiekah Slate phone cover, but ever since I saw the Fold, I wanted it to have one feature more than anything in the world. When you open it, I want it to play the sound of the [Shiekah Slate opening](https://youtu.be/2mEx18kFt5o?t=154). So how can I do this?  
+Short answer: You can't right now.  
+Real answer: I've called the Galaxy Fold hotline they have for new users 1800-970-3653 (1800-970-FOLD haha), and asked if they had a feature for a customizable sound that plays when you open the Fold. The guy I talked to said he couldn't find an option like that anywhere, but there was hope.   
+He said that the development team is listening in on these calls for feedback on the Fold, and that he'd send over my suggestion to have a sound play when you open it. My hope is, that I'm not the only one that would want this feature, and that if enough people ask for this It'll actually be implemented.  
+I'm not really one for the whole 'personal army' kinda thing, but if anyone here agrees with me, and would like to pass the suggestion as well, that would be incredibly rad.  
+If you're reading this, have a lovely day c:"|SirLeonar|False|https://redd.it/ecdxuv|19|0.78|0|2|1|gadgets
+ebjahm|2019-12-16 18:50:13|JBL says its solar-powered headphones deliver 'unlimited' listening|https://www.engadget.com/2019/12/16/jbl-reflect-eternal-solar-powered-headphones/|PhotoSpike|False|https://redd.it/ebjahm|10780|0.92|0|842|0|gadgets
+ec2tpq|2019-12-17 22:04:51|Mac Pro 2019 Teardown - 9/10 Repairability Score|https://www.ifixit.com/Teardown/Mac+Pro+2019+Teardown/128922|ChickenTeriyakiBoy1|False|https://redd.it/ec2tpq|35|0.83|0|12|0|gadgets
+ecfouv|2019-12-18 17:32:02|Looking for a tablet that uses NTFS file system|"Made the mistake of buying a Fire tablet, which uses the exFAT file system. I have .iso files of DVDs I own, and would like to watch them on the go while at the gym, traveling, etc. No, I don’t want to convert the files. Android has the VLC App that supports .iso file types, but with the Fire’s exFAT support only, it’s out. 
+
+Does anyone have experience with the Samsung Galaxy Tab A, or other Samsung tablets? Do they support NTFS, and using the VLC android app, would they play .iso files I’d add with a micro SD card? 
+
+Thanks!"|ThinkTowel|False|https://redd.it/ecfouv|0|0.53|0|27|1|gadgets
+ec0nln|2019-12-17 19:34:15|Bowers and Wilkins PX7 wireless headphones review|https://www.digitaltrends.com/headphone-reviews/bowers-and-wilkins-px7-wireless-anc-headphones-review/|MyNameIsGriffon|False|https://redd.it/ec0nln|4|0.73|0|1|0|gadgets
+ebbnfp|2019-12-16 06:53:06|Garmin Reportedly Working On Solar-Charging Instinct 2 Smartwatch|https://www.androidheadlines.com/2019/12/garmin-solar-charging-instinct-2.html|ChickenTeriyakiBoy1|False|https://redd.it/ebbnfp|2638|0.95|0|112|0|gadgets
+ebo7va|2019-12-17 00:52:27|MKBHD's 2019 blind phone camera test|https://youtu.be/KxsFat1ImiY|ElliottPolin|False|https://redd.it/ebo7va|11|0.67|0|11|0|gadgets
+ebf181|2019-12-16 13:18:50|IceGiant Prototype Thermosiphon Cooler Review: Frosty New Tech|https://www.tomshardware.com/reviews/icegiant-prototype-thermosiphon-cooler|aligram_art|False|https://redd.it/ebf181|21|0.93|0|1|0|gadgets
+ebdboh|2019-12-16 10:11:04|The Oppo under screen camera. Will the notch finally disappear?|https://youtube.com/watch?v=4NvRP8z8v4E|Un_wrapper|False|https://redd.it/ebdboh|27|0.85|0|17|0|gadgets
+eanual|2019-12-14 19:10:07|Meet CIMON-2: The floating A.I. brain that lives on the ISS|https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?utm_source=reddit&utm_medium=web|ChickenTeriyakiBoy1|False|https://redd.it/eanual|5466|0.96|0|320|0|gadgets
+ebbs5u|2019-12-16 07:07:22|Weekly /r/Gadgets Advice Superthread!|"Hey, gadgeteers! Here is this week's thread where we can all post up discussions, comparisons and advice on various gadgets.
+For specific questions we highly recommend you also look [at the list of related subreddits](https://www.reddit.com/r/gadgets/wiki/related_subreddits) since you are more likely to find an answer in a specialized subreddit. 
+
+[Sort by new](/r/gadgets/about/sticky/?sort=new) to see unanswered questions."|AutoModerator|False|https://redd.it/ebbs5u|5|0.73|0|16|1|gadgets
+ebm4io|2019-12-16 22:14:50|"Watch ""The Snapdragon 865 is faster than the Apple A13 (sometimes)"" on YouTube"|https://youtu.be/go2rW399Tng|Vahid_66|False|https://redd.it/ebm4io|0|0.39|0|8|0|gadgets
+ea10oq|2019-12-13 07:43:36|Facebook Will Now Use Oculus VR Data for Ads Just as Everyone Expected|https://www.extremetech.com/gaming/303310-facebook-oculus-vr-data-advertising|speckz|False|https://redd.it/ea10oq|18639|0.96|1|1113|0|gadgets
+e9q1nc|2019-12-12 16:46:56|All-Electric Commercial Seaplane Takes to the Air for the First Time|https://www.digitaltrends.com/cool-tech/harbour-air-all-electric-seaplane/?utm_source=reddit&utm_medium=web|ChickenTeriyakiBoy1|False|https://redd.it/e9q1nc|5369|0.96|0|311|0|gadgets
+ea40jw|2019-12-13 13:31:05|Galaxy S9/Note 9 Android 10 beta adds Google Biometric API support|https://9to5google.com/2019/12/13/google-biometrics-api-galaxy-s9-note-9/|rsz619mania|False|https://redd.it/ea40jw|18|0.92|0|0|0|gadgets
+e9xlyt|2019-12-13 02:20:32|Microsoft announces Xbox Series X|https://www.ign.com/articles/2019/12/13/xbox-series-x-revealed?sf114175666=1|PhotoSpike|False|https://redd.it/e9xlyt|151|0.93|0|82|0|gadgets
+e9hi80|2019-12-12 02:37:09|How three Australian brothers plan to kick-flip over Boosted with a new lineup of electric skateboards|https://www.theverge.com/2019/12/11/21003286/dot-boards-electric-skateboard-boosted-range-price-specs|FortuitousAdroit|False|https://redd.it/e9hi80|2176|0.85|0|251|0|gadgets
+e9kf7t|2019-12-12 07:24:49|Nintendo Switch China Sales Could Reach 4 Million by March, Analyst Says|https://www.bloomberg.com/news/articles/2019-12-12/nintendo-switch-china-sales-could-reach-4-million-units-by-march?srnd=technology-vp|ChickenTeriyakiBoy1|False|https://redd.it/e9kf7t|41|0.92|0|8|0|gadgets
+e90048|2019-12-11 01:18:41|The new Mac Pro will cost $52,199 if all optional upgrades are selected.|https://www.cnbc.com/2019/12/10/apple-mac-pro-maxed-out-price-is-52199-before-pro-display-xdr-screen.html|AccidentallyFresh|False|https://redd.it/e90048|24282|0.9|1|3893|0|gadgets
+e9dmn4|2019-12-11 21:36:59|Samsung may launch foldable clamshell in San Francisco on February 18, 2020, according to reliable Samsung tipster Ice Universe|https://www.digitaltrends.com/mobile/samsung-galaxy-s11-clamshell-foldable-launch-date-news/|nopantsdolphin|False|https://redd.it/e9dmn4|14|0.8|0|2|0|gadgets
+e8ob8a|2019-12-10 09:08:34|Specs on Xbox Project Scarlett, which is actually two consoles: Lockhart (8 3.5Ghz cores, about 4 teraflops) and Anaconda (8 3.xGhz cores, 16GB RAM, about 14 teraflops)|https://www.windowscentral.com/xbox-scarlett-anaconda-lockhart-specs|nopantsdolphin|False|https://redd.it/e8ob8a|10001|0.93|1|1939|0|gadgets
+e8ynp3|2019-12-10 23:28:11|Saying goodbye to Windows 10 Mobile: Microsoft ends support for its mobile OS -gsmarena|https://www.gsmarena.com/newscomm-40502.php|y2jer|False|https://redd.it/e8ynp3|272|0.96|0|77|0|gadgets
+e8rmx5|2019-12-10 14:58:23|"The 100 Gadgets that Defined This Decade | The VERGE"|https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung|NurRayArt|False|https://redd.it/e8rmx5|45|0.88|0|10|0|gadgets
+e8xi8c|2019-12-10 22:02:11|AZIO's new FOKAL mechanical keyboard has a control knob.|https://www.notebookcheck.net/AZIO-is-back-on-Indiegogo-with-its-new-FOKAL-mechanical-keyboard.447049.0.html|RenegadeUK|False|https://redd.it/e8xi8c|10|0.72|0|5|0|gadgets
+e8r1to|2019-12-10 14:09:15|Lenovo Yoga C940 15 review: The do-it-all, 2-in-1?|https://www.digitaltrends.com/laptop-reviews/lenovo-yoga-c940-15-review/|MyNameIsGriffon|False|https://redd.it/e8r1to|9|0.74|0|0|0|gadgets
+e8bqpu|2019-12-09 15:57:27|Unicorn e-scooter startup shuts down with no money for refunds|https://www.theverge.com/2019/12/7/21000094/unicorn-electric-scooter-shut-down-refund-tile|mspoonygp|False|https://redd.it/e8bqpu|142|0.91|0|39|0|gadgets
+e8gssa|2019-12-09 22:01:15|Oculus to revive controller free hand tracking this week.|https://www.theverge.com/2019/12/9/21003333/oculus-quest-vr-headset-hand-tracking-controller-2020-update-launch|PhotoSpike|False|https://redd.it/e8gssa|39|0.8|0|3|0|gadgets
+e7w0pb|2019-12-08 16:51:44|Google is ending support for the Explorer Edition of Glass|https://www.engadget.com/2019/12/06/google-ends-support-for-glass-explorer-edition/?utm_campaign=homepage&utm_medium=internal&utm_source=dl|MCA2142|False|https://redd.it/e7w0pb|8147|0.95|0|869|0|gadgets
+e8bsv4|2019-12-09 16:01:48|PS5 could have shared controller inputs for single-player gamers|https://www.digitaltrends.com/gaming/ps5-shared-controller-inputs-single-player-games/|mspoonygp|False|https://redd.it/e8bsv4|65|0.8|0|34|0|gadgets
+e8uat9|2019-12-10 18:13:15|A maxed-out Mac Pro will cost you $53,000 -- without display|https://appleinsider.com/articles/19/12/10/a-maxed-out-mac-pro-will-cost-you-53000----without-display|Cautemoc|False|https://redd.it/e8uat9|0|0.44|0|37|0|gadgets
+e8gghm|2019-12-09 21:35:37|The Best Smart Home Devices of 2019|https://www.cnet.com/news/the-best-smart-home-devices-of-2019-amazon-alexa-google-assistant-apple-homekit-nest-hub-echo-show/|ChunKeyDon|False|https://redd.it/e8gghm|3|0.65|0|5|0|gadgets
+e88jip|2019-12-09 11:00:56|Smart glasses may gradually replace smartphones starting in 2023 says the chairman of Jorjin and the Taiwan Smart Glasses Industry Association|https://www.digitimes.com/news/a20191209PD210.html|LegendOfHiddnTempl|False|https://redd.it/e88jip|10|0.61|0|20|0|gadgets
+e7i6qg|2019-12-07 18:54:54|The world’s top Apple insider says iPhone 12 is one of five new iPhone models coming in 2020|https://bgr.com/2019/12/05/iphone-12-release-date-analyst-predicts-five-new-models-next-year/|abrownn|False|https://redd.it/e7i6qg|6574|0.84|0|988|0|gadgets
+e7xggz|2019-12-08 18:38:30|Sony PlayStation Teardown|https://www.ifixit.com/Teardown/Sony+PlayStation+Teardown/128089|ChickenTeriyakiBoy1|False|https://redd.it/e7xggz|36|0.77|0|1|0|gadgets
+e7z7ib|2019-12-08 20:47:10|OnePlus may return to low-cost phones with the 8 Lite|https://www.engadget.com/2019/12/07/oneplus-8-lite-leak/|PhotoSpike|False|https://redd.it/e7z7ib|26|0.77|0|9|0|gadgets
+e8apmz|2019-12-09 14:35:29|iPhone 12 renders show a retro-looking design - Video|https://www.cnet.com/videos/iphone-12-renders-show-a-retro-looking-design/|ChunKeyDon|False|https://redd.it/e8apmz|0|0.32|0|3|0|gadgets
+e741p9|2019-12-06 20:27:55|Magic Leap has reportedly sold only 6,000 headsets after raising $2.6 billion|https://www.tomsguide.com/news/dollar26-billion-later-magic-leap-looks-in-trouble|mspoonygp|False|https://redd.it/e741p9|14149|0.94|1|1197|0|gadgets
+e7xfhd|2019-12-08 18:36:26|Galaxy Note 10 Plus Star Wars Special Edition Pre-orders Are Now Open|https://www.androidheadlines.com/2019/12/samsung-galaxy-note-10-plus-star-wars-edition|ChickenTeriyakiBoy1|False|https://redd.it/e7xfhd|2|0.55|0|4|0|gadgets
+e7ngo9|2019-12-08 01:55:51|Apple to Release Mac Pro and Pro Display XDR on December 10|https://www.macrumors.com/2019/12/07/apple-releasing-mac-pro-december-10/|aaronp613|False|https://redd.it/e7ngo9|20|0.69|0|19|0|gadgets
+e6knus|2019-12-05 17:45:17|Apple is killing the charging plug on its highest-end phones by 2021, top analyst predicts|https://www.cnbc.com/2019/12/05/apple-is-killing-lightning-connector-on-top-iphones-by-2021-kuo-says.html|KingOfTheCouch13|False|https://redd.it/e6knus|19199|0.75|0|4184|0|gadgets
+e72ddj|2019-12-06 18:21:29|Dell Inspiron 27 7790 all-in-one review: Half PC, half TV|https://www.digitaltrends.com/desktop-computer-reviews/dell-inspiron-27-7790-review/|MyNameIsGriffon|False|https://redd.it/e72ddj|18|0.71|0|7|0|gadgets
+e662sw|2019-12-04 21:17:16|Sources: Microsoft Is Still Planning A Cheaper, Disc-Less Next-Gen Xbox|https://www.kotaku.com.au/2019/12/sources-microsoft-is-still-planning-a-cheaper-disc-less-next-gen-xbox/|FortuitousAdroit|False|https://redd.it/e662sw|3361|0.95|0|894|0|gadgets
+e5vr1r|2019-12-04 07:32:50|Pour one out for the Steam Controller, sold out forever after $5 fire sale|https://www.theverge.com/good-deals/2019/11/26/20984123/valve-steam-controller-discontinued-sale-price|Philo1927|False|https://redd.it/e5vr1r|7099|0.96|0|811|0|gadgets
+e67rq3|2019-12-04 23:10:59|Touch ID could make its way back to 2020 iPhones with new Qualcomm ultrasonic fingerprint sensor that can read two prints simultaneously|https://pocketnow.com/?p=551410|nopantsdolphin|False|https://redd.it/e67rq3|70|0.85|0|48|0|gadgets
+e63tt1|2019-12-04 18:52:41|Pablo Escobar's Brother Launches a Folding Smartphone|https://www.pcmag.com/news/372322/pablo-escobars-brother-launches-a-folding-smartphone|memoryfailure|False|https://redd.it/e63tt1|121|0.85|0|49|0|gadgets
+e68ug8|2019-12-05 00:29:18|Master and Dynamic MW07 Plus Review: Best wireless sound|https://www.digitaltrends.com/headphone-reviews/master-and-dynamic-mw07-plus-review/|MyNameIsGriffon|False|https://redd.it/e68ug8|16|0.69|0|8|0|gadgets
+e5hi1b|2019-12-03 14:00:51|There are now traffic cameras that can spot you using your phone while driving|https://www.cnet.com/news/there-are-now-traffic-cameras-that-can-spot-you-using-your-phone-while-driving/|mtimetraveller|False|https://redd.it/e5hi1b|31065|0.92|0|3248|0|gadgets
+e61dd8|2019-12-04 16:06:34|Huawei Aims for Desktop PC Market with Motherboard for Kunpeng 920 ARMv8 Processors|https://www.tomshardware.com/news/huawei-introduces-desktop-pc-motherboard-for-kunpeng-920-armv8-processors|JimBoBarnes|False|https://redd.it/e61dd8|12|0.6|0|19|0|gadgets
+e5ge47|2019-12-03 12:24:44|Galaxy Fold 2 will reportedly cost under $1,000 with clamshell design and launch in February|https://www.tomsguide.com/news/galaxy-fold-2-will-reportedly-be-a-clamshell-and-cost-under-dollar900|mspoonygp|False|https://redd.it/e5ge47|318|0.91|0|117|0|gadgets
+e5kuzj|2019-12-03 17:58:17|The rise and fall of the PlayStation supercomputers - One PlayStation can play a game, but 100 PlayStations can peer into the secrets of the universe|https://www.theverge.com/2019/12/3/20984028/playstation-supercomputer-ps3-umass-dartmouth-astrophysics-25th-anniversary|Philo1927|False|https://redd.it/e5kuzj|85|0.92|0|10|0|gadgets
+e4wyoi|2019-12-02 09:59:22|Now even the FBI is warning about your smart TV security|https://techcrunch.com/2019/12/01/fbi-smart-tv-security/|mtimetraveller|False|https://redd.it/e4wyoi|13577|0.96|1|1328|0|gadgets
+e5hjk0|2019-12-03 14:03:56|AMD Challenges Intel's NUC, Fosters Mini PC Ecosystem|https://www.tomshardware.com/news/amd-mini-pc-intel-nuc-ecosystem-Ryzen-embedded-R1000-V1000|JimBoBarnes|False|https://redd.it/e5hjk0|30|0.86|0|6|0|gadgets
+e5hnzc|2019-12-03 14:13:20|Motorola depicts a foldable Razr with modular attachments|https://www.phonearena.com/news/Motorola-imagines-a-foldable-Razr-with-modular-attachments_id120865|KingOfTheCouch13|False|https://redd.it/e5hnzc|26|0.82|0|4|0|gadgets
+e5blzt|2019-12-03 04:28:44|PinePhone: Everything you need to know about the $150 Linux-powered phone|https://www.androidauthority.com/pine64-pinephone-1053395/|AgreeableLandscape3|False|https://redd.it/e5blzt|38|0.82|0|8|0|gadgets
+e52sno|2019-12-02 18:02:57|Weekly /r/Gadgets Advice Superthread|"Hey, gadgeteers! Here is this week's thread where we can all post up discussions, comparisons and advice on various gadgets.
+For specific questions we highly recommend you also look [at the list of related subreddits](https://www.reddit.com/r/gadgets/wiki/related_subreddits) since you are more likely to find an answer in a specialized subreddit. 
+
+[Sort by new](/r/gadgets/about/sticky/?sort=new) to see unanswered questions."|_BindersFullOfWomen_|False|https://redd.it/e52sno|8|0.73|0|30|1|gadgets
+e4aj5x|2019-12-01 04:34:45|Vizio says a fix for its Disney+ problems is coming in December|https://www.digitaltrends.com/home-theater/vizio-disney-plus-fix-coming-in-december/|Linear_Duck|False|https://redd.it/e4aj5x|3229|0.94|0|336|0|gadgets
+e40ls5|2019-11-30 18:03:36|Kodak Smile Classic Review: Large Prints Can't Save This Instant Camera|https://www.digitaltrends.com/digital-camera-reviews/kodak-smile-clasic-review/|ChickenTeriyakiBoy1|False|https://redd.it/e40ls5|1390|0.94|0|59|0|gadgets
+e3l3gy|2019-11-29 21:18:33|Don't Buy Anyone a Ring Camera|https://gizmodo.com/dont-buy-anyone-a-ring-camera-1840070640|sdsanth|False|https://redd.it/e3l3gy|3961|0.93|0|560|0|gadgets
+e3brnq|2019-11-29 07:54:58|The R2-D2 Instant Pot Comes with Star Wars themed recipes|https://www.digitaltrends.com/home/cook-dinner-hyperspeed-star-wars-themed-instant-pots/|MicroSofty88|False|https://redd.it/e3brnq|1804|0.9|0|90|0|gadgets
+e3jb2l|2019-11-29 19:16:05|Apple AR Headphone Could Be In The Works According to New Patent|https://www.digitaltrends.com/apple/apple-augmented-reality-headphones-patent/|ChickenTeriyakiBoy1|False|https://redd.it/e3jb2l|73|0.84|0|19|0|gadgets
+e2yoxe|2019-11-28 14:26:42|Samsung to reportedly abandon Qualcomm ultrasonic fingerprint scanners|https://pocketnow.com/samsung-to-reportedly-abandon-qualcomm-ultrasonic-fingerprint-scanners|mtimetraveller|False|https://redd.it/e2yoxe|6030|0.96|0|548|0|gadgets
+e3c0aj|2019-11-29 08:21:39|Apple Asks Chinese Manufacturers to Ramp Up AirPods Pro Production: Report|https://gadgets.ndtv.com/audio/news/apple-asks-chinese-manufacturers-to-ramp-up-airpods-pro-production-report-2140598|raghav48|False|https://redd.it/e3c0aj|45|0.76|0|10|0|gadgets
+e2vugi|2019-11-28 09:38:29|"Android, Linux smartphone-computer: Dual-screen Cosmo Communicator is out | ZDNet"|https://www.zdnet.com/article/android-linux-smartphone-computer-dual-screen-cosmo-communicator-is-out/|yieldingTemporarily|False|https://redd.it/e2vugi|429|0.92|0|85|0|gadgets
+e305ax|2019-11-28 16:20:32|Ingenious Wearable Tracks Brain Waves To Forecast Epileptic Seizures|https://www.digitaltrends.com/cool-tech/epilog-wearable-eeg-indiegogo/|ChickenTeriyakiBoy1|False|https://redd.it/e305ax|111|0.98|0|9|0|gadgets
+e2fh5q|2019-11-27 12:39:23|This resilient Raspberry Pi cyberdeck is made for the end of the world|https://www.theverge.com/circuitbreaker/2019/11/27/20983472/raspberry-pi-recovery-kit-apocalypse-cyberdeck-build-jay-doscher|mtimetraveller|False|https://redd.it/e2fh5q|8958|0.96|0|345|0|gadgets
+e2yexe|2019-11-28 14:03:52|Google Assistant can now navigate websites, booking movie tickets directly for you with a voice command|https://www.blog.google/products/assistant/save-time-buying-movie-tickets-google-assistant-chrome/|ilikepancakez|False|https://redd.it/e2yexe|25|0.77|0|7|0|gadgets
+e2o1uy|2019-11-27 22:30:53|One More Thing: AMD Is Launching a 64-Core 3990X Threadripper in 2020|https://www.extremetech.com/computing/302727-one-more-thing-amd-is-launching-a-64-core-3990x-threadripper-in-2020|zengkeat|False|https://redd.it/e2o1uy|48|0.84|0|11|0|gadgets
+e2qovh|2019-11-28 01:47:46|Lenovo SmartClock unboxing and review|https://www.youtube.com/watch?v=Y7nakggiqlQ|noeatnosleep|False|https://redd.it/e2qovh|25|0.7|0|4|0|gadgets
+e2f89e|2019-11-27 12:13:25|Toshiba says its device tests for 13 cancer types with 99% accuracy from a single drop of blood|https://www.japantimes.co.jp/news/2019/11/25/business/corporate-business/toshiba-test-cancer-blood/|biemark|False|https://redd.it/e2f89e|134|0.9|0|23|0|gadgets
+e1z90k|2019-11-26 15:14:11|Amazon Alexa can now order prescription refills and remind people to take their medicine|https://www.geekwire.com/2019/amazons-alexa-can-now-order-prescription-refills-remind-people-take-medicine/|PrabidhiInfo|False|https://redd.it/e1z90k|8500|0.91|0|483|0|gadgets
+e2p2pl|2019-11-27 23:42:57|Google's Nest Mini vs. Amazon's Echo Dot: Pick Your Assistant|https://www.engadget.com/2019/11/27/google-nest-mini-amazon-echo-dot-review/|kbgames360|False|https://redd.it/e2p2pl|13|0.71|0|18|0|gadgets
+e2hfyj|2019-11-27 15:20:53|Samsung Galaxy S11 will reportedly feature 100x 'Space Zoom'|https://www.tomsguide.com/news/galaxy-s11-may-feature-a-whopping-100x-space-zoom|mspoonygp|False|https://redd.it/e2hfyj|48|0.88|0|19|0|gadgets
+e2ot2k|2019-11-27 23:23:35|Intel Core i9-10980XE Extreme Edition|https://www.pcmag.com/review/372115/intel-core-i9-10980xe-extreme-edition|zengkeat|False|https://redd.it/e2ot2k|10|0.68|0|6|0|gadgets
+e2j9ms|2019-11-27 17:21:56|Hands on with the Pringles Hunger Hammer - A headset that feeds you chips while you play.|https://www.engadget.com/2019/11/26/pringles-hunger-hammer-headset-feeds-you-chips/|Stampeder|False|https://redd.it/e2j9ms|19|0.74|0|5|0|gadgets
+e2juu0|2019-11-27 17:59:42|TCL 6-Series Review (2019): the Best Cheap TV Gets Quantum Dots|https://gizmodo.com/our-favorite-cheap-4k-tv-looks-even-better-with-quantum-1839618719|Philo1927|False|https://redd.it/e2juu0|14|0.77|0|0|0|gadgets
+e1xejp|2019-11-26 12:39:14|Nvidia GeForce GTX 1650 Super review: Radeon RX 580 is finally dead|https://www.pcworld.com/article/3481636/nvidia-geforce-gtx-1650-super-review-best-budget-graphics-card.html|PrabidhiInfo|False|https://redd.it/e1xejp|188|0.74|0|43|0|gadgets
+e1ggsp|2019-11-25 14:03:47|AMD Threadripper 3970X and 3960X Review: Taking Over The High End|https://www.tomshardware.com/reviews/amd-threadripper-3970x-review|JimBoBarnes|False|https://redd.it/e1ggsp|4928|0.95|0|616|0|gadgets
+e26iti|2019-11-26 23:14:51|Microsoft HoloLens 2 Device Unboxing and Product Overview [xpost /r/HoloLens]|https://www.reddit.com/r/HoloLens/comments/e23uw9/microsoft_hololens_2_device_unboxing_and_product/|OhioStateBuckeyes|False|https://redd.it/e26iti|8|0.66|0|0|0|gadgets
+e1x21o|2019-11-26 12:05:20|Apple MacBook Pro 16-inch review: The best Mac in years|https://www.digitaltrends.com/laptop-reviews/apple-macbook-pro-16-inch-review/|MyNameIsGriffon|False|https://redd.it/e1x21o|38|0.74|0|29|0|gadgets
+e1uct7|2019-11-26 07:04:00|"Kodak Smile Classic Review: Large Prints Can't Save This Instant Camera | Digital Trends"|https://www.digitaltrends.com/digital-camera-reviews/kodak-smile-clasic-review/|hossi3|False|https://redd.it/e1uct7|26|0.77|0|0|0|gadgets
+e1log4|2019-11-25 20:00:19|2019 16-inch MacBook Pro review: Bye-bye, butterfly|https://arstechnica.com/gadgets/2019/11/2019-16-inch-macbook-pro-review-bye-bye-butterfly/|Kludgy33|False|https://redd.it/e1log4|27|0.81|0|9|0|gadgets
+e0wdvh|2019-11-24 09:25:32|Stadia Is a Glimpse Into the Future But Maybe Not Yours or Google's|https://gizmodo.com/stadia-is-a-glimpse-into-the-future-but-maybe-not-yours-1840000235|mtimetraveller|False|https://redd.it/e0wdvh|8482|0.92|0|1599|0|gadgets
+e1u40w|2019-11-26 06:37:58|Review: TiVo Edge DVR with voice remote control|https://www.slashgear.com/review-tivo-edge-dvr-with-voice-remote-control-18598230/|hossi3|False|https://redd.it/e1u40w|1|1.0|0|1|0|gadgets
+e1h31j|2019-11-25 14:53:48|The AMD Ryzen Threadripper 3960X and 3970X Review: 24 and 32 Cores on 7nm|https://www.anandtech.com/show/15044/the-amd-ryzen-threadripper-3960x-and-3970x-review-24-and-32-cores-on-7nm|FortuitousAdroit|False|https://redd.it/e1h31j|14|0.79|0|2|0|gadgets
+e1b6ap|2019-11-25 05:07:51|"Star Wars: The Rise Of Skywalker Galaxy Note10+ | Samsung US"|https://www.samsung.com/us/mobile/galaxy-note10/star-wars-special-edition/|TheCatCAR|False|https://redd.it/e1b6ap|1|0.5|0|2|0|gadgets
+e0zy2n|2019-11-24 15:36:40|Kodak Smile Classic review: Large prints, buggy camera|https://www.digitaltrends.com/digital-camera-reviews/kodak-smile-clasic-review/|MyNameIsGriffon|False|https://redd.it/e0zy2n|12|0.79|0|0|0|gadgets
+e0e5zt|2019-11-23 06:27:36|OnePlus discloses data breach, less than two years after the last one|https://www.theverge.com/2019/11/22/20978455/oneplus-discloses-data-breach-names-numbers-emails-addresses-exposed|Niceguy955|False|https://redd.it/e0e5zt|6192|0.97|1|389|0|gadgets
+dzzwyc|2019-11-22 11:48:27|Consumer Reports says Samsung's Galaxy Buds beat Apple's AirPods Pro in sound quality test|https://www.techspot.com/news/82812-consumer-reports-samsung-galaxy-buds-beat-apple-airpods.html|ATWindsor|False|https://redd.it/dzzwyc|25798|0.84|0|2216|0|gadgets
+e0gyot|2019-11-23 11:55:19|TCL 8-Series mini-LED 4K HDR TV Review: Next-gen LED|https://www.digitaltrends.com/tv-reviews/tcl-8-series-mini-led-4k-hdr-tv-review-65q825-75q825/|Philo1927|False|https://redd.it/e0gyot|12|0.67|0|4|0|gadgets
+e03z2p|2019-11-22 17:15:07|An ingenious hinge is the secret to the Motorola Razr's ability to fold flat|https://www.cnet.com/news/motorolas-razr-folds-in-half-without-a-crease-the-secret-is-in-the-hinge-design/|Staormin|False|https://redd.it/e03z2p|57|0.93|0|26|0|gadgets
+dzjpfw|2019-11-21 14:00:51|Smartphone microscope kit promises up to 1,000x magnification|https://www.theverge.com/circuitbreaker/2019/11/21/20975677/smartphone-microscope-kickstarter-diple-announcement-magnification-zoom|mtimetraveller|False|https://redd.it/dzjpfw|4615|0.96|0|200|0|gadgets
+dzio31|2019-11-21 12:33:27|Galaxy S11 may feature 120Hz display based on Samsung's new software|https://www.tomsguide.com/news/galaxy-s11-may-boast-120hz-display-according-to-samsungs-latest-os|mspoonygp|False|https://redd.it/dzio31|5082|0.94|0|424|0|gadgets
+dzzzho|2019-11-22 11:55:41|Huawei Mate X foldable screen fix costs $1,000|https://www.tomsguide.com/news/huawei-mate-x-foldable-screen-fix-costs-dollar1000|nopantsdolphin|False|https://redd.it/dzzzho|24|0.82|0|16|0|gadgets
+dziixc|2019-11-21 12:21:09|Windows 10 IoT gets ported on to a calculator|https://mspoweruser.com/windows-10-iot-gets-ported-on-to-a-calculator/|aligram_art|False|https://redd.it/dziixc|1285|0.95|0|99|0|gadgets
+dz4l8d|2019-11-20 16:43:02|The W20 5G is the Galaxy Fold Samsung should have launched the first time|https://www.tomsguide.com/news/the-w20-5g-is-the-galaxy-fold-samsung-should-have-launched-the-first-time|mtimetraveller|False|https://redd.it/dz4l8d|3387|0.92|0|383|0|gadgets
+dyk2vt|2019-11-19 12:57:56|Why is Apple still selling MacBooks with bad butterfly keyboards?|https://www.tomsguide.com/opinion/why-is-apple-still-selling-macbooks-with-bad-butterfly-keyboards|nopantsdolphin|False|https://redd.it/dyk2vt|12925|0.91|0|2027|0|gadgets
+dyo6fq|2019-11-19 18:12:12|Up close with CastAway, the Chrome OS add-on for your phone.|https://www.computerworld.com/article/3454299/castaway-chrome-os-phone.html?r=slt-eml-bck-a2e0&utm_source=sailthru&utm_medium=email&utm_campaign=bck-11192019update&utm_term=|RenegadeUK|False|https://redd.it/dyo6fq|39|0.84|0|16|0|gadgets
+dyozet|2019-11-19 19:06:25|Satechi launches 2-in-1 aluminum USB-C stand and hub for Apple Mac mini|https://betanews.com/2019/11/19/satechi-mac-mini-stand-hub/|CrankyBear|False|https://redd.it/dyozet|17|0.76|0|12|0|gadgets
+dy2krm|2019-11-18 12:30:51|Logitech G kit for Xbox Adaptive Controller gears you up more affordably|https://www.cnet.com/news/logitech-g-kit-for-xbox-adaptive-controller-gears-you-up-affordably/|mtimetraveller|False|https://redd.it/dy2krm|4972|0.96|0|161|0|gadgets
+dymt5q|2019-11-19 16:35:45|Galaxy Watch and Watch Active to Get Galaxy Watch Active 2 Features via Latest Update|https://wccftech.com/galaxy-watch-and-watch-active-to-get-galaxy-watch-active-2-features-via-latest-update/|irregularBreak|False|https://redd.it/dymt5q|17|0.78|0|0|0|gadgets
+dym2k6|2019-11-19 15:42:20|World's Largest Chip Gets a New Home: Cerebras Launches CS-1 System|https://www.tomshardware.com/news/worlds-largest-chip-gets-a-new-home-cerebras-launches-cs-1-system|JimBoBarnes|False|https://redd.it/dym2k6|12|0.83|0|7|0|gadgets
+dy72u7|2019-11-18 18:23:37|I've been playing games on Google's ambitious new Netflix-like game service for the last week, and it's clear the service isn't ready for primetime|https://www.businessinsider.com/google-stadia-video-game-streaming-service-review-2019-11|protekt0r|False|https://redd.it/dy72u7|216|0.83|0|113|0|gadgets
+dy2c2f|2019-11-18 12:06:08|Galaxy S11 will still have bezels, albeit less than 1.5 millimeters (but next-gen Galaxy One may eliminate them completely)|https://www.tomsguide.com/news/forget-the-galaxy-s11-the-galaxy-one-may-feature-a-bezel-free-3d-display|nopantsdolphin|False|https://redd.it/dy2c2f|163|0.86|0|61|0|gadgets
+dxn47e|2019-11-17 14:24:01|Apple finally admits iPad Pro won't replace your PC|https://www.zdnet.com/article/apple-finally-admits-ipad-pro-wont-replace-your-pc/|mtimetraveller|False|https://redd.it/dxn47e|26283|0.82|0|2107|0|gadgets
+dy4kmr|2019-11-18 15:24:05|Jabra Elite 75t review: Massive bass from tiny earbuds|https://www.digitaltrends.com/headphone-reviews/jabra-elite-75t-review/|MyNameIsGriffon|False|https://redd.it/dy4kmr|39|0.86|0|38|0|gadgets
+dy8o8h|2019-11-18 20:11:43|Battery powered forehead snoring buzzer!|https://www.unilad.co.uk/health/battery-powered-forehead-snoring-buzzer-could-be-the-secret-to-stopping-your-partners-snores/|Rikers_lightsaber|False|https://redd.it/dy8o8h|14|0.72|0|10|0|gadgets
+dy4szq|2019-11-18 15:41:40|Google Pixel 4's Motion Sense is pretty neat! (screen off)|https://streamable.com/26jyv|imusingreddityay|False|https://redd.it/dy4szq|7|0.58|0|40|0|gadgets
+dxpr2r|2019-11-17 17:49:04|Looking Glass 8K true holographic 32-inch TV generates 45 distinct and simultaneous perspectives of a three-dimensional scene at 60 frames per second. It displays 33.2 million pixels.and doesn't require any gear or head tracking|https://www.digitaltrends.com/cool-tech/looking-glass-8k-story-behind/|nopantsdolphin|False|https://redd.it/dxpr2r|130|0.96|0|25|0|gadgets
+dx77dp|2019-11-16 13:58:46|Ring doorbells and the police: What to do if surveillance has you worried|https://www.cnet.com/how-to/ring-doorbells-and-the-police-what-to-do-if-surveillance-has-you-worried/|mtimetraveller|False|https://redd.it/dx77dp|5583|0.95|0|645|0|gadgets
+dx77om|2019-11-16 13:59:33|A look back at the cutting-edge tech of 2010 -- and how it's shaped the decade since|https://www.cnet.com/news/a-look-back-at-2010s-hot-technology-and-what-it-means-for-2020/|mtimetraveller|False|https://redd.it/dx77om|1162|0.94|0|120|0|gadgets
+dxn9z4|2019-11-17 14:38:09|Falcon Northwest Talon 20th Anniversary Edition review|https://www.digitaltrends.com/desktop-computer-reviews/falcon-northwest-talon-20th-anniversary-edition-review/|MyNameIsGriffon|False|https://redd.it/dxn9z4|13|0.79|0|2|0|gadgets
+dxcw4b|2019-11-16 21:19:22|The Consumer Electronics Hall of Fame: Motorola T250 Talkabout Walkie-Talkies|https://spectrum.ieee.org/consumer-electronics/gadgets/the-consumer-electronics-hall-of-fame-motorola-t250-talkabout-walkietalkies|CrankyBear|False|https://redd.it/dxcw4b|53|0.88|0|7|0|gadgets
+dwpu8m|2019-11-15 12:03:54|Real-life Iron Man breaks speed record with upgraded flying suit: 85mph|https://www.tomsguide.com/news/real-life-iron-man-breaks-speed-record-85-mph|nopantsdolphin|False|https://redd.it/dwpu8m|14123|0.94|0|491|0|gadgets
+dwtgbc|2019-11-15 16:51:33|146 New Vulnerabilities come preinstalled on Android phones. The dozens of flaws across 29 Android smartphone makers show just how insecure the devices can be, even brand-new.|https://www.wired.com/story/146-bugs-preinstalled-android-phones/||False|https://redd.it/dwtgbc|140|0.92|0|24|0|gadgets
+dwwyya|2019-11-15 21:09:46|The New MacBook Pro Keyboard is a Throwback in the Best Way|https://www.ifixit.com/News/16-inch-macbook-pro-magic-keyboard-throwback|FortuitousAdroit|False|https://redd.it/dwwyya|38|0.81|0|13|0|gadgets
+dw9ogj|2019-11-14 13:40:42|Hello, Moto. The foldable Razr's secret keyboard is a blast from the past|https://www.cnet.com/news/hello-moto-the-foldable-razrs-secret-keyboard-is-a-blast-from-the-past/|mtimetraveller|False|https://redd.it/dw9ogj|8405|0.94|0|683|0|gadgets
+dwo9v1|2019-11-15 09:14:38|Bose SoundLink Micro: An Excellent Pocket Speaker For Money?|https://www.cnet.com/reviews/bose-soundlink-micro-review/|Glbhoutx|False|https://redd.it/dwo9v1|14|0.69|0|11|0|gadgets
+dw75g8|2019-11-14 09:28:20|Why Motorola thinks you'll pay $1,500 for a foldable Razr|https://www.cnet.com/features/motorola-razr-flipping-the-phone-icon-into-the-foldable-future/|mtimetraveller|False|https://redd.it/dw75g8|352|0.9|0|142|0|gadgets
+dwdpjz|2019-11-14 18:34:51|"CastAway is a crowdfunding project that aims to make a second, ultraslim screen case for smartphones! The case contains a second Chrome OS driven ""tablet"" you can use to multitask, copy/paste, and access files and photos between screens."|https://www.indiegogo.com/projects/a-second-screen-for-your-smartphone#/|Jos-bob|False|https://redd.it/dwdpjz|46|0.87|0|6|0|gadgets
+dvrz9c|2019-11-13 13:46:28|Disney Plus isn't working on Vizio TVs because they are running a 6 year old version of Chromecast, they say it won't be fixed till 2020.|https://www.businessinsider.com/disney-plus-not-working-vizio-smart-tvs-chromecast-2019-11|Sadistic_Sponge|False|https://redd.it/dvrz9c|35956|0.93|1|3226|0|gadgets
+dw9zvo|2019-11-14 14:07:36|Intel will build AI brains into your laptop for tomorrow's speed boost|https://www.cnet.com/news/intel-will-build-ai-brains-into-your-laptop-for-tomorrows-speed-boost/|PrabidhiInfo|False|https://redd.it/dw9zvo|85|0.92|0|21|0|gadgets
+dwavac|2019-11-14 15:16:23|AMD Ryzen 9 3950X Review: 16 Cores Muscles Into the Mainstream|https://www.tomshardware.com/reviews/amd-ryzen-9-3950x-review|HoeCakesNSyrup|False|https://redd.it/dwavac|31|0.96|0|8|0|gadgets
+dw4579|2019-11-14 04:23:12|Motorola Razr (2019) hands-on review|https://www.tomsguide.com/reviews/motorola-razr|kremerturbo|False|https://redd.it/dw4579|86|0.88|0|25|0|gadgets
+dvr7a2|2019-11-13 12:41:21|The /e/ Google-free, pro-privacy Android phone runs well , for a beta|https://www.zdnet.com/article/the-e-google-free-pro-privacy-android-phone-runs-well-for-a-beta/|mtimetraveller|False|https://redd.it/dvr7a2|477|0.92|0|85|0|gadgets
+dw0x2d|2019-11-14 00:04:17|DJI wants to let anyone with a smartphone monitor nearby drones|https://www.theverge.com/2019/11/13/20963702/dji-drone-remote-identification-smartphone-app|protekt0r|False|https://redd.it/dw0x2d|44|0.91|0|3|0|gadgets
+dw7icj|2019-11-14 10:08:20|Motorola Reboots the Razr, This Time With a Folding Display|https://www.wired.com/story/motorola-razr-2019/|IberianIbex|False|https://redd.it/dw7icj|7|1.0|0|0|0|gadgets
+dvrzcw|2019-11-13 13:46:42|16-inch MacBook Pro unveiled with new Magic Keyboard|https://www.tomsguide.com/reviews/16-inch-macbook-pro|mspoonygp|False|https://redd.it/dvrzcw|80|0.87|0|94|0|gadgets
+dv8m12|2019-11-12 11:16:53|Pretend It's 1985 Again With This 8BitDo NES-Style Mouse|https://www.digitaltrends.com/gaming/8bitdo-nes-style-mouse/|mtimetraveller|False|https://redd.it/dv8m12|6938|0.89|0|372|0|gadgets
+dvs1nz|2019-11-13 13:51:45|Apple's new $5,999 Mac Pro will launch in December|https://www.cnbc.com/2019/11/13/apple-mac-pro-release-date-price.html|protekt0r|False|https://redd.it/dvs1nz|34|0.84|0|76|0|gadgets
+dvswhb|2019-11-13 14:57:33|Three-headed toothbrush promises a sub-one-minute cleaning. Looks even weirder than a mouthpiece|https://newatlas.com/health-wellbeing/three-headed-brubrubrush/|Ellanorsh|False|https://redd.it/dvswhb|30|0.88|0|11|0|gadgets
+dvs3tv|2019-11-13 13:56:30|Apple Mac Pro and Pro Display finally coming in December|https://www.cnet.com/news/mac-pro-will-finally-ship-in-december/|nopantsdolphin|False|https://redd.it/dvs3tv|18|0.83|0|6|0|gadgets
+dv89hh|2019-11-12 10:36:14|Power-Assist Exoskeleton Powered by an Air Pressure System Instead of Electricity|https://soranews24.com/2019/11/05/assistive-exoskeletons-now-available-in-japanese-electronic-stores-lets-you-do-serious-lifting/|AndalusianGod|False|https://redd.it/dv89hh|1170|0.96|1|62|0|gadgets
+dvg923|2019-11-12 20:59:05|AMD Ryzen 9 3900 Review: a Taste of Eco Mode|https://www.tomshardware.com/reviews/amd-ryzen-9-3900-review-eco-mode|HoeCakesNSyrup|False|https://redd.it/dvg923|16|0.83|0|0|0|gadgets
+durt84|2019-11-11 12:37:23|Samsung Galaxy S11 will go big: from 6.4-inch S11e to 6.9-inch S11 Plus (for comparison, the S10 Plus is 6.4 inches now) and 108MP cameras|https://www.tomsguide.com/news/galaxy-s11-giant-screen-sizes-108mp-camera-and-colors-just-leaked|nopantsdolphin|False|https://redd.it/durt84|4176|0.93|0|948|0|gadgets
+dvclxb|2019-11-12 16:49:54|Can a combined Google/Fitbit take on the Apple Watch?|https://techcrunch.com/2019/11/01/can-a-combined-google-fitbit-take-on-the-apple-watch/|ilikepancakez|False|https://redd.it/dvclxb|15|0.82|0|18|0|gadgets
+dvaaw9|2019-11-12 13:57:04|"Pissed by 7"" phones, a french guy comes up with a 5"" phone with the size of a iphone4 !"|https://www.onedevice.eu/?mref=Onat|PaddleStroke|False|https://redd.it/dvaaw9|16|0.96|0|1|0|gadgets
+dv85ur|2019-11-12 10:24:10|Spectacles 3 review: new design and a much higher price|https://www.theverge.com/2019/11/12/20951783/snap-spectacles-3-review-snapchat-glasses-price-specs-features|anonboxis|False|https://redd.it/dv85ur|18|0.74|0|9|0|gadgets
+duub6m|2019-11-11 15:58:21|Apple tells employees AR headset coming in 2022, Apple glasses in 2023|https://www.tomsguide.com/news/apple-working-on-ar-headset-ar-glasses|mspoonygp|False|https://redd.it/duub6m|67|0.83|0|18|0|gadgets
+duaj41|2019-11-10 11:51:32|PlayStation CEO Seeks Quick Transition for PlayStation 4 to PlayStation 5|https://www.digitaltrends.com/gaming/playstation-ceo-playstation-5-upgrade/|mtimetraveller|False|https://redd.it/duaj41|12577|0.92|1|1788|0|gadgets
+dusmye|2019-11-11 13:50:32|These washing machines keep plastic microfibers from entering the ocean|https://www.fastcompany.com/90408018/these-washing-machines-keep-plastic-microfibers-from-entering-the-ocean|speckz|False|https://redd.it/dusmye|51|0.96|0|3|0|gadgets
+duie3v|2019-11-10 22:14:52|NASA shows off its experimental electric airplane, the Maxwell X-57|https://www.digitaltrends.com/cool-tech/nasa-maxwell-x57-plane/|MicroSofty88|False|https://redd.it/duie3v|57|0.86|0|2|0|gadgets
+dug1re|2019-11-10 19:29:41|Newly filed patent by Sony could indicate cartridges of some sort for the PS5 or maybe even a Vita 2.|https://www.digitaltrends.com/gaming/sony-playstation-cartridge-patent-found/|ScratchButt|False|https://redd.it/dug1re|39|0.92|0|31|0|gadgets
+dtz8in|2019-11-09 17:53:32|The Hero8 Black features GoPro's first physical redesign since 2016|https://www.digitaltrends.com/digital-camera-reviews/gopro-hero8-black-review/|ChickenTeriyakiBoy1|False|https://redd.it/dtz8in|2192|0.95|0|158|0|gadgets
+duczd0|2019-11-10 15:42:39|Alienware m15 (2019) review|https://www.digitaltrends.com/laptop-reviews/alienware-m15-2019-review/|MyNameIsGriffon|False|https://redd.it/duczd0|12|0.67|0|0|0|gadgets
+dtuocu|2019-11-09 11:12:08|Erik Buell is trading motorcycles for e-bikes with the 125 mile range FUELL Fluid|https://www.cnet.com/roadshow/news/fuell-fluid-ebike-erik-buell-motorcycles-indiegogo-1-million/?utm_source=reddit.com|Shooter_RIA|False|https://redd.it/dtuocu|820|0.89|0|156|0|gadgets
+dtwzw7|2019-11-09 15:02:00|The new OnePlus 8 may come with a 120Hz refresh rate display|https://pocketnow.com/the-new-oneplus-8-may-come-with-a-120hz-refresh-rate-display|nopantsdolphin|False|https://redd.it/dtwzw7|56|0.79|0|40|0|gadgets
+dtdmz1|2019-11-08 10:37:12|Matrix PowerWatch 2: This smartwatch might never need charging|https://www.cnet.com/news/matrix-powerwatch-2-smartwatch-might-never-need-charging/|sdsanth|False|https://redd.it/dtdmz1|3309|0.93|0|393|0|gadgets
+dte0an|2019-11-08 11:16:01|Motorola Moto G8 Plus review: a battery boost for the budget king|https://www.theverge.com/2019/11/8/20953419/motorola-moto-g8-plus-review-budget-phone-48mp-triple-camera-15w-fast-charging|drdessertlover|False|https://redd.it/dte0an|472|0.92|0|131|0|gadgets
+dsy4qr|2019-11-07 14:02:48|AMD Unveils Threadripper 3960X and 3970X, Ryzen 9 3950X Details, and Athlon 3000G|https://www.tomshardware.com/news/amd-unveils-threadripper-3960x-and-3970x-ryzen-9-3950x-details-and-athlon-3000g|SoThatsItForYou|False|https://redd.it/dsy4qr|4985|0.96|1|500|0|gadgets
+dtgsfv|2019-11-08 15:16:23|Asus ZenBook 15 UX534 review: Smaller, not better|https://www.digitaltrends.com/laptop-reviews/asus-zenbook-ux-534-review/|MyNameIsGriffon|False|https://redd.it/dtgsfv|13|0.72|0|1|0|gadgets
+dsxkwq|2019-11-07 13:17:14|New 2020 Galaxy foldable phone will be unveiled 'shortly', says Samsung's CEO|https://www.tomsguide.com/news/samsung-new-2020-foldable-phone-will-be-unveiled-shortly|nopantsdolphin|False|https://redd.it/dsxkwq|591|0.91|0|109|0|gadgets
+dthpf3|2019-11-08 16:21:16|QooCam: new 8K 360 Camera small enough to fit in your pocket|https://www.slashgear.com/qoocam-8k-360-camera-is-small-enough-to-fit-in-your-pocket-07599021/|nopantsdolphin|False|https://redd.it/dthpf3|5|0.84|0|0|0|gadgets
+dtbeun|2019-11-08 06:29:52|Keydock transforms your smartphone into a desktop computer|https://www.geeky-gadgets.com/smartphone-computer-07-11-2019/|PaddleStroke|False|https://redd.it/dtbeun|15|0.81|0|26|0|gadgets
+dsh37m|2019-11-06 14:32:20|UPS Drones Deliver Meds to CVS Customers for First Time in U.S.|https://www.digitaltrends.com/cool-tech/ups-uses-drones-to-deliver-meds-to-cvs-customers-for-first-time-in-us/|mtimetraveller|False|https://redd.it/dsh37m|12318|0.96|0|542|0|gadgets
+dsntup|2019-11-06 22:30:35|Several old Roku devices and Samsung TVs will lose Netflix access soon.|https://www.tomsguide.com/news/these-old-rokus-and-samsung-tvs-will-lose-netflix-soon|mspoonygp|False|https://redd.it/dsntup|44|0.86|0|12|0|gadgets
+dsjp70|2019-11-06 17:38:10|When the Internet Was Made of Sound: what every bleep, screech, and ding of your dial-up modem did|https://www.popularmechanics.com/science/a29611456/internet-dialup-modem-sounds/|WarbleHead|False|https://redd.it/dsjp70|57|0.96|0|3|0|gadgets
+dsh12i|2019-11-06 14:27:35|Watch Out, WearOS. Fossil Has Reimagined the Hybrid Smartwatch|https://www.digitaltrends.com/mobile/fossil-hybrid-hr-smatwatch-news/|PrabidhiInfo|False|https://redd.it/dsh12i|90|0.85|0|26|0|gadgets
+dsox1z|2019-11-06 23:51:27|Olympus OM-D E-M5 Mark III review: Still the camera to buy|https://www.digitaltrends.com/digital-camera-reviews/olympus-om-d-e-m5-mark-iii-review/|MyNameIsGriffon|False|https://redd.it/dsox1z|17|0.84|0|2|0|gadgets
+drzkya|2019-11-05 14:05:58|No one should buy the Facebook Portal TV|https://www.cnet.com/news/no-one-should-buy-the-facebook-portal-tv/|mtimetraveller|False|https://redd.it/drzkya|28392|0.92|1|2406|0|gadgets
+dsp8q4|2019-11-07 00:16:46|Amazon's high-end Echo Studio smart speaker hands-on first impressions|https://youtu.be/KMAyz02kLk4|kbgames360|False|https://redd.it/dsp8q4|10|0.7|0|6|0|gadgets
+dslhwv|2019-11-06 19:51:27|GoPro Max review: A smarter, easier-to-use 360 camera|https://www.digitaltrends.com/digital-camera-reviews/gopro-max-review/|MyNameIsGriffon|False|https://redd.it/dslhwv|15|0.84|0|4|0|gadgets
+dsj3lz|2019-11-06 16:57:00|Amazon Echo Studio review: finally, an Echo that sounds great|https://www.theverge.com/2019/11/6/20950100/amazon-echo-studio-smart-speaker-alexa-3d-audio-test-review-price-specs-features|Philo1927|False|https://redd.it/dsj3lz|11|0.9|0|9|0|gadgets
+dsh0m5|2019-11-06 14:26:37|Xiaomi announces 108-megapixel Mi Note 10 for outside China|https://www.theverge.com/2019/11/6/20951100/xiaomi-mi-note-10-europe-india-release-cc9-pro-108-mp|PrabidhiInfo|False|https://redd.it/dsh0m5|18|0.95|0|25|0|gadgets
+dsetyi|2019-11-06 11:09:44|Amazon Echo Buds may have a fitness tracking feature|https://www.theverge.com/2019/11/5/20950794/amazon-echo-buds-fitness-step-tracking-exercise|nopantsdolphin|False|https://redd.it/dsetyi|8|0.74|0|0|0|gadgets
+drywls|2019-11-05 13:07:48|Surface Pro X review: App compatibility issues, sluggish performance and high price make it a tough sell|https://www.theverge.com/2019/11/5/20948092/microsoft-surface-pro-x-review-arm-windows-10-apps-features-specs-price|mspoonygp|False|https://redd.it/drywls|78|0.73|0|35|0|gadgets
+drhd7b|2019-11-04 13:07:04|The Galaxy S11 will likely have a new 108MP camera sensor|https://www.tomsguide.com/news/the-galaxy-s11-will-have-a-108mp-camera-report|mspoonygp|False|https://redd.it/drhd7b|4921|0.94|0|720|0|gadgets
+ds0rzl|2019-11-05 15:33:19|Sony A6100 review: A great camera under $1,000|https://www.digitaltrends.com/digital-camera-reviews/sony-a6100-review/|MyNameIsGriffon|False|https://redd.it/ds0rzl|20|0.93|0|5|0|gadgets
+ds08uu|2019-11-05 14:55:38|Roku's Affordable Smart Soundbar Is a No-Brainer|https://gizmodo.com/rokus-affordable-smart-soundbar-is-a-no-brainer-1839480370|Philo1927|False|https://redd.it/ds08uu|15|0.72|0|3|0|gadgets
+ds0mg4|2019-11-05 15:22:27|Xiaomi Mi Watch is a $185 Apple Watch clone with better specs|https://www.tomsguide.com/news/xiaomi-mi-watch-is-a-dollar185-apple-watch-clone-with-better-specs|nopantsdolphin|False|https://redd.it/ds0mg4|10|0.61|0|14|0|gadgets
+drtr8r|2019-11-05 03:53:43|AirPods Pro Review: Imperfectly Perfect!|https://youtu.be/cG8PXdTlDag|kbgames360|False|https://redd.it/drtr8r|29|0.75|0|18|0|gadgets
+dr0cyf|2019-11-03 13:28:21|"The Zero G Oven is on its way to the International Space Station: an appliance ""designed to turn cookie mix into delicious, freshly baked cookies and has insulating and venting mechanisms to allow safe operation with the controlled environment of the ISS."""|https://www.digitaltrends.com/cool-tech/iss-cookie-oven-resupply/|nopantsdolphin|False|https://redd.it/dr0cyf|10576|0.96|0|427|0|gadgets
+drhfhp|2019-11-04 13:12:43|Google Nest Wifi review: Faster performance and secondary points double as smart speakers|https://www.theverge.com/2019/11/4/20946586/google-nest-wifi-review-mesh-router-price-specs-features|mspoonygp|False|https://redd.it/drhfhp|24|0.72|0|11|0|gadgets
+dqlmdt|2019-11-02 15:23:33|The upcoming Moto Razr has been spotted in the wild, with a huge chin|https://pocketnow.com/the-upcoming-moto-razr-has-been-spotted-in-the-wild-with-a-huge-chin|mtimetraveller|False|https://redd.it/dqlmdt|8036|0.94|0|754|0|gadgets
+dr1y8g|2019-11-03 15:33:37|Hasselblad X1D II 50C review|https://www.digitaltrends.com/digital-camera-reviews/hasselblad-x1d-ii-50c-review/|MyNameIsGriffon|False|https://redd.it/dr1y8g|14|0.74|0|4|0|gadgets

@@ -1,0 +1,566 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+c3yaqa|2019-06-23 02:55:34|Introducing Community Awards to r/Creepy!|"Hello r/Creepy!  
+
+
+We're super excited to announce that we have been chosen for testing the new Community Awards feature!   
+
+
+* **So what exactly** ***are*** **community awards?**
+
+[Community Awards](https://www.reddithelp.com/en/categories/reddit-101/reddit-basics/what-are-awards) are awards specific to each subreddit, that are awardable via Reddit coins. They're available in the official web UI (This includes both old reddit, and new reddit), and the official Reddit apps.
+
+* **What's the difference between Community Awards and the normal Silver, Gold and Platinum?**
+
+Pretty much the main difference is the fact that you get no benefits from community awards, other than the actual award on your post. You do not receive any benefits (something i personally hope they add are benefits) from being given community awards, so you do not receive Premium nor any coins. The main point of awards is to give the receiving user a sense of pride and accomplishment. You can donate either anonymously or from your username, and can optionally add a private message 
+
+* **Well, what are these awards?**
+
+First off, the mods here at r/Creepy ARE NOT graphic designers, so we didn't create any custom to this subreddit. We know it may be upsetting to some of you, but let's face it - do you really want some crappy stick man as an award? Nope. So, we are using 3 of the default award designs (**If you are willing to contribute, and make a custom design for an award, feel free to!)**. As follows:
+
+&#x200B;
+
+**1. Certified Creepy (Pitchfork) Award (300 Coins)**
+
+&#x200B;
+
+[Certified Creepy \(Pitchfork\) Award \(300 Coins\)](https://preview.redd.it/r5yv9gxbr0631.png?width=512&format=png&auto=webp&s=15869807cab27be4063b5c8da79fd9efd410becc)
+
+&#x200B;
+
+**2. ""So Creepy I Grabbed Popcorn"" Award (500 Coins)**
+
+&#x200B;
+
+[\\""So Creepy I Grabbed Popcorn\\"" Award \(500 Coins\)](https://preview.redd.it/57l8m24pr0631.png?width=512&format=png&auto=webp&s=b2ea1c877eab2f75dd98072f8c9651cd61a7fe88)
+
+&#x200B;
+
+  
+**3. ""So Creepy It Blew My Mind"" (600 Coins)**
+
+&#x200B;
+
+[\\""So Creepy It Blew My Mind\\"" \(600 Coins\)](https://preview.redd.it/roykp59vr0631.png?width=512&format=png&auto=webp&s=fd2e1745e1543412cc440e2b0de88e33e41d80eb)
+
+&#x200B;
+
+\-----
+
+# Moderator Exclusive Award(s):
+
+There is also a Moderator exclusive award. Moderators accumulate 20% of coins spent on Community Awards in this subreddit, which in turn, we can use to give out Moderator Exclusive awards! **WHICH DO ACTUALLY HAVE A BENEFIT (THAT BENEFIT BEING PREMIUM).** So, basically, the more you users award posts with community awards - the more the moderators can award high-quality posts, with actual benefits.
+
+&#x200B;
+
+\-----
+
+&#x200B;
+
+That's all! Let us know what you think!"|SuitingUncle620|False|https://redd.it/c3yaqa|600|0.99|2|30|1|creepy
+buml9s|2019-05-30 00:32:44|Horror Discord Community, now up! Feel free to join, more info in comments.|https://discord.gg/pYDygHh|SuitingUncle620|False|https://redd.it/buml9s|560|0.98|0|1|0|creepy
+ekohun|2020-01-06 04:02:42|Smile for the picture boys!|https://i.redd.it/wurr55j813941.jpg|DonZenova|True|https://redd.it/ekohun|18112|0.94|0|396|0|creepy
+ejx6br|2020-01-04 14:22:02|Decorating hospital at night|https://i.redd.it/0j61fpbwtr841.jpg|22dmgxy|False|https://redd.it/ejx6br|17170|0.96|0|120|0|creepy
+ejkkbe|2020-01-03 19:44:16|People With The Mummies Of Venzone, Italy, 1950s|https://i.redd.it/w5pgmq7dam841.jpg|DarthGwyn|True|https://redd.it/ejkkbe|17777|0.96|0|530|0|creepy
+ejry9e|2020-01-04 04:52:07|Sculpture of lost souls|https://i.redd.it/9m9j4m780p841.jpg|desireexdoll|False|https://redd.it/ejry9e|527|0.98|0|40|0|creepy
+ejrgzq|2020-01-04 04:12:07|Car Melted in Australian Bushfire|https://i.redd.it/8qkjiwa1to841.png|lolmish|False|https://redd.it/ejrgzq|457|0.97|0|42|0|creepy
+ejm0jo|2020-01-03 21:24:21|Saint Munditia|https://i.redd.it/y80s6t7csm841.jpg|martinnicat|False|https://redd.it/ejm0jo|139|0.97|0|18|0|creepy
+ej4mwu|2020-01-02 21:30:13|The skull of a Saint in Roggenburg, Germany.|https://i.redd.it/zkf0d3ahof841.jpg|dediusryan94|False|https://redd.it/ej4mwu|21848|0.96|2|487|0|creepy
+ejb0n2|2020-01-03 05:40:45|A meeting|https://i.redd.it/2d3bmgm67a841.jpg|snapper_cayt|False|https://redd.it/ejb0n2|215|0.96|0|26|0|creepy
+ej816b|2020-01-03 01:36:59|A Medical Oddity from the Mütter Museum|https://i.redd.it/tiue4xqgwg841.jpg|SourCynic|False|https://redd.it/ej816b|398|0.98|0|57|0|creepy
+ej8sv1|2020-01-03 02:36:41|Well-preserved head in a jar in the University of Lisbon, Portugal|https://i.redd.it/l55kekw47h841.png|ObeyToffles|False|https://redd.it/ej8sv1|281|0.98|0|54|0|creepy
+ej217r|2020-01-02 18:30:05|A photo I took 3 years ago of my parents backyard|https://imgur.com/TNiLDjm.jpg|queerfart|False|https://redd.it/ej217r|912|0.98|0|63|0|creepy
+ej4gj7|2020-01-02 21:17:36|The stare|https://i.redd.it/yj4c0o76df841.jpg|snapper_cayt|False|https://redd.it/ej4gj7|243|0.97|0|33|0|creepy
+ej44gh|2020-01-02 20:54:46|Kowloon Walled City|https://i.redd.it/qjfd4tc0if841.jpg|tunachild|False|https://redd.it/ej44gh|204|0.94|0|33|0|creepy
+ej30j7|2020-01-02 19:38:41|Baby CPR Dummies|https://i.redd.it/yjn39gif4f841.jpg|Hectimere|False|https://redd.it/ej30j7|119|0.88|0|11|0|creepy
+ej3pvl|2020-01-02 20:27:01|SOMEONE IS OUT THERE!|https://i.redd.it/ugy95205df841.png|Aulipe|False|https://redd.it/ej3pvl|70|0.9|0|16|0|creepy
+eimxpb|2020-01-01 20:02:31|execution|https://i.redd.it/7w7hk83x38841.jpg|imconfusedbro1|False|https://redd.it/eimxpb|5327|0.95|0|144|0|creepy
+eil1a7|2020-01-01 17:39:55|Chased|https://i.redd.it/yhqebgfge7841.jpg|owen9201|False|https://redd.it/eil1a7|443|0.96|0|39|0|creepy
+eian2l|2019-12-31 23:31:03|Preserved head of a Dodo bird|https://i.redd.it/7hah9sj702841.jpg|spiceprincesszen|False|https://redd.it/eian2l|19274|0.95|0|464|0|creepy
+eil5j3|2020-01-01 17:48:58|Underwater oneway ticket|https://i.redd.it/rzq8v452g7841.jpg|breathholding_nick|False|https://redd.it/eil5j3|246|0.99|0|16|0|creepy
+ei7lbp|2019-12-31 19:30:18|Visitor|https://i.redd.it/sm1rogg9t0841.jpg|dediusryan94|False|https://redd.it/ei7lbp|4901|0.96|0|268|0|creepy
+eiep80|2020-01-01 05:43:34|At home at 06:07 AM (explanation in the comments)|https://i.redd.it/1xf8o9m7q3841.jpg|its_cringy_pie_br0|False|https://redd.it/eiep80|107|0.84|0|35|0|creepy
+ei8k2l|2019-12-31 20:43:35|unknowingly took this picture in an old mine we found in the woods|https://i.redd.it/jbrw4ps561841.jpg|outdoorsoldier|False|https://redd.it/ei8k2l|454|0.96|0|64|0|creepy
+ehvweu|2019-12-31 01:48:20|Strings|https://i.redd.it/x4rum5hsjv741.jpg|Creaturesintheattic|False|https://redd.it/ehvweu|9355|0.93|0|188|0|creepy
+ei2ikb|2019-12-31 12:54:49|The Museum Vrolik contains a unique collection of human (and animal) deformities|https://i.redd.it/3mcqwxzkuy741.jpg|SourCynic|True|https://redd.it/ei2ikb|551|0.97|0|54|0|creepy
+ehzm96|2019-12-31 07:20:13|Face in the smoke|https://i.redd.it/m2boi0nz6x741.jpg|dilzydil1|False|https://redd.it/ehzm96|1432|0.97|0|78|0|creepy
+ehy0hv|2019-12-31 04:45:32|Addiction|https://i.redd.it/d44mllmefw741.jpg|Flying_Milkshake|False|https://redd.it/ehy0hv|1113|0.88|0|99|0|creepy
+ei0bza|2019-12-31 08:43:55|Bon Voyage|https://i.redd.it/gyf9qdsxlx741.jpg|lumberjack890|False|https://redd.it/ei0bza|357|0.98|0|37|0|creepy
+ehj5r3|2019-12-30 07:53:50|Peeling.|https://v.redd.it/8ctxtlwj5q741|ArtNoobly|True|https://redd.it/ehj5r3|5821|0.92|0|594|0|creepy
+eh7y7z|2019-12-29 16:36:36|Frederik Ruysch jar|https://i.redd.it/uq8q7t6gol741.jpg|sirius76|False|https://redd.it/eh7y7z|6356|0.95|0|252|0|creepy
+ehayjk|2019-12-29 20:24:48|I see you|https://i.redd.it/ihzhmot5tm741.jpg|owen9201|False|https://redd.it/ehayjk|435|0.97|0|66|0|creepy
+egt0ku|2019-12-28 16:55:13|Should I start digging?|https://i.imgur.com/Axm2Q48.jpg|Sgt_Nerve|False|https://redd.it/egt0ku|28943|0.95|2|951|0|creepy
+egyvul|2019-12-29 00:36:59|The stairman.|https://i.redd.it/avh59ps8xg741.jpg|MasterPencil|False|https://redd.it/egyvul|1196|0.97|0|66|0|creepy
+egvz6p|2019-12-28 20:44:33|A visitor|https://i.redd.it/ogzhz7xrrf741.jpg|MasterPencil|False|https://redd.it/egvz6p|513|0.98|0|42|0|creepy
+egrwfw|2019-12-28 15:21:22|Honk|https://i.redd.it/lqfuzh246e741.jpg|memes-and-yub|False|https://redd.it/egrwfw|482|0.99|0|50|0|creepy
+egfset|2019-12-27 19:42:53|Bacteriophage Puppet|https://i.imgur.com/blxe5Fr.gifv|FairFaxEddy|False|https://redd.it/egfset|21921|0.95|0|599|0|creepy
+egq6as|2019-12-28 12:21:51|I'm trying to sleep|https://i.redd.it/qi808a43ad741.jpg|5hy_|False|https://redd.it/egq6as|327|0.98|0|29|0|creepy
+egmaie|2019-12-28 04:41:55|The 3:00 a.m. Stalker: GIF|https://v.redd.it/446v06csza741|Nick_1157|False|https://redd.it/egmaie|572|1.0|0|75|0|creepy
+egeh1h|2019-12-27 18:04:32|There is a witch in that tree|https://i.imgur.com/6brPTTw.jpg|noblinkin|False|https://redd.it/egeh1h|4295|0.99|0|116|0|creepy
+egn3j3|2019-12-28 06:01:32|Vocaloid|https://i.redd.it/h15ny2a8eb741.jpg|Creaturesintheattic|False|https://redd.it/egn3j3|307|1.0|0|15|0|creepy
+egjkic|2019-12-28 00:38:39|hey|https://i.imgur.com/EvPhZDx.jpg|d4hm3r|False|https://redd.it/egjkic|706|0.95|0|69|0|creepy
+egkwqh|2019-12-28 02:35:53|`floater|https://i.redd.it/7x4jcu17da741.png|manicottiiskindaneat|False|https://redd.it/egkwqh|296|0.98|0|44|0|creepy
+eggni8|2019-12-27 20:47:06|watcher|https://i.redd.it/rtb6uffbn8741.jpg|DYL350|False|https://redd.it/eggni8|417|0.97|0|19|0|creepy
+eghdbb|2019-12-27 21:41:58|Fitting in|https://i.redd.it/d5qoohp3x8741.jpg|Ayzuki|True|https://redd.it/eghdbb|301|0.97|0|31|0|creepy
+eg2gdf|2019-12-26 23:00:57|A collection of plague doctor masks|https://i.redd.it/qessmur762741.png|RickSanchezfromEarth|False|https://redd.it/eg2gdf|13174|0.98|0|227|0|creepy
+eg8uic|2019-12-27 08:57:18|Bible bound in human skin|https://imgur.com/wfxoEBq|RhinoVanHorn|False|https://redd.it/eg8uic|540|0.96|0|51|0|creepy
+eg0ng9|2019-12-26 20:40:01|packman be looking a bit different|https://i.redd.it/7bsix7x4h1741.jpg|IStealTheEggs|False|https://redd.it/eg0ng9|364|0.98|0|19|0|creepy
+eg2916|2019-12-26 22:44:43|Decayed cow skull|https://i.redd.it/41opapqd32741.jpg|notHenry34|False|https://redd.it/eg2916|209|0.95|0|14|0|creepy
+efxg82|2019-12-26 16:31:00|Driver in a oil tanker accident|https://i.redd.it/uqms4wjp80741.jpg|isap66|True|https://redd.it/efxg82|639|0.99|1|70|0|creepy
+efzz0h|2019-12-26 19:48:11|Early french gas mask|https://i.redd.it/vg35rj5w71741.jpg|Norbert19970|False|https://redd.it/efzz0h|291|0.99|0|14|0|creepy
+efjncu|2019-12-25 18:09:40|Petrified kitty still looks like it is playing|https://i.redd.it/5qo5sbealt641.jpg|fucreddit|False|https://redd.it/efjncu|13120|0.96|0|220|0|creepy
+ef5sq3|2019-12-24 19:21:34|WW1 Russian Soldiers in Gas masks|https://i.redd.it/fnfjc5fbtm641.jpg|Russianllamas1|False|https://redd.it/ef5sq3|12020|0.97|0|172|0|creepy
+efd66l|2019-12-25 06:35:41|Face prosthetics by Anna Coleman Ladd for soldiers with disfigured faces|https://i.redd.it/oe7ub74l5q641.jpg|magic_king_|False|https://redd.it/efd66l|419|1.0|0|10|0|creepy
+ef8cve|2019-12-24 22:51:02|Soviet Divers in NBC exercise, 1965|https://i.redd.it/w2ppcnjoun641.jpg|Russianllamas1|False|https://redd.it/ef8cve|379|0.99|0|13|0|creepy
+ef0zhv|2019-12-24 12:52:16|The counsel, Berlin|https://i.redd.it/blinkg6uvk641.jpg|LosVientos|False|https://redd.it/ef0zhv|464|0.99|0|32|0|creepy
+eeqvbz|2019-12-23 21:27:36|captis|https://i.imgur.com/bk2LVgs.jpg|d4hm3r|False|https://redd.it/eeqvbz|7834|0.98|1|167|0|creepy
+eeopca|2019-12-23 18:49:16|Peat bog corpse in Dublin Museum|https://i.redd.it/gj9nh61nif641.jpg|Retroman3139|False|https://redd.it/eeopca|10357|0.97|1|236|0|creepy
+eeti6t|2019-12-24 00:46:55|Vatican Corpse on display|https://i.redd.it/eapq4cjdah641.jpg|csaduck|False|https://redd.it/eeti6t|2013|0.98|0|107|0|creepy
+eer3yj|2019-12-23 21:45:03|The Yule Man|https://i.redd.it/ryg1zaqwdg641.jpg|SirJello34|False|https://redd.it/eer3yj|534|0.95|0|35|0|creepy
+eei70x|2019-12-23 09:03:59|Gorilla Paw with Vitiligo|https://i.redd.it/cbs1tr75x9641.jpg|Marcusnaess|False|https://redd.it/eei70x|1660|0.97|0|107|0|creepy
+eejs2k|2019-12-23 12:02:48|Capela dos Ossos - Chapel of bones in Alcantarilha, Portugal. Visited yesterday!|https://i.redd.it/378tq424id641.jpg|AlinaAirline|False|https://redd.it/eejs2k|301|0.98|0|16|0|creepy
+ee7mik|2019-12-22 17:35:11|I went too far ...|https://i.redd.it/m3c49cr9u7641.jpg|SurrenderMonkey__|False|https://redd.it/ee7mik|31599|0.93|1|1118|0|creepy
+eeicl0|2019-12-23 09:20:39|The Paris Catacombs.|https://i.redd.it/gf6w9y67pc641.jpg|NEONObliteration|False|https://redd.it/eeicl0|387|0.99|0|12|0|creepy
+eeg9eh|2019-12-23 05:36:18|Mummified Monk on Koh Samui, Thailand|https://i.redd.it/8yih0ij4lb641.jpg|PeterJananas|False|https://redd.it/eeg9eh|554|0.99|0|70|0|creepy
+eeg53s|2019-12-23 05:25:18|The creature returns.|https://i.redd.it/7df7ws27jb641.jpg|Nick_1157|False|https://redd.it/eeg53s|376|0.99|0|28|0|creepy
+eeaipp|2019-12-22 21:22:04|From the local bone crypt|https://i.redd.it/98hjfady49641.jpg|cactuskiwicactus|False|https://redd.it/eeaipp|305|0.96|0|31|0|creepy
+edfvo3|2019-12-20 20:52:36|Paris Catacombs|https://i.redd.it/a0wpqdhafs541.jpg|d4hm3r|False|https://redd.it/edfvo3|17015|0.97|0|589|0|creepy
+edkklu|2019-12-21 03:25:23|hydrocephalus and cryptophthalmos|https://i.redd.it/8zpou155nw541.png|DrSenpai_PHD|False|https://redd.it/edkklu|717|0.98|0|57|0|creepy
+ed9jfn|2019-12-20 12:26:12|Coffin graveyard...|https://i.redd.it/lh6wi5ak7s541.jpg|mak-nil|False|https://redd.it/ed9jfn|6505|0.99|1|216|0|creepy
+ecwom5|2019-12-19 17:50:48|The stairs I have to take to leave work.|https://i.redd.it/833uwkckom541.jpg|BetterCallBread|False|https://redd.it/ecwom5|30777|0.96|2|745|0|creepy
+ecwlu5|2019-12-19 17:45:28|Nuns|https://i.redd.it/8f99x47mnm541.jpg|mak-nil|False|https://redd.it/ecwlu5|710|0.99|1|35|0|creepy
+ecmxbj|2019-12-19 02:46:56|Armadillo by babycreatures|https://i.redd.it/e0k82d5a7i541.jpg|sitonmy1nterface|False|https://redd.it/ecmxbj|4932|0.95|0|175|0|creepy
+eck2se|2019-12-18 22:52:22|Photo I took of an elk that didn’t turn out quite right|https://i.redd.it/0uyzhahg1h541.jpg|RedstoneCreeper8|False|https://redd.it/eck2se|2177|0.99|0|59|0|creepy
+ecnt2d|2019-12-19 04:01:29|The Dab Tsog|https://i.redd.it/ig7zbl1mki541.jpg|JackmeriusPup|False|https://redd.it/ecnt2d|791|0.99|0|70|0|creepy
+ece5cn|2019-12-18 15:35:33|by Alex Andreyev|https://i.redd.it/uqvets5gve541.jpg|kfajbf3847|False|https://redd.it/ece5cn|15109|0.95|0|259|0|creepy
+ecky4s|2019-12-19 00:05:02|Creatures of my dreams, raise up and dance with me|https://i.redd.it/24a01ueaeh541.jpg|closeeyesseethings|False|https://redd.it/ecky4s|615|0.99|0|22|0|creepy
+ecdrxx|2019-12-18 15:06:01|Tarantula hawk carting off its huntsman spider prey|https://i.imgur.com/xPwAEAJ.jpg|emoshortz|False|https://redd.it/ecdrxx|682|0.99|0|69|0|creepy
+ecchnc|2019-12-18 13:17:09|The Brain Eating Amoeba|https://i.redd.it/v1a1dk715e541.png|Shaderacky|False|https://redd.it/ecchnc|706|0.99|0|75|0|creepy
+ebzns2|2019-12-17 18:26:08|Freediving in an old slate qarry. I‘m inside of the drainage shaft.|https://i.redd.it/w6kwoem1l8541.jpg|breathholding_nick|False|https://redd.it/ebzns2|21450|0.95|1|505|0|creepy
+ec5wtx|2019-12-18 01:58:42|By Paolo Girardi|https://i.redd.it/0hjlz1oota541.jpg|kfajbf3847|False|https://redd.it/ec5wtx|1602|0.99|0|37|0|creepy
+ec0bxk|2019-12-17 19:12:10|The way the face morphs|https://i.imgur.com/3kBB1rS.gifv|ShoveCarrots|False|https://redd.it/ec0bxk|972|0.99|0|30|0|creepy
+ec1t10|2019-12-17 20:54:14|The fog in my city tonight|https://i.redd.it/5auhx4jeb9541.jpg|paLeoLit1012|False|https://redd.it/ec1t10|654|0.99|0|30|0|creepy
+ebi6jv|2019-12-16 17:30:02|Early british gas mask.|https://i.redd.it/risla0p461541.jpg|Norbert19970|False|https://redd.it/ebi6jv|15244|0.96|0|330|0|creepy
+ebm1gk|2019-12-16 22:08:42|I can't sleep|https://i.redd.it/t6arfqiuj2541.jpg|Rodri_2512|False|https://redd.it/ebm1gk|915|0.98|0|64|0|creepy
+eazs0p|2019-12-15 14:52:42|I see something|https://i.redd.it/3goe2yf59t441.jpg|kraabb|False|https://redd.it/eazs0p|1348|0.94|0|49|0|creepy
+eatruk|2019-12-15 03:24:42|It visited|https://i.redd.it/3vuea63eup441.jpg|DejectedSoul|False|https://redd.it/eatruk|14835|0.95|0|446|0|creepy
+eawp42|2019-12-15 08:45:27|Walking home, Three watchers|https://i.redd.it/lvj6l3gmfr441.jpg|Aliwhatever|False|https://redd.it/eawp42|1787|0.98|0|67|0|creepy
+eayxj8|2019-12-15 13:27:49|Eggs with mouths|https://i.redd.it/m5wi2ay2is441.jpg|prestes_o_cara|False|https://redd.it/eayxj8|511|0.95|0|35|0|creepy
+eavxks|2019-12-15 07:09:54|Should I continue forward?|https://i.redd.it/u0fegm8kyq441.png|Nalzrad|False|https://redd.it/eavxks|948|0.94|0|92|0|creepy
+eavzkw|2019-12-15 07:16:30|A photo devoid of people|https://i.redd.it/9ou1dhbpzq441.jpg|YoYoMistress|False|https://redd.it/eavzkw|548|0.97|0|18|0|creepy
+eavvz7|2019-12-15 07:04:32|Just fixing my lipstick|https://i.redd.it/djxjolch4q441.jpg|SmartPeterson|False|https://redd.it/eavvz7|535|0.98|0|41|0|creepy
+eajo26|2019-12-14 13:24:05|...|https://i.redd.it/57jiz5dfol441.jpg|big-bang24|False|https://redd.it/eajo26|12346|0.94|0|264|0|creepy
+easizn|2019-12-15 01:30:27|"""Stand dead still.."""|https://i.redd.it/hh9s28tw9p441.jpg|DarthGwyn|False|https://redd.it/easizn|583|0.99|0|38|0|creepy
+eamc8c|2019-12-14 17:16:13|Nature abhors a vacuum|https://i.redd.it/ptjyrum72a441.jpg|MyBlueBudgie|False|https://redd.it/eamc8c|546|0.99|0|27|0|creepy
+ealxcj|2019-12-14 16:43:47|Sanguine sanctum|https://i.redd.it/n130zwuxnm441.jpg|DeathCode0|False|https://redd.it/ealxcj|474|0.99|0|18|0|creepy
+eakzqu|2019-12-14 15:27:16|My art of a cannibal fairy|https://i.redd.it/ndrlryheam441.jpg|OniKagura|False|https://redd.it/eakzqu|437|0.99|0|31|0|creepy
+ea85iu|2019-12-13 18:57:09|a guy printed his face on a mannequin outside of his shop in Egypt|https://i.redd.it/imuopelx6g441.jpg|MohamedBone|False|https://redd.it/ea85iu|18063|0.96|0|189|0|creepy
+ea9kuw|2019-12-13 20:43:37|help|https://i.redd.it/ct3q68pxpg441.jpg|PK-Fire-Bad|False|https://redd.it/ea9kuw|942|0.97|0|68|0|creepy
+ea1oci|2019-12-13 09:04:59|Classroom at 7:30|https://i.redd.it/izuldvea9d441.jpg|naklez06|False|https://redd.it/ea1oci|910|0.98|0|67|0|creepy
+e9nsd7|2019-12-12 13:49:45|🎶 You better watch out, you better not shout...|https://i.imgur.com/cP5EV2R.jpg|blaspheminCapn|False|https://redd.it/e9nsd7|3756|0.97|1|175|0|creepy
+e9eq52|2019-12-11 22:54:32|Mechanical Jaws|https://i.redd.it/2l9sfqrg33441.jpg|oocilote|False|https://redd.it/e9eq52|17055|0.96|0|350|0|creepy
+e9ir0z|2019-12-12 04:31:34|i found him again,guys.remember him?|https://i.redd.it/n97elpv8r4441.png|Mr-Kool|False|https://redd.it/e9ir0z|680|0.99|0|70|0|creepy
+e9gzvi|2019-12-12 01:55:46|This is near my hometown, Fallston, NC...|https://i.redd.it/7f47jiwsz3441.jpg|amc28016|False|https://redd.it/e9gzvi|659|1.0|0|15|0|creepy
+e951qj|2019-12-11 09:44:18|The Jawless One|https://i.imgur.com/08xWH1R.jpg|kopa-shamsu|False|https://redd.it/e951qj|7278|0.96|0|153|0|creepy
+e8vlhs|2019-12-10 19:46:27|Smile.|https://i.redd.it/um9j26201v341.jpg|Produre|False|https://redd.it/e8vlhs|10383|0.95|0|260|0|creepy
+e8ze98|2019-12-11 00:28:46|The Final Dinner|https://i.redd.it/hnq46badfw341.jpg|AlmondRockets421|False|https://redd.it/e8ze98|1663|0.99|0|76|0|creepy
+e90ayj|2019-12-11 01:43:34|Human and Gorilla skeleton side by side..|https://i.redd.it/3g7wd3lpsw341.jpg|Browncheese769|False|https://redd.it/e90ayj|862|0.99|0|53|0|creepy
+e8gycb|2019-12-09 22:12:25|Tea|https://i.imgur.com/ed8QKoU.jpg|d4hm3r|False|https://redd.it/e8gycb|21017|0.95|0|310|0|creepy
+e8j5sz|2019-12-10 01:00:20|Woman’s face cemented by her husband in the late 1890’s after she was - info below|https://i.redd.it/izu6lt63gp341.jpg|dediusryan94|False|https://redd.it/e8j5sz|899|0.89|0|109|0|creepy
+e7y39t|2019-12-08 19:25:22|🐸🕷|https://i.redd.it/6jq6atweng341.jpg|Symbeat|False|https://redd.it/e7y39t|25444|0.96|0|507|0|creepy
+e838k3|2019-12-09 02:01:51|Mummified Human Skull|https://i.redd.it/sqqlgn1jli341.jpg|b_dubb_|False|https://redd.it/e838k3|720|0.99|0|31|0|creepy
+e7x2oc|2019-12-08 18:09:57|By Emil Melmoth|https://i.redd.it/iyjtrsgy9g341.jpg|kaikeys|False|https://redd.it/e7x2oc|982|0.99|0|31|0|creepy
+e7x04h|2019-12-08 18:04:35|Zdzisław Beksiński|https://i.redd.it/8vucfy009g341.jpg|Ellianel|False|https://redd.it/e7x04h|874|0.99|0|38|0|creepy
+e7pcw8|2019-12-08 04:40:25|“MANIC”|https://i.redd.it/l9m0hmpi9c341.jpg|killchrizzy|False|https://redd.it/e7pcw8|10833|0.97|3|276|0|creepy
+e7tcgw|2019-12-08 12:48:50|A man sitting on the hull of the sinking M/S Estonia|https://i.redd.it/zggl9zhloe341.jpg|HydraForce|False|https://redd.it/e7tcgw|919|0.99|0|33|0|creepy
+e7tzje|2019-12-08 13:57:57|Street art|https://i.redd.it/kgupzmtz0f341.jpg|Arkiduki|False|https://redd.it/e7tzje|624|0.98|0|17|0|creepy
+e7hxc2|2019-12-07 18:35:06|My porridge cooker|https://i.redd.it/6jh7fxti99341.jpg|RavenclawLampent|False|https://redd.it/e7hxc2|8933|0.95|0|217|0|creepy
+e7nhw5|2019-12-08 01:58:48|Bone chair from the local thrift shop|https://i.redd.it/fv602kangb341.jpg|OrpheusThePoet|False|https://redd.it/e7nhw5|464|0.99|0|39|0|creepy
+e7iun7|2019-12-07 19:41:44|Grandpa hanged it|https://i.redd.it/vp3iz7jdl9341.jpg|witbeats|False|https://redd.it/e7iun7|600|0.97|0|34|0|creepy
+e7hils|2019-12-07 18:03:43|Profile pic of a very unsettling FB friend request I received.|https://i.redd.it/jfn4t2nx39341.jpg|gnoble93|False|https://redd.it/e7hils|756|0.99|0|109|0|creepy
+e6rbpj|2019-12-06 01:27:06|Tree Growing Through A Grave|https://i.redd.it/hman5zytyw241.png|Humorbot5000|False|https://redd.it/e6rbpj|16240|0.96|0|372|0|creepy
+e6gmhl|2019-12-05 12:38:55|Happy times :)|https://i.redd.it/dgkk54f08t241.jpg|michal_pie|False|https://redd.it/e6gmhl|1740|0.99|2|49|0|creepy
+e6b8da|2019-12-05 03:31:33|Frozen|https://i.imgur.com/Wauj5d9.jpg|d4hm3r|False|https://redd.it/e6b8da|23229|0.95|0|349|0|creepy
+e6fmb8|2019-12-05 10:55:19|Edward Mordake, the two faced man|https://i.redd.it/wsr0uljops241.jpg|11CNM|False|https://redd.it/e6fmb8|983|0.99|0|43|0|creepy
+e64gyr|2019-12-04 19:34:48|Mating or Making?|https://i.redd.it/n79r1e5g5o241.jpg|BionicDerp|False|https://redd.it/e64gyr|4069|0.93|0|185|0|creepy
+e5ls74|2019-12-03 19:00:28|Cryptophthalmos|https://i.redd.it/119ch50fug241.jpg|zep_chep|False|https://redd.it/e5ls74|8933|0.95|0|529|0|creepy
+e5slhe|2019-12-04 02:52:14|Congenital Erythropoietic Porphyria (aka Gunther's disease)|https://imgur.com/5aw6gxB|K117r418|False|https://redd.it/e5slhe|875|1.0|0|62|0|creepy
+e58jnr|2019-12-03 00:34:17|Don’t fall asleep|https://i.redd.it/0s2nwc02db241.jpg|masonic_rex|False|https://redd.it/e58jnr|8838|0.89|0|159|0|creepy
+e4lehc|2019-12-01 18:33:42|Atolla Specimen Jars|https://i.redd.it/dwqjijgsf2241.png|adminpug|False|https://redd.it/e4lehc|8794|0.96|0|127|0|creepy
+e4lzah|2019-12-01 19:11:58|who's hungry?|https://i.imgur.com/sEbGbzK.jpg|d4hm3r|False|https://redd.it/e4lzah|1284|0.94|0|105|0|creepy
+e4ke1v|2019-12-01 17:25:57|The Goblin Shark and its Alien-like jaws|https://i.redd.it/8pesq7ls02241.gif|Ratami|False|https://redd.it/e4ke1v|1614|1.0|0|55|0|creepy
+e3zsge|2019-11-30 17:17:15|Frozen christ...|https://i.redd.it/f5i510d9xu141.jpg|mak-nil|False|https://redd.it/e3zsge|13873|0.96|0|331|0|creepy
+e46nhu|2019-12-01 00:42:09|an abandoned power station|https://i.redd.it/em3jz04n4x141.jpg|konohakagurelmao|False|https://redd.it/e46nhu|1481|1.0|0|76|0|creepy
+e47urn|2019-12-01 01:52:55|beechworth lunatic asylum|https://i.redd.it/2vsyeyn8hx141.jpg|stagerbr|False|https://redd.it/e47urn|798|0.98|0|43|0|creepy
+e3o14s|2019-11-30 00:43:19|Feeed me|https://i.redd.it/ybsjgqnxzp141.jpg|jake4411|False|https://redd.it/e3o14s|11314|0.91|0|339|0|creepy
+e39969|2019-11-29 03:51:44|The walking stalker...|https://i.redd.it/x791nrngsj141.jpg|Nick_1157|False|https://redd.it/e39969|11560|0.94|1|434|0|creepy
+e3ckf8|2019-11-29 09:27:39|Frozen 3 (Delicious Popsicle)|https://i.redd.it/4mjmwstjgl141.jpg|earthmoonsun|False|https://redd.it/e3ckf8|861|0.97|0|36|0|creepy
+e2x1yz|2019-11-28 11:54:48|Factory Farm|https://i.imgur.com/DwYmF3y.jpg|lnfinity|False|https://redd.it/e2x1yz|24452|0.94|0|2592|0|creepy
+e345jl|2019-11-28 20:55:52|My door is shaking and it happens every night around 2 am.|https://v.redd.it/09r9xdscqh141|theponch82|False|https://redd.it/e345jl|1309|0.98|0|139|0|creepy
+e2hxfh|2019-11-27 15:55:46|The museum of torture in Guanajuato Mexico|https://i.redd.it/bafzuftz39141.jpg|thunderkhawk|False|https://redd.it/e2hxfh|25777|0.96|1|1689|0|creepy
+e2nmnb|2019-11-27 22:00:55|Art by Stefan Koldi|https://i.redd.it/rqubkd25xa141.jpg|ya_boi739|False|https://redd.it/e2nmnb|1127|1.0|0|58|0|creepy
+e2miji|2019-11-27 20:47:17|Baby that is made out of babies|https://i.redd.it/ups1qpz0tv041.jpg|MyBlueBudgie|False|https://redd.it/e2miji|562|1.0|0|22|0|creepy
+e26lvy|2019-11-26 23:20:55|Human bone crest. Sedlec Ossuary in Kutná Hora|https://i.redd.it/hvwk92th64141.jpg|mikeorrell|False|https://redd.it/e26lvy|7366|0.98|0|144|0|creepy
+e2dp00|2019-11-27 09:30:20|Capuchin Crypt in Rome.|https://i.redd.it/0gfslg9877141.jpg|tattedtalian|False|https://redd.it/e2dp00|514|1.0|0|11|0|creepy
+e1wdbb|2019-11-26 10:51:43|A street vendor selling mummies in Egypt, ca.1865|https://i.imgur.com/gU3xUvi.jpg|lisino|False|https://redd.it/e1wdbb|10250|0.98|0|340|0|creepy
+e27x3e|2019-11-27 00:55:54|Skeletons in Herculaneum|https://i.redd.it/xtbrruc4n4141.jpg|marp001|False|https://redd.it/e27x3e|369|1.0|0|9|0|creepy
+e1kwky|2019-11-25 19:10:33|Deep sea worm under microscope|https://i.redd.it/s08xlzrwsv041.jpg|CameHereForMemes1|False|https://redd.it/e1kwky|18572|0.95|1|643|0|creepy
+e1x9wm|2019-11-26 12:26:46|Hyperthyroidism in a 27-year-old woman.|https://i.imgur.com/cwfXj5S.jpg|ReallyForeverAlone|False|https://redd.it/e1x9wm|156|1.0|0|15|0|creepy
+e1d9pv|2019-11-25 08:44:18|A bone|https://i.redd.it/cusjvrs5ps041.jpg|bodomir|False|https://redd.it/e1d9pv|3373|0.97|0|42|0|creepy
+e15pm9|2019-11-24 22:13:08|Tomie|https://i.redd.it/i3nmrbikkp041.jpg|ilervsneks|False|https://redd.it/e15pm9|1080|1.0|0|43|0|creepy
+e0n99b|2019-11-23 20:05:33|From the depths|https://i.redd.it/ps14rlrwsh041.jpg|Cheese_quesadilla|False|https://redd.it/e0n99b|7596|0.98|0|155|0|creepy
+e06b1e|2019-11-22 19:55:03|Well|https://i.redd.it/ozd0u2h4ma041.jpg|gamemaster042|False|https://redd.it/e06b1e|10465|0.95|0|431|0|creepy
+e058lg|2019-11-22 18:41:17|Tubifex Worm Colony in a sewer pipeline|https://i.imgur.com/D5mHQkd.gifv|siren__tv|False|https://redd.it/e058lg|1287|0.99|0|103|0|creepy
+dzkrds|2019-11-21 15:21:07|My extra eyes.|https://imgur.com/r9u7J0h|nememess|False|https://redd.it/dzkrds|19989|0.95|0|708|0|creepy
+dz8kic|2019-11-20 21:30:33|Skull rock formation in Indonesia.|https://i.redd.it/zluns3actwz31.jpg|ArsenikShooter|False|https://redd.it/dz8kic|19901|0.95|0|285|0|creepy
+dywo7q|2019-11-20 04:20:59|Parasites that cling to fish tongues...|https://i.redd.it/s51o0n7nprz31.jpg|SourCynic|True|https://redd.it/dywo7q|10030|0.96|0|475|0|creepy
+dypcdd|2019-11-19 19:30:36|A two headed kitten|https://i.redd.it/161vnvl03pz31.png|donaldej|False|https://redd.it/dypcdd|4896|0.95|0|119|0|creepy
+dyaf60|2019-11-18 22:07:20|The End|https://i.redd.it/6crwx6v2qiz31.jpg|blanketwine|False|https://redd.it/dyaf60|1347|1.0|0|44|0|creepy
+dya2jx|2019-11-18 21:44:22|Goat leg stools from the Bangalore palace|https://i.redd.it/j8sdhozyliz31.jpg|8thDragonball|False|https://redd.it/dya2jx|940|0.99|0|39|0|creepy
+dxg2l5|2019-11-17 01:30:48|3pm in Port Macquarie, NSW during the wildfires.|https://i.redd.it/gpi89zxjg5z31.png|1s8w2MILtway|False|https://redd.it/dxg2l5|9370|0.99|1|221|0|creepy
+dx8gse|2019-11-16 15:46:55|The missing persons map has a frightening similarity to the cave systems map|https://i.redd.it/a22oqqzck2z31.png|8791781927|False|https://redd.it/dx8gse|79525|0.85|1|1500|0|creepy
+dx6uer|2019-11-16 13:23:14|Mandala Made of Hypodermic Needles|https://i.redd.it/5vo3k74ru1z31.png|Morbidshade|True|https://redd.it/dx6uer|1308|0.98|0|45|0|creepy
+dx5d4e|2019-11-16 10:41:46|The Röst Girl - A three year old girl who died in a bog.|https://i.redd.it/vyzea8xx11z31.jpg|PeacefulDawn|True|https://redd.it/dx5d4e|1594|1.0|0|108|0|creepy
+dws2oq|2019-11-15 15:12:15|That deer was smashed by an avalanche|https://i.redd.it/ljyrl95a9vy31.jpg|wokfadz|False|https://redd.it/dws2oq|30247|0.96|3|701|0|creepy
+dweifq|2019-11-14 19:31:55|Comfortable chair|https://i.imgur.com/Ghft491.jpg|kUdtiHaEX|False|https://redd.it/dweifq|1822|0.99|0|75|0|creepy
+dw7n0q|2019-11-14 10:22:30|The killer stone|https://i.redd.it/5fbf8o8oomy31.jpg|Haneet12|False|https://redd.it/dw7n0q|15123|0.98|0|197|0|creepy
+dvwb9m|2019-11-13 18:55:02|Chair|https://i.redd.it/l53xc8p73iy31.jpg|Splendexz|False|https://redd.it/dvwb9m|15320|0.95|1|479|0|creepy
+dvmc71|2019-11-13 04:24:41|The real...|https://i.redd.it/pd3gtcoxrdy31.jpg|mak-nil|False|https://redd.it/dvmc71|9474|0.99|0|179|0|creepy
+dug28p|2019-11-10 19:30:45|A sculpture I made|https://i.redd.it/3czmv6luuwx31.jpg|thatsvile13|False|https://redd.it/dug28p|12512|0.92|2|853|0|creepy
+dtr099|2019-11-09 04:06:10|Faceless angel|https://i.redd.it/4e6rekcz4lx31.jpg|mak-nil|False|https://redd.it/dtr099|14059|0.96|0|274|0|creepy
+dttesd|2019-11-09 08:36:16|Statues in Prague|https://i.redd.it/7f6vy7pwgmx31.jpg|mc_anzi|False|https://redd.it/dttesd|2127|0.99|0|37|0|creepy
+dspjf5|2019-11-07 00:39:11|Mouthful|https://i.imgur.com/ncbCOCZ.jpg|d4hm3r|False|https://redd.it/dspjf5|19115|0.87|0|1176|0|creepy
+dsqote|2019-11-07 02:10:19|Old house in the woods of Alabama|https://imgur.com/MDXndEw|datwolvsnatchdoh|False|https://redd.it/dsqote|1964|1.0|0|131|0|creepy
+dq59l4|2019-11-01 14:51:29|Old Humpty dumpty|https://i.redd.it/n9chaujt83w31.png|CreepyPoppadom|False|https://redd.it/dq59l4|19123|0.97|0|369|0|creepy
+dq3xfi|2019-11-01 13:02:11|A stone skull used for the face melting effect in Indiana Jones|https://i.redd.it/hugpw8pbp2w31.jpg|Vwgames49|False|https://redd.it/dq3xfi|3479|1.0|0|34|0|creepy
+dpzewv|2019-11-01 04:22:40|I needed to take a picture of a section of space I needed to work on. Instead, I interrupted the bonding of dark powers.|https://i.redd.it/uo2zhovi40w31.png|3yad|False|https://redd.it/dpzewv|2044|1.0|0|34|0|creepy
+dpyph3|2019-11-01 03:14:11|Crow fishers|https://i.redd.it/a1sz663eszv31.jpg|0bsidiaX|False|https://redd.it/dpyph3|2252|1.0|0|56|0|creepy
+dpx9ec|2019-11-01 01:11:17|The door crack|https://i.redd.it/vzk2gj9h6zv31.jpg|ismani|False|https://redd.it/dpx9ec|2879|1.0|0|115|0|creepy
+dpz3ev|2019-11-01 03:51:31|Image of an African Millepede|https://i.redd.it/ayiqfpv2zzv31.png|MrAriekor|False|https://redd.it/dpz3ev|1609|1.0|0|87|0|creepy
+dokq1v|2019-10-29 04:06:41|Ćele Kula (Skull Tower) in Niš, Serbia. Constructed by the Ottomans in 1809. Originally contained 952 skulls.|https://i.redd.it/r09tijp1nev31.jpg|zerotheassassin10|False|https://redd.it/dokq1v|2358|0.99|0|108|0|creepy
+dogo08|2019-10-28 22:34:24|JWG's Brain|https://i.redd.it/t74j7inrzcv31.jpg|ExplainThisToMom|False|https://redd.it/dogo08|3924|0.99|0|144|0|creepy
+do912h|2019-10-28 13:44:31|Real skulls from the killing fields in Cambodia|https://i.redd.it/8o56sdb7dav31.jpg|qiutianbeau|False|https://redd.it/do912h|22574|0.97|0|1081|0|creepy
+doe2y2|2019-10-28 19:43:28|blood|https://i.redd.it/bke5ybc95cv31.png|cskaenes|False|https://redd.it/doe2y2|2642|0.99|0|136|0|creepy
+dobycw|2019-10-28 17:21:45|My trip to Bali - Trunyan Village graveyard|https://i.redd.it/aj8vqnmpbbv31.jpg|Evil_Merlin|False|https://redd.it/dobycw|1361|1.0|0|41|0|creepy
+do0mdy|2019-10-27 23:05:29|Tarantula infected with Cordycipitaceae|https://i.redd.it/ebwr4y2e06v31.png|mennoconno23|False|https://redd.it/do0mdy|34221|0.94|1|1673|0|creepy
+dmkso0|2019-10-24 18:47:05|Aftermath of cordyceps infecting a fly.|https://i.redd.it/9fzs6r9kbju31.jpg|Speedymcbacon|False|https://redd.it/dmkso0|33562|0.95|1|964|0|creepy
+dm5ge2|2019-10-23 20:45:43|A cast of the arterial system of a 9 month old baby|https://i.redd.it/vnrzofhtrcu31.jpg|VognorCharKing|False|https://redd.it/dm5ge2|10314|0.99|0|404|0|creepy
+dm054g|2019-10-23 14:31:59|In Romania wee keep the saints and people kiss their hands and pray. (Thats why im an atheist)|https://i.redd.it/3xdc8c15xau31.jpg|ArmandRaul|True|https://redd.it/dm054g|14101|0.89|0|884|0|creepy
+dlca2n|2019-10-22 03:54:01|Mummified Fetus|https://i.redd.it/8lr58vx9m0u31.jpg|b_dubb_|False|https://redd.it/dlca2n|6583|0.98|0|252|0|creepy
+dl4w53|2019-10-21 18:42:32|Next generation neurosurgeons are being trained on an army of baby head models.|https://i.redd.it/r7c2yaazvxt31.jpg|whatwilldudo|False|https://redd.it/dl4w53|7853|0.98|0|159|0|creepy
+dky5pj|2019-10-21 09:50:37|In the depths of Paris, a world of death awaits...|https://i.redd.it/2ycs3r049vt31.jpg|ezu19|False|https://redd.it/dky5pj|13690|0.98|0|419|0|creepy
+dkoxbw|2019-10-20 20:00:56|A real human femur|https://i.redd.it/96ixs4935rt31.jpg|crispu67|False|https://redd.it/dkoxbw|7735|0.95|0|548|0|creepy
+dkee20|2019-10-20 03:35:51|Skeletal Cancer aftermath|https://i.redd.it/ilske7fc9mt31.jpg|MaxTheMajestic|False|https://redd.it/dkee20|36633|0.95|0|958|0|creepy
+dke4fh|2019-10-20 03:11:05|A picture of the sun during the 2017 fires in BC, Canada.|https://i.redd.it/ypcxfyex4mt31.jpg|wheresmypath|False|https://redd.it/dke4fh|1858|0.98|0|101|0|creepy
+dkak02|2019-10-19 22:13:03|The road leading to an abonded factory that is supposedly haunted by a man who used to work there. Finland, Oulu, Martinniemi.|https://i.redd.it/l2566xjpnkt31.jpg|Ronoski|False|https://redd.it/dkak02|2196|1.0|0|57|0|creepy
+djtnxs|2019-10-18 20:51:28|The Chapel of Bones in Évora, Portugal|https://i.redd.it/0xom0f6a4dt31.jpg|mildpandemic|False|https://redd.it/djtnxs|11594|0.96|0|165|0|creepy
+djadch|2019-10-17 18:19:58|Thomas the soul-eater|https://v.redd.it/z4dtbbx785t31|nicope5|False|https://redd.it/djadch|28621|0.94|0|456|0|creepy
+dj99w4|2019-10-17 17:01:03|A mummified rat found under the floor of a new house.|https://i.redd.it/h4bgo8weg4t31.jpg|zombieAndroidFactory|True|https://redd.it/dj99w4|1265|1.0|0|24|0|creepy
+dhxcaq|2019-10-14 21:22:41|I can feel them|https://i.redd.it/dcvrab97qks31.jpg|Visionaryy__|False|https://redd.it/dhxcaq|7285|0.92|1|125|0|creepy
+dhuc7r|2019-10-14 17:59:02|Long horse - Trever Henderson|https://i.redd.it/908jhnjvpjs31.jpg|Rhettredacted|False|https://redd.it/dhuc7r|2857|0.99|0|112|0|creepy
+dhjq90|2019-10-14 01:37:16|Saint Bartholomew|https://i.redd.it/fwfv7hrpues31.jpg|ProfessionalUnlucky|False|https://redd.it/dhjq90|52796|0.96|1|1058|0|creepy
+dhpsnt|2019-10-14 12:22:01|Seance at the Hamilton House|https://i.redd.it/d6zu0f0r1is31.jpg|p480n|False|https://redd.it/dhpsnt|1582|0.98|0|36|0|creepy
+dhnbxp|2019-10-14 07:45:10|Human Tooth Engagement Ring|https://i.redd.it/620qogybogs31.jpg|GraveMetallum|False|https://redd.it/dhnbxp|1801|0.99|0|58|0|creepy
+dh104r|2019-10-12 21:12:56|Stalked from the distance|https://i.redd.it/jei719fne6s31.jpg|willy-comics64|False|https://redd.it/dh104r|11034|0.98|0|202|0|creepy
+dguj6n|2019-10-12 12:30:22|Bleeding Tree|https://v.redd.it/j1uhksjdt3s31|-ShadowOfTheVale-|False|https://redd.it/dguj6n|19452|0.97|0|855|0|creepy
+dgkysb|2019-10-11 20:40:18|Conjoined Seal Twins|https://i.redd.it/fnkafhrw3zr31.jpg|StrategicLlama|False|https://redd.it/dgkysb|11032|0.98|0|161|0|creepy
+dg8ncx|2019-10-11 02:27:43|Free, can't complain|https://i.redd.it/e8jil7dzotr31.jpg||False|https://redd.it/dg8ncx|12073|0.98|0|249|0|creepy
+df7a64|2019-10-08 22:14:06|Megalodon|https://i.redd.it/6z3lqtvw5er31.jpg|icantcomeupofaname|False|https://redd.it/df7a64|5380|0.88|0|233|0|creepy
+df0a0n|2019-10-08 13:54:41|The Killer tree|https://i.redd.it/jf0vluysobr31.jpg|foxlard|False|https://redd.it/df0a0n|14820|0.95|0|282|0|creepy
+de0a7a|2019-10-06 08:00:05|Capela dos Ossos in Faro, Portugal (Chapel of bones)|https://i.imgur.com/2xs9LBh.jpg|Soul9uard|False|https://redd.it/de0a7a|8052|0.98|0|121|0|creepy
+ddczsp|2019-10-04 20:26:49|Mama Scorpion|https://i.redd.it/y0qr8qn43lq31.jpg|WarBucksINC3119|False|https://redd.it/ddczsp|28090|0.88|0|810|0|creepy
+ddd176|2019-10-04 20:29:35|Rat Cemetery|https://i.redd.it/7gcnmrzl3lq31.jpg|dasMajo|False|https://redd.it/ddd176|1991|0.99|0|29|0|creepy
+dc9kbi|2019-10-02 12:33:51|Laa Laa|https://i.redd.it/j37f0osvg4q31.png|Axzbullseye|False|https://redd.it/dc9kbi|8230|0.98|0|157|0|creepy
+dc9whe|2019-10-02 13:02:57|Witches ingredients|https://i.redd.it/60p5pa24m4q31.jpg|sugar-biscuits|False|https://redd.it/dc9whe|1943|0.97|0|48|0|creepy
+dc3pcp|2019-10-02 01:58:40|Hidden|https://i.imgur.com/iYXqqGF.jpg|beckscomics|False|https://redd.it/dc3pcp|3309|0.99|0|62|0|creepy
+dbxne2|2019-10-01 18:36:57|Abandoned church in Czech republic|https://i.redd.it/qtzaaijs4zp31.jpg|kornbob6669|False|https://redd.it/dbxne2|27736|0.96|0|404|0|creepy
+dc2bci|2019-10-02 00:06:21|Bone chapel in the czech republic|https://v.redd.it/dunbjt6gr0q31|ghost_shrimp|False|https://redd.it/dc2bci|2245|0.99|0|55|0|creepy
+dbwlap|2019-10-01 17:19:27|"""Where were you?"", Digital, Me"|https://i.redd.it/vx9vi2msnyp31.jpg|porfiriourena|False|https://redd.it/dbwlap|3056|1.0|1|46|0|creepy
+dbohiq|2019-10-01 05:09:23|Halloween Megathread: October 1 - 31st|"Good evening and welcome to /r/creepy! The haunting season is upon us once again, that time of year when the veil between our world and the afterlife thins permitting the dead to walk among the living. Feel free to discuss anything you wish here.
+
+The rules are as follows:
+
+1. You may post Halloween costumes or cosplays HERE in the comments if linked properly [Text](Link) using [imgur](https://imgur.com/) as it's easier to see. You may also share music, movie/gaming recommendations, scary stories and anything else you enjoy this time of year using the text/link format mentioned earlier.
+
+2. Every topic is up for discussion but please be respectful of other users and don't brigade against someone else with a differing opinion. Users who cause problems will receive a 3 day temp ban as a warning.
+
+Don't be a jerk and everyone can have fun, happy haunting!"|d4hm3r|False|https://redd.it/dbohiq|213|1.0|0|30|1|creepy
+dajrjj|2019-09-28 18:25:15|Relic at the Church of the Assumption of Our Lady and Saint John the Baptist (Kutná Hora, CR - across the st from the Sedlec Ossuary).|https://i.redd.it/5tk0wslyndp31.jpg|blackcanine|False|https://redd.it/dajrjj|7597|0.98|0|335|0|creepy
+da5vd6|2019-09-27 20:13:43|d e v o u r|https://i.redd.it/6nyebhe817p31.png|infinitypilot|False|https://redd.it/da5vd6|7058|0.99|0|109|0|creepy
+da168d|2019-09-27 14:26:12|Haunted Photos|https://i.redd.it/mrgijx49c5p31.gif|Thomghoster|False|https://redd.it/da168d|10060|0.92|0|160|0|creepy
+da535d|2019-09-27 19:15:00|Bleeding Tooth Fungus|https://i.redd.it/fmhd9n2xr6p31.jpg|S0ulHer0|False|https://redd.it/da535d|2656|0.99|0|90|0|creepy
+d9mr3q|2019-09-26 17:21:10|adlicio|https://i.imgur.com/UtKpf0g.jpg|d4hm3r|False|https://redd.it/d9mr3q|7954|0.97|0|143|0|creepy
+d9j9w7|2019-09-26 12:57:01|Bangkok forensic museum|https://i.redd.it/ywinmn4lrxo31.jpg|inter20021|True|https://redd.it/d9j9w7|4347|0.97|0|210|0|creepy
+d8wypq|2019-09-25 02:13:29|lurk|https://i.imgur.com/blQpNIm.jpg|d4hm3r|False|https://redd.it/d8wypq|6998|0.98|0|295|0|creepy
+d8s5w8|2019-09-24 19:34:15|Mummified infant in the forensic museum, Scharnstein Austria|https://i.redd.it/f01caemlglo31.jpg|mileck23|True|https://redd.it/d8s5w8|12783|0.95|0|445|0|creepy
+d8obiw|2019-09-24 14:54:57|My mother in law started going through the 1st stages of dementia in 2013. She use to write notes and I found one. Creeped me out for sure.|https://i.redd.it/bo4zfqws2ko31.jpg|NixisTM|False|https://redd.it/d8obiw|3061|1.0|0|68|0|creepy
+d8oye9|2019-09-24 15:42:27|Indiana mother who adopted 6-year-old Ukrainian girl with dwarfism claims her 'daughter' was found to be a 22-year old 'sociopath' masquerading as a child|https://www.dailymail.co.uk/news/article-7479061/Mom-claims-Ukrainian-daughter-9-adopted-really-22-year-old-dwarfism.html|toomah28|False|https://redd.it/d8oye9|1065|1.0|0|58|0|creepy
+d7s0fq|2019-09-22 15:34:49|Wallaby in specimen jar|https://i.redd.it/7bkul05306o31.jpg|Pumptruffle|False|https://redd.it/d7s0fq|7939|0.97|0|195|0|creepy
+d7oxsv|2019-09-22 10:59:33|Dracula's Castle 1929|https://i.redd.it/lypcl68zm4o31.jpg|ProfessionalUnlucky|False|https://redd.it/d7oxsv|2484|1.0|0|48|0|creepy
+d7htiv|2019-09-21 22:53:47|Actual haunted house in Finland, Kristiinankaupunki (carlsro mansion)|https://i.redd.it/3xgv42xf11o31.jpg|kidedm|False|https://redd.it/d7htiv|7782|0.94|0|391|0|creepy
+d6vysp|2019-09-20 14:47:36|Offering food|https://i.redd.it/fbq1ktsphrn31.gif|Macrochasm|False|https://redd.it/d6vysp|13988|0.97|0|307|0|creepy
+d6m8ra|2019-09-19 23:31:15|Dachau Concentration Camp.|https://i.redd.it/oz3xbyvcymn31.jpg|blackcanine|False|https://redd.it/d6m8ra|18970|0.95|0|698|0|creepy
+d5hl31|2019-09-17 14:13:50|A revisit from the 3:00 am stalker|https://i.redd.it/qwd3tpkyw5n31.jpg|Nick_1157|False|https://redd.it/d5hl31|16731|0.96|0|494|0|creepy
+d4t3ne|2019-09-16 00:27:21|A priest playing with a mummified skeleton near Venzone Italy. Photo: Unautre.com|https://i.redd.it/90ujmk2qoum31.jpg|Scoobysnacks098765|False|https://redd.it/d4t3ne|3297|0.99|0|132|0|creepy
+d4mm34|2019-09-15 16:19:46|....|https://v.redd.it/tw4g6kz1pmm31|epicMech|False|https://redd.it/d4mm34|18376|0.96|0|644|0|creepy
+d4i6dk|2019-09-15 09:10:25|Marianne|https://i.redd.it/zf8moqh35qm31.png|shabil710|False|https://redd.it/d4i6dk|1785|1.0|0|60|0|creepy
+d487cd|2019-09-14 17:28:38|Old tv cartoons mascots|https://i.redd.it/io42e4v0hlm31.png|Phobbossse369|False|https://redd.it/d487cd|9132|0.98|0|150|0|creepy
+d41ici|2019-09-14 06:10:55|Centaur Skeleton|https://i.redd.it/z6edlbe64im31.jpg|TridentHorn|False|https://redd.it/d41ici|12570|0.98|0|358|0|creepy
+d347ez|2019-09-12 07:05:51|Dragon man fossil|https://i.redd.it/6wc9nk5644m31.jpg|TridentHorn|False|https://redd.it/d347ez|7425|0.97|0|285|0|creepy
+d1si4o|2019-09-09 15:35:39|Skeleton of a 28ft anaconda|https://i.redd.it/3t8ae9qfzjl31.jpg|jedi21knight|False|https://redd.it/d1si4o|18118|0.96|0|357|0|creepy
+d1h34p|2019-09-08 21:16:48|Collection of animal skulls|https://i.redd.it/s3l2fefcsfl31.jpg|V391Pegasi|False|https://redd.it/d1h34p|7011|0.96|0|125|0|creepy
+d114mo|2019-09-07 20:23:42|corner|https://i.imgur.com/ccRlrTy.gifv|d4hm3r|False|https://redd.it/d114mo|40202|0.89|0|2143|0|creepy
+d0orel|2019-09-06 23:56:42|Close up|https://i.redd.it/77m49cm1b2l31.png|danpaz3d|False|https://redd.it/d0orel|1580|1.0|0|45|0|creepy
+d052k6|2019-09-05 18:55:09|From a collection..|https://i.redd.it/ua15rj7cotk31.jpg|Cicadamuerte|False|https://redd.it/d052k6|7188|0.93|0|233|0|creepy
+cy8o91|2019-09-01 11:08:07|Those aren’t leaves...|https://i.redd.it/g5flj3tctyj31.jpg|yacjuman|False|https://redd.it/cy8o91|8086|0.98|0|236|0|creepy
+cy130k|2019-08-31 21:20:04|Found this while walking my dog in the woods. Someone put alot of time into making this.|https://i.redd.it/56k7biampuj31.jpg|panerapartyinmypants|False|https://redd.it/cy130k|17667|0.98|2|1429|0|creepy
+cy3nez|2019-09-01 01:03:16|Bone Jenga: Catacombs, Paris, France|https://i.redd.it/s0pawh5gtvj31.jpg|simmisammi|False|https://redd.it/cy3nez|1379|0.99|0|38|0|creepy
+cxux9z|2019-08-31 11:28:11|Man and baby, Capela dos Ossos (Évora, Portugal)|https://i.redd.it/l1h89nvarrj31.jpg|erfoz|False|https://redd.it/cxux9z|5884|0.98|0|125|0|creepy
+cxsi9u|2019-08-31 06:06:22|A pile of children's gas masks in Chernobyl|https://i.redd.it/nznc415m6qj31.jpg|Elanoral|False|https://redd.it/cxsi9u|2002|1.0|0|28|0|creepy
+cxgptc|2019-08-30 13:10:27|Kostnice Sedlec in Czech Republic. There is etc 13k bodies.|https://i.redd.it/f2rri16d5lj31.jpg|quajak|False|https://redd.it/cxgptc|6224|0.97|0|126|0|creepy
+cxbsa4|2019-08-30 04:03:16|emaciated boy|https://i.redd.it/wl9uqm8pfij31.png|Thats_Cool_bro|False|https://redd.it/cxbsa4|1605|0.99|0|78|0|creepy
+cx7qvp|2019-08-29 22:07:42|Skulls|https://i.redd.it/k9ms639bogj31.jpg|V391Pegasi|False|https://redd.it/cx7qvp|2642|0.99|0|34|0|creepy
+cx62ux|2019-08-29 20:03:43|Mama's movement|https://i.redd.it/lhtdye080gj31.gif|Basymon|False|https://redd.it/cx62ux|3255|1.0|0|97|0|creepy
+cx2fya|2019-08-29 15:28:47|The Skull Tower|https://imgur.com/InMlbBA||False|https://redd.it/cx2fya|7426|0.98|0|133|0|creepy
+cx7oue|2019-08-29 22:03:40|West Virginia Basement Dweller|https://imgur.com/MPS0Tp7|ThrowawayYM1|False|https://redd.it/cx7oue|1301|1.0|0|98|0|creepy
+cx7y3c|2019-08-29 22:22:40|Just hanging out|https://i.redd.it/w4hx966zqgj31.jpg|Genaria|False|https://redd.it/cx7y3c|979|0.99|0|53|0|creepy
+cx7x75|2019-08-29 22:20:58|Please some one play with me|https://i.redd.it/ym90342oqgj31.jpg|Juantaco420|False|https://redd.it/cx7x75|845|0.99|0|31|0|creepy
+cx111l|2019-08-29 13:36:24|largest collection of human deformities|https://i.redd.it/s8uyyzm05ej31.jpg|lenz1002|True|https://redd.it/cx111l|1112|0.99|0|62|0|creepy
+cwuswp|2019-08-29 02:32:17|Long head|https://v.redd.it/3fnccqn2paj31|Macystar|False|https://redd.it/cwuswp|15893|0.89|0|636|0|creepy
+cx15o3|2019-08-29 13:47:21|Creeby|https://i.redd.it/q3yp80h17ej31.jpg|zozzerer56|False|https://redd.it/cx15o3|904|0.99|0|24|0|creepy
+cwudb6|2019-08-29 01:53:38|Scary sound...|https://v.redd.it/bq99w3f4p7j31|3L_D3M3NT3_YaC0|False|https://redd.it/cwudb6|2910|0.99|0|72|0|creepy
+cwr5et|2019-08-28 21:27:22|Would you walk through it?|https://i.redd.it/55vuxk25c9j31.jpg|-TheMessenger-|False|https://redd.it/cwr5et|1694|1.0|0|198|0|creepy
+cwmp57|2019-08-28 15:55:16|Came home and found this folded up in the driveway|https://i.redd.it/kjtw1cppo7j31.jpg|HiddenSpices|False|https://redd.it/cwmp57|2947|1.0|0|288|0|creepy
+cwj5qw|2019-08-28 10:55:34|🔥 A living sand dollar in action 🔥|https://gfycat.com/grotesqueaptamericanindianhorse|Ferity2|False|https://redd.it/cwj5qw|1468|1.0|0|62|0|creepy
+cwdtz9|2019-08-28 01:23:54|This is what the nerves related to the teeth look like.|https://i.redd.it/agmgwmhh20j31.jpg|TheHolyMoley|False|https://redd.it/cwdtz9|1681|1.0|0|22|0|creepy
+cw3wcp|2019-08-27 12:41:14|It's 5 am, and I feel something in my shirt. At first, I thought it was a ball of thread, but I knew it wasn't.|https://i.redd.it/f5cm80tdlzi31.jpg|sandqueenoverlord|False|https://redd.it/cw3wcp|1503|1.0|0|89|0|creepy
+cw0h1m|2019-08-27 06:23:55|🔥 Army of crabs headed somewhere|https://v.redd.it/nrksfbj2hui31|tompkoch|False|https://redd.it/cw0h1m|1757|1.0|0|124|0|creepy
+cvq9ac|2019-08-26 16:20:10|Props for a haunted house|https://i.redd.it/w0m66khkjti31.jpg|golde62|True|https://redd.it/cvq9ac|18587|0.95|0|550|0|creepy
+cvtpn9|2019-08-26 20:35:10|Goblin shark bites a flounder|https://gfycat.com/heartfeltwhoppingkoi|JakeFromStFa|False|https://redd.it/cvtpn9|1312|1.0|0|37|0|creepy
+cvpjn3|2019-08-26 15:26:28|𝐍𝐎𝐏𝐄ⁿᵒᵖᵉ. 𝐀𝐛𝐬𝐨𝐥𝐮𝐭𝐞𝐥𝐲-𝐟𝐮𝐜𝐤𝐢𝐧𝐠-𝐧𝐨 𝐬𝐪𝐮𝐚𝐫𝐞𝐝.|https://i.redd.it/5610pwpr8ti31.png|VoteBrianPeppers|False|https://redd.it/cvpjn3|1768|0.99|0|69|0|creepy
+cvoxj3|2019-08-26 14:38:07|Take a walk with me...|https://i.redd.it/8qrbw4qc1ti31.jpg|SandLibra|False|https://redd.it/cvoxj3|1016|0.99|0|61|0|creepy
+cvqbls|2019-08-26 16:24:44|Missing a head|https://i.redd.it/xgrrh5ldkti31.jpg|yubbahubba|False|https://redd.it/cvqbls|735|0.98|0|22|0|creepy
+cvjj96|2019-08-26 05:01:00|laughter|https://i.redd.it/of83x42c5qi31.jpg|Ghdust2|False|https://redd.it/cvjj96|1034|1.0|0|71|0|creepy
+cviuyj|2019-08-26 03:51:32|Why are all of my shirts wrinkled?|https://i.redd.it/zkgp7eb0upi31.jpg|DoomViper|False|https://redd.it/cviuyj|1175|1.0|0|21|0|creepy
+cvhidk|2019-08-26 01:41:56|Hello frend|https://i.redd.it/015s0huv6pi31.jpg|bubbblees|False|https://redd.it/cvhidk|1551|1.0|0|77|0|creepy
+cvcxol|2019-08-25 19:24:09|Creepy|https://i.imgur.com/TpZhX2U.gifv|ChunkyLover5312|False|https://redd.it/cvcxol|2461|1.0|0|91|0|creepy
+cv11h1|2019-08-24 23:52:27|Authentic 16th Century Plague Doctor Mask|https://i.redd.it/up0qc17bihi31.png|Cyber_Punk_666|False|https://redd.it/cv11h1|1914|1.0|0|93|0|creepy
+cupwnm|2019-08-24 06:21:25|Taking a look|https://i.redd.it/b2e2gl5xaci31.png|Humblestdude|False|https://redd.it/cupwnm|1835|1.0|0|122|0|creepy
+cuo9mg|2019-08-24 03:20:08|My back door has those lights on the left and it gets me every time.|https://i.redd.it/qg1en9mkebi31.jpg|ZecronZombie|False|https://redd.it/cuo9mg|1678|1.0|0|38|0|creepy
+culk7b|2019-08-23 23:13:49|Garland of bones. Sedlec Ossuary in the Czech Republic|https://i.redd.it/35t9pvyf6ai31.jpg|Kvazizabra|False|https://redd.it/culk7b|537|1.0|0|8|0|creepy
+cu7b8r|2019-08-23 02:01:24|Silent Swimmers|https://i.redd.it/2zs7wygmv3i31.jpg|saberprophecy|False|https://redd.it/cu7b8r|7900|0.99|0|142|0|creepy
+cu3ul9|2019-08-22 21:19:56|Bone Chapel in Hallstatt Austria|https://i.redd.it/gi3p53oeh2i31.jpg|CJinNJ|False|https://redd.it/cu3ul9|894|0.98|0|13|0|creepy
+cu2rst|2019-08-22 20:01:44|Abandoned and now sunken school|https://i.redd.it/381xkn592zh31.jpg|EkajSanford|False|https://redd.it/cu2rst|987|1.0|0|42|0|creepy
+cu0hyz|2019-08-22 17:17:51|A Scorpion Cleaning its Claws|https://i.imgur.com/kvIK5al.gifv|Gonxoxo|False|https://redd.it/cu0hyz|1029|1.0|0|52|0|creepy
+cttljp|2019-08-22 06:43:19|What's for lunch?|https://i.redd.it/hparwbst4yh31.jpg|ssipsop|False|https://redd.it/cttljp|9039|0.97|2|228|0|creepy
+ctr3hw|2019-08-22 02:27:48|Taxadermy mouse chess set|https://i.redd.it/53kq0m8fvwh31.jpg|Im_Havox|False|https://redd.it/ctr3hw|1705|0.98|0|107|0|creepy
+ctkham|2019-08-21 17:59:47|Delicious looking candy (Qixuan Lim)|https://i.redd.it/zigmrfsncuh31.jpg|earthmoonsun|False|https://redd.it/ctkham|1303|0.99|0|75|0|creepy
+ctfrar|2019-08-21 11:52:43|Cross imprint with hand print from house fire|https://i.redd.it/kmhpzc5sish31.jpg|tok33|False|https://redd.it/ctfrar|1357|1.0|0|23|0|creepy
+ct8kjg|2019-08-20 23:56:07|the smile room|https://i.imgur.com/QYxQXIZ.jpg|d4hm3r|False|https://redd.it/ct8kjg|25774|0.96|0|424|0|creepy
+ctgoky|2019-08-21 13:14:02|That leaf in my grandparent's garden.|https://i.redd.it/m2aavuqsxsh31.jpg|Abovearth31|False|https://redd.it/ctgoky|790|0.96|0|29|0|creepy
+csu718|2019-08-20 07:27:04|Albert von Schrenck-Notzing, from a suite of 6 “flashlight photographs” taken during a session with the infamous medium Eva Carrière, ca. 1911|https://i.redd.it/99gs8htcyjh31.jpg|adamlm|False|https://redd.it/csu718|7884|0.96|0|377|0|creepy
+ct0kwg|2019-08-20 15:20:24|The crypts in Rome|https://i.redd.it/3zwapovffmh31.jpg|Pandawee42|False|https://redd.it/ct0kwg|756|0.99|0|29|0|creepy
+csgwnb|2019-08-19 13:13:02|22 years after 39 members of the Heaven’s Gate Cult killed themselves, the website remains up and running by the small number of those that decided to live..|https://i.redd.it/8iqy200tneh31.jpg|ASTRO2598|False|https://redd.it/csgwnb|14804|0.96|0|1188|0|creepy
+csjbfk|2019-08-19 16:19:29|Old Cell Phone in a Microwave|https://i.redd.it/wkiypclqlbh31.gif|SpartanWarior88|False|https://redd.it/csjbfk|3412|0.98|0|166|0|creepy
+csmvzh|2019-08-19 20:30:34|The ocean|https://i.redd.it/orsa64pttgh31.jpg|AudreyLynch|False|https://redd.it/csmvzh|1358|1.0|0|51|0|creepy
+csbhau|2019-08-19 03:24:55|Shhhhh|https://i.redd.it/fdndsnkvqbh31.jpg|GatorHaterJames|False|https://redd.it/csbhau|868|0.99|0|24|0|creepy
+cs7xbe|2019-08-18 22:11:23|The Paris Catacombs|https://i.redd.it/1ioi2usx6ah31.jpg|Apprentice_Jedi|False|https://redd.it/cs7xbe|577|1.0|0|6|0|creepy
+crxe3o|2019-08-18 05:33:46|Friend in the corner|https://imgur.com/PKrM25W|Beeardo|False|https://redd.it/crxe3o|7365|0.97|0|256|0|creepy
+crrbsa|2019-08-17 20:16:26|Bone Chalice in Kutná Hora, Czech Republic|https://i.redd.it/dgndjffih2h31.jpg|Pineapple_Committee|False|https://redd.it/crrbsa|7393|0.97|0|99|0|creepy
+crxsky|2019-08-18 06:22:22|350 year-old Tibetan carved skull|https://i.redd.it/byrlvqq3x3h31.jpg|alexisonfire04|False|https://redd.it/crxsky|748|1.0|0|13|0|creepy
+crve25|2019-08-18 02:08:14|Smile!|https://i.redd.it/q2ur3iaa84h31.jpg|ssipsop|False|https://redd.it/crve25|1504|0.99|0|63|0|creepy
+crd85f|2019-08-16 22:03:24|Kutna hora|https://i.redd.it/zg07j7oovvg31.jpg|Tanuxi|False|https://redd.it/crd85f|7586|0.97|0|204|0|creepy
+crapzm|2019-08-16 18:51:07|Pump room entrance inside a 100 year old train tunnel.|https://i.redd.it/tws1cf0exug31.jpg|darkdaysindeed|False|https://redd.it/crapzm|882|1.0|0|30|0|creepy
+cr6o3o|2019-08-16 13:53:46|Dead grasshopper|https://i.redd.it/64pat36cgtg31.jpg|YoungSpice94|False|https://redd.it/cr6o3o|882|0.96|0|34|0|creepy
+cr3948|2019-08-16 07:59:06|A run down project in my area|https://i.redd.it/29vw35z1prg31.jpg|adam_playstation|False|https://redd.it/cr3948|579|0.98|0|11|0|creepy
+cr0dua|2019-08-16 03:01:42|Is this true?|https://i.redd.it/250q4o208qg31.jpg|Beetlemuse|False|https://redd.it/cr0dua|1250|1.0|0|90|0|creepy
+cqtcoz|2019-08-15 17:53:54|1970's double sided clown head|https://i.redd.it/kvlhcysuhng31.jpg|MrRabinowitz|False|https://redd.it/cqtcoz|12177|0.94|0|243|0|creepy
+cquheq|2019-08-15 19:13:47|Wet specimen at a local oddities shop|https://i.redd.it/6ojj557hwng31.jpg|Liontta|False|https://redd.it/cquheq|155|0.98|0|12|0|creepy
+cqtzjc|2019-08-15 18:39:44|"The original ""Annabelle"" held by demonologist Lorraine Warren in 1980's."|https://i.redd.it/i55jb9zfqng31.jpg|Viljamivee|False|https://redd.it/cqtzjc|144|1.0|0|7|0|creepy
+cqv7xn|2019-08-15 20:07:56|Punch and Judy puppets from 1910|https://i.redd.it/l1bzopb66og31.jpg|Swallows84|False|https://redd.it/cqv7xn|107|0.97|0|3|0|creepy
+cquv4r|2019-08-15 19:41:48|Kuchisake Onna - One of Japan’s most famous urban myths|https://i.redd.it/ts3p1yqi1og31.jpg|Relftion|False|https://redd.it/cquv4r|99|0.95|0|4|0|creepy
+cqullx|2019-08-15 19:22:29|Paris catacombs.|https://i.redd.it/k27cefh2yng31.jpg|Nateberglas|False|https://redd.it/cqullx|59|0.92|0|1|0|creepy
+cpz5j6|2019-08-13 20:46:21|light switch|https://v.redd.it/8lruma3np6g31|d4hm3r|False|https://redd.it/cpz5j6|19791|0.89|0|501|0|creepy
+cq1t2x|2019-08-14 00:10:34|The City of Shadows|https://i.redd.it/1a1we0an3bg31.jpg|qwartet|False|https://redd.it/cq1t2x|1912|1.0|0|36|0|creepy
+cq2kgf|2019-08-14 01:15:03|German Soldiers in Gas Masks 1915|https://i.redd.it/k62gk3oxebg31.jpg|Leweegibo|False|https://redd.it/cq2kgf|1023|0.99|0|33|0|creepy
+couf00|2019-08-11 08:36:32|Kutná Hora Ossuary, Czech Republic. Yes, those are human bones.|https://i.redd.it/gch05ob67sf31.jpg|Lurd67|False|https://redd.it/couf00|6680|0.98|0|172|0|creepy
+conys5|2019-08-10 21:32:10|A church made out of human bones|http://elhector76.files.wordpress.com/2009/12/2567643617_9b6a51a44c_o.jpg|Pigonou|False|https://redd.it/conys5|16633|0.96|0|388|0|creepy
+coesxl|2019-08-10 06:57:41|Clogged Again?|https://i.redd.it/xaszsd5kkkf31.jpg|TheZoologist|False|https://redd.it/coesxl|8093|0.96|0|180|0|creepy
+coilzs|2019-08-10 14:19:34|Trees are friends|https://i.redd.it/ys2eld96qmf31.gif|urg_wulu|False|https://redd.it/coilzs|1184|1.0|0|35|0|creepy
+cogx06|2019-08-10 11:30:19|Cozy cabin in the woods|https://i.redd.it/71cc7bx9xlf31.jpg|Ismeldaa|False|https://redd.it/cogx06|920|1.0|0|22|0|creepy
+codjy7|2019-08-10 04:35:24|Underground Tunnels|https://i.redd.it/u2tzpoh8vjf31.jpg|oneinfiftytwo|False|https://redd.it/codjy7|727|1.0|0|14|0|creepy
+co37fw|2019-08-09 14:35:18|Twins|https://i.redd.it/igb5iz3dpff31.jpg|EllisReviews_|False|https://redd.it/co37fw|8971|0.96|0|179|0|creepy
+cnzuoa|2019-08-09 09:15:16|Sheep at night...|https://i.redd.it/0a29y3o94ef31.jpg|Ismeldaa|False|https://redd.it/cnzuoa|2037|0.99|0|103|0|creepy
+co1r48|2019-08-09 12:34:20|"Norman (the puppet from Interpol's ""Evil"") has seen better days..."|https://i.imgur.com/vyCgY2V.jpg|Jordan117|False|https://redd.it/co1r48|1022|1.0|0|39|0|creepy
+cntqqa|2019-08-08 23:15:43|..|https://imgur.com/boYh9Fu|oltjonruci|False|https://redd.it/cntqqa|10056|0.95|0|295|0|creepy
+cnxygb|2019-08-09 05:35:12|Taking one pill a day keeps the doctor away!|https://v.redd.it/7g59kzmn0df31|Verzweiflungforscher|False|https://redd.it/cnxygb|1721|1.0|0|50|0|creepy
+cnx9gu|2019-08-09 04:23:46|Medieval Executioner's Mask|https://i.redd.it/z0qh97i9ocf31.jpg|Pineappletittyworms|False|https://redd.it/cnx9gu|1197|1.0|0|54|0|creepy
+cntgmg|2019-08-08 22:53:46|Infectious Disease ward,Ellis Island.|https://i.redd.it/oa4xy2hb1bf31.jpg|TulsaTX|False|https://redd.it/cntgmg|854|0.98|0|14|0|creepy
+cnsy7t|2019-08-08 22:13:26|Sleeping Beauty’s castle photographed in 1962|https://i.redd.it/9vgxcos6uaf31.jpg|Snortmaiden|False|https://redd.it/cnsy7t|928|0.99|0|12|0|creepy
+cnitu2|2019-08-08 08:32:09|A hallway in my university at 2AM|https://i.redd.it/r1aovltcr6f31.jpg|Ninjalord8|False|https://redd.it/cnitu2|12588|0.93|0|320|0|creepy
+cn9kb9|2019-08-07 18:26:24|An elementary school during the summer|https://i.redd.it/luk8p7trk2f31.jpg|D-maye-reddits|False|https://redd.it/cn9kb9|15740|0.84|0|527|0|creepy
+cnd5qu|2019-08-07 23:06:53|meat|https://i.redd.it/u78omdbty3f31.jpg|SpiffyDactyliogliphy|False|https://redd.it/cnd5qu|1128|0.99|0|46|0|creepy
+cnb59d|2019-08-07 20:25:56|Saint holding a reliquary|https://i.redd.it/it876am363f31.jpg|z0mbiegrl|False|https://redd.it/cnb59d|800|1.0|0|13|0|creepy
+cmq00y|2019-08-06 12:33:36|Monster in the grave|https://i.redd.it/a2vbv9yuote31.jpg|thedilawrigroup|False|https://redd.it/cmq00y|6553|0.97|0|117|0|creepy
+cmrvdy|2019-08-06 15:16:17|Why?!|https://i.redd.it/19mopvdxhue31.jpg|BADGERSAREUNDERRATED|False|https://redd.it/cmrvdy|3209|0.91|0|65|0|creepy
+cme1vw|2019-08-05 17:31:18|Tombstone photo|https://i.redd.it/qeyf8rr31oe31.jpg|grandamek|False|https://redd.it/cme1vw|8276|0.92|0|201|0|creepy
+clg3by|2019-08-03 07:27:56|Kwasi Afari Minta concealing severe burns from the fire of the King’s Cross in the London Underground (1987)|https://i.redd.it/onw0effnr6e31.jpg|ButcherSnake|False|https://redd.it/clg3by|9791|0.96|0|220|0|creepy
+cl3qj8|2019-08-02 12:54:32|If the wither was in real life|https://i.redd.it/c6d74w9091e31.jpg|C0dFish123|False|https://redd.it/cl3qj8|14055|0.95|0|266|0|creepy
+cl6pfc|2019-08-02 16:54:14|?????|https://i.redd.it/bnawbdmrf2e31.jpg|Ishan02|False|https://redd.it/cl6pfc|2058|0.99|0|166|0|creepy
+cl7btj|2019-08-02 17:41:39|Just Add Salt|https://i.redd.it/yjcqnp88o2e31.gif|WarBucksINC3119|False|https://redd.it/cl7btj|1614|0.98|0|99|0|creepy
+cl7r2o|2019-08-02 18:13:40|Handmade Marionette|https://i.redd.it/rl3zdgvxt2e31.jpg|ShakingBoiler|False|https://redd.it/cl7r2o|1017|0.99|0|66|0|creepy
+cl5msk|2019-08-02 15:31:21|Talk to the hand|https://i.redd.it/s7m17v0x02e31.jpg|Judgement525|False|https://redd.it/cl5msk|1306|0.99|1|39|0|creepy
+ckrrr3|2019-08-01 17:52:32|Gas masks for babies being tested at an English hospital (1940).|https://i.redd.it/unqc7qj9lvd31.jpg|V391Pegasi|False|https://redd.it/ckrrr3|19405|0.97|0|448|0|creepy
+ckwwmx|2019-08-02 00:40:09|The skeleton of dicephalic twins|https://i.redd.it/r0g2vnfzlxd31.jpg|Sempter|False|https://redd.it/ckwwmx|1171|0.99|0|35|0|creepy
+cka4xa|2019-07-31 15:44:11|Lurking beneath the surface.|https://imgur.com/uTJtv9t|Gottfrequenz|False|https://redd.it/cka4xa|16782|0.96|0|514|0|creepy
+cjw0lk|2019-07-30 18:36:24|Parasite by Bogna Gawrońska|https://v.redd.it/q5kr32f9jhd31|Pineapple_Plague|True|https://redd.it/cjw0lk|14290|0.9|1|595|0|creepy
+cjj4tt|2019-07-29 23:17:04|Am I the only one?|https://i.redd.it/20c11h0w0ad31.gif|FATALPLEASURE|False|https://redd.it/cjj4tt|15556|0.96|0|367|0|creepy
+cjg0rx|2019-07-29 19:23:52|Late night snack|https://v.redd.it/xj39g59tmad31|azgrunt|False|https://redd.it/cjg0rx|16269|0.91|1|514|0|creepy
+cjj2gc|2019-07-29 23:11:45|Haunting in the middle of the night|https://i.redd.it/j8lcgn59rbd31.jpg|VamosRamos92|False|https://redd.it/cjj2gc|1479|1.0|0|55|0|creepy
+cjjcu0|2019-07-29 23:34:54|Crematorium at Auschwitz|https://i.redd.it/s0b3sk9lvbd31.jpg|Izanz00|False|https://redd.it/cjjcu0|1170|0.99|0|88|0|creepy
+cjdqxy|2019-07-29 16:40:45|I swear I could see someone in there|https://i.imgur.com/b1OVcI0.gif|C_est_Chouette|False|https://redd.it/cjdqxy|2282|0.96|0|74|0|creepy
+cj80gg|2019-07-29 07:37:21|Watcher in the forest|https://i.redd.it/ws4pblrr47d31.jpg|distilleddoughnuts|False|https://redd.it/cj80gg|34795|0.93|2|434|0|creepy
+cjdiy2|2019-07-29 16:24:46|Have you seen this man|https://i.redd.it/eiz1dbqtq9d31.png|Cxmy|False|https://redd.it/cjdiy2|1533|0.99|0|228|0|creepy
+cj9t0b|2019-07-29 11:09:36|Give up|https://i.redd.it/hpw4jvvm68d31.jpg|Ilkerko|False|https://redd.it/cj9t0b|1219|0.99|0|89|0|creepy
+cj5lrl|2019-07-29 03:17:00|Who is it going to be?|https://i.imgur.com/cyVyac5.jpg|wonderwoman0621|False|https://redd.it/cj5lrl|572|1.0|0|12|0|creepy
+cizkhw|2019-07-28 18:41:18|AHHHHHHHHHH|https://v.redd.it/72yglc9hguc31|blackmetalbear|False|https://redd.it/cizkhw|2309|0.94|0|163|0|creepy
+cizaz3|2019-07-28 18:20:38|Someone has been placing skulls around an abandoned church in the woods|https://i.redd.it/f4q9lpwl63d31.jpg|DisorderlyBoat|False|https://redd.it/cizaz3|1872|0.99|0|49|0|creepy
+cj296c|2019-07-28 22:14:08|A toothy mug.|https://i.redd.it/0xipqh9h63d31.jpg|HolographicDragonite|False|https://redd.it/cj296c|863|0.99|0|25|0|creepy
+ciuilu|2019-07-28 10:55:08|p a t r i c k|https://i.redd.it/c924eyhqqxc31.jpg|d4hm3r|False|https://redd.it/ciuilu|13248|0.94|0|331|0|creepy
+cinjk6|2019-07-27 21:56:55|Skull still in chainmail from Battle of Visby, 1361|https://i.redd.it/ykfuhqfkhwc31.jpg|fallcomes|False|https://redd.it/cinjk6|13244|0.96|0|287|0|creepy
+cil7vi|2019-07-27 18:42:18|PT Barnum’s mermaid|https://i.redd.it/2hkh07vj5wc31.jpg|Legendarytoppot1|False|https://redd.it/cil7vi|1060|1.0|0|34|0|creepy
+cidk5w|2019-07-27 05:17:01|Pennywise Taking A Smoke Break|https://i.redd.it/74m2j4qw5sc31.png|WarBucksINC3119|False|https://redd.it/cidk5w|10706|0.95|0|279|0|creepy
+cig4n0|2019-07-27 10:51:44|Plague doctor|https://i.redd.it/316p1h1mttc31.jpg|somerandomemo|False|https://redd.it/cig4n0|1395|0.99|0|48|0|creepy
+ci5c6x|2019-07-26 16:51:35|It floated there infront of me|https://i.redd.it/6r0g2rkwgoc31.png|Kato_Tozier|False|https://redd.it/ci5c6x|19484|0.92|0|353|0|creepy
+ci8vit|2019-07-26 21:36:30|recently visited eastern state penitentiary for the first time...|https://i.redd.it/16v7uoppvpc31.jpg|calculatedcoold|False|https://redd.it/ci8vit|1250|0.99|0|30|0|creepy
+ci5fn9|2019-07-26 16:59:27|Yes|https://i.redd.it/lk6gvehbioc31.jpg|Jolli200|False|https://redd.it/ci5fn9|1419|0.99|0|96|0|creepy
+ci47f6|2019-07-26 15:21:47|Old Finnish diving suit|https://i.redd.it/d6fe03gv0oc31.jpg|dontfuckingknowwwww|False|https://redd.it/ci47f6|1748|0.99|0|105|0|creepy
+ci5dt0|2019-07-26 16:55:07|I saw it standing there|https://i.redd.it/p44unpkjhoc31.png|Kato_Tozier|False|https://redd.it/ci5dt0|901|0.97|0|55|0|creepy
+ci332i|2019-07-26 13:48:21|A morning drive through the mysterious...|https://i.redd.it/v71g33q7knc31.jpg|D3rP00|False|https://redd.it/ci332i|608|0.98|0|28|0|creepy
+chspx6|2019-07-25 20:01:01|Late night under water snack|https://i.redd.it/85cyn2rs9ic31.jpg|Bluiss|False|https://redd.it/chspx6|35875|0.95|0|1096|0|creepy
+chy6to|2019-07-26 04:20:21|Shanghai Tunnels, Portland Oregon|https://i.redd.it/i7lr1wqvqkc31.jpg|ChowMein2Go|False|https://redd.it/chy6to|599|0.99|0|17|0|creepy
+chv3jp|2019-07-25 23:18:00|Skin heels|https://i.imgur.com/KgCO3lm.jpg|salaman2122|False|https://redd.it/chv3jp|932|0.97|0|51|0|creepy
+chubhr|2019-07-25 22:09:55|At a art museum. I was actually disturbed.|https://i.redd.it/v15ei2kswic31.jpg|TheOnlyChoco|False|https://redd.it/chubhr|913|0.99|0|45|0|creepy
+chnnfo|2019-07-25 13:27:21|St. Georges Church|https://i.redd.it/yetq58dgbgc31.png|MALESTROMME|False|https://redd.it/chnnfo|4974|0.99|0|122|0|creepy
+chs962|2019-07-25 19:23:39|just asking questions|https://i.redd.it/k1pur32o2ic31.jpg|creepydoors34|False|https://redd.it/chs962|758|0.99|0|38|0|creepy
+chsaqp|2019-07-25 19:27:04|Mother.|https://imgur.com/DZIScSl.jpg|SignificantSigint|False|https://redd.it/chsaqp|748|0.98|0|17|0|creepy
+chqh5w|2019-07-25 17:05:43|Guardian of the deep.|https://imgur.com/RRU9ngK|vanderstrom|False|https://redd.it/chqh5w|632|0.99|0|29|0|creepy
+chfy7h|2019-07-24 23:41:34|Xylaria Polymorpha is a saprobic fungus commonly known as dead man’s fingers|https://i.redd.it/ocyn1ga88cc31.jpg|Fuckoff555|False|https://redd.it/chfy7h|42314|0.96|1|672|0|creepy
+ch4ut9|2019-07-24 07:11:17|Man catches “sea monster” in Australia with no eyes and sharp teeth|https://i.redd.it/jth4n7zjb7c31.jpg|Rick--morty|False|https://redd.it/ch4ut9|11061|0.98|0|529|0|creepy
+ch62vh|2019-07-24 09:45:52|Chamber in Mauthausen|https://i.redd.it/whxdevi438c31.jpg|Foreskin27|False|https://redd.it/ch62vh|394|0.93|0|14|0|creepy
+ch4evb|2019-07-24 06:19:44|K.|https://i.redd.it/7jt8tr8d27c31.jpg|arijoii|False|https://redd.it/ch4evb|509|0.93|0|45|0|creepy
+ch3fgz|2019-07-24 04:32:37|Piñata in a trash can|https://i.redd.it/fc58vr69j6c31.jpg|charboob|False|https://redd.it/ch3fgz|477|0.96|0|21|0|creepy
+cgrdmk|2019-07-23 11:26:31|The new prime minister of England, looking like the runner up to play Damien in The Omen|https://i.imgur.com/R6qgB2g.jpg|CorsicanaLemonade|False|https://redd.it/cgrdmk|14171|0.87|1|766|0|creepy
+cgxuhg|2019-07-23 20:16:42|This bathtub in an abandoned motel|https://i.redd.it/tmpj86wr24c31.jpg|girl_bean|False|https://redd.it/cgxuhg|637|0.99|0|40|0|creepy
+cgx36h|2019-07-23 19:18:20|Sedlec/Kutna Hora Ossuary, Czech Republic|https://i.redd.it/2wqrzw2ds3c31.jpg|Affekopp79|False|https://redd.it/cgx36h|686|0.98|0|25|0|creepy
+cgins7|2019-07-22 20:38:39|Pinhead holding a baby|https://i.redd.it/u7nj0tfr1xb31.jpg|Import|False|https://redd.it/cgins7|24497|0.93|0|509|0|creepy
+cgkuf9|2019-07-22 23:34:30|World War 1 radiographer.|https://i.redd.it/gq7wpz10xxb31.jpg|InTheNameOfTheSenate|False|https://redd.it/cgkuf9|1170|1.0|0|43|0|creepy
+cgkwji|2019-07-22 23:39:46|First thing seen with a flashlight in the boiler room of a very old building, while doing masonry work.|https://i.redd.it/brqtxq73yxb31.jpg|Xanax204|False|https://redd.it/cgkwji|685|0.99|0|22|0|creepy
+cgl03z|2019-07-22 23:48:33|Hmmmmm not sure what is going on here.|https://i.redd.it/08n6doxnzxb31.jpg|scotty2751|False|https://redd.it/cgl03z|579|0.99|0|32|0|creepy
+cg3bso|2019-07-21 19:59:47|"""Baby pig"""|https://i.redd.it/wopmd4vxppb31.jpg|turtle_abortion|True|https://redd.it/cg3bso|4754|0.84|0|326|0|creepy
+cfrudq|2019-07-20 22:34:41|Eastern state penitentiary|https://i.redd.it/6hkd3otncjb31.jpg|Micmic77|False|https://redd.it/cfrudq|4937|0.99|0|164|0|creepy
+cfqyiv|2019-07-20 21:12:03|Feeding time|https://gfycat.com/insidiousbarehylaeosaurus|Ozboz3000|False|https://redd.it/cfqyiv|4989|0.96|0|160|0|creepy
+cfmvxw|2019-07-20 15:15:46|Dental training mannequin|https://i.redd.it/aojpde6c6hb31.jpg|Import|False|https://redd.it/cfmvxw|19627|0.97|0|412|0|creepy
+cfl98i|2019-07-20 12:24:38|WW1 Gas mask for children, supposed to represent Mickey Mouse|https://i.redd.it/gpmcm0htbgb31.png|Kato_Tozier|False|https://redd.it/cfl98i|1384|0.97|0|40|0|creepy
+cfcasv|2019-07-19 19:53:48|La Mort Saint-Innocent|https://i.redd.it/lkoayuwli9b31.jpg|d4hm3r|False|https://redd.it/cfcasv|10679|0.96|0|132|0|creepy
+cfgvzt|2019-07-20 02:51:40|Conjoined|https://i.redd.it/rydf2wzkhdb31.jpg|mak-nil|False|https://redd.it/cfgvzt|778|1.0|0|16|0|creepy
+cfdqqf|2019-07-19 21:51:49|Dried llama fetuses being sold in Bolivia|https://i.redd.it/a1kk3ms30cb31.jpg|BathTimeKevin|False|https://redd.it/cfdqqf|725|0.98|0|43|0|creepy
+ceit4a|2019-07-17 21:02:58|This iPhone charger|https://i.imgur.com/tLZAf0l.gifv|firefighter_82|False|https://redd.it/ceit4a|9091|0.97|0|296|0|creepy
+ceenfy|2019-07-17 15:50:46|Stairway to Death Row and the Criminally Insane at Missouri State Penitentiary.|https://i.redd.it/l7mdqiouxva31.jpg|SearchingSeries|False|https://redd.it/ceenfy|46096|0.95|0|2424|0|creepy
+cegp1q|2019-07-17 18:24:29|Brushy Mountain State Penitentiary in Tennessee|https://i.redd.it/xn86ne4apwa31.jpg|Unknown_User_837|False|https://redd.it/cegp1q|984|0.99|0|40|0|creepy
+ce0dcl|2019-07-16 17:44:40|Coming out of hiding to eat the flesh of the dead|https://v.redd.it/ehzsd4cquna31|dareeza|False|https://redd.it/ce0dcl|23686|0.96|1|500|0|creepy
+cdubcj|2019-07-16 08:29:42|Marionette heads in the Marionette Museum,Hohenfestung Salzburg|https://i.redd.it/w1jjiyt8mma31.jpg|mileck23|False|https://redd.it/cdubcj|3477|0.97|0|68|0|creepy
+cdhboc|2019-07-15 13:14:09|"""Say cheese~!"""|https://i.redd.it/ldg9hwzyvga31.jpg|ItchyFlyer|False|https://redd.it/cdhboc|9734|0.89|1|273|0|creepy
+cdixd1|2019-07-15 15:33:51|Monks burried in the crypts of Church of St. Casimir in Cracow, Poland.|https://i.redd.it/v9fkik1pkha31.jpg|lly1953|False|https://redd.it/cdixd1|1609|0.99|0|41|0|creepy
+cdggzo|2019-07-15 11:49:29|Crazy man in gimp suit terrifies woman|https://i.redd.it/xsrkcbqzgga31.png|sortaeTheDog|False|https://redd.it/cdggzo|3269|0.98|1|227|0|creepy
+cdkcz6|2019-07-15 17:21:28|"""Open Window"" - Joshua Hoffine"|https://i.redd.it/5afdh0p74ia31.jpg|MysteryDrawer|False|https://redd.it/cdkcz6|1081|0.99|0|59|0|creepy
+cdeizg|2019-07-15 07:43:05|Finally opened what i thought was crawl space....|https://i.redd.it/1k518k119fa31.jpg|Gurtec|False|https://redd.it/cdeizg|937|0.98|0|96|0|creepy
+cd4m4o|2019-07-14 16:00:32|'Elf' by Alberto Urdiales at the marionette museum in Lisbon|https://i.imgur.com/XZwrRps.jpg|MalaysiaTeacher|False|https://redd.it/cd4m4o|10672|0.95|0|283|0|creepy
+cd7f6f|2019-07-14 19:56:43|containment breach|https://i.redd.it/32r70oa0rba31.jpg|sharknado233|False|https://redd.it/cd7f6f|1782|0.98|0|145|0|creepy
+cd5u43|2019-07-14 17:43:37|"""Bed""-Joshua Hoffine"|https://i.redd.it/40qtjwa83ba31.jpg|MysteryDrawer|False|https://redd.it/cd5u43|873|0.99|0|44|0|creepy
+cd1nxe|2019-07-14 10:43:35|Just a head with some tentacles caw caw|https://v.redd.it/p3lqc1y709a31||False|https://redd.it/cd1nxe|2292|0.98|0|146|0|creepy
+cd3taz|2019-07-14 14:48:17|Oil rigs in the morning fog.|https://i.redd.it/mk5cempy7aa31.jpg|teddybrockmire|False|https://redd.it/cd3taz|821|0.96|0|28|0|creepy
+cd3ibw|2019-07-14 14:19:36|Mervin Malonzo's Pokemon Go|https://i.redd.it/7erqyv412aa31.jpg|Evaara|False|https://redd.it/cd3ibw|610|0.98|0|18|0|creepy
+cd1z0g|2019-07-14 11:26:45|Last night’s blackout in NYC—really eerie to see the city in the dark and the only sources of light were headlights and people walking with flashlights.|https://i.redd.it/dzb9low089a31.jpg|cristina_holdthe_h|False|https://redd.it/cd1z0g|818|0.99|0|28|0|creepy
+cd3ltu|2019-07-14 14:28:45|kudzu creature|https://imgur.com/xaD1weZ|greenebean78|False|https://redd.it/cd3ltu|349|0.95|0|16|0|creepy
+ccu0o5|2019-07-13 20:25:26|WINNIE THE POOH/HELLRAISER|https://i.redd.it/mzt63py7r4a31.jpg|WarBucksINC3119|False|https://redd.it/ccu0o5|6476|0.94|0|155|0|creepy
+cczqnj|2019-07-14 06:09:07|Have a nice meal!|https://i.redd.it/laiqgm3cn7a31.jpg|MihuThisIs|True|https://redd.it/cczqnj|557|0.97|0|58|0|creepy
+ccmv8c|2019-07-13 08:02:44|Skull from the battle of Visby|https://www.imgur.com/8Bs75Dt.jpg|hanky1979|False|https://redd.it/ccmv8c|11858|0.98|0|315|0|creepy
+ccq5k8|2019-07-13 14:50:01|Old mummy found in my college's museum.|https://i.redd.it/sg5gstfb33a31.jpg|NewtV3D|False|https://redd.it/ccq5k8|742|0.99|0|25|0|creepy
+ccoqvi|2019-07-13 12:21:07|This is the 100 year old corpse of a child|https://i.redd.it/mb4m5e9tc2a31.jpg|SelimKaraca|True|https://redd.it/ccoqvi|788|0.99|0|42|0|creepy
+ccm5ep|2019-07-13 06:23:25|Insidious|https://i.imgur.com/WDTbrx7.jpg|Im_MitchBitch|False|https://redd.it/ccm5ep|1010|0.99|0|56|0|creepy
+ccnhbf|2019-07-13 09:31:41|Teeth|https://i.redd.it/y94ln46li1a31.jpg|DrLukeSkywalker|False|https://redd.it/ccnhbf|456|0.98|0|10|0|creepy
+ccln07|2019-07-13 05:18:46|The Votaries|https://i.redd.it/hjo3nzod90a31.png|danpaz3d|False|https://redd.it/ccln07|873|1.0|0|38|0|creepy
+ccbeno|2019-07-12 14:16:16|I went to Dachau Concentration Camp and felt almost like it didn’t do anyone justice. It didn’t seem to reveal the extent of the horrors of what happened there. Until I saw this. My heart was in my stomach.|https://i.redd.it/zxci3ejfsv931.jpg|JabroniWanKenobi|False|https://redd.it/ccbeno|21339|0.91|0|821|0|creepy
+ccgjc8|2019-07-12 20:56:50|A pack of dead, festering flies drawn to a gas leak.|https://i.redd.it/i62ft59wrx931.jpg|HarryTOMalley|False|https://redd.it/ccgjc8|810|0.99|0|29|0|creepy
+ccajdv|2019-07-12 12:59:59|Whaa.....|https://v.redd.it/4m6zsmz1gu931|PKeeperTG|False|https://redd.it/ccajdv|1447|0.98|0|83|0|creepy
+cc648c|2019-07-12 04:26:18|It has plans, plans for us all|https://i.redd.it/bvmmpdv6vs931.jpg|Prometheushunter2|False|https://redd.it/cc648c|6755|0.96|0|345|0|creepy
+cca0xx|2019-07-12 12:08:30|Murder of Crows|https://i.redd.it/1ywbit8n5v931.jpg|Rick--morty|False|https://redd.it/cca0xx|1068|0.99|0|38|0|creepy
+ccbb38|2019-07-12 14:08:13|"Permanent Mask, a painting I did - acrylic and paper on canvas, 2019, 24"" x 24"""|https://i.redd.it/9fbfu0dfpv931.jpg|ravencreatureio10|False|https://redd.it/ccbb38|486|0.98|0|8|0|creepy
+cc7hzu|2019-07-12 07:02:59|"From the 1977 film ""Eraserhead"""|https://i.redd.it/anv9lf85nt931.jpg|raddishgloom|False|https://redd.it/cc7hzu|960|1.0|0|60|0|creepy
+cbwncw|2019-07-11 15:06:20|My son's toothbrush when it's looking at me brush my teeth|https://i.imgur.com/V1qNI4I.jpg|qtna|False|https://redd.it/cbwncw|19118|0.94|0|292|0|creepy
+cc62go|2019-07-12 04:20:57|Yes, yes it is|https://i.redd.it/f9x95dd8us931.jpg|bling26|False|https://redd.it/cc62go|567|0.97|0|40|0|creepy
+cc65nb|2019-07-12 04:30:37|cyclops|https://imgur.com/XXVyAaC||False|https://redd.it/cc65nb|484|0.97|0|33|0|creepy
+cbynwb|2019-07-11 17:41:24|A Chernobyl liquidator pushes an abandoned baby found during the disaster cleanup|https://3.bp.blogspot.com/-K-uPL9qIJMs/VxnAHzGKt1I/AAAAAAAAKRM/f2UMBMFoCScIsqD8YYp3Qbg1F24vI9ohQCLcB/s1600/A%2BChernobyl%2Bliquidator%2Bpushes%2Ba%2Bbaby%2Bin%2Ba%2Bcarriage%2Bwho%2Bwas%2Bfound%2Bduring%2Bthe%2Bcleanup%2Bof%2Bthe%2BChernobyl%2Bnuclear%2Baccident%252C%2B1986.jpg|themanimal|False|https://redd.it/cbynwb|1242|0.99|0|43|0|creepy
+cbzj7j|2019-07-11 18:47:59|Pic by Alex Andreyev|https://i.redd.it/s7lavf3zzp931.jpg|4chanAD|False|https://redd.it/cbzj7j|611|0.98|0|51|0|creepy
+cbuhju|2019-07-11 11:13:27|Statues|https://i.redd.it/1pzwpk1xqn931.jpg|Cornbread_madefish|False|https://redd.it/cbuhju|658|1.0|0|13|0|creepy
+cbo8gk|2019-07-10 23:35:44|Abbot Monument, Minster Salem, Germany|https://i.redd.it/bt7pw8sfak931.jpg|V391Pegasi|False|https://redd.it/cbo8gk|7328|0.98|0|100|0|creepy
+cbvrxa|2019-07-11 13:37:14|Annabelle missing|https://i.redd.it/c7wg70fkgo931.jpg|mondocon|False|https://redd.it/cbvrxa|387|0.98|0|15|0|creepy
+cbt9h4|2019-07-11 08:33:11|a photoshop creation of mine|https://i.redd.it/ni4flmkbym931.jpg|cinemadude514|False|https://redd.it/cbt9h4|729|0.98|0|65|0|creepy
+cbujrj|2019-07-11 11:20:34|The Buontalenti Grotto in the Boboli Gardens, Firenze|https://i.redd.it/xbe3zeo6sn931.jpg|roryWolf|False|https://redd.it/cbujrj|296|0.99|0|2|0|creepy
+cbss28|2019-07-11 07:26:37|Walking back from the gym. It's 19:30|https://i.redd.it/ffti89kfmm931.jpg|Marki018|False|https://redd.it/cbss28|516|0.99|0|20|0|creepy
+cboxeb|2019-07-11 00:38:00|YOUR MEDICINE [OC]|https://i.redd.it/96r2zi4jlk931.jpg|Sillhid|False|https://redd.it/cboxeb|1096|1.0|1|46|0|creepy
+cbggue|2019-07-10 13:05:28|Prison cells in the concentration camp in Dachau|https://i.redd.it/utxutiwy5h931.jpg|NeverAskQuestions|False|https://redd.it/cbggue|16198|0.95|0|845|0|creepy
+cbkni3|2019-07-10 18:45:01|Expelled, Me, Acrylic on canvas, 2018|https://i.redd.it/vdr091hkui931.jpg|unanimousmonster|False|https://redd.it/cbkni3|714|0.99|0|40|0|creepy
+cbl4i6|2019-07-10 19:20:41|Skulls in a gold chest. At a Church in the Village of Batak, Bulgaria|https://i.redd.it/jejgkmjx0j931.jpg|marlina2014|False|https://redd.it/cbl4i6|439|1.0|0|9|0|creepy
+cbd21y|2019-07-10 06:22:31|Abraham Lincoln's gloves that he wore the night he was assassinated at Ford's Theatre (and slightly bloodstained)|https://i.redd.it/45v9ewo36f931.jpg|xmxmskw|False|https://redd.it/cbd21y|817|0.99|0|19|0|creepy
+cbabrh|2019-07-10 01:53:46|Good night|https://i.redd.it/cy49elg5ud931.jpg|omar_emad11|False|https://redd.it/cbabrh|987|0.99|0|74|0|creepy
+cb0dbi|2019-07-09 12:42:30|Sergey Kolesov’s Mermaid|https://i.redd.it/v07am5hzw9931.jpg|Lazonite|False|https://redd.it/cb0dbi|11281|0.98|0|206|0|creepy
+cbaakd|2019-07-10 01:50:50|Wasteland|https://i.redd.it/wjvwg4amtd931.jpg|banging_yo_dad|False|https://redd.it/cbaakd|476|0.98|0|8|0|creepy
+cb7f1d|2019-07-09 21:47:59|Winnie The Pooh Mask|https://i.redd.it/fe7c9gyamc931.jpg|WarBucksINC3119|False|https://redd.it/cb7f1d|852|0.99|0|33|0|creepy
+cb82ua|2019-07-09 22:39:23|Goat shed|https://imgur.com/D48bNLA|ztutz|False|https://redd.it/cb82ua|390|1.0|0|4|0|creepy
+cb5ic4|2019-07-09 19:23:54|Conjoined seals on San Juan Island|https://i.redd.it/3n81bp8lwb931.jpg|nzeljo|False|https://redd.it/cb5ic4|651|1.0|0|20|0|creepy
+cb6avk|2019-07-09 20:23:06|AUTOMATRONIC DEVASTATION|https://i.redd.it/nmzx41p57c931.jpg|mztrianglereddit|False|https://redd.it/cb6avk|468|0.99|0|24|0|creepy
+cb5hb2|2019-07-09 19:21:59|The victims of the Villisca Axe Murder in Villisca, Iowa. This was the mural in the barn/shed at the property.|https://i.redd.it/fiwrnu09wb931.jpg|AFunke13|False|https://redd.it/cb5hb2|396|1.0|0|15|0|creepy
+cb4bxq|2019-07-09 17:57:48|Leftover|https://i.redd.it/z7udvrz7hb931.jpg|roselana|False|https://redd.it/cb4bxq|421|0.99|0|9|0|creepy
+cb15dy|2019-07-09 13:51:57|Slumber Party|https://i.redd.it/l7a5yrpy68931.jpg|IPlayTeemoSupport|False|https://redd.it/cb15dy|522|1.0|0|35|0|creepy
+cb0luu|2019-07-09 13:04:09|An art installation in Biennale, Venice|https://i.redd.it/hxrikeas0a931.jpg|Luca2fish|False|https://redd.it/cb0luu|580|0.98|0|14|0|creepy
+cazdd8|2019-07-09 10:59:46|Old hospital|https://i.redd.it/2fz1qw7ne9931.jpg|Qubaw04|False|https://redd.it/cazdd8|484|0.99|0|22|0|creepy
+caozjf|2019-07-08 18:37:36|Hooves of a Newborn Horse|https://i.redd.it/b7xwpo8fj4931.jpg|brennans4727|False|https://redd.it/caozjf|22661|0.89|1|913|0|creepy
+cax4d5|2019-07-09 06:34:41|Teeth of a triggerfisher|https://i.redd.it/5ftyolzc38931.jpg|ZombiebossRedd|False|https://redd.it/cax4d5|436|1.0|0|22|0|creepy
+caw357|2019-07-09 04:42:04|What on earth has my mother done|https://i.redd.it/twuf67p9j7931.jpg|babyadams|False|https://redd.it/caw357|483|0.99|0|20|0|creepy
+cassat|2019-07-08 23:36:10|Inside one of the few remaining barracks at Auschwitz a few years ago.|https://i.redd.it/12ujyvvo06931.jpg|Colvack|False|https://redd.it/cassat|664|0.99|0|26|0|creepy
+cavcji|2019-07-09 03:28:12|Quite the Tree|https://i.redd.it/av0fy86367931.jpg|WarBucksINC3119|False|https://redd.it/cavcji|328|0.99|0|9|0|creepy
+cat480|2019-07-09 00:05:42|Disney Hollywood Tower of Terror Test Dummy's|https://i.redd.it/fkzzog3a23931.jpg|Gaudious|False|https://redd.it/cat480|296|1.0|0|7|0|creepy
+can6lx|2019-07-08 16:23:16|A metal, spiked collar used in the Medieval Period as a form of slow torture. Worn around the neck, slowly piercing the victim|https://i.redd.it/bkw1bvfgv3931.jpg|yourdreammemegirl|False|https://redd.it/can6lx|483|0.99|0|32|0|creepy
+cajaj7|2019-07-08 10:22:13|The Mari Lwyd|https://i.redd.it/kl5q8hj132931.jpg|Wafflefrogs101|False|https://redd.it/cajaj7|1433|0.99|0|53|0|creepy
+caepn0|2019-07-08 01:26:26|WW1 camouflaged sniper|https://i.redd.it/xvbbsidgfz831.jpg|townie27|False|https://redd.it/caepn0|16847|0.96|0|428|0|creepy
+caiwfm|2019-07-08 09:34:12|Haunted|https://i.redd.it/i5i7cm6hu1931.jpg|GaryCPhoto|False|https://redd.it/caiwfm|724|0.98|0|22|0|creepy
+cagy5p|2019-07-08 05:23:01|Thanks, I hate eggs|https://i.imgur.com/hveJEj2.gifv|voidthepanda|False|https://redd.it/cagy5p|651|0.99|0|14|0|creepy
+cagnuo|2019-07-08 04:49:47|Uncanny Valley|https://i.redd.it/7t7rs7hqf0931.jpg|mztrianglereddit|False|https://redd.it/cagnuo|380|0.98|0|9|0|creepy
+ca8fzz|2019-07-07 16:06:59|THE SOUND OF WIND[OC]|https://i.redd.it/1e17uvyjnw831.jpg|EddLai|False|https://redd.it/ca8fzz|986|0.95|0|22|0|creepy
+ca3bt9|2019-07-07 05:15:25|Foot spa|https://i.redd.it/mf3vx51eft831.jpg|poldawg|False|https://redd.it/ca3bt9|15197|0.92|0|290|0|creepy
+c9w4vu|2019-07-06 17:25:42|Tooth Fairy [OC]|https://i.redd.it/i25wmqmbup831.jpg|Reyntoons|False|https://redd.it/c9w4vu|4211|0.98|0|52|0|creepy
+ca18tn|2019-07-07 01:17:16|My backyard|https://i.redd.it/clogjnkw8s831.jpg|boblogbob|False|https://redd.it/ca18tn|510|0.94|0|34|0|creepy
+c9t0rm|2019-07-06 12:23:09|Perron house|https://i.redd.it/4sutq7sseo831.jpg|Carollinaur|False|https://redd.it/c9t0rm|6656|0.95|0|208|0|creepy
+c9x4jc|2019-07-06 18:50:26|Come here, Me, Acrylic on canvas, 2017|https://i.redd.it/i6cecqwvbq831.jpg|unanimousmonster|False|https://redd.it/c9x4jc|438|0.98|0|8|0|creepy
+c9wdmg|2019-07-06 17:46:40|African Tribal Mask, 1800s|https://i.redd.it/3br8e73f0q831.jpg|WhatHeSaidVO|False|https://redd.it/c9wdmg|446|0.99|0|20|0|creepy
+c9smm1|2019-07-06 11:34:30|Statue left to rot|https://i.redd.it/p1uabuh36o831.jpg|UncooperativeBoatman|False|https://redd.it/c9smm1|733|0.94|0|22|0|creepy
+c9k957|2019-07-05 19:42:49|Sculpture of a child in my city.|https://i.redd.it/r2tryje7gj831.jpg|netpastor|False|https://redd.it/c9k957|11757|0.96|1|150|0|creepy
+c9l68r|2019-07-05 21:01:27|Step-Dad found this in the river while fishing with friends|https://i.redd.it/x5q9gfvcuj831.jpg|ShockTopMat|False|https://redd.it/c9l68r|1662|0.99|1|162|0|creepy
+c9mi1g|2019-07-05 23:03:58|Just A Nest|https://i.redd.it/y8j8u4f7gk831.jpg|Jickempoo|False|https://redd.it/c9mi1g|1026|0.99|0|40|0|creepy
+c9o7zc|2019-07-06 02:03:59|Hole in the wall uncovers a crypt with the benefactors' remains (Lima, Peru)|https://i.redd.it/j9vpz2tbcl831.jpg|shitoupek|False|https://redd.it/c9o7zc|437|0.99|0|6|0|creepy
+c9kmf3|2019-07-05 20:14:02|Creepy statue in abandoned mausoleum in Poland|https://i.redd.it/77bmhfivlj831.jpg|CptGalactus|False|https://redd.it/c9kmf3|1167|1.0|0|34|0|creepy
+c9mw3f|2019-07-05 23:42:59|At my local ice cream shop|https://v.redd.it/d2ud9j22nk831|binux14|False|https://redd.it/c9mw3f|355|0.95|0|22|0|creepy
+c9al60|2019-07-05 02:18:05|Hallway Man|https://i.redd.it/df5sgwjx9e831.jpg|Chaosdrunk|False|https://redd.it/c9al60|5791|0.97|0|178|0|creepy
+c96em4|2019-07-04 19:08:13|"""Ole Smokey"" electric chair, used to execute 125 inmates at Tennessee State Penitentiary"|https://i.redd.it/pj33h9b85c831.jpg|AmishElectrician92|False|https://redd.it/c96em4|23714|0.93|1|1040|0|creepy
+c98dg0|2019-07-04 22:10:16|An Image of a mother with her deceased Daughter|https://i.redd.it/j5xxys0q1d831.jpg|NotLozerish|False|https://redd.it/c98dg0|2833|0.98|0|195|0|creepy
+c9acil|2019-07-05 01:49:00|5am walk to the car|https://i.redd.it/50ukt6mp4e831.jpg|1527lance|False|https://redd.it/c9acil|839|0.93|0|47|0|creepy
+c970gn|2019-07-04 20:02:45|What is it boy? (Art by Dragan Bibin)|https://i.redd.it/62j26dffdc831.jpg|ceeman77|False|https://redd.it/c970gn|1234|0.99|0|45|0|creepy
+c9711f|2019-07-04 20:04:11|Mechanical Nightmare|https://i.redd.it/iw4zfb98fc831.jpg|mztrianglereddit|False|https://redd.it/c9711f|402|0.98|0|22|0|creepy
+c8wzkn|2019-07-04 02:23:13|Paper town|https://i.redd.it/x64jy54x57831.jpg|roselana|False|https://redd.it/c8wzkn|3110|0.97|0|68|0|creepy
+c8pqnn|2019-07-03 15:53:15|John Wayne Gacy's clown outfits|https://i.redd.it/0ygp28gj14831.jpg|AmishElectrician92|False|https://redd.it/c8pqnn|18036|0.96|1|585|0|creepy
+c8x0hn|2019-07-04 02:26:06|Tea time|https://i.redd.it/po3v709g67831.jpg|roselana|False|https://redd.it/c8x0hn|494|0.99|0|9|0|creepy
+c8qjwl|2019-07-03 16:59:39|The skulls of 17.000 civilians who were brutally murdered between 1975 and 1979 in Phnom Penh, Cambodia|https://i.redd.it/i2ndjem9d4831.jpg|Tkgamer99|False|https://redd.it/c8qjwl|960|0.99|0|83|0|creepy
+c8icds|2019-07-03 02:11:51|A bombing shelter in 1944 London.|https://i.redd.it/3klylkxzyz731.jpg|JamsisYT|False|https://redd.it/c8icds|11128|0.84|0|403|0|creepy
+c8hbrp|2019-07-03 00:29:11|Ted Bundy's Volkswagon Beetle|https://i.redd.it/ur001geogz731.jpg|AmishElectrician92|False|https://redd.it/c8hbrp|1955|0.98|0|131|0|creepy
+c8l9f8|2019-07-03 07:44:44|Happymother|https://i.redd.it/jw9ds60em1831.jpg|10001001011010111010|False|https://redd.it/c8l9f8|447|0.96|0|20|0|creepy

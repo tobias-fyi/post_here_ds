@@ -1,0 +1,1146 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+ekfnug|2020-01-05 17:04:41|Week of January 05, 2020 'All Space Questions' thread|"Please sort comments by 'new' to find questions that would otherwise be buried.
+
+In this thread you can ask any space related question that you may have.
+
+Two examples of potential questions could be; ""How do rockets work?"", or ""How do the phases of the Moon work?""
+
+If you see a space related question posted in another subeddit or in this subreddit, then please politely link them to this thread.
+
+Ask away!"|AutoModerator|False|https://redd.it/ekfnug|11|0.76|0|47|1|space
+ekvyb0|2020-01-06 15:57:20|"Yeah yeah, LEGO schmego. Here's my custom K'Nex Saturn V, measuring 5'7"", complete with interpretive Apollo reenactment."|https://v.redd.it/voqlhgcde6941|benthedink8|False|https://redd.it/ekvyb0|7023|0.93|15|227|0|space
+ekk6cw|2020-01-05 22:33:54|I created an ultra-detailed color image of the moon by combining around 100k photos. Check out the details on the surface. [OC]|https://i.redd.it/ot11kqkje1941.jpg|ajamesmccarthy|False|https://redd.it/ekk6cw|56918|0.95|34|933|0|space
+ekkjo9|2020-01-05 22:59:42|I couldn’t believe when I woke and saw the northern lights out my plane window [OC]|https://i.redd.it/9s955mo5j1941.jpg|navidj|False|https://redd.it/ekkjo9|4826|0.98|1|45|0|space
+ekveej|2020-01-06 15:14:58|Buzz Aldrin at 90: an interview with the Apollo 11 astronaut|https://www.skyatnightmagazine.com/space-missions/buzz-aldrin-interview-apollo-11-astronaut/|ye_olde_astronaut|False|https://redd.it/ekveej|159|0.98|0|5|0|space
+ekjk0f|2020-01-05 21:48:32|I kept my telescope pointed at the Elephant's Trunk nebula for almost 23 hours to capture and create this image.|https://i.redd.it/pme4flob61941.png|chucksastro|False|https://redd.it/ekjk0f|1463|0.97|0|53|0|space
+ekcg0e|2020-01-05 12:30:58|Found this a while ago, what are your opinions?|https://i.redd.it/vuh0ac2xey841.jpg|its_rembol|False|https://redd.it/ekcg0e|71969|0.9|10|4033|0|space
+ekum14|2020-01-06 14:10:25|Gigantic 'Godzilla galaxy' spotted by NASA's Hubble telescope|https://www.cnet.com/news/gigantic-godzilla-galaxy-spotted-by-nasas-hubble-telescope/|alc59|False|https://redd.it/ekum14|49|0.88|0|6|0|space
+ektv0b|2020-01-06 13:01:26|Robot Will Look For Signs Of Life On Satellite Europa-Somag News|https://www.somagnews.com/robot-will-look-signs-life-jupiters-satellite-europa/|Spekulatius2410|False|https://redd.it/ektv0b|60|0.87|0|1|0|space
+ekih64|2020-01-05 20:21:21|A 60,000 km tall prominence on the sun I imaged yesterday (1/4/2020) through my solar telescope|https://i.redd.it/1nf5c1koq0941.png|HTPRockets|False|https://redd.it/ekih64|829|0.97|0|27|0|space
+ekunup|2020-01-06 14:14:31|Glitch detected in the pulsar PSR J0908−4913|https://phys.org/news/2020-01-glitch-pulsar-psr-j09084913.html|TMcFly|False|https://redd.it/ekunup|24|0.88|0|2|0|space
+ekdfom|2020-01-05 14:08:41|The famous Pillars of Creation as seen through amateur astronomy gear ... I collected light for almost 7 hours to reveal interesting details of the surrounding nebula. [OC]|https://i.redd.it/zve9nstfwy841.jpg|TheVastReaches|False|https://redd.it/ekdfom|1416|0.98|2|66|0|space
+ekgm2g|2020-01-05 18:11:12|I made a delta-v subway poster/map of the Solar System [OC]|https://i.redd.it/essefd4g30941.png|ucarion|False|https://redd.it/ekgm2g|575|0.96|1|62|0|space
+ektysx|2020-01-06 13:11:19|Most anticipated space launches in 2020|https://jatan.space/space-missions/space-launches-2020/|gravitybrevity|False|https://redd.it/ektysx|15|0.82|0|2|0|space
+ekxnvw|2020-01-06 18:01:16|Orion Nebula through my Telescope|https://www.youtube.com/watch?v=Q15d0I7WwEs|SaEpDi|False|https://redd.it/ekxnvw|6|1.0|0|0|0|space
+ekwsfn|2020-01-06 16:58:45|The Hubble Space Telescope Turns 30 This Year. Here's How Astronomers Will Celebrate.|https://www.space.com/hubble-space-telescope-nasa-30th-anniversary-plans.html|Philo1927|False|https://redd.it/ekwsfn|5|0.86|0|0|0|space
+ek4tb4|2020-01-05 00:00:03|Using less than an hour of data, I was able to make my best photo of the Andromeda Galaxy to date! [OC]|https://i.redd.it/z98ttz61pu841.jpg|DanielJStein|False|https://redd.it/ek4tb4|62099|0.94|19|984|0|space
+ekl07p|2020-01-05 23:32:10|My first astrophotography picture.|https://i.redd.it/we4nb1qyo1941.jpg|Oblip21|False|https://redd.it/ekl07p|110|0.93|0|5|0|space
+ekx15c|2020-01-06 17:15:17|Will I see tonight's Starlink train from London, UK?|As the title suggests really :)|StonedLikeSedimENT|False|https://redd.it/ekx15c|5|0.84|0|0|1|space
+ekvx39|2020-01-06 15:54:49|The length of a day on Venus keeps changing. New research finds Venus takes about 4 minutes longer (243 days 30.5 minutes) to rotate than calculated by the Magellan spacecraft in the 1990s (243 days 26.6 minutes). Such discrepancies could cause future spacecraft to miss their landing sites.|http://www.astronomy.com/news/2020/01/the-length-of-a-day-on-venus-keeps-changing|clayt6|False|https://redd.it/ekvx39|7|0.82|0|0|0|space
+ekrrad|2020-01-06 09:24:29|Indian Scientist Leads The Discovery Of the Farthest Group Of Galaxies Ever|https://in.mashable.com/science/10098/indian-scientist-leads-the-discovery-of-the-farthest-group-of-galaxies-ever|cosmicdatabase|False|https://redd.it/ekrrad|13|0.69|0|7|0|space
+ekr2bt|2020-01-06 08:08:46|Nasa loses contact with satellite monitoring mysterious exoplanets|https://www.independent.co.uk/news/science/nasa-asteria-satellite-exoplanets-space-earth-stars-a9271186.html|CharyBrown|False|https://redd.it/ekr2bt|18|0.77|0|9|0|space
+ekc7fe|2020-01-05 12:04:59|Captured a few meteors during the 2019 Geminid Meteor Shower over the swamp in Louisiana!|https://i.redd.it/wiocakq9ay841.jpg|spiider_bro|False|https://redd.it/ekc7fe|602|0.97|0|15|0|space
+ek7coc|2020-01-05 03:29:00|Jumped into a farmer's field last night to take this photo of a tree [OC]|https://i.redd.it/fnpjweh7qv841.jpg|EkantTakePhotos|False|https://redd.it/ek7coc|3127|0.96|2|67|0|space
+ekr2bf|2020-01-06 08:08:44|SpaceX test-fires rocket ahead of record-setting Starlink launch [Launch today]|https://spaceflightnow.com/2020/01/04/spacex-test-fires-rocket-ahead-of-record-setting-starlink-launch/|YZXFILE|False|https://redd.it/ekr2bf|16|0.74|0|1|0|space
+ekw7id|2020-01-06 16:16:40|With Monday night launch, SpaceX to become world’s largest satellite operator|https://arstechnica.com/science/2020/01/with-monday-night-launch-spacex-to-become-worlds-largest-satellite-operator/|Philo1927|False|https://redd.it/ekw7id|4|0.67|0|0|0|space
+ekdw5j|2020-01-05 14:50:00|Astro landscape photos + glow paint (and dozens of hours spent painting dots)|https://gfycat.com/adorablecluelessambushbug|jawanda|False|https://redd.it/ekdw5j|313|0.96|0|16|0|space
+ekfc4f|2020-01-05 16:41:31|The Heart Nebula is over 7,500 light years away from Earth. It took over 12 hours of exposure time for me to create this image.|https://i.redd.it/2rv16ka6nz841.png|PhotonSorcerer|False|https://redd.it/ekfc4f|216|0.95|0|16|0|space
+ekubph|2020-01-06 13:44:50|Galactic Collision. Basic mechanisms and predicted interactions in the local group|"Hey everyone 
+I’m writing some sci fi and have become very interested Galactic interaction. I’ve begun reading a bit, but thought I’d post here and see if anyone has any links to current or ongoing research projects related to the basic physics and predicted outcomes of this phenomena. 
+
+Im interested in every aspect of the cosmology but for writing purposes I’m specifically looking for physical mechanisms  that fictional agents (little g Gods, type iv+ civs etc) could use to manipulate the outcomes of these mergers, spin-offs and other movements. 
+
+The Milky Way and Andromeda will begin an interaction in 4.5 billion years. What other interactions have been predicted within our local group? 
+
+Thanks so much have a nice non existentially compromised day."|ParlorGameandGuitar|False|https://redd.it/ekubph|2|0.68|0|2|1|space
+ekx26j|2020-01-06 17:17:30|Hypothetical: emergency on the Moon with no functioning space suit|"Okay, hypothetical time.
+
+You’re on the Moon in a habitat designed for long-term occupancy.  Some emergency happens that causes complete loss of air pressure, but not explosively so; you have no ability to reach a full pressure suit but you *do* have the time to reach a full-face air mask (like firefighters use) connected to a tank with many hours’ worth of air.  You’ve rigged the mask sufficiently tight to prevent air leakage.  You are wearing long, white clothing that will block you from direct sunlight.  It is daytime, and the sun is climbing.  You have hours of sunlight left.
+
+The nature of the catastrophe is such that (won’t bother with details) you cannot salvage a pressure suit elsewhere, nor can you radio for help, nor are there surface vehicles to jump in.
+
+There *is* another habitat on the Moon, if you can reach it on foot.  You can open the airlock from the outside without help from others and enter.
+
+**How far can the habitat be and you still realistically make it on foot before dying either from lack of oxygen due to lack of external air pressure hampering your ability to breathe effectively from the tank, or overheating from sunlight despite your full-coverage white clothing?**
+
+These are the things I think about on a day off."|FlorbFnarb|False|https://redd.it/ekx26j|2|0.57|0|25|1|space
+ekgm1z|2020-01-05 18:11:11|Moon obscuring the Sun, with Venus on top.|https://i.redd.it/m2q3ktbp30941.jpg|cosmicdatabase|False|https://redd.it/ekgm1z|119|0.92|0|1|0|space
+ekfjxm|2020-01-05 16:57:05|I started astrophotography in February 2019 and boy what a year it's been. Here's to what 2020 has to bring, and cheers to you my friends for all your support!|https://i.redd.it/fuyuu8bhqz841.jpg|themattlukasik|False|https://redd.it/ekfjxm|145|0.91|0|6|0|space
+ekqg1t|2020-01-06 07:02:52|Artemis Explained by Jim Bridenstine|https://www.youtube.com/watch?v=WqqQh3EHXSw|Koplins|False|https://redd.it/ekqg1t|8|0.76|0|1|0|space
+ekca7w|2020-01-05 12:13:34|A step back from all the high quality images of space. Here’s an annular solar eclipse taken from my 40 year old film camera.|https://i.redd.it/bkmscliwby841.jpg|satoshigekkouga2303|False|https://redd.it/ekca7w|305|0.94|0|7|0|space
+ekv4hc|2020-01-06 14:53:30|Crazy Space Theory involving Wormholes|Imagine a man, aged 40. He enters a wormhole on or near Earth for arguments sake. This wormhole gives him an almost instantaneous shortcut to a planet 30 light years away. When this man arrives on the distant planet, he uses a crazy impossible telescope that can see things in detail over 1000s of light years away. If he pointed this telescope at earth, would he be able to see his 10 year old self?|jeml81198|False|https://redd.it/ekv4hc|1|0.53|0|12|1|space
+ekj9y3|2020-01-05 21:22:54|Quadrantid meteor shower as seen on Saturday morning in Southern Finland [OC]|https://i.redd.it/xsh6soh211941.jpg|sissipaska|False|https://redd.it/ekj9y3|49|0.81|0|5|0|space
+ekxxwe|2020-01-06 18:20:51|Yo reddit как стать космонавтом в республике Казахстан|Я хочу сать космонавтом. На кого учится, какие достижения, какое здоровье, какое образование, куда кидать заявку? Кто нибудь может ответить?|redditreaderkz|False|https://redd.it/ekxxwe|0|0.5|0|1|1|space
+ek8cf9|2020-01-05 04:56:45|We use to live there. Print by Frank Moth.|https://i.redd.it/qjfmfroy5w841.jpg|aussieashbro|False|https://redd.it/ek8cf9|950|0.93|0|38|0|space
+ekxqyd|2020-01-06 18:07:20|Is time travel possible|"Time Travel is one of the most mysterious question in science. Hundreds of books and thousands of articles have been published on this one subject.But is the time travel really possible or is it just a fantasy? If we understand , this is a question on which not all people appear unanimous. Some are in favor of it and some people consider it as just imagination ,but on studying Hinduism ,we have been tried to tell this through many stories through many verses indicates that there is really such a thing as time travel.In today's article we will discuss on this topic and we will understand time travel by comparing it on two sides. The first aspect is based on modern science and theories of scientists and in another aspect we will understand time travel based on Hinduism texts.
+[Read more](https://www.shayarimerepyarki.com/2020/01/is-time-travel-possible.html)"|ks000538|False|https://redd.it/ekxqyd|0|0.25|0|4|1|space
+eknfsb|2020-01-06 02:36:51|Is there a contingency for astronauts in orbit in the event of major disaster on earth?|I'm talking about on the scale of meteorite strike or nuclear war, where there is a total loss of communication or no one to collect the astronauts after landing. I'd imagine they would try to get down as soon as possible, since there is no chance of resupply or rescue, but there has to be a contingency for this, right?|throwawayg0r3|False|https://redd.it/eknfsb|14|0.76|0|26|1|space
+ekp3ah|2020-01-06 04:53:56|You've Heard of Black Holes. But 'White Holes' Might Blow Your Mind|http://brainstormingbox.org/youve-heard-of-black-holes-but-white-holes-might-blow-your-mind/|Albertchristopher|False|https://redd.it/ekp3ah|10|0.6|0|6|0|space
+ekizv3|2020-01-05 20:57:29|The Great Orion Nebula (M42) [OC]|https://i.redd.it/cwwzads0x0941.jpg|stellarirk|False|https://redd.it/ekizv3|37|0.84|0|0|0|space
+ekktfw|2020-01-05 23:18:29|This Video Was Made from 400,000 Photos of Comet 67p Taken by Rosetta|https://petapixel.com/2019/09/09/this-video-was-made-from-400000-actual-photos-of-a-comet-in-space/|CrankyBear|False|https://redd.it/ekktfw|21|0.86|0|3|0|space
+ekdhwa|2020-01-05 14:14:17|I was able to capture 4 nebulas without using a star tracker. Just a 100mm lens and a tripod|https://i.redd.it/8ievphpfxy841.jpg|backyard_space|False|https://redd.it/ekdhwa|100|0.91|0|10|0|space
+ek9wqa|2020-01-05 07:34:28|Callisto looks like its covered in citys|https://i.redd.it/y8zhwrxtxw841.png|Hogggystyle|False|https://redd.it/ek9wqa|320|0.88|0|23|0|space
+ekgdh2|2020-01-05 17:54:35|Started imaging September of 2019 with a DSLR. These are my best images so far. Upgrading to a ZWO ASI533 MC in 2020|https://i.imgur.com/njU54KQ.jpg|Hillary_Clingon|False|https://redd.it/ekgdh2|45|0.82|0|3|0|space
+ekn0v4|2020-01-06 02:04:04|Do Jupiter's poles turn blue during winter like Saturn's, or is that only a result of enhancement and processing in Juno's images?|I've noticed that in a lot of Juno images, Jupiter's pole seems blue, a bit like Saturn does during winter. Is that how it would look from the human eye?|stratocaster122|False|https://redd.it/ekn0v4|11|0.92|0|0|1|space
+ekq3ax|2020-01-06 06:27:37|Explain photos of long distance galaxies to me|"Was just sitting here looking through posts and came across a photo of a long distance galaxy. If a telescope is pointed in a certain direction, doesn't it only capture light coming from that direction in respect to the amount of time it was pointed in said location?
+
+Ex: telescope pointed somewhere for 10 minutes will capture light coming from said direction 10 light-minutes away?
+
+Please explain, I'm ignorant on this topic and genuinely curious as I know these photos are legitimate & I just don't understand the science behind it."|culdnthinkofanything|False|https://redd.it/ekq3ax|2|0.68|0|6|1|space
+ekuebp|2020-01-06 13:51:15|SpaceX Falcon 9 Starlink 2 Launch Question|"Morning Space Travelers!
+
+My family and I are visiting my in laws in Saint Cloud and we would LOVE to take my oldest daughter to see the launch tonight. Looking online all tickets to the LC-39 Observation Gantry are sold out (insert sad face). Could any of you suggest any paid or free sites where we can watch the launch? I don’t expect to get great seats due to our lack of planning; just a location where we can feel and hear the launch.
+
+Thus far I’ve found a few other events in Port Canaveral however, since I’m not familiar with the area, we really don’t know what’s a good/bad site.
+
+Weather looks amazing (we’re from Boston) and look forward to seeing you all there!
+
+Carlos"|CBarillas|False|https://redd.it/ekuebp|1|0.6|0|5|1|space
+ekgye6|2020-01-05 18:35:47|Today Earth is closer to the Sun than it will be any other time in the 21st century|http://astropixels.com/ephemeris/perap2001.html|TumNarDok|False|https://redd.it/ekgye6|33|0.86|0|9|0|space
+ekk699|2020-01-05 22:33:42|NASA's new Mars 2020 Rover looks like the Curiosity Rover, but it has a very different mission — to hunt for ancient biosignatures.|https://www.space.com/nasa-mars-2020-rover-no-curiosity-twin.html|EricFromOuterSpace|False|https://redd.it/ekk699|17|0.88|0|6|0|space
+ekbfzw|2020-01-05 10:35:18|Finished my 110 hour exposure mosaic of the heart nebula (IC 1805; Melotte-15) in narrow band [OC]|https://i.redd.it/65c5w0s8ux841.jpg|sinlesstell|False|https://redd.it/ekbfzw|129|0.93|0|12|0|space
+ektlc8|2020-01-06 12:35:38|Top 10 Space and Space Exploration advancements of the 2010s|https://www.youtube.com/watch?v=KqYi7TC17pA|kd7uiy|False|https://redd.it/ektlc8|1|0.57|0|0|0|space
+ekbtd4|2020-01-05 11:19:42|"Supermassive black hole ""S5 0014+81"" compared to our solar system"|https://i.redd.it/m0zagh062y841.jpg|gravitybrevity|False|https://redd.it/ekbtd4|90|0.93|0|35|0|space
+ek4tal|2020-01-05 00:00:02|My 5 hour exposure of the Rosette (or Skull?) Nebula from my backyard|https://i.redd.it/jy9cr0d6ou841.jpg|OkeWoke|False|https://redd.it/ek4tal|662|0.97|0|20|0|space
+ekf8k1|2020-01-05 16:34:37|The Sea Dragon launch - CG video|https://www.youtube.com/watch?v=SRMDcC0QvFQ&feature=share|francis93112|False|https://redd.it/ekf8k1|32|0.86|0|5|0|space
+ekn4gw|2020-01-06 02:11:52|Sending life (not humans) to space.|"I am sure they will get a human on Mars eventually even if not within our lifetime.
+But why not attach a like a capsule with an adaptable small species, like roaches or some other small quickly reproducing species? Which would probably be more adaptable and resilient to the harsh elements of space. 
+
+And the reason for them doing this of course is to see if it's possible for any species (other than microorganisms and bateria) to survive outside of Earth, unaided."|ToxicFlame707|False|https://redd.it/ekn4gw|4|0.75|0|14|1|space
+ekg8y3|2020-01-05 17:46:00|Map showing the total brightness and color of nearly 1.7 billion stars in the Milky Way observed by ESA’s Gaia satellite between July 2014 and May 2016|https://100exhibit.iau.org/wp-content/uploads/2018/08/wariant2.png|RyanSmith|False|https://redd.it/ekg8y3|23|0.89|0|1|0|space
+ek94nl|2020-01-05 06:10:00|Milky Way over a snow covered Badlands (South Dakota). Not OC: Credit to Tainted Tripod Photography in Rapid City, SD|https://i.redd.it/kgyftga1jw841.jpg|cashflow605|False|https://redd.it/ek94nl|182|0.95|0|3|0|space
+ekgfxw|2020-01-05 17:59:30|Australia 5th January 2020 with New Zealand (Over 2000 KMs away) engulfed in smoke from bushfires|https://i.redd.it/c9uws8ml10941.jpg|starman2015|False|https://redd.it/ekgfxw|19|0.8|0|0|0|space
+ek4zr2|2020-01-05 00:14:30|Star trails over the Pacific Coast Highway in Central California|https://i.redd.it/3cq4ahciru841.jpg|mrcnzajac|False|https://redd.it/ek4zr2|492|0.96|0|9|0|space
+ek5kbt|2020-01-05 01:00:16|Australia's Devastating Wildfires Viewed From Space|https://i.redd.it/qpw5zweheu841.jpg|mossberg91|False|https://redd.it/ek5kbt|429|0.94|0|51|0|space
+ekjy5a|2020-01-05 22:18:09|Cartographic map of Titan with surface features and 3D globe models (high resolution sources in comments)|https://i.redd.it/gu7hh7hqb1941.png|MinisterOfTheDog|False|https://redd.it/ekjy5a|10|0.65|0|3|0|space
+ek8f4m|2020-01-05 05:03:41|I started astrophotography just over a year ago and what a ride it has been! This is a collection of some of my favourite images taken across 2019. Roll on 2020, happy new year!|https://i.redd.it/esoz3v877w841.jpg|JamesAstro02|False|https://redd.it/ek8f4m|185|0.95|0|20|0|space
+eknn41|2020-01-06 02:52:30|What part of a rocket is most susceptible to malfunctioning and for what reason?|Not sure if it goes here|sabtans|False|https://redd.it/eknn41|1|0.55|0|12|1|space
+ekdode|2020-01-05 14:30:34|Here’s a picture of the moon I took from New Year’s Eve. I used the Nikon coolpix b600.|https://i.redd.it/joqiavjb0z841.jpg|waterwarrior26|False|https://redd.it/ekdode|28|0.79|0|0|0|space
+ejvdev|2020-01-04 11:02:55|Some guy reconstructed Earth photos taken by Apollo astronauts with recently restored archived weather satellite images|https://www.youtube.com/watch?v=iiOhzP6bZ-s|haruku63|False|https://redd.it/ejvdev|4624|0.96|1|134|0|space
+ek9kyi|2020-01-05 06:58:00|Last Night I Imaged The ISS Transiting Our Moon In 0.77 Seconds (High Res)|https://i.redd.it/3p0zs1xrow841.png|BlakPhoenix|False|https://redd.it/ek9kyi|91|0.92|0|3|0|space
+ekdn3j|2020-01-05 14:27:11|Apparent Size of Objects in Space|https://i.redd.it/m3j15evnzy841.jpg|Dr_Strang3love|False|https://redd.it/ekdn3j|22|0.78|0|4|0|space
+eknzkh|2020-01-06 03:20:09|Request live picture of Australia from space|Anyone in space right now? I would like to see a live picture of Australia|thesunny51|False|https://redd.it/eknzkh|2|0.53|0|8|1|space
+ek5366|2020-01-05 00:21:50|I took a 30 hour picture of the Tadpole Nebula|https://i.redd.it/uv72fwnwsu841.jpg|good-astronomy|False|https://redd.it/ek5366|267|0.96|0|24|0|space
+ekbisa|2020-01-05 10:44:43|M81 in the constellation Ursa Major [OC]|https://i.redd.it/gywjf7yzux841.jpg|sinlesstell|False|https://redd.it/ekbisa|40|0.9|0|4|0|space
+ekjgrk|2020-01-05 21:41:23|Simulated Image Shows the Power of NASA’s WFIRST|https://www.youtube.com/watch?v=Cvf72tJihPY|Silverseren|False|https://redd.it/ekjgrk|4|0.67|0|0|0|space
+ekq1x5|2020-01-06 06:23:37|Supercomputer Simulation of Galaxies Feasting|https://www.vice.com/en_us/article/9kepy8/watch-this-ultra-hypnotic-supercomputer-simulation-of-galaxies-feasting|roundearthervaxxer|False|https://redd.it/ekq1x5|0|0.5|0|0|0|space
+ekbhni|2020-01-05 10:41:09|So today I used my solar filter to see the sun and I was able to see a solar flare (Sorry that I don't any cool telescope to see that, took this picture using my phone)|https://i.redd.it/hh2aj5mevx841.png|randomuser420_69|False|https://redd.it/ekbhni|33|0.79|0|4|0|space
+eka9aj|2020-01-05 08:13:28|North American and pelican nebula in Hubble pallete|https://imgur.com/6nEI2SK|OvenRoastedDonkey|False|https://redd.it/eka9aj|53|0.88|0|4|0|space
+ekperv|2020-01-06 05:22:20|Scientist figures out how to move our sun to avoid space collisions.|https://bigthink.com/surprising-science/scientist-figures-out-how-to-move-our-sun-to-avoid-space-collisions|sercosan|False|https://redd.it/ekperv|0|0.4|0|3|0|space
+ekjk28|2020-01-05 21:48:39|Presenting: ORBIT - A Local-Close Journey On Earth in (10x speed) Real Time|https://youtu.be/VpxwaRMO4qo|ISITREALLYFLAT|False|https://redd.it/ekjk28|3|0.8|0|1|0|space
+ek6ru2|2020-01-05 02:39:49|I just took this photo of our moon|https://i.redd.it/fd72cegghv841.jpg|backyard_space|False|https://redd.it/ek6ru2|103|0.89|0|7|0|space
+ek7c6z|2020-01-05 03:27:49|Orion ascending over the Black Rock Desert on NYE 2020.|https://v.redd.it/fpm25rgxpv841|jawanda|False|https://redd.it/ek7c6z|85|0.93|0|1|0|space
+ejxvtz|2020-01-04 15:24:15|Ukraine's Pripyat River Is Like A Work of Art From Space|http://u-krane.com/home/ukraine-s-pripyat-river-like-work-art-from-space/|A_Lazko|False|https://redd.it/ejxvtz|751|0.93|0|45|0|space
+ekkrry|2020-01-05 23:15:15|What would it sound like going out during the day if the soundwaves of the Sun could reach Earth?||dedMeow|False|https://redd.it/ekkrry|0|0.57|0|5|1|space
+eknpgj|2020-01-06 02:57:53|If Aliens Existed Elsewhere in the Universe, How Would They Behave?|https://www.smithsonianmag.com/smithsonian-institution/if-aliens-exist-elsewhere-universe-how-would-they-behave-180973843/#.XhKiGu4zaMU.reddit|Gladari|False|https://redd.it/eknpgj|2|0.55|0|6|0|space
+ekauno|2020-01-05 09:24:18|True-color composite view of Earth and Moon from Saturn captured by NASA's Cassini spacecraft on 19th July, 2013 from approximately 898,410,414 miles (1,445,851,410 kilometers) away.|https://i.imgur.com/NfuT76S.gifv|mvea|False|https://redd.it/ekauno|26|0.76|0|1|0|space
+ekbmzx|2020-01-05 10:59:18|Interacting galaxies of Hickson 44 [OC]|https://i.redd.it/ysghf5umyx841.jpg|sinlesstell|False|https://redd.it/ekbmzx|17|0.81|0|4|0|space
+ek4u7u|2020-01-05 00:01:55|Silver Dollar Galaxy, 11.4 Million Light-years away and 90,000 Light-years across. 3 months of learning deep sky astrophotography has led to this photo. Taken from my backyard in New Zealand.|https://i.redd.it/1dntsjv2pu841.jpg|backyardastrokiwi|False|https://redd.it/ek4u7u|128|0.92|0|21|0|space
+ekbwwg|2020-01-05 11:31:39|Ceres Enhanced Color (JPL/NASA link in comments)|https://i.redd.it/12woqe9f4y841.jpg|G-rantification|False|https://redd.it/ekbwwg|14|0.82|0|3|0|space
+ekjyz2|2020-01-05 22:19:47|SpaceX's bold Starlink internet plan takes another big step in 2020 - The upcoming launch will test out a way to dim the satellites’ brightness.|https://www.inverse.com/article/62101-spacex-launches-60-more-starlink-satellites|mvea|False|https://redd.it/ekjyz2|1|0.5|0|4|0|space
+eks78f|2020-01-06 10:13:24|Why water boils in a vacuum?|"Do you know why water starts boiling in a vacuum. You must know that we cannot breathe in a vacuum because vacuum means to be completely empty that is, we do not have air to breathe in vacuum.
+[Read more](https://www.boringworld.org/2019/11/why-water-starts-boiling-in-vacuum.html?m=1)"|ks000538|False|https://redd.it/eks78f|0|0.37|0|16|1|space
+ek5dv5|2020-01-05 00:45:15|I shot a 16 hours exposure of the Heart Nebula from my backyard [OC]|https://i.redd.it/l3oa03sgwu841.png|usernaneisalreadytak|False|https://redd.it/ek5dv5|83|0.92|0|7|0|space
+ekbiz4|2020-01-05 10:45:21|Betelgeuse: The Clock Is Ticking, and the Alarm Is Set for 100,000 Years|https://slate.com/technology/2014/09/betelgeuse-astronomers-give-it-100000-years-before-it-explodes.html|NavdeepSinghThind|False|https://redd.it/ekbiz4|13|0.8|0|2|0|space
+ek5fyu|2020-01-05 00:49:58|I was inspired by the sunrise eclipse on December 26th 2019 to create this pixel art animation.|https://i.redd.it/15jtsxs2xu841.gif|v78|False|https://redd.it/ek5fyu|75|0.89|0|3|0|space
+ek5uim|2020-01-05 01:23:32|Rockets of NASA Human Spaceflight|https://i.imgur.com/C4uI3yx.png|jadebenn|False|https://redd.it/ek5uim|57|0.87|0|14|0|space
+ek9jvb|2020-01-05 06:54:22|I took my first photo of our moon last night! (1/3/20) it's not perfect but it's an encouraging start to capturing what's out there|https://i.redd.it/m0sfdj8yqw841.jpg|walle58533|False|https://redd.it/ek9jvb|19|0.8|0|6|0|space
+ekkl8b|2020-01-05 23:02:43|Scientists pin down timing of lunar dynamo's demise|https://phys.org/news/2020-01-scientists-pin-lunar-dynamo-demise.html|chicompj|False|https://redd.it/ekkl8b|1|0.56|0|0|0|space
+ekfezo|2020-01-05 16:47:15|Where the Dunes End - Namibia’s sea of sand bounded to the north by the impermanent Kuiseb River|https://visibleearth.nasa.gov/images/146064/where-the-dunes-end|ye_olde_astronaut|False|https://redd.it/ekfezo|2|0.75|0|0|0|space
+ekcbpq|2020-01-05 12:18:07|Are the fires in Australia visible from the ISS ?||DrAnon2|False|https://redd.it/ekcbpq|6|0.75|0|10|1|space
+ek5e0c|2020-01-05 00:45:37|Here is a collage of my best images of space throughout 2019. Total exposure time on the deep sky objects is around 150 hours.|https://i.redd.it/hge65043xu841.jpg|Ethan_Roberts123|False|https://redd.it/ek5e0c|47|0.86|0|1|0|space
+ek5qj0|2020-01-05 01:14:42|My take on the Jellyfish Nebula, a Supernova Remnant.|https://i.redd.it/rkrspq2y1v841.jpg|Jr6150Astro|False|https://redd.it/ek5qj0|40|0.93|0|1|0|space
+eklzs4|2020-01-06 00:44:38|Really interested in astrophysics|I want to learn astrophysics. Where do I start?|SpiderRedd|False|https://redd.it/eklzs4|0|0.38|0|6|1|space
+ekj012|2020-01-05 20:57:51|Audacy defaulted on debt, shut doors in 2019|https://spacenews.com/audacy-shuts-down/|EricFromOuterSpace|False|https://redd.it/ekj012|1|0.6|0|0|0|space
+ekfniv|2020-01-05 17:04:05|Martian Surface Photos- not a designer but think of the clothes, furniture, accent walls, etc. you could have.|https://www.wired.com/story/space-photos-of-the-week-postcards-from-a-martian-winter/amp|pdxp2b|False|https://redd.it/ekfniv|2|0.5|0|0|0|space
+eki9mi|2020-01-05 20:07:18|A few questions about astrophotography.|"Hey all,
+I have a few questions about getting into astrophotography.  Currently I have a Canon Rebel T6, a cheaper telescope (I'm not sure exactly what it is but I know it's not ""top-quality"" one), and a T-Mount for my camera and telescope.  I know my way around the camera and how all the settings work together. My goal is to get atleast decent quality pictures of stars, galaxies, planets, and other objects. 
+
+Here are the questions:
+
+1. Is this goal possible with my current setup or will I be dissapointed?
+2. Is there anything else that I may be overlooking that i sould get?
+3. When someone says ""12 hour exposure time"" what exactly does that mean? It can't be a constant 12 hours of the cameras shutter being open, right?
+4. What is the general process of this? How much planning goes into getting a picture of, say the Andromeda Galaxy?
+
+I think that's all my questions for now.
+Thanks in advance"|Jared246|False|https://redd.it/eki9mi|0|0.4|0|2|1|space
+ekl4dv|2020-01-05 23:40:43|Ron Sparkman here. Co-host of The Mars Society's Red Planet Radio. Question for the group|"I'm looking into new guests for our show this year and wanted to reach out to you all. Is there anyone in particular that you'd like to hear from or any particular Mars subject that we haven't covered yet that you'd like us to dive into? 
+
+Let me know in the comments and I'll try my best to reach out to the right people. Thanks for listening!
+
+Also, if you haven't checked out my latest interview, I spoke with NASA's Jim Green on all things Mars on the NASA front.
+
+Here's the link to Red Planet Radio http://radio.marssociety.org/"|EdwardHeisler|False|https://redd.it/ekl4dv|0|0.3|0|2|1|space
+ek7mso|2020-01-05 03:53:43|One of the largest galaxies compared to our Milky Way [Fixed image]|https://i.imgur.com/vqp6FSq.jpg|gravitybrevity|False|https://redd.it/ek7mso|18|0.8|0|7|0|space
+ek7knb|2020-01-05 03:48:24|There are 5,185 craters on the moon. I only captured a handful with this half moon on New Years Eve.|https://i.redd.it/46119ysrtv841.jpg|turtlefountain|False|https://redd.it/ek7knb|19|0.74|0|2|0|space
+ekckfk|2020-01-05 12:44:06|Clear Skies tonight!!!|"Tonight we have very clear skies, Ive had my Celestron 127SLT for about  a year now and have had very few opportunities to get it out.  Between time constraints and cloudy skies its been out around three times.
+
+Got the Starsense camera for it the other day and am hoping that once calibrated that it will make for a quick setup for viewing this summer.  Also have the GPS unit for it so alignment should be a snap!  Ive dedicated an old iPad for the purpose of utilizing the Celestron Skyportal app to control the scope and slew it to various targets.  Super stoked to get it all up and running this evening!
+
+&#x200B;
+
+Big Meadows this summer!"|ITMORON|False|https://redd.it/ekckfk|4|0.57|0|1|1|space
+ek97xk|2020-01-05 06:18:45|Chinese Academy of Sciences has released >30GB of data from Chang'e 4 and Yutu 2|http://moon.bao.ac.cn/searchOrder_dataSearchData.search|djellison|False|https://redd.it/ek97xk|8|0.76|0|1|0|space
+ekkyc1|2020-01-05 23:28:24|Space colonization|"Does anyone else wonder when humans will begin colonizing space? 
+How long would it take?"|CAPTA1NPRICE141|False|https://redd.it/ekkyc1|0|0.38|0|8|1|space
+ek8rcy|2020-01-05 05:34:28|When a star goes supernova and then a nebula is formed, what is making the gas and dust clouds visible?||Skazzyskills|False|https://redd.it/ek8rcy|10|0.8|0|15|1|space
+ejvacy|2020-01-04 10:52:43|What are good books to read on the colonisation of Mars?|I have finished the Mars trilogy by Kim Stanley Robinson and I want to read more about this amazing topic. What are books you can recommend me?|LittleMighty_|False|https://redd.it/ejvacy|278|0.88|0|120|1|space
+ek75vi|2020-01-05 03:12:55|Found this beauty in the Hubble Legacy Archive, part of the M25 globular cluster.|https://i.redd.it/3v7m3mgenv841.png|_stevel|False|https://redd.it/ek75vi|14|0.75|0|0|0|space
+ek5sia|2020-01-05 01:19:06|The Brighter Nebulae of the Orion Molecular Cloud Complex|https://imgur.com/f2pQB3v|mrbibs350|False|https://redd.it/ek5sia|19|0.79|0|3|0|space
+ejh1aj|2020-01-03 15:39:38|Scientists create a new, laser-driven light sail that can stabilize itself by diffracting light as it travels through the solar system and beyond.|http://www.astronomy.com/news/2020/01/new-light-sail-would-use-laser-beam-to-rider-through-space|clayt6|False|https://redd.it/ejh1aj|11950|0.96|0|323|0|space
+ek9h61|2020-01-05 06:46:10|There are 5,185 craters on the moon. I only captured a handful with this half moon on New Years Eve.|https://i.redd.it/auvgo3mhpw841.jpg|turtlefountain|False|https://redd.it/ek9h61|2|0.6|0|1|0|space
+eka2fx|2020-01-05 07:52:05|can we assume that if theres a planet humans can live on, then theres already existing life?|up|dragonelofelo|False|https://redd.it/eka2fx|3|0.56|0|13|1|space
+ekfzi3|2020-01-05 17:27:41|Spaceship can travel around the galaxy in 20 years according to Einstein's Theory of special theory of relativity|"Einstein's special theory of relativity makes it in principle possible to reach anyplace in the universe in the lifetime of an astronaut on board a spacecraft. The ship just has to go fast enough relative to Earth. According to what is called time dilation, a moving clock is observed to run slower than one at rest. In a related effect called Fitzgerald-Lorentz contraction, the measured length of an object contracts in the direction of its motion. These phenomena, which defy our commonsense notions of time and space, have been amply confirmed in experiments and other observations.
+
+Suppose we were able to build a spaceship that could accelerate at a constant one g, that is, at the acceleration of gravity on Earth, which would also nicely provide artificial gravity for the astronauts. That ship would reach Alpha Centauri in five years' Earth-time while only a bit over two years would elapse in shiptime. In eleven years' ship-time it could reach the center of our galaxy. But during that time, almost 27,000 years would have passed on Earth. In fifteen years' ship-time the astronauts could reach Andromeda, 2.4 million light-years away. By then, since most of the trip was at near the speed of light relative to Earth, 2.4 million years would have gone by back on Earth. After experiencing the passage of twenty-three years, the astronauts would actually pass the edge of the universe currently observable from Earth, but 13.7 billion years would have elapsed in the reference frame of a long-dead Earth.
+
+https://preview.redd.it/s5qgqg9twz841.jpg?width=315&format=pjpg&auto=webp&s=54f0c9f4f4711dcfd6f2cb80c535104c6e4af70f"|PizzaToo|False|https://redd.it/ekfzi3|0|0.4|0|9|1|space
+ekaxj1|2020-01-05 09:34:15|What books to read on the colonisation of Mars?|"Yesterday I made [this](https://www.reddit.com/r/space/comments/ejvacy/what_are_good_books_to_read_on_the_colonisation/) post asking for reading recommendations on the colonisation of Mars. And I got almost 120 responses. This list compiles all of them. If I forgot any or you have other ones to add be sure to comment!  
+Disclaimer: I haven't read any of these books except for [How We'll Live on Mars](https://www.goodreads.com/book/show/21976097-how-we-ll-live-on-mars?ac=1&from_search=true&qid=3FFDw1rDdk&rank=1) so I these are not my recommendations.
+
+&#x200B;
+
+Fiction:
+
+[Mars](https://www.goodreads.com/book/show/267282.Mars?ac=1&from_search=true&qid=Qa8sV1YZd8&rank=1) Ben Bova, 3.84
+
+[Return to Mars](https://www.goodreads.com/book/show/267310.Return_to_Mars) Ben Bova, 3.86
+
+[Colony One Mars](https://www.goodreads.com/book/show/44073117-colony-one-mars?from_search=true&qid=oK6PN8oBBP&rank=2) Gerald M. Kilby, 4.02 (Book 1 of 5)      
+
+[First Landing](https://www.goodreads.com/book/show/985817.First_Landing?ac=1&from_search=true&qid=D43Kf3ApCb&rank=1) Robert Zubrin, 3.33        
+
+[The Martian](https://www.goodreads.com/book/show/18007564-the-martian?from_search=true&qid=n7seDupY6H&rank=1) Andy Weir, 4.40
+
+[Packing for Mars: The Curious Science of Life in the Void](https://www.goodreads.com/book/show/9542311-packing-for-mars?ac=1&from_search=true&qid=6sr1zFROds&rank=1) Mary Roach, 3.95               
+
+[Red Rising](https://www.goodreads.com/book/show/15839976-red-rising?ac=1&from_search=true&qid=pWRjWQq8jW&rank=1) Pierce Brown, 4.27 (Book 1 of 5)
+
+[Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes?from_search=true&qid=GUmAMce00r&rank=1) (Expanse) James S.A. Corey 4.26 (Book 1 of 11)
+
+[The Martian Chronicles](https://www.goodreads.com/book/show/76778.The_Martian_Chronicles?ac=1&from_search=true&qid=Y4DPFSWRw6&rank=1) Ray Bradbury, 4.14
+
+[The Sands of Mars](https://www.goodreads.com/book/show/149063.The_Sands_of_Mars?ac=1&from_search=true&qid=ZLJJspPzcU&rank=1) Arthur C. Clarke, 3.74
+
+[Spin](https://www.goodreads.com/book/show/910863.Spin?from_search=true&qid=cS3mRFQWs3&rank=1) Robert Charles Wilson, 4.02 (Book 1 of 3)
+
+[Mars Nation 1](https://www.goodreads.com/book/show/48190021-mars-nation-1?ac=1&from_search=true&qid=lKod65cspK&rank=2) Brandon Q. Morris, 4.13 (Book 1 of 3)
+
+[Snowfall on Mars](https://www.goodreads.com/book/show/25761073-snowfall-on-mars?ac=1&from_search=true&qid=P4RsZwVGlg&rank=1) Branden Frankel, 3.88
+
+[Red Hope](https://www.goodreads.com/book/show/36324854-red-hope?ac=1&from_search=true&qid=SHxr21yVPk&rank=1) John Dreese, 3.64 (Book 1 of 2)
+
+[Calculating Stars](https://www.goodreads.com/book/show/33080122-the-calculating-stars?from_search=true&qid=btAK5DXTQZ&rank=2) (The Lady Astronaut) Mary Robinette Kowal, 4.06 (Book 1 of 4)
+
+[Project Mars: A Technical Tale](https://www.goodreads.com/book/show/1279669.Project_MARS?ac=1&from_search=true&qid=z1FusQ7tuJ&rank=4) Wernher Von Braum, 3.53
+
+[The Three Stigmata of Palmer Eldritch](https://www.goodreads.com/book/show/14185.The_Three_Stigmata_of_Palmer_Eldritch?ac=1&from_search=true&qid=1NsYlYgvx3&rank=1) Philip K. Dick, 4.01
+
+[Moving Mars](https://www.goodreads.com/book/show/340816.Moving_Mars?ac=1&from_search=true&qid=euB8f9mdpL&rank=1) (Queen of Angels) Greg Bear, 3.83
+
+[Stranger In A Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land?ac=1&from_search=true&qid=aRukA25k7k&rank=1) Robert A. Heinlein, 3.92
+
+[The Ship That Sailed To Mars](https://www.goodreads.com/book/show/13206996-the-ship-that-sailed-to-mars?ac=1&from_search=true&qid=F3xTpuaQio&rank=1) William M. Timlin, 4.25
+
+[A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars?ac=1&from_search=true&qid=At4yuN49SY&rank=1) (The Martian Series) Edgar Rice Burroughs, 3.81 (Books 1 of 11)
+
+&#x200B;
+
+Non Fiction:  
+
+[The Case for Mars](https://www.goodreads.com/book/show/56713.The_Case_for_Mars?ac=1&from_search=true&qid=L9ILPRUb6E&rank=2) Robert Zubrin, 4.10
+
+[How We'll Live on Mars](https://www.goodreads.com/book/show/21976097-how-we-ll-live-on-mars?ac=1&from_search=true&qid=3FFDw1rDdk&rank=1) Stephen L. Petranek, 3.86
+
+[Entering Space](https://www.goodreads.com/book/show/54728.Entering_Space?ac=1&from_search=true&qid=QFVB9UMoij&rank=1) Robert Zubrin, 4.16
+
+[Curiosity: The Story of a Mars Rover](https://www.goodreads.com/book/show/35554308-curiosity?from_search=true&qid=LWwQCFB45V&rank=1) Markus Motum, 4.38
+
+&#x200B;
+
+Colonisation of space in general:
+
+[2312](https://www.goodreads.com/book/show/21976097-how-we-ll-live-on-mars?ac=1&from_search=true&qid=3FFDw1rDdk&rank=1#) Kim Stanley Robinson, 3.45
+
+[The Artemis](https://www.goodreads.com/book/show/34928122-artemis?ac=1&from_search=true&qid=LGIiThKnor&rank=1) Andy Weir, 3.67
+
+[Seveneves](https://www.goodreads.com/book/show/22816087-seveneves?ac=1&from_search=true&qid=BVbPVry4aO&rank=1) Neal Stephenson, 3.99
+
+[The High Frontier](https://www.goodreads.com/book/show/19047082-the-high-frontier?ac=1&from_search=true&qid=DoxK4mOrg0&rank=1) Stuart Slade, 4.18
+
+[Farmer in the Sky](https://www.goodreads.com/book/show/50851.Farmer_in_the_Sky?from_search=true&qid=WsCWUr9gRR&rank=1) Robert A. Heinlein, 3.75
+
+[Red Moon](https://www.goodreads.com/book/show/38496710-red-moon?ac=1&from_search=true&qid=MoI1wJNYtl&rank=2) Kim Stanley Robinson, 3.40
+
+[Return Of The Moon](https://www.goodreads.com/book/show/11095419-return-to-the-moon?ac=1&from_search=true&qid=74p9wuBceI&rank=1) Harrison Smitt, 3.60
+
+[Luna New Moon](https://www.goodreads.com/book/show/23848027-luna?ac=1&from_search=true&qid=g2Y16mW0Je&rank=3) Ian Macdonald, 3.76 (Book 1 of 3)
+
+&#x200B;
+
+Other Sci-Fi Books: 
+
+[All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red?ac=1&from_search=true&qid=NFzN9khOyR&rank=1) (Murder Bot) Martha Wells, 4.10 (Book 1 of 5)  
+
+
+Non Books: 
+
+[Mars](https://www.imdb.com/title/tt4939064/) (Netflix Series)  
+[Cody'sLab](https://www.youtube.com/user/theCodyReeder/videos) (Youtube Channel with videos on Mars)  
+[Terra Formars](https://www.goodreads.com/book/show/17336117-1-teraf-m-zu-1?ac=1&from_search=true&qid=vaguh24jsR&rank=2) (Manga)  
+[Star City: Designing a Settlement on Mars](https://www.researchgate.net/publication/337366680_Star_City_Designing_a_Settlement_on_Mars) (MIT Article)"|LittleMighty_|False|https://redd.it/ekaxj1|0|0.6|0|4|1|space
+ek1bgv|2020-01-04 19:41:24|"SpaceX on Twitter: ""Static fire test of Falcon 9 complete—targeting Monday, January 6 at 9:19 p.m. EST for launch of 60 Starlink satellites from Pad 40 in Florida"""|https://twitter.com/SpaceX/status/1213516784638279685|tkocur|False|https://redd.it/ek1bgv|24|0.7|0|3|0|space
+ek6gsa|2020-01-05 02:14:04|Does anything exist outside of galaxies completely?|Stars, planets attached to stars, rogue planets, comets/meteoroids, etc. If so, which are some most notorious cases?|polynilium|False|https://redd.it/ek6gsa|6|0.69|0|17|1|space
+ek2c5w|2020-01-04 20:55:34|An Astronaut Got a Blood Clot in Space. Here's How Doctors on Earth Fixed It.|https://www.space.com/astronaut-suffers-blood-clot-on-space-station.html|r4816|False|https://redd.it/ek2c5w|15|0.67|0|5|0|space
+ejmk9p|2020-01-03 22:03:12|Scientists just found the crater from a huge asteroid impact that covered 10% of Earth's surface in debris 790,000 years ago. The crater was discovered beneath a plain of hardened lava in southern Laos, and the impact that caused it scattered special rocks, called tektites, from Asia to Antarctica.|http://www.astronomy.com/news/2020/01/crater-found-from-asteroid-that-covered-10-of-earths-surface-in-debris|clayt6|False|https://redd.it/ejmk9p|1016|0.98|0|56|0|space
+ejmqj0|2020-01-03 22:15:22|Scientists find evidence that Venus has active volcanoes|https://phys.org/news/2020-01-scientists-evidence-venus-volcanoes.html|chicompj|False|https://redd.it/ejmqj0|625|0.96|0|53|0|space
+eju328|2020-01-04 08:26:41|First reported occurrence and treatment of spaceflight medical risk 200+ miles above earth|https://phys.org/news/2020-01-occurrence-treatment-spaceflight-medical-miles.html?utm_source=nwletter&utm_medium=email&utm_campaign=daily-nwletter|Sorin61|False|https://redd.it/eju328|95|0.93|0|2|0|space
+ek0jk0|2020-01-04 18:44:14|50 years ago today NASA cancelled the Apollo 20 mission|https://www.nasa.gov/feature/50-years-ago-nasa-cancels-apollo-20-mission|Deribus|False|https://redd.it/ek0jk0|12|0.74|0|2|0|space
+ek813n|2020-01-05 04:29:12|What telescope do you guys use?|I want to take these cools pictures you guys are taking.|Bvlts|False|https://redd.it/ek813n|2|0.63|0|5|1|space
+ek1fqd|2020-01-04 19:50:04|Worlds Beyond Earth - American Museum of Natural History|https://www.youtube.com/watch?v=TyXn4e_ukaI|Silverseren|False|https://redd.it/ek1fqd|11|0.8|0|0|0|space
+ek9ajx|2020-01-05 06:26:08|Space Photos of the Week: Postcards From a Martian Winter|https://www.wired.com/story/space-photos-of-the-week-postcards-from-a-martian-winter/|cryptoz|False|https://redd.it/ek9ajx|1|0.6|0|0|0|space
+ek0rf5|2020-01-04 19:00:22|Hold your breath for 13 minutes.|https://youtu.be/ae6VJ6YU8uo|deanoplex|False|https://redd.it/ek0rf5|6|0.67|0|3|0|space
+ejfzvt|2020-01-03 14:20:18|India Is Officially Going Back to the Moon with Chandrayaan-3 Lunar Lander|https://www.space.com/india-confirms-moon-landing-mission-chandrayaan-3.html|political_dude|False|https://redd.it/ejfzvt|969|0.93|0|92|0|space
+ejyhzz|2020-01-04 16:14:29|SpaceX drawing up plans for mobile gantry at launch pad 39A|https://spaceflightnow.com/2020/01/03/spacex-drawing-up-plans-for-mobile-gantry-at-launch-pad-39a/|ye_olde_astronaut|False|https://redd.it/ejyhzz|6|0.67|0|0|0|space
+eka0a1|2020-01-05 07:45:30|Light speed?|Hi guys I would just really like a answer here if that’s cool I have been thinking of the concept of light speed for a short while and I just wonder if it’s actually possible because I’ve been reading up on our planets current situation and what could happen down the road and what we know will happen that alpha centouri B is possibly one of our last chances but the fact of the matter is even with voyager it would take 73 thousand years give or take to make the journey. And we’d still need to use some sort of cryosleep system to survive that long. But according to NASA with light speed we could make it in roughly 4 years so if anyone has an answer to lightspeed would be greatly appreciated thx guys🙏🏻😇|paxjax1|False|https://redd.it/eka0a1|0|0.25|0|18|1|space
+ek92nn|2020-01-05 06:04:42|What photo editing/stacking software can I use on a macbook?|I am new to this and would like some advice on which software works the best for astrophotography.|Janus83|False|https://redd.it/ek92nn|0|0.33|0|1|1|space
+ek6g7t|2020-01-05 02:12:46|Would a tidally locked planet, orbiting close to its star, experience ocean tides something like ours -- very strong solar tides?||curiousscribbler|False|https://redd.it/ek6g7t|0|0.4|0|4|1|space
+ek7a2x|2020-01-05 03:22:35|Where do i start|hey guys, I've been getting interested in blackholes but where do I start? What are the things I should learn before getting into black holes|HondaFitEXL|False|https://redd.it/ek7a2x|0|0.36|0|6|1|space
+ek0kk7|2020-01-04 18:46:12|Moon just below horizon as good as a new moon night?|"I plan to go stargazing to see the perseid shower this year. 
+
+I’ve looked at the moon trajectory during the night on 11th and 12th and the moon is below the horizon before midnight and starts rising just after midnight. 
+
+So for the time that the moon is below the horizon or slightly above. Is the sky just as dark as a new moon night? Is this year a good time to watch the perseids?"|JustLikeThatHm|False|https://redd.it/ek0kk7|2|0.62|0|1|1|space
+ejn45n|2020-01-03 22:42:43|Pluto is the most famous demoted planet, but it's not the first|http://www.astronomy.com/news/2019/12/why-do-astronomers-keep-changing-what-it-means-to-be-a-planet|magenta_placenta|False|https://redd.it/ejn45n|42|0.82|0|10|0|space
+ej0jlk|2020-01-02 16:42:08|The Moon Used To Have Its Own Magnetic Field, Twice As Strong As The Earth|https://in.mashable.com/science/10045/the-moon-used-to-have-its-own-magnetic-field-twice-as-strong-as-the-earth|cosmicdatabase|False|https://redd.it/ej0jlk|18497|0.95|0|568|0|space
+ek4nwd|2020-01-04 23:48:03|Art We Launched into Space|https://youtu.be/4mmlKLmF99A|Hanahoe|False|https://redd.it/ek4nwd|0|0.27|0|0|0|space
+ejbznj|2020-01-03 07:14:41|NASA astronaut's blood clot in space gets treated by doctor on Earth|https://www.cnet.com/news/nasa-astronauts-blood-clot-in-space-gets-treated-by-doctor-on-earth/|cosmicdatabase|False|https://redd.it/ejbznj|138|0.93|0|19|0|space
+ejlfe3|2020-01-03 20:43:21|Great answer in /AskHistorians/ that details why the space advancements are slow.|https://www.reddit.com/r/AskHistorians/comments/ejf8qf/arthur_c_clarke_said_that_the_us_space_programs/fcy1am5?utm_source=share&utm_medium=web2x|Dagobian_Fudge|False|https://redd.it/ejlfe3|8|0.7|0|0|0|space
+ejkii3|2020-01-03 19:41:02|How to cut, not weld, steel in space?|I found a NASA thread on welding in space, but what about cutting? Specifically, if you needed to cut steel, assuming you are properly anchored, would a plasma torch or thermic lance work in the vacuum of space?|FortBrazos|False|https://redd.it/ejkii3|10|0.78|0|16|1|space
+ejeldq|2020-01-03 12:10:02|Overtaking Voyager 1 or 2|"I am curious how long it might be before we could create a spacecraft that could overtake Voyager 1 or 2.  I am thinking more from a technological point-of-view (not a political point-of-view).  Obviously, the longer ""we"" take to design and build something, the further out Voyager 1or 2 would be.  But the longer we take, the better the technology we have in order to do this."|brechmos|False|https://redd.it/ejeldq|20|0.75|0|17|1|space
+ejigad|2020-01-03 17:18:36|Countering misconceptions in space journalism|https://caseyhandmer.wordpress.com/2019/08/17/blog-series-countering-misconceptions-in-space-journalism/|eberkut|False|https://redd.it/ejigad|4|0.62|0|0|0|space
+ejcgru|2020-01-03 08:07:41|Astronomers say SpaceX's satellites are too bright in the sky. Friday's launch will try to fix that|https://phys.org/news/2020-01-astronomers-spacex-satellites-bright-sky.html?utm_source=nwletter&utm_medium=email&utm_campaign=daily-nwletter|Sorin61|False|https://redd.it/ejcgru|28|0.74|0|66|0|space
+ejm2wo|2020-01-03 21:29:06|Does anyone have or know about a complete portfolio of constellation line-illustrations?|"I'm looking for constellation illustrations of this type: 
+
+https://preview.redd.it/bshhvb3gsm841.png?width=208&format=png&auto=webp&s=0bb7ed6601752366ebfcc74b8d42e815c386d34d
+
+Basic, simple line drawings with an illustration of the imagery behind the constellation. I have scoured what feels like the entire internet, but for the life of me can't find anything complete. The closest I've gotten to what I need are these two sites:  [https://stardate.org/nightsky/constellations](https://stardate.org/nightsky/constellations)  and  [https://www.dkfindout.com/us/space/constellations/](https://www.dkfindout.com/us/space/constellations/) both of which are great but woefully incomplete, and the second claims no knowledge of where they originated. If anyone here has a lead on something like this (or knows a better subreddit on which to inquire), I would love to have your help!"|backflip7|False|https://redd.it/ejm2wo|2|0.67|0|4|1|space
+ejfrrh|2020-01-03 14:02:14|What do we learn from Ultima Thule/Arrokoth flyby?|People said that this object will improve our understanding of solar system evolution/origin, but how is that exactly? I can't conclude anything from many sources because (from my understanding) they only talk about its description or how its so interesting because it's a contact binary|Oganesson456|False|https://redd.it/ejfrrh|4|0.67|0|4|1|space
+ej07w7|2020-01-02 16:17:30|GMRT discovers a gigantic ring of hydrogen gas around a distant galaxy|https://phys.org/news/2020-01-gmrt-gigantic-hydrogen-gas-distant.html|TMcFly|False|https://redd.it/ej07w7|137|0.94|0|29|0|space
+ejb70s|2020-01-03 05:56:46|2010s in Spaceflight|https://youtu.be/Db0SouTttZE|Koplins|False|https://redd.it/ejb70s|12|0.69|0|1|0|space
+ej6wi8|2020-01-03 00:11:17|What is gonna happen when the poles flip|Idk if this is the right place for it but my physics teacher a while ago was talking about how the magnetic poles were going to flip possibly within our lifetime what would actually happen when the poles flip and how would it affect all of our technology and gps stuff|michael_beast25|False|https://redd.it/ej6wi8|30|0.78|0|57|1|space
+ejh5tz|2020-01-03 15:48:28|Hubble Sights Galaxy’s Celestial Sequins|https://www.nasa.gov/image-feature/goddard/2020/hubble-sights-galaxy-s-celestial-sequins|Citia|False|https://redd.it/ejh5tz|1|0.57|0|1|0|space
+ej8jcq|2020-01-03 02:16:04|Is Contacting Aliens Safe? With David Grinspoon|https://youtu.be/BaJrR2ZN0gU|SpartenJohn|False|https://redd.it/ej8jcq|13|0.69|0|15|0|space
+eja8ax|2020-01-03 04:31:58|The deep space decade: how a new era of exploration came of age in the 2010s|https://deepclips.com/clip/3499/the-deep-space-decade-how-a-new-era-of-exploration-came-of-age-in-the-2010/space|MunchenBundchen|False|https://redd.it/eja8ax|7|0.83|0|1|0|space
+ej57nx|2020-01-02 22:10:08|NASA Prepares Artemis I SLS Rocket Stage for Move to Pegasus Barge|https://www.nasa.gov/exploration/systems/sls/artemis-I-rocket-stage-prepares-for-move-to-pegasus-barge.html|jadebenn|False|https://redd.it/ej57nx|20|0.82|0|48|0|space
+eiy94s|2020-01-02 13:30:40|Was there a planet at some point in our solar system that left the solar system or got destroyed?||caretodeal|False|https://redd.it/eiy94s|72|0.87|0|58|1|space
+ej2s2t|2020-01-02 19:22:12|The Aquarius Project has teen interns hunting for sunken space rocks that fell from the sky after a meteor exploded over Lake Michigan in 2017.|http://www.astronomy.com/news/2019/12/adler-aquarius-project|clayt6|False|https://redd.it/ej2s2t|21|0.86|0|0|0|space
+eivjjx|2020-01-02 08:14:46|A few terms ago I wrote a research paper about communicating with aliens. Now, I am turning it into a short documentary series. Here is the first episode, where we discuss the Fermi Paradox.|https://www.youtube.com/watch?v=0e9QHk86bd0|SailorB0y|False|https://redd.it/eivjjx|161|0.89|0|20|0|space
+ej44iu|2020-01-02 20:54:54|What ever happened to that predicted ninth planet beyond the Kuiper belt?|I remember something about the Subaru telescope hunting down this planet for which there was substantial circumstantial evidence. I’m assuming it hasn’t been found. Have we confirmed it doesn’t exist yet?|XiPingTing|False|https://redd.it/ej44iu|13|0.8|0|29|1|space
+eiz3n6|2020-01-02 14:48:24|The Best Spaceflight & Space Science Events of Last Year. Everyday Astronaut’s 2019 Astro Awards!|https://youtu.be/TW1jQunhRFk|everydayastronaut|False|https://redd.it/eiz3n6|44|0.8|0|2|0|space
+ej4i9n|2020-01-02 21:21:05|Astronaut Christina Koch Breaks Record for Longest Space Mission by a Woman|https://www.space.com/nasa-astronaut-christina-koch-breaks-female-spaceflight-record.html|stereomatch|False|https://redd.it/ej4i9n|12|0.73|0|1|0|space
+ejap46|2020-01-03 05:12:10|Space travel with mind-uploading and Breakthrough Starshot ?|"I mean if we upload our mind on this things :  [https://fr.wikipedia.org/wiki/Breakthrough\_Starshot](https://fr.wikipedia.org/wiki/Breakthrough_Starshot)   we could then terraform an other planet, and an ia would ressucite us.
+
+That crazy but it's actually the easiest way :("|florian224|False|https://redd.it/ejap46|4|0.56|0|9|1|space
+eiww01|2020-01-02 11:01:16|Chandrayaan-3: India unveils fresh $35m attempt to put a rover on the moon - Space programme seeks to bounce back after 2019 project ended with a crash landing on the lunar surface|https://www.theguardian.com/science/2020/jan/02/chandrayaan-3-india-unveils-fresh-35m-attempt-to-put-a-rover-on-the-moon|mvea|False|https://redd.it/eiww01|56|0.78|0|10|0|space
+ej7m8w|2020-01-03 01:05:03|SkyQuest TX8 for Christmas has arrived! Any tips or suggestions on how to take a look of the universe around us?||myownfreemind|False|https://redd.it/ej7m8w|6|0.87|0|2|1|space
+ej0bw9|2020-01-02 16:25:52|"Does the United States and the United Nations actually have a set protocol/guidelines to follow in the event of ""First Contact""?"|"In the event that an extraterrestrial visitor or visitors make a sudden appearance in our star system/on Earth, does the US and the UN actually have a set protocol/guidelines to follow?
+
+What if they're not ""biological"", but are something akin to semi-sentient self-replicating robots/spacecraft (like Von Neumann probes) or just robots etc?
+
+What about China and Russia? (I doubt African nations - like Namibia for instance - have a set protocol/guidelines either)?"|AnakinWayneII|False|https://redd.it/ej0bw9|13|0.79|0|49|1|space
+eiqu9i|2020-01-02 01:05:51|Virgin Orbit says its first orbital launch attempt will take place in January.|https://spacenews.com/virgin-orbit-plans-orbital-launch-in-early-2020/|EricFromOuterSpace|False|https://redd.it/eiqu9i|146|0.91|0|35|0|space
+eiv2zs|2020-01-02 07:21:08|NASA Video - How We Are Going back to the Moon - the plan thus far.|https://www.youtube.com/watch?v=_T8cn2J13-4&feature=share|lil_king420|False|https://redd.it/eiv2zs|44|0.8|0|50|0|space
+eiffmk|2020-01-01 07:03:07|Water of super habitable planets might look turquoise|http://www.youtube.com/watch?v=7UJEPKLmznk|alfa015|False|https://redd.it/eiffmk|4377|0.94|0|284|0|space
+ej3bux|2020-01-02 20:00:32|Potential Effects of a Close Supernova?|Since there is talk about Betelgeuse potentially going supernova in our lifetime, I’ve read that it’s way too far away to affect our Solar System noticeably. How close would a supernova have to be to have a noticeable effect, and what could the effect (or effects) be on our Solar System?|Orange_Raccoon|False|https://redd.it/ej3bux|3|0.83|0|13|1|space
+eiw9pz|2020-01-02 09:44:53|Giant magnetic ropes seen in Whale Galaxy's halo|https://phys.org/news/2019-12-giant-magnetic-ropes-whale-galaxy.html|maze-le|False|https://redd.it/eiw9pz|20|0.88|0|1|0|space
+ej0rul|2020-01-02 16:59:16|Meteorite above Poland Lower Silesia ?!|Hi, just making a quick post about some weird events. So just before a minute (17:50) me and my friends spotted weird multiple comets(?) flowing at the sky in Lower SIlesia Poland. This wasn't planes for sure! The multiple comets were very bright and made a weird straight line to the East direction. After some time the light went much less and less brighter. Does anyone can say what I and my friends saw ?! Thanks!|LifeDingo|False|https://redd.it/ej0rul|6|0.65|0|10|1|space
+eiz4lz|2020-01-02 14:50:44|As We Enter a New Decade, Space Food Has Suddenly Rocketed Into Renewed Prominence|https://thespoon.tech/as-we-enter-a-new-decade-space-food-has-suddenly-rocketed-into-renewed-prominence/|hoozy|False|https://redd.it/eiz4lz|7|0.65|0|0|0|space
+ej1giw|2020-01-02 17:48:18|Glittering Lights of Earth As Seen From the Space Station|https://www.nasa.gov/image-feature/glittering-lights-of-earth-as-seen-from-the-space-station|Citia|False|https://redd.it/ej1giw|3|0.86|0|0|0|space
+ej4cm6|2020-01-02 21:10:05|Is Roscosmos up to anything special?|I am basically wondering if the Roscosmos is planning something special instead of just sending astronauts to the ISS. I feel like we know very little about Roscosmos the only thing i know about it is basically just the Soyuz. It feels like after the collapse of the Soviet Union They just lost all faith in their space exploration. They went from doing all the firsts and records in the Soviet era and then after that they just went completely silenced. So i also want to know if there are any other reasons than the Collapse of Soviet and the loss against America  to the moon that caused this and what is a good way to learn more about Roscosmos.|Olasg|False|https://redd.it/ej4cm6|1|0.56|0|20|1|space
+ej0e43|2020-01-02 16:30:37|Does there exist planets that only revolve around star, but do not rotate about their axis ?|"I was wondering if theoretically it is possible for the planets to not rotate around their axis, but rotate around their star. If possible, then are there any physical evidences of such planets ?
+
+
+Edit: I got the answer that nothing can have zero spin. Planets may be tidally locked but there will still be some spin associated. Thanks for replying"|we_fucked_earth|False|https://redd.it/ej0e43|5|0.67|0|40|1|space
+eixe6u|2020-01-02 12:00:16|It’s the First Orbiting Garbage Collector—or a New Kind of Space Weapon|https://www.yahoo.com/news/first-orbiting-garbage-collector-kind-094240839.html|louisamarisa|False|https://redd.it/eixe6u|10|0.66|0|8|0|space
+eiy277|2020-01-02 13:11:15|Atlas-Centaur Rocket Explodes on Launchpad (March 2, 1965)|https://www.youtube.com/watch?v=u0cXC229KMo&t|RocketRundown|False|https://redd.it/eiy277|7|0.66|0|8|0|space
+eipjlt|2020-01-01 23:22:53|Alone in a Crowded Milky Way: Even a galaxy teeming with star-hopping alien civilizations should still harbor isolated, unvisited worlds—and Earth might be among them|https://www.scientificamerican.com/article/alone-in-a-crowded-milky-way/|cryptoz|False|https://redd.it/eipjlt|86|0.87|0|73|0|space
+eir7fq|2020-01-02 01:35:13|India Announces Plans For Its First Human Space Mission|https://wamu.org/story/20/01/01/india-announces-plans-for-its-first-human-space-mission/|louisamarisa|False|https://redd.it/eir7fq|51|0.82|0|16|0|space
+eir2r2|2020-01-02 01:24:56|Scientists pin down timing of lunar dynamo’s demise|http://news.mit.edu/2019/when-lunar-dynamo-ended-0101|Express_Hyena|False|https://redd.it/eir2r2|53|0.88|0|1|0|space
+eitsym|2020-01-02 05:14:29|When, Where and How to See the Planets in the 2020 Night Sky|https://www.space.com/39240-when-to-see-planets-in-the-sky.html||False|https://redd.it/eitsym|22|0.83|0|0|0|space
+ej088e|2020-01-02 16:18:10|Media Invited to Preview Snow-Chasing Field Campaign|https://www.nasa.gov/press-release/media-invited-to-preview-snow-chasing-field-campaign|zac428|False|https://redd.it/ej088e|1|0.62|0|0|0|space
+eit635|2020-01-02 04:17:52|Any idea what this could be? Seen in Morelia, Mexico. Around 19.7060° N, 101.1950° W on 01/01/20|https://v.redd.it/j8d1e93vja841|-Jesus-Of-Nazareth-|False|https://redd.it/eit635|28|0.82|0|12|0|space
+eihcja|2020-01-01 11:16:16|Black Hole Drinking Game|"Watch any documentary (or read any article or book) about black holes. When you hear (or read) the words ""not even light"", take a drink."|curiousscribbler|False|https://redd.it/eihcja|344|0.89|0|26|1|space
+eio3ad|2020-01-01 21:29:03|Making progress! The massive @NASA_SLS core stage is moving to Building 110 at the Michoud Assembly Facility in Louisiana. There it will be readied for the Pegasus barge and its trip to @NASAStennis . Thank you to the @NASA team for working through the holidays!|https://twitter.com/JimBridenstine/status/1212480430353588227?s=20|V_BomberJ11|False|https://redd.it/eio3ad|52|0.84|0|27|0|space
+eiuk3i|2020-01-02 06:25:36|Meteor Showers in 2020 That Will Light Up Night Skies|https://www.nytimes.com/2020/01/01/science/meteor-showers-2020.html|TsukiZombina|False|https://redd.it/eiuk3i|9|0.82|0|0|0|space
+eirkx8|2020-01-02 02:05:48|What is beyond the leading edge of the observable universe and how far does it go?|So far the best answer I’ve heard to this question was “To infinity and beyond”  from Buzz Lightyear in Toy Story.|Sanibel-Signal|False|https://redd.it/eirkx8|17|0.73|0|35|1|space
+eic1nc|2020-01-01 01:26:23|Scott Manley - The Most Important Space Things From The Last Decade (IMHO)|https://www.youtube.com/watch?v=FZVOSZqth70|ferb2|False|https://redd.it/eic1nc|1513|0.96|0|54|0|space
+eiw5am|2020-01-02 09:30:23|A walk back to the last 10 years of ISRO|http://anmoldiaries.home.blog/2020/01/01/last-10-years-of-isro-1/|astroravenclaw|False|https://redd.it/eiw5am|3|0.7|0|0|0|space
+eizme3|2020-01-02 15:30:57|Best online content about space ?|"What are the best documentaries / YT channels / websites about space ? (For ""beginners"", not too sharp)"|riquiiita|False|https://redd.it/eizme3|1|0.57|0|7|1|space
+eium9c|2020-01-02 06:31:57|Are there any other names for the spacetime distortion due to gravity? Need help naming a new art series.|I’m a glassblower and I’m working on a new series of work that is loosely based on the distorted grid look of a lot of these visualizations of how gravity effects spacetime.  I’m just searching for the right name for the technique/series and “Spacetime Distortion” doesn’t quite have the right ring to it.  I have a super basic understanding of general relativity and space, so I figured I’d reach out and see if anybody has any good descriptive or related words for that or suggestions.  Thanks in advance for any help!!|MonkyThrowPoop|False|https://redd.it/eium9c|3|0.59|0|15|1|space
+eiojor|2020-01-01 22:03:28|Apart from our planet, what do you think is the most beautiful celestial object in our solar system?|Don't hesitate to show your favorite images of it (non-enhanced is favorable)|stratocaster122|False|https://redd.it/eiojor|18|0.82|0|45|1|space
+ei2dka|2019-12-31 12:40:04|The seven most exciting space missions of 2020: Four countries are sending robots to Mars, private companies will send humans into orbit, and we’re inching closer to seeing NASA return astronauts to the moon.|https://www.technologyreview.com/s/614970/the-seven-most-exciting-space-missions-of-2020/|mvea|False|https://redd.it/ei2dka|11939|0.97|0|440|0|space
+eimtch|2020-01-01 19:53:57|How and when do astronauts on the ISS celebrate New Years?||LT_Davis|False|https://redd.it/eimtch|15|0.82|0|10|1|space
+eiynzn|2020-01-02 14:09:42|Would it be possible to use launch escape systems on JWST?|"The Ariane 5 has a ~95% success rate, one might think given the high cost of the James Webb Space Telescope (JWST), a manned mission equivalent launch escape system could be warranted. Assuming that you want to add a launch escape system: 
+
+
+- Is there any current tower, available to ESA, that could be fitted to the Ariane 5?
+
+
+- Have launch escape systems ever been used for satellite launches?
+
+
+- Have launch escape systems ever caused launch failures?
+
+
+- How much mass does an escape system generally add and are the the margins for getting JWST to L2 on the Ariane 5 even large enough to allow any kind of escape system?
+
+
+- Could JWST survive an aborted launch?
+
+
+- In the event of a failure how much would it cost to build a second JWST and would the US government have motivation to do this?
+
+
+I have done a been doing some research on this but this is not at all my field, any insights would be greatly appreciated!"|Zad_zad|False|https://redd.it/eiynzn|0|0.44|0|12|1|space
+einxnc|2020-01-01 21:17:06|Many posts about Earth explain “how small/ insignificant we are in the universe.” Well what’s re some things that make us and our planet unique and amazing?||smokebomb_exe|False|https://redd.it/einxnc|9|0.65|0|19|1|space
+eihank|2020-01-01 11:09:25|International Space Station astronauts play with fire for research - Tests to study behaviour of flames in zero gravity suggest fires could be more dangerous on moon than Earth|https://www.theguardian.com/science/2020/jan/01/international-space-station-astronauts-play-with-fire-for-research|mvea|False|https://redd.it/eihank|54|0.86|0|2|0|space
+eihaz8|2020-01-01 11:10:33|Meet Steve, the winter sky phenomenon - Steve has been around for eons, but has been mis-identified as aurora until now|https://www.theguardian.com/science/2019/dec/31/meet-steve-the-winter-sky-phenomenon|mvea|False|https://redd.it/eihaz8|49|0.85|0|6|0|space
+eimj7p|2020-01-01 19:33:21|5 Things We Still Don't Know About the Solar System|https://www.youtube.com/watch?v=wxRHsZIHTYE|Terezzian|False|https://redd.it/eimj7p|7|0.67|0|0|0|space
+eihugg|2020-01-01 12:25:20|ISRO to launch Chandrayaan-3 in November 2020|https://youtu.be/zCjGaoQ0a-o|10100011a10100011a|False|https://redd.it/eihugg|32|0.78|0|0|0|space
+ej12id|2020-01-02 17:20:17|SpaceX will Take Cannabis to Space in 2020|" 
+
+Yesterday and today, the [Elon Musk](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/) space company, [SpaceX](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/), has made headlines around the world for a successful new launch through [Falcon 9](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/).
+
+It has been the third launch of this rocket, which has again successfully landed on its reuse, although in the process one of the two halves of its fairing has been lost.
+
+Those responsible for the project have announced that they will try to recover it from the water in order to continue using it.
+
+However, even if they failed, [SpaceX](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/) will continue to give much to talk about in 2020, as it already has a large number of releases planned, some of the most curious.
+
+This is the case that is scheduled for next March, when the company plans to take 480 hemp and coffee plant cell cultures to the International Space Station, in order to check what effects its growth in microgravity has and if its properties are modified, for later use, both in space and back on Earth.
+
+It will be in charge of doing the CRS-20 cargo flight, backed by [SpaceCells](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/) USA. Inc, Front Range Biosciences and the University of Colorado, as recently explained in a press release.
+
+ 
+
+Experiments with sight in the future
+
+The scientific evidence available so far suggests that plants in space can undergo numerous mutations.
+
+This has led the researchers of the participating institutions to launch this project, whose objective is to verify to what extent they occur, how they affect them and if they remain once back on Earth.
+
+The stay of these plant cells in space will last a month, after which [Front Range Biosciences](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/) scientists will analyze whether there have been changes in [RNA](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/).
+
+The objective of this test is to check if the gene expression they had before undergoing these extreme conditions has changed. But what does this mean exactly?
+
+Remember that [DNA](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/) is like the instruction book of an organism. All cells have the same code, but this is not read in the same way.
+
+Depending on the function of each one, some instructions or others will be followed or, put in a more technical way, some genes or others will be expressed.
+
+This is done through the conversion of [DNA](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/) to another molecule, called [RNA](https://www.wingsherald.com/spacex-will-take-cannabis-to-space-in-2020-elon-musk-tesla-nasa/), which will later serve to synthesize the necessary proteins at all times.
+
+In short, what these experts are looking for is to check if space changes the way in which plant cells read the instructions of the plant.
+
+These experiments have the objective of verifying how plants would behave in space, facing future colonization, both for scientific purposes and, why not, also for tourism. They would be necessary as ornamentation, but especially to help space travelers stay healthy during their stay.
+
+But that’s not all, because it is also intended to check if the stress of this new environment can help plants synthesize chemical compounds that they would not normally produce.
+
+No doubt a very interesting research field will be opened as a result of this trip. Paint well the science that is presented for this 2020."|jubair_bin_hasan|False|https://redd.it/ej12id|0|0.4|0|9|1|space
+eih6yt|2020-01-01 10:55:39|Four astronauts selected for India’s first manned mission, Gaganyaan: ISRO chief|https://www.thenewsminute.com/article/four-astronauts-selected-india-s-first-manned-moon-mission-gaganyaan-isro-chief-115140|OnlysliMs|False|https://redd.it/eih6yt|23|0.7|0|5|0|space
+eih66c|2020-01-01 10:52:20|These are the stars the Pioneer and Voyager spacecraft will encounter|https://www.technologyreview.com/s/614956/these-are-the-stars-the-pioneer-and-voyager-spacecraft-will-encounter/|futuredude|False|https://redd.it/eih66c|25|0.82|0|4|0|space
+ein3of|2020-01-01 20:14:36|Aerospace Medicine Community?|I am interested in delving deeper into aerospace and exploration medicine, but am finding this a difficult task to start. Does anyone know of any communities/resources that keep up with all things aerospace medicine? It’s a fascinating and growing field with major implications for the developing space age...|tommywags|False|https://redd.it/ein3of|3|0.76|0|4|1|space
+eifb65|2020-01-01 06:49:17|Weird Object: Titan|http://www.astronomy.com/magazine/weirdest-objects/2015/03/43-home-of-methane-munching-ets?utm_source=asytwitter&utm_medium=social&utm_campaign=asytwitter|futuredude|False|https://redd.it/eifb65|36|0.87|0|1|0|space
+eiqu93|2020-01-02 01:05:50|Beginner advice|Love seeing some of the backyard photos on this sub. Any advice on where to start with a half decent telescope/camera setup that doesn't break the bank? UK based. Cheers!|HPLovekraftwerk|False|https://redd.it/eiqu93|0|0.5|0|4|1|space
+eid8gq|2020-01-01 03:18:35|Fermi paradox|"Hi, I have a question related to the Fermi paradox that has been in the back of my head for a while now. So my topic goes like this. We, scientific community, has been looking at the universe with a multitude of equations and intruments (eg. Find the type of atmosphere of certain exoplanets and their stars and all that stuff) for decades and everyday we use new methods that amaze me. We look at the universe and we didn’t find any complex life equal or better which lead us to think that we, Humans, are the only intelligent organism in the universe. The Fermi paradox goes with the idea that, with all the exoplanets that exist in the universe, we would have seen some form of clues of another complex civilisation (the Dyson sphere is a good example). An intelligent specie does not exist without leaving traces of them harvesting the power of their planet, star or even galaxy. But, we all know that light travels at a certain speed (approximately 300 000km/s) and when we look at a star that is, let say 2,5 millions ly away from us, we see it like it was, 2,5 millions years ago. So, why the Fermi paradox exists if we look always in the past and not in the present ? There could be millions of Dyson spheres out there in front of us, but we would have to wait millions if not billions of years to see the information (yes, light is information) of those Dyson spheres. We look in the past and maybe in this past the universe was not suitable for life to form or just that it didn’t appear in those times. Why scientists try to find clues about stars in other galaxies if they probably don’t exist anymore or are like millions or billions ly away from the positioning we currently look at them?
+
+Im french so there could be grammar mistakes.. :D"|elpedro897|False|https://redd.it/eid8gq|38|0.74|0|105|1|space
+eij1zo|2020-01-01 14:49:01|How a day/night/month cycle will work on a tidally locked earth like planet without a moon?|Yeah just wondering|manor2003|False|https://redd.it/eij1zo|4|0.6|0|13|1|space
+eih0hh|2020-01-01 10:29:48|Why do space agencies keep on exploring places like the Moon?|"We pretty much know that there are no significant signs of life there nor there are any other benefits humanity can get out of it. So why do space agencies keep on spending money to explore places like the moon and not focus their efforts somewhere else?
+
+Edit: Thanks to everyone who answered."|accprotonew|False|https://redd.it/eih0hh|4|0.54|0|27|1|space
+eijf2b|2020-01-01 15:24:20|Space in 2019, a look back at major events in Space Exploration|https://youtu.be/OSj_-_FbERo|l2bceo|False|https://redd.it/eijf2b|2|0.5|0|0|0|space
+eigdpx|2020-01-01 09:03:04|The Space Missions to Watch in 2020|https://www.space.com/space-missions-to-watch-2020.html|girlislit|False|https://redd.it/eigdpx|8|0.62|0|2|0|space
+eigral|2020-01-01 09:55:11|The Decade in Spaceflight: NASA Shuttles Retired as Private Spaceships Took Flight in the 2010s|https://www.space.com/decade-in-spaceflight-2010s-review.html|aqsa_nadeem|False|https://redd.it/eigral|3|0.65|0|0|0|space
+eioici|2020-01-01 22:00:52|Space Suits/PLSS Resources|"Good Day Galactic explorers,
+
+I am looking for resources/groups for space suits and PLSS (Personal Life Support System) resources. I have already exhausted the reference material that you can get on NASA and ESA's website but was looking if anyone knew any groups that focus more on that aspect of space exploration?
+
+Thank you in advance your contributions and input on this subject."|Cybermage2019|False|https://redd.it/eioici|0|0.33|0|3|1|space
+ehz285|2019-12-31 06:23:17|Iridium would pay to deorbit its 30 defunct satellites — for the right price|https://spacenews.com/iridium-would-pay-to-deorbit-its-30-defunct-satellites-for-the-right-price/|Philo1927|False|https://redd.it/ehz285|633|0.96|0|93|0|space
+eiqda0|2020-01-02 00:28:39|What started the big bang|Just sittong on the toilet at 3 am. Just curious|OtryxOfficial|False|https://redd.it/eiqda0|0|0.38|0|30|1|space
+eibiyf|2020-01-01 00:41:11|Astronaut Christina Koch Breaks Record for Longest Spaceflight by a Woman|https://www.smithsonianmag.com/smart-news/astronaut-christina-koch-breaks-record-longest-spaceflight-woman-180973889/#.Xgvqi_MAFpc.reddit|Gladari|False|https://redd.it/eibiyf|13|0.61|0|0|0|space
+ehml30|2019-12-30 14:20:59|Astrophysicist Describes A Stellar Engine That Can Move The Solar System|https://in.mashable.com/science/9937/astrophysicist-describes-a-stellar-engine-that-can-move-the-solar-system|cosmicdatabase|False|https://redd.it/ehml30|17096|0.94|1|1082|0|space
+eiiye7|2020-01-01 14:38:30|A different classification of extraterrestrial civilisations|"Was just playing around with my free time understanding the movie ""interstellar"" which told us about a superior civilisation called ""bulk beings"".
+
+This gave me an idea about the possibility of other similar civilisations according to their various abilities which could be as follows:
+
+1. Ultimate beings (the Trinity)
+ - ability to MANIPULATE time like freeze it, slow it down, fast forward etc.
+ - physical travel might be much faster than speed of light
+
+
+2. Supreme beings (their incarnations)
+ - ability to physically MOVE themselves through time,backwards or forwards
+ - physical travel at around speed of light 
+
+
+3. Bulk beings (highly developed humans/aliens)
+ - ability to SEE through time, backwards or forward.
+ - physical travel less than speed of light but more than speed of sound.
+
+
+4. Human beings (Us)
+ - No time related abilities. Can only use time as it is and maybe bend it a little bit. XD
+ - physical travel less than speed of sound.
+
+
+5. Primitive beings (what we were at the start of stone age)
+ - same as human beings in terms of time.
+ - physical travel at even less speed than that for human beings.
+
+
+
+6. Thoughtless beings (what we were before stone age)
+ - time usage simlar to that of both above
+ - physical travel same as primitives
+
+
+7. Fauna (aquatic worlds, dinosaurs, reptilian worlds etc)
+ - both abilities same as thoughtless ones
+
+
+8. Fundamental (single cell)
+ - time abilities same as above
+ - physical travel might be the slowest of all"|JayRevo27|False|https://redd.it/eiiye7|1|0.5|0|16|1|space
+eibnb0|2020-01-01 00:51:35|Something cool for the new year - My Dad Built Spaceships podcast (OC)|"Many people start their evening by asking their loved ones how their day was. I’ve always loved asking that to my Dad. Hearing Dad talk about work is especially fascinating to me because his 9 to 5 was fairly unique - his job, was keeping astronauts alive. Eventually, I decided to start recording some of his best work stories. Here are those stories as - My Dad Built Spaceships.
+
+The trailer episode is now available on Google Play Music and will soon be available wherever you listen to podcasts. https://play.google.com/music/m/I5my4waretuf3hqx6hcqlw3dyka?t=My_Dad_Built_Spaceships 
+This isn't a money making endeavor - just a passion project. 
+
+Here's the website https://www.mydadbuiltspaceships.com/ and there's some cool photos on the facebook and instagram pages. (Same name. You can find them. :) ) 
+
+Hope you enjoy!"|FurryFeets|False|https://redd.it/eibnb0|9|0.82|0|0|1|space
+ein6c7|2020-01-01 20:20:31|Unbearably Fast Winds And Temperatures! What's the Weather Conditions on Other Planets|https://www.youtube.com/watch?v=-5GTSs7dit0&t=38s|palletideas|False|https://redd.it/ein6c7|0|0.38|0|0|0|space
+ei3w6w|2019-12-31 15:00:41|NASA to Announce New Discoveries at Annual Astronomy Meeting|https://www.nasa.gov/press-release/nasa-to-announce-new-discoveries-at-annual-astronomy-meeting|devnodegree|False|https://redd.it/ei3w6w|46|0.82|0|3|0|space
+ei70f3|2019-12-31 18:48:49|NASA 2020: Are You Ready?|https://youtu.be/mB1nAzriqRQ|SourBogBubbleBX3|False|https://redd.it/ei70f3|21|0.72|0|12|0|space
+ei6z0u|2019-12-31 18:46:07|JAXAs promo about everyone's importance in space exploration|https://www.youtube.com/watch?v=EAJ6H5UuoLc|efojs|False|https://redd.it/ei6z0u|16|0.76|0|1|0|space
+ei35yn|2019-12-31 13:58:22|Frozen ice mountains and nitrogen plains at the edge of the Solar System|https://youtu.be/bnrvkqSXPME|AstroFlask|False|https://redd.it/ei35yn|36|0.82|0|6|0|space
+ei4yoj|2019-12-31 16:22:20|2020 is going to be a huge year for the space industry|https://orbitalindex.com/archive/2019-12-31-Issue-45/|tectonic|False|https://redd.it/ei4yoj|20|0.82|0|2|0|space
+ehsfqy|2019-12-30 21:27:18|Humanity Is Sending 3 New Rovers to Mars in 2020 to Look for Signs of Life - The space agencies of the US, Europe, Russia, and China are all launching rovers to Mars next year.|https://www.vice.com/en_us/article/jgexm4/humanity-is-sending-3-new-rovers-to-mars-in-2020-to-look-for-signs-of-life|mvea|False|https://redd.it/ehsfqy|655|0.97|0|95|0|space
+ei5fos|2019-12-31 16:56:49|Really interesting Astronomy Picture of the Day from NASA from December 29th|"[https://apod.nasa.gov/apod/ap191229.html](https://apod.nasa.gov/apod/ap191229.html)
+
+Just thought this was really interesting and wanted to share.
+
+From APOD website:
+
+**Cassini Spacecraft Crosses Saturn's Ring Plane** 
+
+**Explanation:** If this is Saturn, where are the rings? When Saturn's ""appendages"" [disappeared](https://science.nasa.gov/science-news/science-at-nasa/2008/18mar_saturn) in 1612, [Galileo](https://en.wikipedia.org/wiki/Galileo_Galilei) did not understand why. Later that century, it became understood that [Saturn](https://solarsystem.nasa.gov/planets/saturn/overview/)'s unusual protrusions were rings and that when the [Earth crosses the ring plane](https://apod.nasa.gov/apod/ap950801.html), the edge-on rings will [appear to disappear](http://www.youtube.com/watch?v=ZaTAYOpUP6o). This is because Saturn's rings are confined to a [plane many times thinner](http://coolcosmos.ipac.caltech.edu/ask/108-How-large-are-Saturn-s-rings), in proportion, than a [razor blade](http://en.wikipedia.org/wiki/Razor). In modern times, the [robot Cassini spacecraft](https://solarsystem.nasa.gov/missions/cassini/mission/spacecraft/cassini-orbiter/) orbiting Saturn frequently crossed [Saturn's ring](https://apod.nasa.gov/apod/ap040117.html) plane during its mission to Saturn, from 2004 to 2017. A series of plane crossing images from 2005 February was dug out of the vast [online Cassini raw image](https://solarsystem.nasa.gov/raw-images/raw-image-viewer/) archive by interested Spanish amateur Fernando Garcia Navarro.  [Pictured here](http://www.slate.com/blogs/bad_astronomy/2005/05/31/saturn_sans_rings.html), digitally cropped and set in representative colors, is the striking result.  [Saturn's thin ring plane](https://apod.nasa.gov/apod/ap080720.html) appears in blue, bands and clouds in [Saturn's upper atmosphere](https://apod.nasa.gov/apod/ap041102.html) appear in gold. Details of Saturn's rings can be seen in the high [dark shadows](https://apod.nasa.gov/apod/ap090901.html) across the top of this image, taken back in 2005. The moons [Dione](https://apod.nasa.gov/apod/ap121105.html) and [Enceladus](https://apod.nasa.gov/apod/ap180701.html) appear as [bumps in the rings](http://asterisk.apod.com/viewtopic.php?f=9&t=18340&p=230228#p230227).
+
+**Image Credit:** [NASA](https://www.nasa.gov/), [ESA](https://www.esa.int/), [JPL](https://www.jpl.nasa.gov/), [ISS](http://ciclops.org/iss/iss.php), [Cassini Imaging Team](http://ciclops.org/); *Processing:* Fernando Garcia Navarro
+
+https://preview.redd.it/c3rh48mz10841.jpg?width=1004&format=pjpg&auto=webp&s=9c407391b0ccf238d9067947ebdb1649b9b80b69"|gob17|False|https://redd.it/ei5fos|11|0.8|0|1|1|space
+ei4771|2019-12-31 15:24:46|The 2010s: Decade of the exoplanet - Ten years can transform a discipline.|https://arstechnica.com/science/2019/12/the-2010s-decade-of-the-exoplanet/|Philo1927|False|https://redd.it/ei4771|12|0.78|0|2|0|space
+eibtpl|2020-01-01 01:07:00|SpaceX Starship 2019: Year In Review|https://youtu.be/WM4IIwVyvvs|Koplins|False|https://redd.it/eibtpl|1|0.6|0|0|0|space
+ei5vim|2019-12-31 17:27:25|NASA TV to Air US Cargo Ship Departure from Space Station|https://www.nasa.gov/press-release/nasa-tv-to-air-us-cargo-ship-departure-from-space-station-0|boxcarjakey|False|https://redd.it/ei5vim|9|0.76|0|0|0|space
+ei6629|2019-12-31 17:48:19|Space Missions to Watch in 2020|https://www.skyandtelescope.com/astronomy-news/space-missions-to-watch-in-2020/|ye_olde_astronaut|False|https://redd.it/ei6629|5|0.7|0|0|0|space
+ehve14|2019-12-31 01:08:03|Space-tech firm MDA (Canadarm) back in Canadian hands with $1 billion sale to investors|https://business.financialpost.com/technology/satellite-imagery-company-maxar-to-sell-its-robotics-unit-for-c1-bln|DontLetGoCanada|False|https://redd.it/ehve14|127|0.94|0|2|0|space
+ei5bi1|2019-12-31 16:48:29|Galactic Pyrotechnics From 23 Million Light Years Away|https://www.nasa.gov/image-feature/galactic-pyrotechnics-from-23-million-light-years-away|Citia|False|https://redd.it/ei5bi1|4|0.83|0|0|0|space
+ei40yj|2019-12-31 15:10:57|Giant magnetic ropes seen in Whale Galaxy's halo|https://phys.org/news/2019-12-giant-magnetic-ropes-whale-galaxy.html|TMcFly|False|https://redd.it/ei40yj|7|0.64|0|2|0|space
+ei5651|2019-12-31 16:37:28|NASA Space Station On-Orbit Status 30 December 2019 - SpaceX Dragon Set to Leave January 5|http://spaceref.com/international-space-station/nasa-space-station-on-orbit-status-30-december-2019---spacex-dragon-set-to-leave-january-5.html|YZXFILE|False|https://redd.it/ei5651|4|0.78|0|1|0|space
+eiflmb|2020-01-01 07:23:12|Pennys (earths) to Alpha Centauri|"got bored at 1 in the morn 
+
+I just wanted someone to check over my math ( that I'm pretty sure is correct)
+
+25672000000000 miles to alpha centauri
+
+19.05 mm of a penny
+
+7917.5 mi diameter of earth
+
+3242437638.14 earths to alpha centauri 
+
+&#x200B;
+
+84461.9422572 penny's in a mile
+
+&#x200B;
+
+668727427.821 miles  ==========  penny's (earths) in a mile 
+
+&#x200B;
+
+25672000000000 / 668727427.821 = 38389.3331303 miles of penny's (earths) to alpha centauri
+
+kinda makes you wonder how small we really are"|sarnn|False|https://redd.it/eiflmb|0|0.42|0|1|1|space
+ei90gc|2019-12-31 21:19:43|Space career dream as a civil engineer, any recommendations? Love to work on Mars & moon settlement design, any programs?|"There is nothing more I find more intriguing and have a passion for than space, but always followed and studied it as a hobby. I received a bachelor's degree in civil engineering as it was a field I also had an interest in, however, I realized why am I not following my passion for space and want nothing more than at this point than to get into the space field. I may be late and understand there is no real correlation between civil engineering and any space careers, therefore, I am here asking for any recommendations on careers in the space industry a civil engineer such as myself can branch into? Any recommendations of classes I should look into?
+
+Within the coming years I am getting my masters in structural engineering and project management, as well as, my professional engineering license. I would love to get into the design aspect of the new Mars and Moon missions focusing on the settlements, with the infrastructure etc, but have no clue whether SpaceX, NASA, or if there are any companies or agencies that are embarking in this research or have a program in this type of field. Does anyone know if this exists?
+
+Would appreciate any feedback on whether this is a pipe dream or I can make this a reality, thanks."|usaspacemans|False|https://redd.it/ei90gc|1|0.5|0|18|1|space
+ei0ldp|2019-12-31 09:16:52|How accurate is the movie 'The Martian' ?|"I read somewhere that it is the most accurate science-fiction movie out there. Is this true ?
+
+I am talking about  [The Martian (2015)](https://www.imdb.com/title/tt3659388/) , to be clear."|redfyrer|False|https://redd.it/ei0ldp|9|0.65|0|26|1|space
+ehzknb|2019-12-31 07:15:02|OSIRIS REx's Thermal Emission Spectrometer|https://youtu.be/VEpn7Zr_3aQ|reflectivelayer|False|https://redd.it/ehzknb|10|0.67|0|2|0|space
+eh7lgq|2019-12-29 16:08:13|The Needle Galaxy is nearly 50 million light-years away. I used 11 hours of exposure time to capture it from my backyard.|https://i.redd.it/eddbn0hcjl741.jpg|chucksastro|False|https://redd.it/eh7lgq|97956|0.96|37|2385|0|space
+ehtoi9|2019-12-30 22:57:03|Scale comparison from the Planck lenght to the observable universe - credit goes to Epic Teaching of the History|https://www.youtube.com/watch?v=HBhQHSpebfE|Egg_Shapped_Potato|False|https://redd.it/ehtoi9|29|0.77|0|7|0|space
+ehyq2e|2019-12-31 05:51:03|Scientists Have Calculated How Long It'll Take to Reach Distant Stars|http://www.popularmechanics.com/space/deep-space/a30345230/calculating-interstallar-distances/|dunkin1980|False|https://redd.it/ehyq2e|6|0.64|0|3|0|space
+ehnlex|2019-12-30 15:44:31|US astronaut sets record for longest spaceflight by a woman|https://apnews.com/ab1478e861bff94bd5d10120d9b3e709|JackFisherBooks|False|https://redd.it/ehnlex|60|0.7|0|20|0|space
+ehpnu6|2019-12-30 18:14:24|Crew Dragon Animation - SpaceX|https://www.youtube.com/watch?v=sZlzYzyREAI|cauliflowerandcheese|False|https://redd.it/ehpnu6|35|0.81|0|7|0|space
+ehm5pt|2019-12-30 13:39:51|Halo around a pulsar could explain why we see antimatter coming from space|https://www.universetoday.com/144453/halo-around-a-pulsar-could-explain-why-we-see-antimatter-coming-from-space/|ankitnayak1|False|https://redd.it/ehm5pt|72|0.89|0|0|0|space
+ehnxac|2019-12-30 16:09:47|Firefly has begun Alpha Stage 1 Qualification testing, the last major milestone of Alpha development. We've installed the stage, which includes four Reaver engines, on Firefly’s TS2. We'll begin hotfire testing soon, culminating in multiple 165 sec full mission duty cycle tests.|https://twitter.com/Firefly_Space/status/1211669188688990213|V_BomberJ11|False|https://redd.it/ehnxac|44|0.88|0|4|0|space
+ehr63w|2019-12-30 19:59:09|Humanity's space travel plans, 2020–2030|https://www.salon.com/2019/12/29/humanitys-space-travel-plans-2020-2030/|malcolm58|False|https://redd.it/ehr63w|18|0.83|0|1|0|space
+ehtixd|2019-12-30 22:45:44|How is it possible that universe expand faster that speed of light?||MeKastman|False|https://redd.it/ehtixd|10|0.77|0|31|1|space
+ehsez5|2019-12-30 21:25:53|Satellite Photos Show Our Decade of Climate Change|https://earther.gizmodo.com/the-satellite-images-that-show-a-decade-of-climate-chan-1840724401|Wagamaga|False|https://redd.it/ehsez5|9|0.62|0|2|0|space
+ehfgmx|2019-12-30 02:09:04|Earth’s Magnetosphere & Solar Wind|https://v.redd.it/81dwuv1iio741|G-rantification|False|https://redd.it/ehfgmx|297|0.95|0|8|0|space
+eh3fwa|2019-12-29 07:59:53|My dad, an engineer with a 57-year career from 1962 - 2019 at Rocketdyne, with the metal print I gave him for Christmas of a photo I first saw on r/space by John Kraus, featuring one of my dad's rocket engines, the RS-68.|https://i.redd.it/a393ufp93j741.jpg|Scintelle|False|https://redd.it/eh3fwa|15471|0.95|3|257|0|space
+ehqvhj|2019-12-30 19:38:34|Veteran Soviet Cosmonaut Reveals What Russia Needs to Do to Add Some Oomph to Its Space Programme|https://sputniknews.com/science/201912301077904312-veteran-soviet-cosmonaut-reveals-what-russia-needs-to-do-to-add-some-oomph-to-its-space-programme/|hanpari|False|https://redd.it/ehqvhj|8|0.69|0|5|0|space
+eh440z|2019-12-29 09:30:51|Took a day off from work - totally worth it for this view of the 'ring of fire' annular solar eclipse from Liwa desert in the Middle East.|https://i.redd.it/i2tio2t7kj741.jpg|Chatni555|False|https://redd.it/eh440z|5303|0.98|1|78|0|space
+eh56nh|2019-12-29 11:58:41|I made an 8K wallpaper of some of my favorite Deep Sky Objects I've photographed throughout 2019. This image represents over 100 hours of long exposure. [OC]|https://live.staticflickr.com/65535/49290193663_1e0f568600_o.png|azzkicker7283|False|https://redd.it/eh56nh|2583|0.97|4|53|0|space
+eh5rar|2019-12-29 13:10:38|Unusual Pits on Pluto|https://i.redd.it/hfdt0wuonk741.jpg|cosmicdatabase|False|https://redd.it/eh5rar|1693|0.97|0|168|0|space
+ehpo1n|2019-12-30 18:14:47|Inside the risky Spaceport America project 5 years later.|https://www.theverge.com/2019/12/30/21035125/virgin-galactic-spaceport-america-truth-or-consequences-new-mexico|EricFromOuterSpace|False|https://redd.it/ehpo1n|8|0.81|0|0|0|space
+ehcfdr|2019-12-29 22:13:04|There's an ape in space! The monkey head nebula|https://imgur.com/2fEuQZK|OvenRoastedDonkey|False|https://redd.it/ehcfdr|240|0.93|0|19|0|space
+eh7fb7|2019-12-29 15:53:47|My capture of last night's Venus/moon conjunction. If you zoom into the small dot at the top of this image you can see the phase Venus is in. [OC]|https://i.redd.it/6tclcn3sgl741.jpg|ajamesmccarthy|False|https://redd.it/eh7fb7|726|0.97|1|21|0|space
+ehnyzl|2019-12-30 16:13:17|Bought the DS1 Planetarium for Christmas|"I have a three year old son that is just starting to get interested in space and planets and stars and all that good stuff. I was never big in astronomy myself, but thought it would be a good idea to foster that interest and get us a planetarium for Christmas.
+
+Did a lot of research, and essentially narrowed my choice down to two: the Sega Homestar Flux and the DS1 Planetarium. The DS1 is obviously the superior one, but cost quite a bit more vs. the Homestar. I went back and forth with the owner of Miller Engineering (the company that makes the DS1), and eventually decided to go with it.
+
+I ordered the planetarium, the chrome disc, and 5 additional star discs. Tested it out the day it arrived, and have been using it every other day since Christmas. I turned it on in my son's bedroom after storytime, put on some ""star gazing"" music, and just stared at the ceiling until he slowly drifts away. This is the most relaxing thing I've ever done in my home.
+
+I never got the Sega Homestar Flux, so it's not fair for me to draw a comparison between the two. But I'm very happy with the DS1. The upfront cost is high, but the quality of the build makes me believe that the planetarium will lasts us quite a long time.
+
+Overall, I cannot be happier with the product. Just thought I would share my thoughts as there were a distinct lack of reviews of the DS1 on the internet when I was doing my research. Hopefully I can help someone who was in my position make a more informed decision.
+
+Here are some pictures that I took. Bear in mind, I took the pictures my my cellphone, and the room suffers some light pollution from the street lamp. Just want to show what it looks like in an everyday scenario:
+
+https://imgur.com/O9k3UZs
+
+https://imgur.com/9FZpHk7
+
+https://imgur.com/sMNIuIL
+
+https://imgur.com/DE3faLl
+
+https://imgur.com/cU1XQPC"|crease1234|False|https://redd.it/ehnyzl|6|0.78|0|8|1|space
+ehkvud|2019-12-30 11:18:29|2020 is the year of the $1 trillion space economy|https://qz.com/1774249/2020-is-the-year-of-the-1-trillion-space-economy/|mvea|False|https://redd.it/ehkvud|18|0.67|0|2|0|space
+eh99p4|2019-12-29 18:18:01|Spent Christmas away from light pollution so i decided to get reacquainted with the night sky...it did not disappoint.|https://imgur.com/bIWjUUq|TrimeresurusRex|False|https://redd.it/eh99p4|334|0.95|2|11|0|space
+egyx1w|2019-12-29 00:39:21|Thanks to the space enthusiasts on Reddit for introducing me to the amazing new hobby of astrophotography - these are my favorite images from 2019, my first year of learning to photograph the cosmos!|https://i.redd.it/fbvocwl8xg741.jpg|jtmess|False|https://redd.it/egyx1w|28319|0.96|6|291|0|space
+ehscop|2019-12-30 21:21:21|How to weigh a plant.|https://youtu.be/aAID7YyI-dM|wttnz|False|https://redd.it/ehscop|1|0.6|0|3|0|space
+ehb14k|2019-12-29 20:30:05|Jupiter's pentagon cyclone recorded by juno. Transforming to an hexagon.|https://v.redd.it/sa824b73um741|bebesiege|False|https://redd.it/ehb14k|179|0.97|0|6|0|space
+eh9rd1|2019-12-29 18:54:52|Now that I moved to the city, I have about a 45 minute window where Orion is visible through a gap in the trees and powerlines from my backyard in Anchorage, Alaska. On Monday morning, clear skies got me this awesome view!|https://i.redd.it/firhdci3dm741.jpg|aatdalt|False|https://redd.it/eh9rd1|226|0.96|0|5|0|space
+ehkrah|2019-12-30 11:03:56|"Elon Musk on Twitter: ""Simulation of first crewed flight of Falcon 9 / Dragon 2020 @NASA… """|https://twitter.com/elonmusk/status/1211493590456848385?s=09|Ecuagirl|False|https://redd.it/ehkrah|11|0.65|0|2|0|space
+ehpe56|2019-12-30 17:55:17|A fun look back at the decade in space!|https://youtu.be/pQFkz_VWPME|glitchingTARDIS|False|https://redd.it/ehpe56|4|0.62|1|0|0|space
+ehl50u|2019-12-30 11:48:40|Home made Observatory in Germany.|"Ramón Sehling of Plauen Germany made an observatory in his own yard and has captured some fantastic images and video.
+
+He has his own [website](http://www.kfo48.com/) and [YouTube](https://www.youtube.com/user/Ramonkfo/videos) channel detailing the creation and use of the observatory from 2004 to now.
+
+It's all in German, but most modern browsers should have no issues translating it
+
+There are may fantastic pictures if you can bare the web layout but its all pretty logical and the pictures are worth it. 
+
+quick links for the lazy ( i encourage you to explore his site on your own though)
+
+[Construction pictures](http://www.kfo48.com/construction.htm)
+
+[The story of the creation](http://www.kfo48.com/story.htm)
+
+[Moon](http://www.kfo48.com/moon-2019-812mm_stitch.jpg) and [cool moon video](http://www.kfo48.com/moon-overview-08-01-2009.mp4)
+
+[before and after processing videos](http://www.kfo48.com/deepsky2013.htm)
+
+&#x200B;
+
+Alternatively use google images ([link](https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=&as_epq=Kfo48+com&as_oq=http%3A%2F%2Fwww.kfo48.com%2F&as_eq=&imgsz=&imgar=&imgc=&imgcolor=&imgtype=&cr=&as_sitesearch=kfo48.com&safe=images&as_filetype=&as_rights=)) this does not have all the images on the site just a small amount that google has indexed. 
+
+[Ramón Sehling in front of his home and his observatory ](https://preview.redd.it/gm64p191br741.jpg?width=240&format=pjpg&auto=webp&s=539c2b89c8a8ed5efdd696074efe76989ecb1c7e)"|TimmyWithaG|False|https://redd.it/ehl50u|9|0.75|0|0|1|space
+ehn5md|2019-12-30 15:10:11|The Science Behind Whether We Live in a Multiverse?|https://www.youtube.com/watch?v=glfV4aimFmg|ConcerningReality|False|https://redd.it/ehn5md|4|0.58|0|6|0|space
+ehf79f|2019-12-30 01:47:40|Astronaut Christina Koch Breaks Record for Longest Space Mission by a Woman|https://www.space.com/nasa-astronaut-christina-koch-breaks-female-spaceflight-record.html|The_Kendawg|False|https://redd.it/ehf79f|38|0.69|0|9|0|space
+ehaa3d|2019-12-29 19:34:01|The Moon and Venus; the last of this decade this spectacle will be seen|https://i.redd.it/g5kpzknwjm741.jpg|Technickology|False|https://redd.it/ehaa3d|116|0.94|0|4|0|space
+eh0mo3|2019-12-29 03:09:40|The Moon and Venus from Tonight|https://i.redd.it/x424l7ogoh741.jpg|selenophile_photo|False|https://redd.it/eh0mo3|2403|0.98|0|91|0|space
+ehcuag|2019-12-29 22:44:15|Thor's Helmet (NGC 2359). Cosmic bubble in Canis Major [OC]|https://i.redd.it/44n0317vhn741.jpg|stellarirk|False|https://redd.it/ehcuag|63|0.91|0|0|0|space
+ehbs9o|2019-12-29 21:25:42|Musk's new satellites over western Europe, with a cheeky plane alongside. In actuality it was 20 or so dots equally spaced, travelling quite fast overhead.|https://i.redd.it/hsxnkq404n741.jpg|Filbert_The_Wizard|False|https://redd.it/ehbs9o|67|0.89|0|32|0|space
+eh5ilt|2019-12-29 12:41:19|"I imaged all 6 lunar landing sites with my 8"" Schmidt-Cassegrain scope, using a 3x TeleVue barlow and a ZWO ASI 224MC camera (captured a few thousand frames per site, stacked 10% of frames with AS!2 and post-processed in Registax). For an idea of image scale, Armstrong crater is 4.6km across)."|https://i.redd.it/542xnc8bik741.jpg|AegonStarkgaryen|False|https://redd.it/eh5ilt|293|0.95|0|19|0|space
+eh7qjt|2019-12-29 16:19:45|Any space memorbila collectors here? Just got a genuine Yuri Gagarin autograph! Took at a lot of research and time to find a real one!|https://i.redd.it/din3uhf1ll741.jpg|theaflair|False|https://redd.it/eh7qjt|146|0.93|0|12|0|space
+egzduq|2019-12-29 01:19:02|I took a photo of a portion of the Orion constelation as it rose above the horizon in Saskatchewan, Canada. Capturing some of the different colours and nebula in that region of the sky (OC)|https://i.redd.it/2l1fcgkq4h741.jpg|s_aspinall|False|https://redd.it/egzduq|1994|0.98|1|35|0|space
+eh3tv2|2019-12-29 08:52:00|"The ""Dolphin"" spotted on Jupiter by NASA's Juno spacecraft during a flyby conducted on 29th October 2018"|https://i.imgur.com/XbcXki7.gifv|mvea|False|https://redd.it/eh3tv2|398|0.95|0|32|0|space
+eh85yk|2019-12-29 16:53:25|I tried out night mode with the iPhone 11 Pro and it actually impressed me.|https://i.redd.it/x0rx1wyfrl741.jpg|nathan571|False|https://redd.it/eh85yk|87|0.79|0|40|0|space
+eh6jrf|2019-12-29 14:33:52|Swirling Magnetic Fields Hint at Origins of Spiral Galaxy Shapes|https://i.redd.it/ofeyhdyj2l741.jpg|G-rantification|False|https://redd.it/eh6jrf|135|0.94|0|6|0|space
+ehog5r|2019-12-30 16:48:23|Exploring the Night Sky with Hubble’s Caldwell Catalog|https://www.nasa.gov/image-feature/exploring-the-night-sky-with-hubble-s-caldwell-catalog|Citia|False|https://redd.it/ehog5r|1|0.6|0|0|0|space
+eh6ao7|2019-12-29 14:09:29|I wanted to share this single unedited image of the Orion nebula. You will see tons of processed, perfected images on the internet that are amazing, but there is still beauty in the humble beginnings of those images.|https://i.redd.it/negcz597yk741.jpg|backyard_space|False|https://redd.it/eh6ao7|132|0.9|0|3|0|space
+eha84x|2019-12-29 19:29:47|"Last Week's Annular Solar Eclipse above the sand dunes of ""Empty Quarter"" in U.A.E."|https://i.redd.it/9x0zmzn6jm741.jpg|etunar|False|https://redd.it/eha84x|43|0.88|0|0|0|space
+egsise|2019-12-28 16:14:50|More than 100 stars that were on observations from the 1950s are now missing from the night sky.|https://www.sciencedaily.com/releases/2019/12/191212105854.htm|sc2summerloud|False|https://redd.it/egsise|10629|0.96|0|636|0|space
+ehdzbh|2019-12-30 00:10:49|Interstellar Civilizations & Time (Isaac Arthur)|https://www.youtube.com/watch?v=GQQ32B-urgY|taulover|False|https://redd.it/ehdzbh|17|0.8|0|1|0|space
+eh9zkv|2019-12-29 19:11:41|The moon and Venus putting on a show in Philadelphia 12/28.|https://i.redd.it/70rxbtr3gm741.jpg|WifeofPhilECop|False|https://redd.it/eh9zkv|44|0.84|0|0|0|space
+eh7tej|2019-12-29 16:26:05|My new favorite space photo|https://i.redd.it/qkpwt6piml741.png|saucy_corvette|False|https://redd.it/eh7tej|64|0.88|0|2|0|space
+eh3qew|2019-12-29 08:38:32|[OC] With 2019 almost over I want to share with you my best effort at imaging Saturn with my telescope. It's my first year owning one and photographing the planets with it has become my favorite hobby. Also, I made a timeline to show the progress I've made over the course of the year.|https://i.redd.it/yddublb5bj741.png|danborja|False|https://redd.it/eh3qew|221|0.94|0|12|0|space
+eh7096|2019-12-29 15:17:26|OK-GLI ( Buran test vehicle ) in Speyer Technic Museum|https://i.redd.it/2np5z4obal741.jpg|MagVsFred|False|https://redd.it/eh7096|60|0.9|0|11|0|space
+ehbh7a|2019-12-29 21:03:00|Planets in order of rotation|https://www.youtube.com/watch?v=4JaJlLaFRNk|TimeProfessional|False|https://redd.it/ehbh7a|17|0.74|0|0|0|space
+egtm3z|2019-12-28 17:42:16|Astronaut Christina Koch sets new record for longest single space flight by a woman|https://www.cbsnews.com/news/christina-koch-sets-record-longest-single-space-flight-by-woman-astronaut/|SkywayCheerios|False|https://redd.it/egtm3z|2952|0.88|0|293|0|space
+eh6704|2019-12-29 13:59:21|The Luna 16 lander, from the first successful robotic sample return mission. Witnessing OSIRIS-REx and Hayabusa2 attempt asteroid sample returns today, it’s incredible looking at this lander that achieved a similar feat on the Moon in 1970.|https://i.redd.it/ist6usrdwk741.jpg|bilbobunion|False|https://redd.it/eh6704|61|0.89|0|4|0|space
+eh91ec|2019-12-29 18:00:40|The moon. 10” dobsonian reflector.|https://i.redd.it/hr1rjm6g3m741.jpg|aldebera|False|https://redd.it/eh91ec|22|0.79|0|0|0|space
+eh8ah2|2019-12-29 17:03:16|NASA wants to launch a new space telescope to search for a second Earth: The Habitable Exoplanet Observatory (HabEx)|https://www.digitaltrends.com/cool-tech/nasa-habex-second-earth/|cosmicdatabase|False|https://redd.it/eh8ah2|27|0.89|0|2|0|space
+ehbx72|2019-12-29 21:35:50|With the earth rotating, how are long exposure shots of stars, planets, and galaxies taken?|I see posts that say they did a shot with 11 hour light exposure, but since the earth is constantly rotating does that mean they’re constantly turning the camera/telescope to point at a star?|quintonallen|False|https://redd.it/ehbx72|12|0.77|0|11|1|space
+eh8b3u|2019-12-29 17:04:33|Week of December 29, 2019 'All Space Questions' thread|"Please sort comments by 'new' to find questions that would otherwise be buried.
+
+In this thread you can ask any space related question that you may have.
+
+Two examples of potential questions could be; ""How do rockets work?"", or ""How do the phases of the Moon work?""
+
+If you see a space related question posted in another subeddit or in this subreddit, then please politely link them to this thread.
+
+Ask away!"|AutoModerator|False|https://redd.it/eh8b3u|21|0.82|0|137|1|space
+eh8x3i|2019-12-29 17:51:33|Tried a composite image of November full moon|https://i.redd.it/wm1zke5q1m741.jpg|dumbass_random|False|https://redd.it/eh8x3i|18|0.81|0|1|0|space
+eh4iea|2019-12-29 10:26:04|I imaged the Rosette nebula for 2 hours from Malta. The nebula is located around 5,200 light years from Earth and measures 130 light years across. It is an HII region, a stellar nursery located in the constellation Monoceros, with the central cluster NGC2244 having formed from the nebula itself.|https://i.redd.it/ng2g2s51tj741.jpg|AegonStarkgaryen|False|https://redd.it/eh4iea|66|0.89|0|5|0|space
+eh3j3y|2019-12-29 08:11:22|Not much of a photographer but captured this partial solar eclipse over the cloudy smog filled city of Mumbai|https://i.redd.it/2a4f34ba6j741.jpg|Alphaplop|False|https://redd.it/eh3j3y|95|0.93|0|4|0|space
+egyfvp|2019-12-29 00:00:02|I took this 33 hour exposure of the Horsehead and Flame Nebula from my backyard|https://i.redd.it/y4org4dzog741.jpg|OkeWoke|False|https://redd.it/egyfvp|390|0.96|0|24|0|space
+eh33vm|2019-12-29 07:17:23|Moon & Venus over Medellín Colombia|https://i.redd.it/h2tkqjhnwi741.jpg|lazeedavy|False|https://redd.it/eh33vm|93|0.96|0|2|0|space
+ehb41a|2019-12-29 20:36:15|Work and live on Mars: Inside a new base developed for future missions — Humans dream of inhabiting other planets. But going to Mars is still a huge challenge. DW's Olivera Zivkovic visited a Mars habitat — a base that could enable living and working on the Moon or Mars.|https://www.dw.com/en/work-and-live-on-mars-inside-a-new-base-developed-for-future-missions/a-51738228|Molire|False|https://redd.it/ehb41a|10|0.81|0|0|0|space
+ehahih|2019-12-29 19:49:16|NASA mission to track near Earth objects takes shape: The fiscal year 2020 funding bill provided $35.6 million to start work on the NEO Surveillance Mission, a successor to the proposed NEOCam space-based infrared telescope to search for near Earth objects.|https://spacenews.com/nasa-mission-to-track-near-earth-objects-takes-shape/|cryptoz|False|https://redd.it/ehahih|10|0.92|0|0|0|space
+eh8amv|2019-12-29 17:03:35|Disney Educational Animation Mars and Beyond (1957) Everything we knew about Mars in 1957 with beautiful animation.|https://www.youtube.com/watch?v=E0sbqqYo97s|EricFromOuterSpace|False|https://redd.it/eh8amv|12|0.85|0|0|0|space
+eh7r8m|2019-12-29 16:21:20|JAXA H3 Fairing Separation Test|https://www.youtube.com/watch?v=7nxiXD0UFRU|mud_tug|False|https://redd.it/eh7r8m|12|0.86|0|0|0|space
+eh0e8a|2019-12-29 02:48:32|I took a recent full moon photo and added a star field from another one of my photos to create a cool 3D effect!|https://i.redd.it/5kcbopgpkh741.jpg|Pjacob77|False|https://redd.it/eh0e8a|167|0.9|2|17|0|space
+eh01an|2019-12-29 02:16:23|"Neil deGrasse Tyson on Space Exploration: ""I'm in Favor of Sending People"" - Not just because people are better than robots, but because people inspire other people."|https://www.fool.com/investing/2019/12/28/neil-degrasse-tyson-on-space-exploration-im-in-fav.aspx|mvea|False|https://redd.it/eh01an|176|0.88|0|30|0|space
+eh7u4a|2019-12-29 16:27:36|Will we ever reach the exoplanets?|Considering how far away exoplanets are, what are the chances of us ever reaching one, technology will advance but will we ever explore them, colonise them, visit them and will humanity be extinct before we even reach one? (If appropriate technology never gets invented)|AcidIsLiFE|False|https://redd.it/eh7u4a|11|0.74|0|31|1|space
+eh5vyg|2019-12-29 13:25:26|Venus, the only planet that can make a shadow with a meteor above it (sorry for bad quality)|https://i.redd.it/l6op6ycbqk741.png|EpicRat660|False|https://redd.it/eh5vyg|19|0.71|0|4|0|space
+eh2i21|2019-12-29 06:08:35|Space-X Falcon 9 launch part 2|https://v.redd.it/ir3a50adki741|amarian1981|False|https://redd.it/eh2i21|62|0.9|0|7|0|space
+eh38tv|2019-12-29 07:34:22|I know this is nothing special, but residing in heavily light polluted Southern California, I was super pumped to capture this photo of Orion’s Belt from my front yard just using my iPhones camera.|https://i.redd.it/upxfvlcpzi741.jpg|TheCaIifornian|False|https://redd.it/eh38tv|48|0.83|0|9|0|space
+eh9ofj|2019-12-29 18:48:42|Top 5 Space Moments of 2019|https://www.indiafinancenews.com/top-5-space-moments-of-2019/|sumitoma|False|https://redd.it/eh9ofj|8|0.67|0|0|0|space
+eh7mmg|2019-12-29 16:10:47|The mystery of the Apollo 10 turd|https://www.vox.com/2015/5/26/8646675/apollo-10-turd-poop|RealEzraGarrison|False|https://redd.it/eh7mmg|8|0.75|0|5|0|space
+eh3t2n|2019-12-29 08:48:59|"Earth's Atmosphere Illuminated Beyond The Moon's Horizon By The Sun Behind It - Images of the Earth at the Time of a Penumbral Lunar Eclipse, the first time that this phenomenon was shot from the Moon by the Japanese lunar explorer ""KAGUYA""."|https://i.imgur.com/RmlpXpC.gifv|mvea|False|https://redd.it/eh3t2n|31|0.98|0|1|0|space
+eh0sht|2019-12-29 03:24:21|Annular Solar Eclipse Sequence from Singapore on 26 Dec [OC]|https://i.redd.it/4ff6znskqh741.jpg|razileon|False|https://redd.it/eh0sht|73|0.93|0|2|0|space
+eh88i0|2019-12-29 16:59:08|Biggest and Smallest Stars - Sixty Symbols|https://youtu.be/z20Ni9FQ5YA|NavdeepSinghThind|False|https://redd.it/eh88i0|5|0.71|0|0|0|space
+egzyhj|2019-12-29 02:09:26|Moon-Venus conjunction seen from California|https://i.redd.it/uuvxqwfqdh741.jpg|mj6174|False|https://redd.it/egzyhj|75|0.92|0|6|0|space
+eh2bwn|2019-12-29 05:51:23|December 16,2019 Space X falcon 9 launch in Cape Canaveral. Part 1|https://v.redd.it/b47870vbhi741|SimplyMeantToBe2136|False|https://redd.it/eh2bwn|30|0.87|0|4|0|space
+egygyv|2019-12-29 00:02:36|M42- The Great Orion Nebula - My first attempt at this famous object...|https://i.redd.it/0fowa6muqg741.jpg|pcosgrove|False|https://redd.it/egygyv|86|0.92|1|5|0|space
+eha96z|2019-12-29 19:32:01|Hello fellow space explores I am not new to space or any information on space but a I am new to the sub Reddit, I just wanna ask you guys, how you guys take such amazing pictures of the far away stars and galaxies, I know you guys use telescopes, but how do you take the pictures?||Godlygamer909|False|https://redd.it/eha96z|3|0.55|0|2|1|space
+egi50p|2019-12-27 22:41:47|Betelguese, one of the sky's brightest stars, is now the faintest it's been in a century. But despite rampant speculation that it's about to go supernova, astronomers say it probably won't happen soon. Instead, they expect it to reach its faintest in January, before brightening back up again.|http://www.astronomy.com/news/2019/12/betelgueses-bizarre-dimming-has-astronomers-scratching-their-heads|clayt6|False|https://redd.it/egi50p|15212|0.97|0|772|0|space
+eh51go|2019-12-29 11:39:27|Moon Day/Night cycle Visualization in VR|"A few months ago, my girlfriend (physicist) and I (VR prototyper) discussed the idea to build a simulation of the day/night cycle of the moon, with focus on the movement of the earth and sun in the sky. Part of the inspiration was this page: [https://www.skyandtelescope.com/astronomy-blogs/explore-night-bob-king/observing-earth-from-the-moon/](https://www.skyandtelescope.com/astronomy-blogs/explore-night-bob-king/observing-earth-from-the-moon/)
+
+I don't claim the end result is very accurate - we did our best given the time, but there would be much more to do -  nor that the demo is particularly fun, but we wanted to share some videos:
+
+[Fixed POV on the moon surface](https://reddit.com/link/eh51go/video/zk0ejfmiek741/player)
+
+[VR version with flight near earth during the moon night](https://reddit.com/link/eh51go/video/y31sn114ek741/player)
+
+The main things we learned doing this are:
+
+* Keeping people entertained without cheating is hard. If you can't move around and interact with things, there's really very little happening on the moon. We wanted a comfortable VR demo, which mostly mean no camera accelerations that are not driven by the user movement, and we did not know how much space people would have so we went for a seated experience. At that point, the shadows of the craters and the earth spinning and ""drawing an 8 in the sky"" were the main attractions, provided that time would flow fast enough.
+* In VR, a sped up simulation of the star sky can induce a lot of nausea. This was primarily due to having the moon horizon as frame of reference, and the stars rotating just behind it.
+
+The demo is not published, but I can put together a build and share it if people are interested."|MementoMori000|False|https://redd.it/eh51go|9|0.78|0|1|1|space
+egymv4|2019-12-29 00:16:39|Amature photograph of the Rosette Nebula shot from New Zealand. Only 27 minutes of data, the beauty of dark sky locations.|https://imgur.com/W2J5Xpn|backyardastrokiwi|False|https://redd.it/egymv4|52|0.83|0|3|0|space
+ehbmzs|2019-12-29 21:14:54|some random planet i drew (wallpaper made by me)|# [If you want a new phone wallpaper, here you go.](https://drive.google.com/file/d/16lSXk6lduUtDZKtFSOM2wxGr9wXsNC3U/view?usp=sharing) Any comments?|idkdude_okay|False|https://redd.it/ehbmzs|0|0.48|0|2|1|space
+ehhzqq|2019-12-30 05:51:00|The probability of other life in our Galaxy is so high so where are they? Our species is feeling lonely.|I think about our species a lot. We are complex intellectual beings capable of inter planetary travel. We can cure diseases and help other species of animals on our planet but here's where I feel things get kinda interesting cause we have done most of these things in only a couple hundred years. We are not even close to being an intellectual civilization on a cosmic scale. We are still babies on the level of a species and yet a few years ago we almost ended ourselves in the cold war. Here's when things get interesting our Galaxy has about a hundred billion planets alone. And out of those there are 40 billion planets in the habitable zone which means they are not too far and not too close to their star (the Goldilocks zone) and if we take it that out of those many potentially habitable planets only 0.1% had life which again is an assumption there would be 40 million planets with life on them and as our Galaxy is about 14 billion years old there is a very good chance that those planets have had potentially millions of years of advancement ahead of us. So where are they? Even if we take the Fermi paradox into consideration there should atleast be a type 2 civilization somewhere and if there is shouldn't we be able to detect it? I know this sounds childish to assume but if there was an advanced civilization would they even want anything to do with us? The very fact that we might never live long enough to see another species of another planet is honestly scary cause it kinda feels like a cosmic level of loneliness where all the other civilizations are almost ignoring us. Or maybe our methods of communication are too primitive for them to listen in to and just adding to that is the fact that we might be too small and insignificant for the other civilizations to detect us. It's scary but also exciting. Our lives may not be long enough to see them aliens but it's still fun to think about the probability of them existing.|palesssss|False|https://redd.it/ehhzqq|0|0.41|0|15|1|space
+eh44fu|2019-12-29 09:32:35|Annular Solar Eclipse Boxing Day 2019|https://i.redd.it/nm1uzdjskj741.jpg|weetec|False|https://redd.it/eh44fu|9|0.65|0|2|0|space
+egttk6|2019-12-28 17:58:42|ISS (International Space Station) through my Telescope|https://youtu.be/q_ADBlrIRsM|jwastronomy|False|https://redd.it/egttk6|108|0.85|0|5|0|space
+eh2jwt|2019-12-29 06:13:34|Ancient life on Mars? NASA’s 2020 rover to find fossils, prepare for human missions|https://www.indiafinancenews.com/ancient-life-on-mars-nasas-2020-rover-to-find-fossils-prepare-for-human-missions/|sumitoma|False|https://redd.it/eh2jwt|10|0.65|0|17|0|space
+egyiia|2019-12-29 00:06:23|Universe simulation zooming out from the Milky Way. Each dot is a galaxy. Each galaxy is estimated to contain 100,000,000,000 stars.|https://v.redd.it/q9v3cyf8rg741|Xplosiv27|False|https://redd.it/egyiia|33|0.72|0|3|0|space
+eh33j8|2019-12-29 07:16:10|First “WOAH SPACE” Experience?|For me I was in the countryside of Scotland camping in a shack and late at night around midnight I walked outside and it was this unreal awe inspiring moment. Almost scripted in a sense. I saw millions of stars, the moon, a shooting star and I saw the Andromemda Galaxy. I’m really interested to hear all of your stories, so please share!|Jombo582|False|https://redd.it/eh33j8|9|0.83|0|11|1|space
+egylz8|2019-12-29 00:14:36|I reprocessed some older images of the International Space Station I captured earlier this year with my telescope, aligned and stabilised them to produce this incredible animation of the largest man-made satellite passing over.|https://v.redd.it/enjiijnhsg741|Ethan_Roberts123|False|https://redd.it/egylz8|24|0.82|0|7|0|space
+eh5wvm|2019-12-29 13:28:24|Space Exploration Suite|https://youtu.be/KsrFFOPT6x0|AlexanderSalinka|False|https://redd.it/eh5wvm|1|0.64|0|0|0|space
+eh0z8e|2019-12-29 03:41:27|I didn't manage to travel to quite as many rocket launches this year, but I still got to witness some pretty important milestones. Here are (some of) my favorite photos from 2019.|https://imgur.com/a/7670UzQ|jardeon|False|https://redd.it/eh0z8e|11|0.66|0|2|0|space
+eh3g0c|2019-12-29 08:00:15|NASA Flight Director Gene Kranz gives a play-by-play recap of putting the first man on the moon from the perspective of Mission Control|https://youtu.be/p3yHz2MKVrw|Nexuist|False|https://redd.it/eh3g0c|2|0.67|0|0|0|space
+ehakly|2019-12-29 19:55:49|With Fat Five Chinese say, ‘Mars, here we come’|https://www.asiatimes.com/2019/12/article/with-fat-five-chinese-say-mars-here-we-come/|malcolm58|False|https://redd.it/ehakly|0|0.33|0|1|0|space
+eh20n6|2019-12-29 05:19:49|Annular solar eclipse sequences - Singapore, 26 December 2019|"It was POURING in the weeks leading up to the eclipse! I was super hyped, but worried we might not get to experience it. Thankfully, skies were pretty clear on the day and we got to enjoy most of it.. I even got a little sunburnt 😁
+
+Hope you guys managed to catch it too, and if not, please enjoy these sequences!
+
+Shot with:  
+\- Sony a7riii  
+\- Sony 200-600mm  
+\- Sony 2x teleconverter  
+\- Solar filter  
+\- Tripod
+
+https://preview.redd.it/wr2p8dadbi741.png?width=2731&format=png&auto=webp&s=7fdddb76eaf5b1813f3978c0557a5db25898c2c8
+
+https://preview.redd.it/nb5njnadbi741.png?width=4370&format=png&auto=webp&s=3d9b464d29c2e1642c7cce86adc6cd80d12ed972"|namelessbear|False|https://redd.it/eh20n6|3|0.65|0|0|1|space
+egx7kt|2019-12-28 22:20:39|The Biggest Alien Planet Discoveries of 2019|https://www.space.com/best-alien-planet-discoveries-2019.html|amynivenskane|False|https://redd.it/egx7kt|11|0.73|0|4|0|space
+eh386l|2019-12-29 07:31:55|Astrophotography|Sorry if this is boring or the wrong place or just a down right silly question. But I am just fascinated by space and would love to get into the photography side of things, so my question is do I need a really good dslr camera or is there easy ways/tricks to getting a half decent photo with any ol camera?|dozzer89|False|https://redd.it/eh386l|2|0.67|0|3|1|space
+egxnii|2019-12-28 22:56:02|Magnetic Ropes Surround 'Whale Galaxy' 80,000 Light-Years From Earth|https://www.space.com/magnetic-filament-tie-up-galaxy.html|cryptoz|False|https://redd.it/egxnii|10|0.69|0|6|0|space
+egzme9|2019-12-29 01:39:40|footage on top of asteroid help!|"Hi there, 
+
+i need some help finding a gif that was posted on reddit of footage that is directly on top of an asteroid traversing through space, it was posted within the last year and i imagine it was an extremely momentous occasion, but i cannot for the life of me remember the exact occasion, it would be a real help if people could help me find it :)
+
+thanks."|Zelicanth|False|https://redd.it/egzme9|5|0.72|0|2|1|space
+egw54i|2019-12-28 20:57:22|Magnetic Ropes Surround 'Whale Galaxy' 80,000 Light-Years From Earth|https://www.space.com/magnetic-filament-tie-up-galaxy.html|Trumpologist|False|https://redd.it/egw54i|11|0.74|0|4|0|space
+eheb23|2019-12-30 00:36:25|Be wary of Elon Musk despoiling the ‘vault of heaven’|https://www.theguardian.com/commentisfree/2019/dec/29/be-wary-of-elon-musk-despoiling-the-vault-of-heaven|Augie-Morosco|False|https://redd.it/eheb23|0|0.37|0|13|0|space
+egrh4s|2019-12-28 14:42:28|Wolf–Rayet stars, are a rare heterogeneous set of hottest stars. The Spectroscopy indicate very high surface enhancement of heavy elements, depletion of hydrogen, and strong stellar winds. Their surface temperatures range from 30,000 K to around 210,000 K, while our Sun has ~ 5,700 K.|https://youtu.be/tqxuRXk8vu4|AlexMaver3D|False|https://redd.it/egrh4s|30|0.77|0|3|0|space
+egyu8f|2019-12-29 00:33:27|Books or apps to learn to identify the constellations?|"Sorry if this doesn’t belong here but I was wondering if you could recommend something for a beginner to help me learn to identify the constellations. 
+
+Thank you!"|Reaper02367|False|https://redd.it/egyu8f|1|0.67|0|5|1|space
+egi12l|2019-12-27 22:32:59|10 astronomy events you don’t want to miss in 2020|https://www.accuweather.com/en/space-news/10-astronomy-events-you-dont-want-to-miss-in-2020/649605|amynivenskane|False|https://redd.it/egi12l|307|0.93|0|30|0|space
+eh0i7p|2019-12-29 02:58:20|Will SpaceX be able to land humans on the Moon by 2024?|They did have a similar goal for Mars, but now they seem to be focusing on the Moon instead.|dorash|False|https://redd.it/eh0i7p|1|0.45|0|31|1|space
+egtba3|2019-12-28 17:18:23|Bound in Shallows: Space Exploration and Institutional Drift|https://www.centauri-dreams.org/2019/12/27/bound-in-shallows-space-exploration-and-institutional-drift/|ye_olde_astronaut|False|https://redd.it/egtba3|4|0.86|0|0|0|space
+egnea1|2019-12-28 06:32:49|Telescopes 101|http://www.astronomy.com/observing/equipment-use/2014/04/telescopes-101?utm_source=asytwitter&utm_medium=social&utm_campaign=asytwitter|futuredude|False|https://redd.it/egnea1|27|0.75|0|2|0|space
+egk8wu|2019-12-28 01:37:22|A Stunning Video of Mars That Took Three Months to Stitch Together—by Hand|https://www.wired.com/2017/03/stunning-video-mars-took-three-months-stitch-together-hand/?utm_social-type=owned&mbid=social_tw_sci&utm_brand=wired-science&utm_medium=social&utm_source=twitter|theinfinitejaguar|False|https://redd.it/egk8wu|58|0.91|0|8|0|space
+egl9dn|2019-12-28 03:06:55|Binary star lovers may like this: Russian astronomer Valery Kozhevnikov has conducted photometric observations of the cataclysmic variable J0130, finding that the object exhibits deep eclipses.|https://phys.org/news/2019-12-deep-eclipses-cataclysmic-variable-j0130.html|chicompj|False|https://redd.it/egl9dn|42|0.89|0|0|0|space
+egxuz5|2019-12-28 23:12:45|Conjunction of the Moon and Venus|https://in-the-sky.org/news.php?id=20191229_19_100||False|https://redd.it/egxuz5|2|0.45|0|0|0|space
+egkjfy|2019-12-28 02:03:14|Mars 2020 rover to seek ancient life, prepare human missions|https://www.afp.com/en/news/3954/mars-2020-rover-seek-ancient-life-prepare-human-missions-doc-1nc1k92|justsomestubble|False|https://redd.it/egkjfy|38|0.88|0|1|0|space
+egqeel|2019-12-28 12:49:42|The five biggest space failures of 2019|https://www.technologyreview.com/s/614969/the-five-biggest-space-failures-of-2019/|futuredude|False|https://redd.it/egqeel|6|0.61|0|8|0|space
+eg02h5|2019-12-26 19:55:39|Forget caps and gowns. They'll get spacesuits.On Jan. 10, we graduate the first class of NASA Astronauts under our #Artemis Program! Six women and seven men will become eligible for assignments to the International Space Station, the Moon and ultimately Mars.|http://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions|calvins48|False|https://redd.it/eg02h5|31232|0.93|5|936|0|space
+eghn8n|2019-12-27 22:02:49|China's wildly ambitious future in space just got a big boost with the successful launch of its new heavy-lift rocket|https://www.businessinsider.com/china-long-march-5-test-launch-success-moon-mars-missions-2019-12|justsomestubble|False|https://redd.it/eghn8n|57|0.81|0|18|0|space
+egm12p|2019-12-28 04:16:31|Alternate Apollo History: Reusable Saturn I-C|"[so for some reason my images never upload on the first try idk](https://preview.redd.it/mtyv8ipvva741.jpg?width=450&format=pjpg&auto=webp&s=58238ce12586be8ad1262a92c3434296d70b2e48)
+
+I found this particular image on [history.nasa.gov](https://history.nasa.gov). The earliest mention I found of this project I found was from 1973 in the Seattle Times:
+
+>Senators \[...\] announced three NASA study contracts awarded to Boeing CQ.: $199,920 contract to continue studding methods of recovering Saturn first-stage rocket boosters or reuse \[...\] Contracts were let by NASA Marshall Space Flight center. (Seattle Times, 7//11,/63)
+
+This is from a newspaper, so there are probably internal NASA memos on this from earlier; ima try find them (:
+
+By '69 there are no mentions of this anymore - by then, the Shuttle was starting to be a thing. It's kinda cool, with SpaceX being considered so futuristic, that NASA looked into using a rocket's first stage over half a century ago.
+
+So there's some stuff online about this, but none of it goes into much detail. There's probably more information available elsewhere - I have a lot of spare time and this seems like a fun research topic so I'll try find it. pm me with questions!
+
+([https://history.nasa.gov/MHR-5/Images/fig366.jpg](https://history.nasa.gov/MHR-5/Images/fig366.jpg))"|Anna191916|False|https://redd.it/egm12p|9|0.76|0|7|1|space
+egekb8|2019-12-27 18:11:14|How Europe Designed and Evolved The Ariane Rocket Over Last 4 Decades|https://www.youtube.com/watch?v=DFbzvbkoEYs|Mespirit|False|https://redd.it/egekb8|38|0.81|0|14|0|space
+egg61s|2019-12-27 20:10:51|Boeing's Starliner hiccup could delay US plans for crewed spaceflight: “Further delays in the Commercial Crew Program unfortunately means NASA will continue to be reliant on its Russian partner to fly NASA astronauts to the ISS”|https://www.newscientist.com/article/2228665-boeings-starliner-hiccup-could-delay-us-plans-for-crewed-spaceflight/|mvea|False|https://redd.it/egg61s|29|0.75|0|9|0|space
+eg9tla|2019-12-27 10:54:58|U.S. tests ways to sweep space clean of radiation after nuclear attack - Three space experiments—one now in orbit and two being readied for launch in 2021—aim to gather data on how to drain high-energy electrons out of the radiation belts.|https://www.sciencemag.org/news/2019/12/us-tests-ways-sweep-space-clean-radiation-after-nuclear-attack|mvea|False|https://redd.it/eg9tla|115|0.92|0|15|0|space
+egf962|2019-12-27 19:02:45|Researchers have found a way to estimate how long it will take already launched space vehicles to arrive at other star systems. Pioneer 10 will likely be the first to pass by a star system—one called HIP 117795.|https://arxiv.org/abs/1912.03503|chicompj|False|https://redd.it/egf962|26|0.86|0|6|0|space
+eftx72|2019-12-26 10:26:00|Scientists attempt to recreate 'Overview effect' from Earth - Researchers aim to recreate intense emotional experience astronauts reported on seeing Earth from space for the first time. Scientists to welcome the first participants on an unprecedented clinical trial using a floatation tank and VR.|https://www.theguardian.com/science/2019/dec/26/scientists-attempt-to-recreate-overview-effect-from-earth|mvea|False|https://redd.it/eftx72|10053|0.96|0|381|0|space
+egbi3t|2019-12-27 14:02:37|Successful Long March 5 launch opens way for China’s major space plans|https://spacenews.com/successful-long-march-5-launch-opens-way-for-chinas-major-space-plans/|V_BomberJ11|False|https://redd.it/egbi3t|39|0.81|0|1|0|space
+egeewr|2019-12-27 18:00:25|Long March-5 Y3 launch|https://www.youtube.com/watch?v=1VveDhtH7pk|ZeEa5KPul|False|https://redd.it/egeewr|17|0.85|0|2|0|space
+egby7g|2019-12-27 14:44:08|Is there a website that tracks upcoming launches?|Is there a website that keeps track of upcoming launches? nasa/space-x/others... I've never seen any of them in person and would like to. I know they often get postponed or whatnot and I don't live anywhere near current sites, but I'm willing to take the risk and roll the dice.|whipthemoutsaturday|False|https://redd.it/egby7g|33|0.9|0|19|1|space
+eg9p86|2019-12-27 10:39:41|Europe's Mars lander passes parachute test - Previous problems appear to have been ironed out in craft’s essential landing equipment|https://www.theguardian.com/science/2019/dec/26/europes-mars-lander-passes-parachute-test|mvea|False|https://redd.it/eg9p86|60|0.89|0|0|0|space
+egduhk|2019-12-27 17:17:22|After an amazing decade in space, these are humanity’s top achievements|https://arstechnica.com/science/2019/12/after-an-amazing-decade-in-space-these-are-humanitys-top-achievements/|ilithium|False|https://redd.it/egduhk|15|0.85|0|1|0|space
+egawfi|2019-12-27 13:00:59|Long March 5 returns to flight|After a tricky couple of debuts and a long delay, China's kerolox heavy lift rocket is flying again. This is a keystone to their crewed spaceflight plans, so it's a big deal.|andygates2323|False|https://redd.it/egawfi|27|0.89|0|6|1|space
+ege8xt|2019-12-27 17:48:09|Astronaut Christina Koch Poised to Make History Again|https://www.nasa.gov/image-feature/astronaut-christina-koch-poised-to-make-history-again|Citia|False|https://redd.it/ege8xt|11|0.79|0|1|0|space
+egfa8i|2019-12-27 19:04:53|Building a rocket is hard. But building a parachute is boggling.|https://www.latimes.com/business/story/2019-12-19/boeing-spacex-spacecraft-parachutes|EricFromOuterSpace|False|https://redd.it/egfa8i|7|0.57|0|0|0|space
+egh8xr|2019-12-27 21:32:20|New laser-ranging telescopes can track thousands of small pieces of hazardous space junk, which whiz around Earth at some 17,500 miles per hour.|http://www.astronomy.com/news/2019/12/laser-ranging-telescopes-can-detect-small-bits-of-space-junk|clayt6|False|https://redd.it/egh8xr|2|0.62|0|0|0|space
+efzydm|2019-12-26 19:46:48|Betelgeuse, once one of the top ten brightest stars, has been dimming for months, possibly coming to its end.|https://www.nationalgeographic.com/science/2019/12/betelgeuse-is-acting-strange-astronomers-are-buzzing-about-supernova/?cmpid=org=ngp::mc=social::src=facebook::cmp=editorial::add=fb20191226science-redstarbetelgeuse::rid=&sf226886003=1|brokenbryan|False|https://redd.it/efzydm|337|0.93|0|139|0|space
+ega6fb|2019-12-27 11:38:14|Colonising Venus and Mars|"I think by making use of Gateway from NASA's Artemis programme, we could send rockets from the Moon to Venus to collect the large amounts of carbon dioxide in the atmosphere when the Earth orbits close to Venus and send them back to the Moon. Since the rocket lands on the cloud bases which are in Venus' atmosphere, the gravity is weaker and the atmosphere thinner, making it easier to transport more gas using less fuel. Then when Earth orbits close to Mars send the carbon dioxide to Mars. If done enough times this could create a greenhouse effect that melts the Martian polar ice caps, releasing frozen water and carbon dioxide into the atmosphere. This creates an atmosphere on Mars that shields against solar radiation, making the planet more habitable. Since the Moon has such low gravity and no atmosphere, it requires less fuel to send cargo as compared to on Earth, making trips more fuel efficient. 
+
+We could build cloud bases in Venus' atmosphere where the pressure and temperature are similar to Earth's. Also, install solar panels on the roofs of the bases to collect the large amounts of solar energy. Since we are collecting the carbon dioxide from Venus' atmosphere, this slows down the greenhouse effect. By breaking down the carbon dioxide to create carbon and oxygen and the oxygen is used for breathing and planting. By reducing the amount of carbon dioxide in the atmosphere we could slow down the greenhouse effect and cool the planet enough to make the surface of Venus somewhat habitable. 
+
+Is this plan possible? It would probably take a very long time and a lot of resources but if done right could allow us to colonise Venus and Mars and possibly even terraform them."|meisfish|False|https://redd.it/ega6fb|16|0.69|0|18|1|space
+eg42qo|2019-12-27 01:12:59|Researchers found a brand new mineral tucked in a tiny meteorite. It's never been seen in nature before|https://www.cnn.com/2019/12/26/world/new-mineral-discovered-edscottite-scn-trnd/index.html|justsomestubble|False|https://redd.it/eg42qo|68|0.72|0|20|0|space
+egbjza|2019-12-27 14:07:23|The four corners of the new space economy|https://techcrunch.com/2019/12/26/the-four-corners-of-the-new-space-economy/|cryptoz|False|https://redd.it/egbjza|6|0.65|0|2|0|space
+eg5i82|2019-12-27 03:16:43|If we're to assume that there are hundreds of BILLIONS of planets out there, should we also assume that there are civilizations millions of times more advanced than us, given that they have been around so much longer? And should we assume that AI is already been achieved by them?|"If there are indeed countless billions of planets, and that galaxy is just teaming with life, then surely there are civilizations that have been around for 1000 times longer than us.  Some must have achieved technological feats that we can't even imagine at the moment.
+
+Do you think such civilizations exist?
+
+And if there is great technology out there, are they aware of us?"|Gillcavendish|False|https://redd.it/eg5i82|39|0.72|0|131|1|space
+eg3cct|2019-12-27 00:12:36|New boson appears in nuclear decay, breaks standard model - Weird electron-positrons from decaying beryllium and helium hint at new boson.|https://arstechnica.com/science/2019/12/new-boson-hidden-in-beryllium-decay-check-new-physics-maybe/|mvea|False|https://redd.it/eg3cct|61|0.89|0|14|0|space
+efmo61|2019-12-25 22:17:51|Ten years in space: Remembering a decade of achievements in the final frontier|https://www.digitaltrends.com/cool-tech/biggest-achievements-in-space-2009-2019/|MicroSofty88|False|https://redd.it/efmo61|6071|0.97|0|124|0|space
+efyvhh|2019-12-26 18:22:37|'Ring of Fire' Solar Eclipse Thrills Skywatchers Around the World (and in Space, Too!)|https://www.space.com/ring-of-fire-solar-eclipse-2019-photos-videos.html|louisamarisa|False|https://redd.it/efyvhh|98|0.95|0|6|0|space
+egak21|2019-12-27 12:22:21|Galaxy-collision planetary consequences|"When 2 galaxies collide, the trajectory of their individual stars changes in the glorious dance.
+
+The question is, what would we feel if we were on a planet in a galaxy colliding with another?
+
+Would the planet orbital paths be disrupted? Can the planets be slang away from it's star?
+
+Would a person on a planet be able to measure the galaxy colliding?
+
+Also if the planet would not change its orbital course, would the acceleration of the star have any other effects on the inhabitants? Thinking about planet's magnetic field.. What is the probability of the life surviving the galaxy collision?
+
+Thank you :)"|gr4viton|False|https://redd.it/egak21|3|0.8|0|6|1|space
+eftzsw|2019-12-26 10:35:15|"People across Asia are witnessing an annular solar eclipse, which is also known as a ""ring of fire"". In an annular eclipse, the moon covers the centre of the Sun, giving the appearance of a bright ring."|https://www.bbc.com/news/science-environment-50913943|mvea|False|https://redd.it/eftzsw|297|0.93|0|14|0|space
+eg9w5e|2019-12-27 11:03:26|The four corners of the new space economy – TechCrunch|https://techcrunch.com/2019/12/26/the-four-corners-of-the-new-space-economy/|Spekulatius2410|False|https://redd.it/eg9w5e|2|0.67|0|0|0|space
+eg0lir|2019-12-26 20:35:53|Galactic cosmic ray model works without physics, and that is bad - Cosmic ray statistical model removes dark matter, even when present.|https://arstechnica.com/science/2019/12/galactic-cosmic-rays-solved-mystery-becomes-unsolved/|mvea|False|https://redd.it/eg0lir|27|0.82|0|2|0|space
+eg322q|2019-12-26 23:49:08|Swirling Magnetic Fields Hint at Origins of Spiral Galaxy Shapes: The formation of spiral galaxies remains an open question in astronomy, but a new study offers a fresh look into how these structures emerge|https://www.scientificamerican.com/article/swirling-magnetic-fields-hint-at-origins-of-spiral-galaxy-shapes/|DoremusJessup|False|https://redd.it/eg322q|14|0.85|0|0|0|space
+efj4bs|2019-12-25 17:26:48|Advanced civilizations could be communicating with neutrino beams|https://www.universetoday.com/142234/advanced-civilizations-could-be-communicating-with-neutrino-beams-transmitted-by-clouds-of-satellites-around-neutron-stars-or-black-holes/|SMZero|False|https://redd.it/efj4bs|3908|0.96|0|308|0|space
+eg27aw|2019-12-26 22:41:08|Humanity must be a multiplanetary society among the stars|"Humanity must be a multiplanetary society among the stars. I got into the making videos arena again. I really appreciate the feedback. I want to help to create good content for the community.
+
+[https://youtu.be/IFozVVjc5Tw](https://youtu.be/IFozVVjc5Tw)
+
+SCRIPT:  
+
+
+Carl Sagan once said, “We are a way for the cosmos to know itself.” We as humans could represent a problem maker species for the world ecosystem, but we are at the same time the only option for preserving life and consciousness in the long term. What if we expand life far beyond this tiny pale blue dot we call Earth, and what would happen if we don't do it. In this channel, we discuss the technologies that can potentially make us an interplanetary species. If you are a space nerd and tech lover like me, you are welcome to subscribe and activate the notification bell.
+
+There are two ways to answer the question. The obvious answers, that appeal to the facts, if we don't do it all the life we know will disappear; and the inspiring answers, which are the ones that drive me on the most. Let's start with the obvious ones.
+
+If our branch of evolution persists, it may well result in intergalactic civilizations of superintelligent beings that we cannot presently fathom. This sounds cool right; nevertheless, there are more reasons than you may know that can make this not to happen. Our present historical moment is a crucial juncture in the unfolding story of the universe. We now have the power to end all life on Earth. We possess thousands of nuclear warheads capable of occasioning an existential catastrophe. We are a fairly fragile global ecosystem relatively easy to collapse. Our being confined to this single planet means that a single asteroid collision or some other unforeseen cataclysmic event could wipe out our entire species, even all life on Earth. In 2008, a group of experts at the Global Catastrophic Risk Conference at Oxford estimated a 19% chance of human extinction before 2100. So, If a catastrophe does occur, how can we at least ensure that our evolutionary branch will persist? The obvious answer is making backups of life far beyond this planet. 
+
+But, there are inspiring reasons to do it, related to the meaning of life from the perspective of the universe and our intrinsic adventure nature. Elon Musk, SpaceX's CEO and founder, once said, “You want to wake up in the morning and think the future is going to be great, and that's what being a spacefaring civilization is all about. It's about believing in the future and thinking that the future will be better than the past. And I can't think of anything more exciting than going out there and being among the stars.” Vinay Gupta, a former senior scientist of the National physical laboratory of India, once said. “Making life interplanetary, and then interstellar enables creation to generate untold wonders over potentially trillions of years. We have no idea how long human life could last if we can get it off this one fragile, risk-filled, tiny sphere into the ocean of darkness and light above our heads, and every nook and cranny of the observable sphere. We owe all the potential futures that could emerge from our present the possibility of existence, and to accomplish this, we must go not only into space but eventually, by any means found necessary, into the stars.”
+
+Gupta and Musk are at the forefront of a growing movement of thinkers and technologists who are advocating for a multi-planetary civilization. Given the increasingly precarious nature of our existence on Earth, this group has concluded that the first question we must ask ourselves is, how do we ensure the continuation of consciousness and life? I know, there are important things to solve here on earth. The global poverty, the refugee crisis, human trafficking, slavery, industrial farming, environmental crises, and so on; nevertheless, we must understand that those issues won't matter at all if life is swiped out for any of the potential threats. Think about that for a moment. If we don't become a multiplanetary society, more than trillions of potential humans, and living creatures will never come to exist unless we ensure the continuation for the preservation of consciousness and life.
+
+We’ve already made significant advances in the domain of space travel. Our technological and scientific understanding continues to improve all the time. Given the myriad existential risks we’ve already identified and the numerous others that we likely have yet to identify, becoming a multi-planetary species is potentially an extremely urgent matter, and we must take this task seriously.  Even if there is a minuscule chance of success, the colossal stakes would seem to necessitate that we dedicate a certain portion of our collective time and resources to becoming multi-planetary.
+
+If you consider this valuable information, consider to become a patreon, who help me make this real. You can also support this project by sharing this video, giving like and subscribing activating the notification bell. Live long and prosper. See you in the next one. Thanks for watching."|ThonyNava|False|https://redd.it/eg27aw|12|0.63|0|38|1|space
+efz2cv|2019-12-26 18:37:30|The most awesome space images of the decade - Vox|https://www.vox.com/platform/amp/science-and-health/2019/12/18/20995427/astronomy-pluto-black-hole-mars-curiosity-rosetta#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s|Alaishana|False|https://redd.it/efz2cv|22|0.77|0|0|0|space
+eg1761|2019-12-26 21:23:12|Open Source CubeSat Design from Exo-Space|"Hi everyone, a couple months ago we posted on reddit and other social media platforms asking for feedback related to the headaches involved with building and programming a CubeSat. Just wanted to let you know we took those comments and created an open source CubeSat design that can be downloaded and used for your personal projects.
+
+There will be more open source designs in the future such as flight software and electronic boards, but for now we are offering our completely redesigned CubeSat structure and Bus Connector Card. Of course we also offer them for purchase if you would like us to manufacture and deliver them, otherwise they are completely free! You can download them at https://www.exo-space.com/open-source
+
+Enjoy!"|jeremyjallam|False|https://redd.it/eg1761|9|0.88|0|6|1|space
+efvb72|2019-12-26 13:15:55|This is the Milky Way's magnetic field|https://www.universetoday.com/144236/this-is-the-milky-ways-magnetic-field/|ankitnayak1|False|https://redd.it/efvb72|51|0.87|0|4|0|space
+eg7gfs|2019-12-27 06:18:49|NASA: This decade in review|https://www.space.com/nasa-2010s-decade-in-review.html|LukeWilson59|False|https://redd.it/eg7gfs|1|0.63|0|10|0|space
+efzs6w|2019-12-26 19:33:29|GIF of solar eclipse today from space!| https://twitter.com/NOAASatellites/status/1210219172006772736|SpacerockBeyond13|False|https://redd.it/efzs6w|8|0.84|0|0|1|space
+efxpyi|2019-12-26 16:52:40|Is Betelgeuse About To Explode?|https://www.forbes.com/sites/startswithabang/2019/12/25/is-betelgeuse-about-to-explode/#3643d1c547bf|webdoodle|False|https://redd.it/efxpyi|15|0.65|0|11|0|space
+efdtlv|2019-12-25 07:53:21|Japanese satellite sets low altitude record - The Guinness Book of World Records has awarded JAXA the official record for the lowest altitude achieved by an Earth observation satellite. Super Low Altitude Test Satellite (SLATS) “TSUBAME” reached a suitably super-low altitude of 167.4 km (104 mi).|https://newatlas.com/space/satellite-low-altitude-record-tsubame-jaxa/|mvea|False|https://redd.it/efdtlv|8007|0.97|0|306|0|space
+efzb01|2019-12-26 18:56:29|How to escape light pollution?|"I've always wanted to see a real dark sky with hundreds of glowing stars, but I've never had the occasion to be in a really dark place during the late night since I live in an urban zone. 
+
+For the holidays, my family and I are currently at a Mexico resort near the beach, and I've noticed that the nights here are dark enough to make me unable to count all the stars I see if I go on the roof of my hotel building
+
+I would really like to be able to see the core of the Milky Way or the Andromeda Galaxy at least one time with my own eyes before we leave the resort, and I've noticed that there isn't any source of light near the beach of the resort. I went to the beach last night around 11 PM, but there were lots of clouds in the sky. Still, in a small part of the sky that didn't have clouds, I could see so many stars already.
+
+I know that the best thing to do would be to litteraly take a boat and get far from the shore to really have the darkest sky possible, but I don't think it really is an option for me. For the next time that the sky is clear, I've thought of walking on the shore during the late night and getting the farthest possible from the resort's territory to avoid most light sources.
+
+Do you think I would be able to either see the Milky Way's core or the Andromeda Galaxy in these conditions? What would be the best time during the night to see the darkest space objects?"|SomeKindOfSorbet|False|https://redd.it/efzb01|9|0.77|0|6|1|space
+efxy1d|2019-12-26 17:10:06|U.S. tests ways to sweep space clean of radiation after nuclear attack|https://www.sciencemag.org/news/2019/12/us-tests-ways-sweep-space-clean-radiation-after-nuclear-attack?utm_source=newsfromscience%3Dflipboard%3Dflipboard2446905|Noveos_Republic|False|https://redd.it/efxy1d|12|0.82|0|0|0|space
+efdxne|2019-12-25 08:07:40|Astronomers are wondering whether Orion's shoulder will soon explode - When Betelgeuse does eventually go supernova, the brightness will rival a full moon|https://www.cbc.ca/news/technology/betelgeuse-dimming-1.5407038|mvea|False|https://redd.it/efdxne|3844|0.97|0|303|0|space
+efp8kn|2019-12-26 02:04:44|The USA's NASA is finally going to do it. Humans are going to colonize the moon.|https://www.youtube.com/watch?v=_T8cn2J13-4&feature=share|Endaris|False|https://redd.it/efp8kn|100|0.79|0|70|0|space
+efrc7r|2019-12-26 05:22:33|Eclipse has started here in Brunei (South East Asia)|[I barely got it on my phone and a pair of welding shades. ](https://i.imgur.com/h745Je2.jpg)|ruuuuuuuuuuuuikun|False|https://redd.it/efrc7r|54|0.87|0|12|1|space
+efxo0f|2019-12-26 16:48:23|Morocco's Anti-Atlas Mountains|https://www.nasa.gov/image-feature/moroccos-anti-atlas-mountains|Citia|False|https://redd.it/efxo0f|5|0.74|0|1|0|space
+efu33f|2019-12-26 10:47:07|Diving and driving on icy moons: One strategy for exploring Enceladus and Europa|https://spacenews.com/diving-and-driving-on-icy-moons-one-strategy-for-exploring-enceladus-and-europa/|malcolm58|False|https://redd.it/efu33f|14|0.74|0|1|0|space
+efs3uw|2019-12-26 06:44:57|NASA's Mars 2020 rover 'earned its driver's license', completes first driving test: Watch Video|https://www.technewso.com/nasa-mars-rover-2020-earned-driving-license/|Radhakrishh|False|https://redd.it/efs3uw|32|0.79|0|1|0|space
+effder|2019-12-25 11:12:29|Please Help. I have no background in Astrophysics/Science but I bought my 6 year old nephew (who spends most of his time watching astrophysics videos) this kid’s version of a telescope for Christmas and I’m hoping you could guide me so I can also help him...|"I bought him [this telescope](https://www.amazon.com/Edu-Science-Tabletop-Refractor-Telescope/dp/B009IX5VUO).   I’m from a third world country and telescopes are just something you read in textbooks. But my nephew began being interested in them. I really don’t know how to use it but I hope I’d have some steps (there seems to be none in the box I bought). Right now all we see is just white light. I feel like a noob right now but I’m just trying to suck it up despite this post not being scientific enough for this sub because maybe someone can help me because his smile when I gave it was just heartwarming. This might not be your usual post here but I hope someone can help me.
+
+Edit: I showed all the comments to his parents, and now, even the mom is excited too! Thanks for all of the comments, tips, suggestions, and most of all, the encouragement. We live in a place where hobbies and interests such as these aren’t always fostered because it’s too expensive to keep up. But your response has affirmed that it’s definitely worth it. Thank you and happy holidays! :)"|still_a_muggle|False|https://redd.it/effder|877|0.91|0|86|1|space
+efzzda|2019-12-26 19:49:00|Please sign on the dotted line before we tie you to a rocket...|" [https://www.politico.com/news/2019/12/25/space-tourists-safety-rules-089681](https://www.politico.com/news/2019/12/25/space-tourists-safety-rules-089681) 
+
+ ""**Currently, private citizens can fly to space under the principle of informed consent, the same legal framework that governs skydiving or surgery. Prior to their trip, a paying passenger must sign a statement acknowledging that what they are about to do is inherently risky and that they accept and understand that risk.""** 
+
+It is going to take years, and possibly a couple of disasters before private space travel is regulated properly. Does this give anyone else pause who is thinking about going to space? Can the industry regulate itself? (The history of industrialization says NO)
+
+Who should get the reins of regulating the private space travel industry, and should it be divided between tourism and industry?"|morrisseycarroll|False|https://redd.it/efzzda|0|0.43|0|9|1|space
+efdl8x|2019-12-25 07:24:50|Five decades after Apollo 11, 2019 was the year we started to focus on how to get humans back on the lunar surface|https://www.newscientist.com/article/mg24432613-600-2019-was-the-year-we-got-serious-about-walking-on-the-moon-again/|mvea|False|https://redd.it/efdl8x|796|0.93|0|55|0|space
+efwyt2|2019-12-26 15:52:10|Research on pointing correction algorithm of laser ranging telescope oriented to space debris|https://lia.scitation.org/doi/10.2351/1.5110748|raja_2000|False|https://redd.it/efwyt2|2|0.58|0|0|0|space
+ef8hhv|2019-12-24 23:01:50|First active fault zone found on Mars|https://www.nationalgeographic.com/science/2019/12/first-active-fault-system-found-mars2/|qwerty12qwerty|False|https://redd.it/ef8hhv|3812|0.98|0|162|0|space
+eflgat|2019-12-25 20:36:03|Zero-gravity cookies and Santa space suits: Here's what it's like to spend Christmas on the International Space Station|https://www.businessinsider.com/heres-what-its-like-to-spend-christmas-on-the-iss-2019-12|mvea|False|https://redd.it/eflgat|43|0.79|0|2|0|space
+efx23u|2019-12-26 15:59:51|Stars in Your Hemisphere|"I live in the UK and never seen the southern hemisphere stars. For those that have seen the ""other side"" (south or north) was it interesting seeing new constellations and familiar ones upside-down?"|capri71|False|https://redd.it/efx23u|1|0.57|0|5|1|space
+efmzkc|2019-12-25 22:45:36|Is a career in the space industry impossible for me?|" 
+
+G'day from Australia
+
+I hope everyone is making the most out of this holiday period.
+
+About me:
+
+I am an Australian second year EEE student and I am just wondering if a space career is completely impossible for me.
+
+Context: I always liked to play with circuits since a young age and would often complete my practical work faster and to a better quality than my peers and I actually wish to be an engineer upon graduation, even taking an internship coding and testing drones for agricultural purposes in a small startup and I am an active member of my university's rocketry team and my university's space society.
+
+However, I have a fail on my transcript in mathematics (what most of the American users here would call calculus 2) and a low cumulative GPA of 4.607 on a scale of 7 (2.633 on a scale of 4)\*. This is because I am not good at taking exams and most if not all universities in Australia enforce examination hurdles where the final must be passed in order to pass the course. As such, I doubt I will be able to obtain a masters or Ph.D which is a requirement for an EB-2 visa ([requirement](https://www.path2usa.com/eb2-visa)). As such, migrating to the US to work for SpaceX or NASA is almost an impossibility due to ITAR requirements. Just would like to know what my options if any are.
+
+\*My post a few months ago on [r/engineeringstudents](https://www.reddit.com/r/engineeringstudents/) stated a ""cumulative GPA of 4.4 on a scale of 7 (approximately 2.5 on a 4.0 scale)."" This discrepancy is due to my latest results coming through. A total of 3 semesters have been completed."|justanotherstudentAU|False|https://redd.it/efmzkc|20|0.7|0|15|1|space
+ef18pe|2019-12-24 13:17:28|NASA contractor convicted of substituting Chinese steel for space launch, then covering it up|https://www.msn.com/en-us/news/technology/nasa-contractor-convicted-of-substituting-chinese-steel-for-space-launch-then-covering-it-up/ar-BBYh2i6|alc59|False|https://redd.it/ef18pe|31965|0.95|1|1657|0|space
+eflv8l|2019-12-25 21:10:25|BBC World Service - HARDtalk, Apollo 11 astronaut - 50 years on, what was the significance of the Apollo 11 mission to the moon? HARDtalk's Stephen Sackur speaks to Michael Collins, the astronaut who piloted the command module.|https://www.bbc.co.uk/programmes/w3csy9d1|AureliusM|False|https://redd.it/eflv8l|25|0.82|0|0|0|space
+efqbey|2019-12-26 03:45:30|Annular Eclipse livestreams|"For anyone looking to view / rewind. 
+
+The first link is kinda spectacular. At about 34:20 in, the Abu Dhabi observatory aimed their telescope straight at the horizon to catch the sun rising right into the eclipse.
+
+https://www.youtube.com/watch?v=4foL-OEnLpk
+
+https://www.youtube.com/watch?v=O8hv5UIY9uU"|sysfad|False|https://redd.it/efqbey|8|0.77|0|1|1|space
+efqyh6|2019-12-26 04:45:14|Beth Moses: Virgin Galactic's Chief Astronaut Instructor|https://www.youtube.com/watch?v=t2jTMeoIylU|Mynameis__--__|False|https://redd.it/efqyh6|4|0.59|0|1|0|space
+ef39b4|2019-12-24 16:08:47|Betelgeuse is 1,400 times larger than the Sun. The star could explode soon and go supernova, astronomers claim. When it happens, it would have actually happened ~690 years before we see it on Earth, it will be as bright as the full moon.|https://www.cnet.com/news/famed-star-betelgeuse-will-explode-some-day-and-its-acting-weird-right-now/|cosmicdatabase|False|https://redd.it/ef39b4|2519|0.97|1|305|0|space
+efg3o9|2019-12-25 12:44:53|European space telescope to launch new era of exoplanet science: « The mission heralds a shift from missions designed to discover such planets — some 4,000 of which have now been found — to those intended to learn about them in detail. »|https://www.nature.com/articles/d41586-019-03800-0|fchung|False|https://redd.it/efg3o9|53|0.89|0|7|0|space
+efo9xc|2019-12-26 00:37:42|The Space Review: Nuking Moscow with a Space Shuttle|https://www.thespacereview.com/article/3855/1|ye_olde_astronaut|False|https://redd.it/efo9xc|5|0.62|0|0|0|space
+efqnqs|2019-12-26 04:17:11|Solar Eclipse 2019 live streaming updates: Surya Grahan begins in India, clear skies allow enthralling view|https://timesofindia.indiatimes.com/india/solar-eclipse-2019-december-india-live-streaming-updates-on-surya-grahan-december-26/liveblog/72973199.cms|AkashGk|False|https://redd.it/efqnqs|1|0.69|0|0|0|space
+efvf2d|2019-12-26 13:27:50|Ten years in space, vol. 2: Why do my grandma needs space programs?|"Hello,  
+Inspired by [Ten years in space: Remembering a decade of achievements in the final frontier](https://www.reddit.com/r/space/comments/efmo61/ten_years_in_space_remembering_a_decade_of/) post, I'd like to read about what space related research and development made it to our everyday life, and homes. We all read about science on ISS, working on new drugs, research on new materials, micro-gravity, work on Mars, probes discovering things, etc.  
+
+
+But what does it really mean for average Joe or for average grandma?  
+
+
+I expect we could distinguish 3 categories of such inventions.  
+
+1. Those developed for maintaining and improving LEO missions, particularly ISS as the largest project.
+2. Things that has been researched, and discovered in space (again I expect ISS to play main role) with non-space purpose.
+3. Technologies made for other space related needs. This would be pretty wide area containing things involved in propulsion, energy production, telecommunication, long range surveillance, temperature management, probes' equipment, etc.  
+
+
+Can you guys share some interesting facts on that subject from last decade?    
+Actually older stories are welcome too."|ICanButIDontWant|False|https://redd.it/efvf2d|0|0.44|0|9|1|space
+ef9up6|2019-12-25 01:02:33|Apollo Flight Controller 101: Every console explained|https://arstechnica.com/science/2019/12/apollo-flight-controller-101-every-console-explained/|MortWellian|False|https://redd.it/ef9up6|209|0.95|0|6|0|space
+efrlqz|2019-12-26 05:49:59|Solar eclipse live video|https://youtu.be/UjcxCItEM0g|Yuvendhan-B|False|https://redd.it/efrlqz|2|0.58|0|0|0|space
+efg9as|2019-12-25 13:03:17|New engine tech could get us to Mars faster|https://www.bbc.com/news/science-environment-48912458|CharyBrown|False|https://redd.it/efg9as|20|0.72|0|12|0|space
+efg4dn|2019-12-25 12:47:06|FCC Allows SpaceX To Modify Starlink Orbit Plans, Hopes For Faster Deployment Of Satellite Internet|https://finance.yahoo.com/news/fcc-allows-spacex-modify-starlink-171522847.html|mvea|False|https://redd.it/efg4dn|20|0.78|0|0|0|space
+eexhlk|2019-12-24 06:26:22|Inventing sign language for space - British sign language is receiving an astronomical update thanks to a unique collaboration between a space scientist and a group of deaf astronomers.|https://www.bbc.com/news/av/science-environment-50751866/inventing-sign-language-for-space|mvea|False|https://redd.it/eexhlk|3437|0.96|0|116|0|space
+efdvmc|2019-12-25 08:00:43|New engine tech that could get us to Mars faster - If we're ever to make regular journeys from Earth to Mars and other far-off destinations, we might need new kinds of engines. Engineers are exploring revolutionary new technologies that could help us traverse the Solar System in much less time.|https://www.bbc.com/news/science-environment-48912458|mvea|False|https://redd.it/efdvmc|29|0.74|0|6|0|space
+efjv3y|2019-12-25 18:27:10|Energy contribution of the moon, the stars, and other sources?|"It started with the question ""how does the amount of sunlight reflected by the moon relate to the direct sunlight?"", but I dissected the problem further:
+
+There is no question that the vast majority of energy reaching the earth is the direct sunlight. But it is not 100%.
+
+But what amount of the energy reaching earth is from other sources, like the light reflected by the moon, by the planets, and coming from the stars?
+
+And, IIRC, there are radioactive processes in the earth that also produce heat and thus contribute to the energy mix - how would they relate to the astronomical sources in terms of energy contribution?"|Treczoks|False|https://redd.it/efjv3y|3|0.57|0|9|1|space
+efbmzf|2019-12-25 03:56:16|Just got my first telescope for christmas and i have no idea where to start. What is something begginer can explore with telescope?|"I've always loved space since i was 5. 20 years later i recieved my first telescope as a christmas gift from my partner. I've been reading books and others but not too sure where to start from. 
+
+
+Is there any apps or useful tool that will help a begginer? Model of telescope is 'Nova 70mm Refractor telescope'"|zestyolemon|False|https://redd.it/efbmzf|41|0.84|0|46|1|space
+efgxfn|2019-12-25 14:15:31|Christmas in Weird Places: Not left out, NASA astronaut turned space station into Santa’s grotto|https://www.bbngnews.com/2019/12/christmas-in-weird-places-not-left-out.html|ebunolu1|False|https://redd.it/efgxfn|6|0.54|0|0|0|space
+efjt8u|2019-12-25 18:22:46|Help to find the article about the history of finding how round is earth.|"Hi,
+Long time ago I read an article where the author explains first why people who thought earth is flat are correct(with in their possible observations), then people found that it is round, then not perfect round but rather slightly bulged towards equator and author explains that this is how science progresses.
+
+I am not sure, but I think it is by Carl Sagan but I couldn’t find the article again. 
+
+Can anyone help me?"|phani_raj|False|https://redd.it/efjt8u|3|0.5|0|9|1|space
+ef621r|2019-12-24 19:42:03|How we are going to the Moon - New video by NASA|https://www.youtube.com/watch?v=_T8cn2J13-4&feature=youtu.be&fbclid=IwAR29k4SH1ozpa9DYUL9rq4Sr90lFtn4Wcfyu0N28NZgRRyLwFmN9g6mqy_A|well_this_was_bad|False|https://redd.it/ef621r|105|0.91|0|14|0|space
+eelg8h|2019-12-23 14:44:55|BREAKING: Boeing CEO Fired|https://abcnews.go.com/Business/boeing-ceo-dennis-muilenburg-fired/story?id=67895218|mattmacphersonphoto|False|https://redd.it/eelg8h|65367|0.93|4|1982|0|space
+ef24n9|2019-12-24 14:38:01|[Question] Why has NASA been critical of SpaceX's attempts {I.E. Leg deployment on self landing rocket} but come to the defense of Boeing failing to hit LEO that companies have been hitting for decades?|"""A lot of things went right"" 
+
+What a God awful response to a company with that level of government funding and 'expertise'.  Seriously, Humans have been hitting LEO targets for long time."|Banditjack|False|https://redd.it/ef24n9|86|0.78|0|80|1|space
+eflfzn|2019-12-25 20:35:22|Has anyone used Slooh? I have tried to join but can’t contact anyone about my account.|Also got a code off amazon for a year apprentice membership and can’t enter it anywhere.  TIA|teddyjoesevelt|False|https://redd.it/eflfzn|0|0.42|0|1|1|space
+ef8o2h|2019-12-24 23:17:21|SLS Mobile Launcher moves back to VAB|https://youtu.be/BcfInb-SD6g|Koplins|False|https://redd.it/ef8o2h|15|0.88|0|9|0|space
+ef44zf|2019-12-24 17:15:17|SpaceX ships Starship hardware from Florida to Texas to speed up production|https://www.teslarati.com/spacex-ships-starship-hardware-florida-to-texas/|Philo1927|False|https://redd.it/ef44zf|30|0.8|0|2|0|space
+ef4v7l|2019-12-24 18:10:35|How to Discover a Galaxy with a Telephoto Lens - The Dragonfly telescope is pushing the boundaries of small-scale observational astronomy|http://nautil.us/issue/79/catalysts/how-to-discover-a-galaxy-with-a-telephoto-lens-rp|magenta_placenta|False|https://redd.it/ef4v7l|16|0.86|0|0|0|space
+efe6lh|2019-12-25 08:39:29|Is there something we could do with the data that NASA open sources?||CosmicEssence|False|https://redd.it/efe6lh|1|0.6|0|4|1|space
+eeyoek|2019-12-24 08:35:04|Between July 17 - August 5, 2020 NASA will start The Mars 2020 rover mission. It is a part of NASA's Mars Exploration Program, a long-term effort of robotic exploration of the Red Planet to prepare for future human missions.|https://mars.nasa.gov/mars2020/mission/overview/|lopezjessy|False|https://redd.it/eeyoek|71|0.89|0|12|0|space
+ef7lsg|2019-12-24 21:47:50|Guys, I'll be visiting RKK Energiya Space Museum tomorrow. What things, you think, I should be on a lookout for?||KOTYAR|False|https://redd.it/ef7lsg|6|0.62|0|3|1|space
+ef3ej1|2019-12-24 16:20:02|Astronomers describe a violent black hole outburst that provides new insight into galaxy cluster evolution|https://phys.org/news/2019-12-astronomers-violent-black-hole-outburst.html|TMcFly|False|https://redd.it/ef3ej1|11|0.89|0|3|0|space
+ef5gxc|2019-12-24 18:56:29|Lasers learn to accurately spot space junk|https://www.eurekalert.org/pub_releases/2019-12/aiop-llt122319.php|cake_donut|False|https://redd.it/ef5gxc|7|0.67|0|3|0|space
+ef1f45|2019-12-24 13:34:41|Apollo 8: Where No One Has Gone Before|https://www.drewexmachina.com/2019/01/05/apollo-8-where-no-one-has-gone-before/|ye_olde_astronaut|False|https://redd.it/ef1f45|19|0.87|0|0|0|space
+ef2vix|2019-12-24 15:38:28|Looking for books about the engineering of spacecraft|I’m interested in all eras of spaceflight, especially Apollo and shuttle. Are there any good books about the technical details of how spacecraft are designed and built? (I have no formal education in aerospace engineering, so textbooks would have to be entry level)|cosmiclifeform|False|https://redd.it/ef2vix|10|0.84|0|11|1|space
+ef2jr1|2019-12-24 15:12:27|Researchers make new discoveries set to reveal the geology of planets outside our solar system|https://phys.org/news/2019-12-discoveries-reveal-geology-planets-solar.html|TMcFly|False|https://redd.it/ef2jr1|8|0.86|0|1|0|space
+eerz1z|2019-12-23 22:49:49|SpaceX achieves key safety milestone for crewed flight with 10th parachute test|https://techcrunch.com/2019/12/23/spacex-achieves-key-safety-milestone-for-crewed-flight-with-10th-parachute-test/|mvea|False|https://redd.it/eerz1z|181|0.92|0|20|0|space
+eezw6u|2019-12-24 10:50:35|Please tell me if my understanding of spacetime is correct|"Hi everyone,
+
+Thanks in advance for reading.
+
+May be this makes no sense at all but I have been reading about time dilation and relativity since past few days and here is my understanding of everything so far.
+
+Things which have mass cannot travel at the speed of light. Things which have no mass can travel at the speed of light. Everything is made of matter. Matter is made up of atoms. Atoms are made up of sub-atomic particles like Proton, Neutron and Electron and they are made up of quarks. They all have masses so cannot travel at the speed of light. So practically nothing (NO THING) can travel at the speed of light.
+
+Light was able to travel at its speed because it has no mass.
+
+Gravity is a property of things. Things with mass have gravity. It could be small or huge, but things with mass have gravity. Gravity attracts/accelerates things in its field towards it. Gravity affects the rate at which particles interact or move.
+
+The only constant we know for certain is the speed of light. Because we know this for sure we are able to observe time dilation aren't we?
+
+Let's say I have an empty vacuum box of length equal to 300,000,000m as side length. I am making this assumption just to ease my calculations.
+
+It is currently in front of me. So, let's say it is under earth's gravity. Since the speed of light is constant. If I shoot a photon from left to right. It would take one second for it to touch the right end in my clock. Cool.
+
+\--------------------
+
+**Question 1:**
+
+So let's say, hypothetically, I shoot a photon from left to right and it hit the right end in 2 seconds in my clock. Does that mean the photon box in front of me is under stronger gravitational field and time is ticking slower down there. Technically let's say my friend is inside the box and he would observe that time it took for photon to hit the right end is 1 second. Because for him due to stronger gravitational field, everything, such as atoms and subatomic particles, is interacting slower and thus he would notice it as just 1 second in his clock.
+
+So my understanding is gravity affects how things interact at subatomic level. We cannot tell that time is moving either slower or faster regardless of where we are. Because electrical signals in our brain also slow down and WE COULDN'T JUST TELL that something is slower. We can only tell that it is slow or fast if we are observing from a place (inertial frame?)  where the gravity is different.
+
+**Question 2:**
+
+This question could be batshit crazy.
+
+If I were to put my head in this photon box will it get SMALLER? Because gravity bends space time?
+
+Somebody who is next to me who is in the same gravitation field as I am, will they observe my head becoming smaller?
+
+if I, myself, look back to my body will I notice my body to be BIGGER?
+
+**Question 3:**
+
+It could be same as question 1.
+
+Time is not something that is constant. Like on earth we can say that Usain Bolt ran 100m in 10 seconds. But what is 10 seconds? It is just 10 ticks in the clock. What is that one tick? We don't know. We just felt it was convenient and started following it.
+
+Fundamentally, time can be seen as rate at which things change at particle level. THAT'S IT? right?
+
+\------------------------
+
+I could run 100m in 20 seconds but that does not mean anything. The atoms and particles still act the way they do and interact the way they do at the RATE THEY DO. But if the gravitational is different, the particles starts acting at a different rate, slow or fast does not matter, it depends on the gravity.
+
+The only thing we can use to measure this time dilation is LIGHT. Because it does not change and it is constant. Otherwise we would not be able to tell as our own brain cannot tell the difference because it itself is comprised of atoms.
+
+In my mind
+
+1. I am imaging spacetime as a three dimensional fabric. (Like a [high poly mesh](https://floorplanner557447880.files.wordpress.com/2015/09/wireframe-cube.png) of a cube in graphics) 
+2. Gravity changes the rate at which particles interact. THIS is the main thing that I am believing.
+3. The only way we can observe these curves in spacetime, time dilation and etc is by making use of the speed of the light. Because it is constant and unaffected by gravity.
+
+Am I in the right direction in understanding relativity or I am completely off the track? :D
+
+Thanks for reading, have a nice day."|internet_explorer_13|False|https://redd.it/eezw6u|14|0.65|0|26|1|space
+ef6goa|2019-12-24 20:14:27|Earth's Gravity ((ex. apple falling on earth )) and Black hole's inside pull understanding help|"I am by no means in the space study or field. So my question might seem totally stupid. But just curious.
+
+If my understanding is right, black hole pulling everything ""into"" itself, is because, the outward force of black hole (( is there any name for it )) is very weak to balance out the black hole's inward pull (( is this correctly called black hole's gravity  ? )) , hence the black hole queezes everything and everything becomes thin and small etc etc.
+
+How exactly is this different from what makes an apple fall on the ground ?. So since an apple falling on ground, isnt totally going like pieces and the life on earth is possible, so is there in any way an anology with the black hole's gravity ?  
+Simply put, what is the threshold type like ""ok this inward force and outward force is ok, so apple can fall on earth, stay the same, humanity is possible "" vs ""this outward force is weak, the inward force is strong, hence black hole.""  
+Can someone help me understand on those lines ? Or are my thoughts totally stupid and I am just watching too much of space documentaries."|johnreese421|False|https://redd.it/ef6goa|3|0.62|0|11|1|space
+eewecw|2019-12-24 04:47:00|A Cosmic ‘Candy Cane’ Was Spotted at the Heart of the Milky Way|https://www.smithsonianmag.com/smart-news/cosmic-candy-cane-heart-milky-way-180973847/#.XgGYLj8TXuQ.reddit|Gladari|False|https://redd.it/eewecw|16|0.71|0|5|0|space
+ef8vcc|2019-12-24 23:34:38|I Was Poised to be the First Black Astronaut. I Never Made it to Space|https://www.youtube.com/watch?v=Xj1sJQW98nE|vannybros|False|https://redd.it/ef8vcc|1|0.5|0|3|0|space
+ee83wf|2019-12-22 18:13:09|The clearest photo ever taken of a star beyond the sun: Antares, a red supergiant|https://i.redd.it/98eqz72478641.png|Terezzian|False|https://redd.it/ee83wf|61628|0.96|4|1457|0|space
+eez521|2019-12-24 09:26:40|How easily could we detect industrial civilisations that have not invented radio yet?|Not an expert or anything like that but looking for some advice. Been reading up on the drake equation and such. And generally just curious.|curioustraveller1985|False|https://redd.it/eez521|4|0.6|0|19|1|space
+eeptwv|2019-12-23 20:11:53|A Stellar Mystery: How Could 100 Stars Just Vanish?|https://www.airspacemag.com/daily-planet/stellar-mystery-how-could-100-stars-just-vanish-180973821/|recipriversexcluson|False|https://redd.it/eeptwv|57|0.84|0|56|0|space
+eeu9n6|2019-12-24 01:49:14|Humans on Two Planets|"I am finally letting myself think that we can put humans on Mars, and not just for a few photos and proof-of-concept for human space travel.
+
+I honestly believe that we have the technological capability to effectively and efficiently solve any problems with establishing a lasting presence on a new planet. All we have to do is commit and follow through, and that snowball looks like it might be starting to roll. 
+
+I want to be apart of it, but I'm curious, what do you guys think are the biggest challenges right now that we need to overcome on the road to forming a colony? Not putting one man there, but a permanent colony.
+
+Edit:  changed the wording of my question."|H0tSquid|False|https://redd.it/eeu9n6|13|0.69|0|32|1|space
+eejwdz|2019-12-23 12:15:28|The Return to Venus and What It Means for Earth|https://www.jpl.nasa.gov/news/news.php?feature=7558|ye_olde_astronaut|False|https://redd.it/eejwdz|154|0.93|0|40|0|space
+ee5xf5|2019-12-22 15:15:57|Stars orbiting the black hole in the center of our galaxy - The European Southern Observatory published this 20-year time-lapse of stars near the center of our galaxy in 2018|https://i.redd.it/cdx8aojmb7641.gif|dabeternity|False|https://redd.it/ee5xf5|11725|0.98|1|402|0|space
+eeldsg|2019-12-23 14:39:29|Betelgeuse is ‘fainting’ but (probably) not about to explode|https://earthsky.org/space/betelgeuse-fainting-probably-not-about-to-explode|dontneedaknow|False|https://redd.it/eeldsg|76|0.93|0|16|0|space
+eeqh46|2019-12-23 20:58:41|NASA 2019 Overview|https://www.nasa.gov/press-release/nasa-s-moon-to-mars-plans-artemis-lunar-program-gets-fast-tracked-in-2019|Koplins|False|https://redd.it/eeqh46|22|0.85|0|0|0|space
+eebx1d|2019-12-22 23:14:41|I did a collage of the exoplanets directly imaged so far|https://i.redd.it/0rv3tc9ro9641.jpg|alfa015|False|https://redd.it/eebx1d|1163|0.96|0|80|0|space
+ee9eik|2019-12-22 19:54:23|The most beautiful nebula ever seen - Eagle Nebula|https://i.redd.it/yz3vuoxbp8641.jpg|TheDarkSword-RAG|False|https://redd.it/ee9eik|1960|0.97|0|76|0|space
+eeq3c9|2019-12-23 20:31:16|Space History Is Made in This NASA Robot Factory|https://www.jpl.nasa.gov/news/news.php?release=2019-253&rn=news.xml&rst=7565|MyNameIsGriffon|False|https://redd.it/eeq3c9|19|0.89|0|2|0|space
+eequ0r|2019-12-23 21:24:57|I am skeptical that humanity will ever meet another space faring civilization|"Despite what ET, Close Encounters of the Third Kind, Start Trek or The X-Files would like to me believe, I find it unlikely that there are many alien spaceships buzzing across the stars.
+
+Yes, there universe is infinitely large, with almost infinite number stars and worlds.
+
+Yes, I believe that life can happen elsewhere besides Earth, and it is quite possible that the universe is teeming with life and even intelligent life.
+
+The problem is that terrestrial planets, that are non-tidal locked and placed in the habitable zone of a star seem to be extremely rare. It takes a quite perfect combination of conditions for terrestrial planets to be able to harbor life as we know it, and so far only Earth qualifies. What the universe seems to be full of are aquatic mega-worlds or ice planets with liquid oceans underneath the surface. Those are great places for life to develop, thrive and even become intelligent, and there seems to be lots and lots of such places across space. Hell, there are several of those right here in our solar system.
+
+But because these places are mostly aquatic, you can have plenty of life and even intelligence life, but you cannot have fire or electronics. Without fire, you can't develop metallurgy, build tools, telescope, radios, rockets, etc... So you might have a highly intelligence species that is simply not able to develop technology, because they simply lack the means to do so.
+
+Another thing to consider - Aquatic life in mostly aquatic worlds will probably have terrible eyesight (if any at all), relying instead on sonar, smell, tact or something similar. That alone would represent an incredible challenge in terms of space exploration. How can one become aware of stars and therefore explore them, if you can't even see them?
+
+So if this model of life supporting terrestrial planets being quite rare and aquatic and ice worlds with oceans being common, it means that the universe might be full of Intelligence life that are forever trapped within their own planets, and that humanity will be mostly alone when travelling across the stars."|cambeiu|False|https://redd.it/eequ0r|15|0.6|0|53|1|space
+eemh8w|2019-12-23 16:07:22|"Astronomers find 'missing' neutron star after 32 years | Space"|https://earthsky.org/space/astronomers-find-missing-neutron-star-sn1987a|TMcFly|False|https://redd.it/eemh8w|36|0.91|0|0|0|space
+ee7bgq|2019-12-22 17:11:12|My progress at shooting Andromeda|https://i.redd.it/q4e0l3s7w7641.jpg|GreenFlash87|False|https://redd.it/ee7bgq|2062|0.97|1|56|0|space
+ef801i|2019-12-24 22:20:37|Will the United States Lose the Universe?|https://www.nytimes.com/2019/12/23/science/telescopes-magellan-hawaii-astronomy.html?fbclid=IwAR2YV6l_o3Cg9e443Sb6uf066RehuB21r0nBy6HbWmOJ16rNIu44ur1UASE|Xaron|False|https://redd.it/ef801i|0|0.36|0|23|0|space
+ee5ix1|2019-12-22 14:37:08|Radio astronomer here! I embroidered the stacked pulses from the first pulsar ever discovered! (Or, if you prefer, part of the Joy Division album cover.)|https://i.redd.it/kxo6ayxp47641.jpg|Andromeda321|False|https://redd.it/ee5ix1|3080|0.97|0|65|0|space
+eel4fd|2019-12-23 14:16:29|A Visualization of the ISS Orbit|https://www.youtube.com/watch?v=WW0rnFDfO0Y|Jan0sch|False|https://redd.it/eel4fd|37|0.86|0|16|0|space
+eep8qf|2019-12-23 19:28:26|NASA's Hubble spots stunning 'pinwheeling' galaxy|https://www.foxnews.com/science/nasas-hubble-stunning-pinwheeling-galaxy|TMcFly|False|https://redd.it/eep8qf|13|0.68|0|4|0|space
+eehlod|2019-12-23 07:56:29|Ethiopia launches first satellite into space|https://af.reuters.com/article/worldNews/idAFKBN1YO0JA|mvea|False|https://redd.it/eehlod|91|0.84|0|16|0|space
+eeqf9e|2019-12-23 20:55:05|What we learned from the space station in 2019|https://www.nasa.gov/mission_pages/station/research/news/what-we-learned-from-space-station-2019|MyNameIsGriffon|False|https://redd.it/eeqf9e|9|0.71|0|1|0|space
+eema8t|2019-12-23 15:52:40|NASA opens a holiday gift: unopened Moon samples from the Apollo 17 mission|https://youtu.be/7AFMj66tNfw|JamesMakesFilms|False|https://redd.it/eema8t|18|0.85|0|0|0|space
+ee7yb7|2019-12-22 18:00:56|The original NASA launch pads are crumbling ruins right now and it looks like a scifi apocalypse. Album in comments.|https://i.redd.it/68hrvegz48641.png|EricFromOuterSpace|False|https://redd.it/ee7yb7|869|0.97|0|70|0|space
+eeo9ct|2019-12-23 18:17:11|Best ways to experience stuff similar to a Planetarium?|"Hey there, I searched the sidebar and previous post but didnt see anything. I'm wondering if there's any experiences similar to a planetarium or observatory in either Maryland or Dc, or even on the internet. 
+
+I'm off work and the two planetariums around me are closed, but I was really hoping to get into them. Is there anything you all can recommend? Not looking for any specifics so if it's stuff on blackholes, nebulas, galaxies or whatever I'll check it out!
+
+Thanks y'all!"|572xl|False|https://redd.it/eeo9ct|9|0.81|0|4|1|space
+eeq1fy|2019-12-23 20:27:26|NASA’s Moon to Mars Plans, Artemis Lunar Program Gets Fast Tracked in 2019|https://www.nasa.gov/press-release/nasa-s-moon-to-mars-plans-artemis-lunar-program-gets-fast-tracked-in-2019|boxcarjakey|False|https://redd.it/eeq1fy|4|0.64|0|1|0|space
+een0uq|2019-12-23 16:48:22|Stellar Snowflake Cluster|https://www.nasa.gov/multimedia/imagegallery/image_feature_476.html|Citia|False|https://redd.it/een0uq|7|0.81|0|1|0|space
+eef21o|2019-12-23 03:44:59|Happy Hanukkah to all those who celebrate it on Earth!|https://twitter.com/Astro_Jessica/status/1208909270785372160|Aeromarine_eng|False|https://redd.it/eef21o|63|0.77|0|2|0|space
+edxgrt|2019-12-22 00:00:02|I kept my telescope pointed at Bode's Galaxy for 25 hours to create this picture. It was captured from my backyard. The pink areas in the galaxy represent nebulae - I used an H-Alpha filter to highlight them.|https://i.redd.it/ro00ih4jr2641.png|chucksastro|False|https://redd.it/edxgrt|35136|0.96|9|630|0|space
+ee87ib|2019-12-22 18:21:15|My view from my backyard!|https://i.redd.it/gb5d15fq88641.jpg|Pjacob77|False|https://redd.it/ee87ib|263|0.95|0|17|0|space
+eespz0|2019-12-23 23:46:01|Anyone have a really good starmap?|"Like a map that shows stars in relation to other stars (including the sun and planets preferably).
+
+Something like this https://upload.wikimedia.org/wikipedia/commons/3/31/Reticulum_constellation_map.svg."|ForgotthePasswordz|False|https://redd.it/eespz0|1|0.54|0|10|1|space
+ee78w3|2019-12-22 17:05:43|Relative orbital velocities Planet motions, rotations & tilts to scale|https://v.redd.it/qgnj3r36v7641|itzhussuni|False|https://redd.it/ee78w3|268|0.94|0|24|0|space
+eejjl8|2019-12-23 11:36:21|A question about Messier 87 BH and other black holes|"First off, I’m not an astronomer or astrophysicist of any kind just generally curious.
+
+I was doing some reading up on black holes, especially the one we have managed to capture an image of, M87. It is said to be roughly 55 million light years away yet there are closer black holes to the earth such as V616 Monocerotis and Sagittarius A*. If there are closer black holes to earth than M87 then how come we didn’t capture an image of them instead of M87 itself? 
+
+Could it be because M87 is brighter and more visible?
+
+I look forward to hearing a response, thanks :)"|will_r0binson|False|https://redd.it/eejjl8|6|0.84|0|6|1|space
+eelauk|2019-12-23 14:32:30|Massive gas disk raises questions about planet formation theory|https://phys.org/news/2019-12-massive-gas-disk-planet-formation.html|TMcFly|False|https://redd.it/eelauk|3|0.64|0|1|0|space
+eembxq|2019-12-23 15:56:13|What We Learned in Space and Astronomy News in 2019|https://www.nytimes.com/2019/12/22/science/space-astronomy-news-2019.html|AlexMaver3D|False|https://redd.it/eembxq|2|0.53|0|0|0|space
+ee4rw1|2019-12-22 13:16:03|Long exposure streak of Atlas V with Starliner taken from the roof of the NASA Vehicle Assembly Building|https://i.redd.it/i23mqwy0q6641.jpg|learntimelapse|False|https://redd.it/ee4rw1|249|0.94|0|4|0|space
+ee48mr|2019-12-22 12:10:01|This is my first picture of the milky way. I took this with my Nikon d3300 with a nikon nikkor 18-105 mm lens from Norway. If you look closely you can see the Andromeda galaxy in the top left corner. Settings: iso1600, f3.5 and 30s. Hope you enjoy my work!|https://i.redd.it/tq8w7eshe6641.jpg|Nathiboii|False|https://redd.it/ee48mr|301|0.93|0|24|0|space
+ee9iyp|2019-12-22 20:03:49|Saw atlas V (which you guys told me it was but the video was taken down) on the way to work, first time seeing something like this|https://v.redd.it/ita36vz7o8641|saahhdduuddee|False|https://redd.it/ee9iyp|60|0.87|0|5|0|space
+eeh6xn|2019-12-23 07:10:51|How long would a super nova of a distant star last in our night (day) sky?|Saw a simulation on YouTube after reading about a known star being close to super nova (close as in millions of years)|KarmaKaroo|False|https://redd.it/eeh6xn|8|0.83|0|19|1|space
+ee47aq|2019-12-22 12:05:27|Ocean Worlds|https://i.redd.it/di6uqaeod6641.jpg|G-rantification|False|https://redd.it/ee47aq|230|0.96|0|38|0|space
+eeg3er|2019-12-23 05:21:00|So the sun completes an orbit roughly every 230 million years?|"Based on calculations, the sun has completed 20 orbits around the Milky Way Galaxy during its lifespan. 
+
+Are we able to figure out roughly when the next completion will occur? 
+
+Of course not precisely what day or year or even decade. Since we don’t know the exact “time” the sun formed."|FinnishArmy|False|https://redd.it/eeg3er|10|0.64|0|21|1|space
+eeii88|2019-12-23 09:38:04|Orbiting the Sun together|http://www.esa.int/Science_Exploration/Space_Science/Orbiting_the_Sun_together|MyNameIsGriffon|False|https://redd.it/eeii88|4|0.62|0|0|0|space
+ee3ehf|2019-12-22 10:12:26|This is a total of 5 hours of imaging time from my rooftop in Malta to capture the Horsehead and Flame nebulae, part of the Orion molecular cloud complex. The complex is located around 1,400 light years away, meaning that the photons captured in this image left the nebulae around the year 600AD.|https://i.redd.it/jc0rjh7ks5641.jpg|AegonStarkgaryen|False|https://redd.it/ee3ehf|285|0.96|0|9|0|space
+eea1t3|2019-12-22 20:45:31|Simulating splash bridges: the result of gas-rich direct disk-disk galaxy collisions. This simulation resembles the system UGC 12914/5 - The Taffy Galaxies.|https://v.redd.it/szjcv73ey8641|SuperdoerReddit|False|https://redd.it/eea1t3|36|0.9|0|12|0|space
+ee610j|2019-12-22 15:24:57|Western Veil Nebula and Pickering’s Triangle- starless|https://i.redd.it/rndee5o8d7641.png|zirput|False|https://redd.it/ee610j|87|0.95|0|5|0|space
+ee5wzm|2019-12-22 15:14:46|Carl Sagan’s daughter, Sasha Sagan, will be on reddit January 9th!|https://i.redd.it/fckvflngb7641.jpg|Saganism1996|False|https://redd.it/ee5wzm|87|0.81|0|11|0|space
+ee4fqb|2019-12-22 12:35:34|A stellar nursery: I captured the Great Orion Nebula from my light-polluted backyard with a DSLR camera, 200mm telephoto lens from the 80s, and a star tracker.|https://i.redd.it/wvuroiyti6641.png|phoboid|False|https://redd.it/ee4fqb|104|0.89|0|6|0|space
+edpqbr|2019-12-21 13:08:03|For the first time since the Apollo era, NASA has funding for a human lunar lander. The Agency's 2020 budget provides an additional $1.3 billion to accelerate sustained exploration of the Moon through the Artemis program.|https://twitter.com/JimBridenstine/status/1208236090592768002|SkywayCheerios|False|https://redd.it/edpqbr|15591|0.97|1|735|0|space
+ee5se6|2019-12-22 15:03:38|Orion and the Running Man Nebula from my light polluted backyard|https://i.redd.it/6gpz1nm797641.png|frito11|False|https://redd.it/ee5se6|55|0.92|0|2|0|space
+eebni4|2019-12-22 22:52:52|took this Friday morning but couldn't post till today.|http://imgur.com/gallery/n5LG1MC|baddie_PRO|False|https://redd.it/eebni4|12|0.81|0|2|0|space
+eedpph|2019-12-23 01:47:29|"When the JWST ""lands"" and we finally get a glimpse further into the unknown, what do you think we'll see?"||SheepShagnStepSister|False|https://redd.it/eedpph|7|0.65|0|17|1|space
+ee07ns|2019-12-22 04:05:33|I hope everyone's Christmas is out of this world!|https://i.redd.it/p89mcmm204641.jpg|Ferric-Ox|False|https://redd.it/ee07ns|312|0.93|1|22|0|space
+ee3p58|2019-12-22 10:55:45|I took this photo of Starliner on Atlas V the evening before launch. Starliner lands this morning in White Sand NM|https://i.redd.it/5qw3i2n416641.jpg|learntimelapse|False|https://redd.it/ee3p58|88|0.93|0|9|0|space
+ee6e26|2019-12-22 15:56:41|In the post-landing briefing the Boeing Starliner timer issue was found to be 11 hours off.|"Interesting that it was such a ""round number"". Almost as if the timezone was different..."|Swoossh|False|https://redd.it/ee6e26|28|0.89|0|14|1|space
+ee78ar|2019-12-22 17:04:29|Week of December 22, 2019 'All Space Questions' thread|"Please sort comments by 'new' to find questions that would otherwise be buried.
+
+In this thread you can ask any space related question that you may have.
+
+Two examples of potential questions could be; ""How do rockets work?"", or ""How do the phases of the Moon work?""
+
+If you see a space related question posted in another subeddit or in this subreddit, then please politely link them to this thread.
+
+Ask away!"|AutoModerator|False|https://redd.it/ee78ar|24|0.86|0|145|1|space
+ee5epp|2019-12-22 14:25:13|Astronauts with Christmas cookies on the International Space Station in Dec 2008.|https://i.redd.it/d75j22r127641.jpg|Aeromarine_eng|False|https://redd.it/ee5epp|40|0.82|0|4|0|space

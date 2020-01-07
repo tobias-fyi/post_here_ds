@@ -1,0 +1,739 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+ekapzi|2020-01-05 09:08:49|What happened in your country this week? — 2020-01-05|"**Welcome to the weekly European news gathering.**
+
+Please remember to state the country or region in your post and it would be great if you link to your sources. 
+
+If you want to add to the news from a country, please reply to the top level comment about this country.
+        
+__________________________________________
+
+^This post is part of a series and gets posted every Sunday at 9AM CET.
+
+^[Archives](/r/Europe/search?q=What+happened+in+your+country+this+week&restrict_sr=on&sort=new&t=all)"|AutoModerator|False|https://redd.it/ekapzi|22|0.84|0|17|1|europe
+ekyjwx|2020-01-06 19:04:20|New r/europe plays Europa Universalis IV campaign, starting this Sunday, January 12th, sign-ups open!|"Do you think playing a Grand Strategy game spanning the time from the Renaissance to the French Revolution with your fellow Europeans could be fun? Doing diplomacy and intrigues with 100 players? Then this is for you!
+
+---
+
+#SIGN UPS OPEN
+
+---
+
+Due to time and connection concerns, players from Europe are preferred, but we do have a bunch of non-Europeans playing with us.
+
+---
+
+#When do we play?
+The campaign will happen on weekly sessions, every Sunday starting January 12th , from 18 to 22 Central European Time (CE(S)T).
+
+---
+
+#Are there rules?
+
+Well, of course. [Click here to check out the official rules of the campaign](https://hackmd.io/@JWDQgyGZQniOo_UhJSCyZw/HyH3olTJL).
+
+---
+
+#The Discord Server
+The organisation takes place through the r/europe Discord, [link here](
+https://discordapp.com/invite/europe) (or in sidebar).
+
+**Once there, go to #bot_commands and type in *.assign eu4* to gain access to the EU4 channels.**
+
+That's where we'll make the relevant announcements, where you can find the other players for diplomacy and discussions and all information regarding the EU4 campaign. It is also the place where you can post your sick memes about the campaign, whether in image or high-quality gifs/video form.
+
+---
+
+#How do I join?
+
+**Due to past experiences, we will not be posting the sign-up form here, instead, you will have to join the r/europe discord mentioned above where you will find all relevant links in the *#campaign-info* channel.** We are doing this to increase the likelihood of players actually showing up since in the past people would sign up through reddit but then never show up to the game, leaving their assigned Nation unplayed.
+
+You may pick 5 nations, ordered by what you'd rather play, from most to less. If you didn't include a Steam and Discord name your pick will be ignored and you will not be able to participate, so make sure to hop on the Discord server. You may not pick more than 3 countries per continent.
+
+You may find some names you have never heard of before in the signup form, the reason for this is that we have decided to split up the Ming into ''Perfectly Balanced'' custom nations! An overview of their ideas and positions can be found [here](https://hackmd.io/@JWDQgyGZQniOo_UhJSCyZw/HyjH2epJL), on the Discord we have uploaded a save file with the nations in it.
+
+There you will also find a google spreadsheet showing the current picks, don't be discouraged if your preferred country is already picked, it is **NOT** first come first serve.
+
+---
+
+# Skanderbeg
+
+We use a custom save reader programmed by one of our players to be able to display the state of the campaigns, it's called Skanderbeg and it looks like [this (old campaign, after session 1, a bunch of players having died due to a whopping 188 wars in 4h)](https://skanderbeg.pm/displaymap.php?id=32fc5f). You may fiddle around with the different map modes or check the [ledger](https://skanderbeg.pm/browse.php?id=32fc5f) for more detailed information. 
+
+When the nation attributions are done, before the campaign we will post another instance of this map, where the player mapmode will show who are each of your neighbours.
+
+In between every session you'll be free to fiddle with it to check your strategy and diplomacy.
+---
+
+#Do I need any DLC?
+Nope! It doesn't matter how many DLC you own, the host's DLC are able to be used by the entire server! You only need a legit copy of EU4.
+
+---
+
+#I've never played EU4 multiplayer before! What do?
+Well, we hope you'll enjoy your experience! This is a rather unique community in EU4 multiplayer. Besides being one of the largest groups (we usually start with 80-120 players), we also welcome players of all skills! One important thing to keep in mind is diplomacy is a crucial aspect of our campaigns. Interacting with other players, roleplaying and such are all encouraged. The campaign doesn't just start and end Sunday, as you will likely talk with neighbours, allies and enemies throughout the weekdays. Feel free to ask more experienced players for tips and tricks.
+
+---
+
+That is all folks. We hope for a good and fun campaign for everyone. PvP can and is encouraged to happen so there will be people losing, but in the end, we will try for a fair game that everyone had a good time with. There are no stakes, so don't escalate conflicts if you don't need to, and play fairly and remember to separate the player from the country.
+
+Also, we sporadic HOI4 campaigns, and a beginner friendly CK2 campaign so join the server if you're more interested in that, type .assign hoi4 for the respective role.
+
+Looking forward to seeing you there!"|Feliz_Desdichado|False|https://redd.it/ekyjwx|50|0.9|0|9|1|europe
+ekrmos|2020-01-06 09:10:21|People who cannot afford to keep their home adequately warm, 2018 (EU = 7.3%)|https://i.imgur.com/MwCS90n.png|lenin-ninel|False|https://redd.it/ekrmos|11312|0.96|0|1073|0|europe
+ekxqja|2020-01-06 18:06:30|"The Peace of Westphalia, 1648 AKA the first pan-European ""Let's stop killing each other""-conference"|https://i.redd.it/ske0e55j77941.jpg|Frptwenty|False|https://redd.it/ekxqja|856|0.98|0|72|0|europe
+el0pws|2020-01-06 21:33:35|Robert Biedroń, the first openly gay mainstream party candidate for President of Poland|https://i.redd.it/0tmtk5xp88941.jpg|the_battle_bunny|False|https://redd.it/el0pws|108|0.84|0|31|0|europe
+eky80u|2020-01-06 18:41:04|Burning of the yule log in Belgrade today. Happy Christmas Eve to all who follow the ol' Julian calendar!|https://i.redd.it/iqgedh5td7941.jpg|Porodicnostablo|False|https://redd.it/eky80u|131|0.9|0|3|0|europe
+ekuc3r|2020-01-06 13:45:54|Finland has more strictly protected forests than the rest of Europe combined|https://i.redd.it/c9enn1q7x5941.png|kashluk|False|https://redd.it/ekuc3r|287|0.93|0|82|0|europe
+ekvp2v|2020-01-06 15:38:10|The white aired man in the centre is Sergio Mattarella, whose brother Piersanti, then president of the Sicily Region, was assassinated by a mafia killer 40 years ago. Sergio Mattarella is now President of the Italian Republic. Thank you Mr. President for yr integrity, yr wisdom and yr leadership.|https://i.imgur.com/9HEq76r.jpg|Paolo1976|True|https://redd.it/ekvp2v|158|0.89|0|26|0|europe
+ekw7qe|2020-01-06 16:17:10|Finland ends homelessness and provides shelter for all in need|https://scoop.me/housing-first-finland-homelessness/|random_guy_somewhere|False|https://redd.it/ekw7qe|125|0.79|0|50|0|europe
+ekkytt|2020-01-05 23:29:27|Carta marina - First marine map of Northern Europe. Took 12 years to produce and was printed in Venice 1539|https://i.redd.it/2zg32546o1941.jpg|Frptwenty|False|https://redd.it/ekkytt|2844|0.99|0|174|0|europe
+ekr1gi|2020-01-06 08:06:05|The Quaternion Eagle - Coat of Arms of the Holy Roman Empire. Hand-coloured woodcut (c. 1510) by Hans Burgkmair. Back when coats of arms were done in style.|https://i.redd.it/6ew5kwmm84941.jpg|Frptwenty|False|https://redd.it/ekr1gi|540|0.97|0|52|0|europe
+ektbne|2020-01-06 12:09:48|The Dolomites in Italy [OC]|https://i.redd.it/d7w3tgy2g5941.jpg|Atellani|False|https://redd.it/ektbne|230|0.94|0|15|0|europe
+ekuqfq|2020-01-06 14:20:53|Kryžių kalnas (Hill of Crosses), Lithuania|https://i.redd.it/3xogkdvt26941.png|Fenrir95|False|https://redd.it/ekuqfq|143|0.94|0|11|0|europe
+ekwf98|2020-01-06 16:32:35|Iran told EU foreign policy chief it doesn’t want escalation|https://www.politico.eu/article/iran-told-eu-foreign-policy-chief-it-doesnt-want-escalation-javad-zarif-josep-borrell/|le_br1t|False|https://redd.it/ekwf98|66|0.89|0|99|0|europe
+ekgkeu|2020-01-05 18:07:55|Kraków in the 1980s|https://i.redd.it/22zu0r2430941.jpg|yuropemodssuck|False|https://redd.it/ekgkeu|5684|0.98|0|226|0|europe
+ekyg7u|2020-01-06 18:56:55|GDPR Fines and Lessons for Startups - Total GDPR fines in 2019 reached a mind-boggling €417.5 million, almost 1,000 times higher than 2018|https://www.cledara.com/blog/gdpr-fines-and-lessons-for-startups|PocoLoco1|False|https://redd.it/ekyg7u|43|0.94|0|10|0|europe
+ekvuab|2020-01-06 15:49:05|Reynhard Sinaga: Britain's 'most prolific rapist' jailed for life|https://www.bbc.co.uk/news/uk-50987823|LightArisen|False|https://redd.it/ekvuab|65|0.93|0|27|0|europe
+ekwbjz|2020-01-06 16:24:51|Illustration from Łaski's Statute(1506) depicting Polish King and Senat. Around them Coats of Arms of provinces and vassals of Kingdom of Poland.|https://i.redd.it/tztmh1kmp6941.jpg|DonPecz|False|https://redd.it/ekwbjz|60|0.9|0|6|0|europe
+ekwpvg|2020-01-06 16:53:40|Tornado reports in 2019.|https://i.redd.it/amn7s5erl4941.jpg|Europehunter|False|https://redd.it/ekwpvg|47|0.92|0|11|0|europe
+ekty4v|2020-01-06 13:09:35|The Vittoriano in Rome|https://i.redd.it/weoylbvpq5941.jpg|Lavrentio2LaVendetta|False|https://redd.it/ekty4v|87|0.93|0|8|0|europe
+ekq6cv|2020-01-06 06:36:00|Basilica 'Notre-Dame de l’Assomption' in Nice (France)|https://i.redd.it/atzvwq3ks3941.jpg|Grafixart-Photo|False|https://redd.it/ekq6cv|269|0.95|0|17|0|europe
+ekwd7z|2020-01-06 16:28:26|Parliament to recognize jailed Catalan separatist as MEP next week|https://www.politico.eu/article/oriol-junqueras-carles-puigdemont-parliament-to-recognize-jailed-catalan-separatist-as-mep-next-week/|sn0r|False|https://redd.it/ekwd7z|39|0.81|0|31|0|europe
+ekvl42|2020-01-06 15:29:38|Austria backs Greece in its migration dispute with Turkey|https://greekcitytimes.com/2020/01/06/austria-backs-greece-in-its-migration-dispute-with-turkey/|Los_ches|False|https://redd.it/ekvl42|49|0.81|0|7|0|europe
+ekvr50|2020-01-06 15:42:28|Thank you, Finland!|https://www.bioeconomy.fi/forest/|yaeltheunicorn|False|https://redd.it/ekvr50|46|0.8|0|11|0|europe
+el12tw|2020-01-06 21:58:08|Speaking the national language at home is less common in some European countries|https://i.redd.it/8xa161l1d8941.png|negrocos|False|https://redd.it/el12tw|15|0.86|0|17|0|europe
+ekxkfb|2020-01-06 17:54:12|[UK] Plymouth man denies wielding a seagull in a fight with a cafe customer|https://www.bbc.co.uk/news/uk-england-devon-51013458|sonicandfffan|False|https://redd.it/ekxkfb|27|0.89|0|2|0|europe
+ekutnj|2020-01-06 14:28:35|Historical regions in modern Poland|https://i.redd.it/silkh36v46941.jpg|the_battle_bunny|False|https://redd.it/ekutnj|49|0.76|0|39|0|europe
+ekswyw|2020-01-06 11:28:49|"Germany, Britain, France release joint statement urging Iran to abide by nuclear pact. The 3 also urged Iran to refrain from conducting or supporting further “violent acts."""|https://news.yahoo.com/germany-britain-france-urge-iran-230850546.html?|CrystalMaterelius|False|https://redd.it/ekswyw|83|0.88|0|305|0|europe
+ekwnth|2020-01-06 16:49:34|EU officials to hold emergency meeting on saving Iran deal|https://thehill.com/policy/international/europe/476926-eu-officials-to-hold-emergency-meeting-to-discuss-ways-of-saving|Brjgjdj5788|False|https://redd.it/ekwnth|27|0.88|0|9|0|europe
+ekw3jl|2020-01-06 16:08:16|Painted wall somewhere deep in the streets of Riga, Latvia|https://i.redd.it/mdx7cv6om6941.jpg|wrinsp|False|https://redd.it/ekw3jl|33|0.85|0|9|0|europe
+ekdi17|2020-01-05 14:14:41|White swiss shepherd in the mountains|https://gfycat.com/enlightenedsorehoki|gudbatwurst|False|https://redd.it/ekdi17|4151|0.97|0|45|0|europe
+el1x52|2020-01-06 22:57:02|Winter in the village - Romania|https://i.redd.it/ydgffjjin8941.jpg|e1ioan|False|https://redd.it/el1x52|8|1.0|0|1|0|europe
+ekh12w|2020-01-05 18:40:58|Split, Croatia.|https://i.redd.it/tvt82bgz80941.png|MelodicBerries|False|https://redd.it/ekh12w|1423|0.97|0|56|0|europe
+el07sr|2020-01-06 20:59:01|Teens hijack ambulance, kidnap crew in Naples|https://m.dw.com/en/teens-hijack-ambulance-kidnap-crew-in-naples/a-51905003|RainItIn|False|https://redd.it/el07sr|13|0.93|0|6|0|europe
+ekznkt|2020-01-06 20:20:10|Finland is planning a four-day week. Is this the secret of happiness?|https://www.theguardian.com/money/shortcuts/2020/jan/06/finland-is-planning-a-four-day-week-is-this-the-secret-of-happiness|Cheapo-Git|False|https://redd.it/ekznkt|10|0.58|0|32|0|europe
+ekwjqf|2020-01-06 16:41:46|Out of the 30 major donors of the DAC, the European Union made the 4th largest foreign aid contribution in 2017 with $16.44 billion dollars|https://visual.ly/community/Infographics/economy/which-countries-provide-and-receive-most-foreign-aid|Sy3Zy3Gy3|False|https://redd.it/ekwjqf|21|0.94|0|2|0|europe
+el02a4|2020-01-06 20:48:26|EU foreign ministers schedule extraordinary meeting to discuss Iran|https://www.politico.eu/article/eu-iran-extraordinary-meeting/|Cheapo-Git|False|https://redd.it/el02a4|11|0.78|0|2|0|europe
+ekrmze|2020-01-06 09:11:17|Gelsenkirchen: German police shoot knifeman dead|https://www.bbc.co.uk/news/world-europe-51003868|ParkingWillow|False|https://redd.it/ekrmze|67|0.86|0|38|0|europe
+ekvzdf|2020-01-06 15:59:41|Putin invites Merkel to Russia over Iran crisis|https://www.dw.com/en/putin-invites-merkel-to-russia-over-iran-crisis/a-51900382|IvanMedved|False|https://redd.it/ekvzdf|20|0.76|0|18|0|europe
+eksosc|2020-01-06 11:05:36|Angela Merkel to visit Russia|https://tass.com/world/1105871|greedeer|False|https://redd.it/eksosc|42|0.77|0|116|0|europe
+ekqxzu|2020-01-06 07:55:34|Notre Dame cathedral 'not saved yet' warns restoration chief|https://www.euronews.com/2020/01/05/notre-dame-cathedral-not-saved-yet-warns-restoration-chief|surpator|False|https://redd.it/ekqxzu|73|0.92|0|7|0|europe
+ekobpt|2020-01-06 03:47:36|Thousands march in France to protest decision to not prosecute Jewish woman’s killer|https://www.jta.org/quick-reads/thousands-march-in-france-to-protest-decision-to-not-prosecute-jewish-womans-killer|adlerchen|False|https://redd.it/ekobpt|148|0.82|0|95|0|europe
+ek9txr|2020-01-05 07:25:22|Krk town, island of Krk, Croatia|https://i.imgur.com/DTnFWuh.jpg|__hrga__|False|https://redd.it/ek9txr|7824|0.96|0|349|0|europe
+ektu2i|2020-01-06 12:58:54|Matinkylä, a pleasant Greater-Helsinki suburb right now|https://i.redd.it/pvd14epto5941.jpg|Jormakalevi|False|https://redd.it/ektu2i|23|0.69|0|19|0|europe
+ekt7i2|2020-01-06 11:59:08|Vodice, Croatia|https://i.redd.it/g1yngbr7e5941.jpg|CroDestinations|False|https://redd.it/ekt7i2|21|0.76|0|0|0|europe
+el29mg|2020-01-06 23:21:38|Merry Christmas to all Orthodox Christians.|https://i.redd.it/nxtgih10s8941.jpg|pay_to_see_username|False|https://redd.it/el29mg|3|1.0|0|0|0|europe
+ekll65|2020-01-06 00:14:53|China can’t censor us, Norwegian library says|https://www.thetimes.co.uk/edition/world/china-cant-censor-us-norwegian-library-says-08fnfdbnr|louisamarisa|False|https://redd.it/ekll65|200|0.94|0|36|0|europe
+ekiuvr|2020-01-05 20:47:48|River Uvac, southwestern Serbia.|https://i.redd.it/hgpjxyomv0941.jpg|aleksandar2233|False|https://redd.it/ekiuvr|377|0.95|0|18|0|europe
+el1viz|2020-01-06 22:53:45|Hungarian/Romanian dishes!|Hello! My grandparents were born in Romania but lived in Hungary until they came to the United States. My Grandmother loved chicken paprikash and it’s become a family favorite! She passed a couple years ago of cancer and I’ve been wanting to learn some more recipes from the region. Does anyone have any they would like to share? Thank you! ♥️|elylauren|False|https://redd.it/el1viz|3|1.0|0|2|1|europe
+ekud0k|2020-01-06 13:48:14|Trump administration pressed Dutch hard to cancel China chip-equipment sale: sources|https://www.reuters.com/article/us-asml-holding-usa-china-insight/trump-administration-pressed-dutch-hard-to-cancel-china-chip-equipment-sale-sources-idUSKBN1Z50HN|iamnotinterested2|False|https://redd.it/ekud0k|15|0.81|0|13|0|europe
+ekrhfl|2020-01-06 08:53:58|Kraków town square, Poland|https://i.redd.it/bkpp8d27h4941.jpg|Janczox|False|https://redd.it/ekrhfl|39|0.8|0|2|0|europe
+ekqzar|2020-01-06 07:59:53|Slovak President Čaputová awards Romani doctor and human rights activist with state honors|http://www.romea.cz/en/news/world/slovak-president-caputova-awards-romani-doctor-and-human-rights-activist-with-state-honors|Therealperson3|False|https://redd.it/ekqzar|46|0.75|0|37|0|europe
+ekx303|2020-01-06 17:19:09|Varadkar stands over plan for RIC commemoration|https://www.rte.ie/news/2020/0106/1104635-royal-irish-constabulary/|NilFhiosAige|False|https://redd.it/ekx303|5|0.67|0|1|0|europe
+ekt12v|2020-01-06 11:40:52|Europeans brace for fallout from Soleimani killing|https://www.euractiv.com/section/global-europe/news/europeans-brace-for-fallout-from-soleimani-killing/|SomeEuropean_|False|https://redd.it/ekt12v|20|0.7|0|33|0|europe
+ekr0pp|2020-01-06 08:03:56|Brexit: Jess Phillips could campaign to rejoin EU if she becomes Labour leader|https://www.independent.co.uk/news/uk/politics/jess-phillips-brexit-labour-leadership-election-remain-referendum-clive-lewis-a9270981.html|CharyBrown|False|https://redd.it/ekr0pp|36|0.74|0|76|0|europe
+eky8vt|2020-01-06 18:42:41|NATO chief holds back from endorsing US killing of Suleimani: Jens Stoltenberg condemns Iran but stresses drone attack decision was not made by NATO|https://www.theguardian.com/world/2020/jan/06/nato-chief-holds-back-from-endorsing-us-killing-of-suleimani|casualphilosopher1|False|https://redd.it/eky8vt|7|0.63|0|1|0|europe
+ekvhj7|2020-01-06 15:21:41|Making misery pay: Libya militias take EU funds for migrants|https://apnews.com/9d9e8d668ae4b73a336a636a86bdf27f|kamenoccc|False|https://redd.it/ekvhj7|7|0.74|0|3|0|europe
+ekfw9o|2020-01-05 17:21:08|Emotional attachment towards Europe|https://i.redd.it/itokasvruz841.jpg|nagyfelbontas|False|https://redd.it/ekfw9o|515|0.92|0|306|0|europe
+ektgde|2020-01-06 12:22:11|Barcelona cavalcade de reis (3 kings parade)|"In Barcelona & Spain, the arrival of the 3 kings to see the baby jesus is a spectacular atmospheric event with parades, streets lined with people, music & dancing.  The kids give their letters to the kings, and at the end of the parade floats go by throwing sweets into the crowd.
+
+https://preview.redd.it/8okq5lnei5941.jpg?width=4128&format=pjpg&auto=webp&s=15e63178115844b201be7da86b272a4733462fc4
+
+https://preview.redd.it/oa4bmlnei5941.jpg?width=4128&format=pjpg&auto=webp&s=ab3e7963c1bf4707240ee8b16afb96d391ae4a4e
+
+https://preview.redd.it/ep6p62nei5941.jpg?width=4128&format=pjpg&auto=webp&s=9f474a8afe5a611389c92437318b8fa0fd698e08
+
+https://preview.redd.it/d8zcx5nei5941.jpg?width=4128&format=pjpg&auto=webp&s=dfdd597f789e4969c0395c27f26758efc1339ffd"|danclarke_2000|False|https://redd.it/ektgde|17|0.71|0|7|1|europe
+eki1jb|2020-01-05 19:51:38|Meet the new president of Croatia, Zoran Milanović|https://i.redd.it/xzuch2iml0941.jpg|DidaPato|False|https://redd.it/eki1jb|309|0.88|0|145|0|europe
+el1ztq|2020-01-06 23:02:16|Walrus shortage may have caused collapse of Norse Greenland|https://www.theguardian.com/world/2020/jan/06/walrus-shortage-may-have-caused-collapse-of-norse-greenland|trinitronbxb|False|https://redd.it/el1ztq|2|1.0|0|0|0|europe
+el1xks|2020-01-06 22:57:57|Turkey may reach $119B tourism revenue: Report|https://www.aa.com.tr/en/economy/turkey-may-reach-119b-tourism-revenue-report/1694058|bluemanresearch|False|https://redd.it/el1xks|2|1.0|0|4|0|europe
+ekhvsp|2020-01-05 19:40:51|Zoran Milanović elected as new president of Croatia|https://www.index.hr/vijesti/clanak/gotovo-je-zoran-milanovic-je-novi-predsjednik-hrvatske/2145407.aspx|snjevka|False|https://redd.it/ekhvsp|294|0.94|0|82|0|europe
+ekscw9|2020-01-06 10:30:30|Russia Plans to ‘Adapt’ to Climate Change|https://www.themoscowtimes.com/2020/01/06/russia-plans-to-adapt-to-climate-change-a68814|Gril-Gril|False|https://redd.it/ekscw9|18|0.87|0|5|0|europe
+ekkk6g|2020-01-05 23:00:40|Polish president to skip Auschwitz anniversary in Israel if he is not allowed to speak|https://notesfrompoland.com/2020/01/04/duda-will-only-attend-auschwitz-anniversary-in-israel-if-he-can-speak-before-or-after-putin/|iwanttosaysmth|False|https://redd.it/ekkk6g|153|0.93|0|172|0|europe
+ekmqak|2020-01-06 01:41:04|Gadaffies propasal to divide up Switzerland at the G8 summit.|https://i.redd.it/8fugiatyb2941.jpg|polish-lithuanian888|False|https://redd.it/ekmqak|87|0.93|0|65|0|europe
+ekcfcf|2020-01-05 12:28:58|Street art in Tirana, Albania|https://i.redd.it/9cwhje9ney841.jpg|1301arbi|False|https://redd.it/ekcfcf|962|0.96|0|13|0|europe
+ekiip8|2020-01-05 20:24:06|Croatia: As of 99% of voting stations counted, centre-left former Prime Minister Zoran Milanović (SDP-S&D) is the new President-elect of Croatia. In today's Presidential election, he defeated incumbent centre-right President Kolinda Grabar-Kitarović (*-EPP) with 52.6% vs. 47.4%.|https://i.redd.it/q65y8y6er0941.png|le_br1t|False|https://redd.it/ekiip8|211|0.95|0|56|0|europe
+ekv585|2020-01-06 14:55:14|Peak Swissness|https://i.redd.it/27f0q9ecj4941.jpg|EquilateralCircle|False|https://redd.it/ekv585|7|0.63|0|4|0|europe
+ektxg3|2020-01-06 13:07:42|Brexit: Boris Johnson to open trade talks with Ursula von der Leyen|https://www.theguardian.com/politics/2020/jan/06/johnson-to-open-post-brexit-trade-talks-with-ursula-von-der-leyen|sn0r|False|https://redd.it/ektxg3|10|0.72|0|5|0|europe
+ekyea7|2020-01-06 18:53:05|Decisive UK election result cheers companies: PMIs|https://www.reuters.com/article/us-britain-economy-pmi-idUSKBN1Z5114|gsurfer04|False|https://redd.it/ekyea7|4|0.6|0|0|0|europe
+ekxyd2|2020-01-06 18:21:42|Tory minister says UK must not ‘aggravate’ Cyprus authorities over British teenager accused of lying about gang rape|https://www.independent.co.uk/news/uk/politics/cyprus-rape-case-dominic-raab-british-teenager-a9271061.html|casualphilosopher1|False|https://redd.it/ekxyd2|3|0.65|0|1|0|europe
+ekk9cn|2020-01-05 22:39:47|Cool Bar in Tirana, Albania|https://i.redd.it/wvrnt65mf1941.jpg|mistymountaintop93|False|https://redd.it/ekk9cn|114|0.86|0|4|0|europe
+ekalwd|2020-01-05 08:55:15|The route which Mongols followed in Europe|https://i.redd.it/cqiginbicx841.jpg|yuropian|False|https://redd.it/ekalwd|1381|0.98|0|286|0|europe
+eksvs5|2020-01-06 11:25:22|Croatia elects leftist challenger Zoran Milanovic as president|https://www.bbc.co.uk/news/world-europe-51006754|Evil_Japanese_Pie|False|https://redd.it/eksvs5|8|0.67|0|1|0|europe
+ekqpej|2020-01-06 07:29:33|The EU’s Foreign Policy Is a Failure|https://www.bloomberg.com/opinion/articles/2020-01-06/the-european-union-s-foreign-policy-is-a-failure|Los_ches|False|https://redd.it/ekqpej|24|0.7|0|64|0|europe
+ekf8ui|2020-01-05 16:35:14|Temples of Hera and Neptune in Paestum (Italy)|https://i.redd.it/esk81rrkmz841.jpg|Massimo24ore|False|https://redd.it/ekf8ui|307|0.96|0|17|0|europe
+ekdavx|2020-01-05 13:56:15|Prague, Czechia|https://i.redd.it/8lyn4t08uy841.jpg|znojmak|False|https://redd.it/ekdavx|444|0.93|0|14|0|europe
+el1k5y|2020-01-06 22:31:38|In a series of comments in late December, the Russian president appeared to blame Poland for the outbreak of the Second World War. - The Atlantic|https://www.theatlantic.com/ideas/archive/2020/01/putin-blames-poland-world-war-ii/604426/|jondavidbrooks|False|https://redd.it/el1k5y|2|0.67|0|1|0|europe
+ekqn00|2020-01-06 07:22:16|Trump administration pressed Dutch hard to cancel China chip-equipment sale: sources|https://kfgo.com/news/articles/2020/jan/06/trump-administration-pressed-dutch-hard-to-cancel-china-chip-equipment-sale-sources/971660/|louisamarisa|False|https://redd.it/ekqn00|16|0.83|0|6|0|europe
+ekhxv4|2020-01-05 19:44:44|The New Town in Warsaw during the past winter|https://i.redd.it/hajt2ifbk0941.jpg|minip12|False|https://redd.it/ekhxv4|133|0.93|0|10|0|europe
+ekee17|2020-01-05 15:31:10|Carcassonne, France|https://imgur.com/MY8PU7a|Rejearas|False|https://redd.it/ekee17|278|0.96|0|16|0|europe
+ekkeke|2020-01-05 22:49:43|A graffiti mural in Northwest London|https://i.redd.it/dmeitv8eh1941.jpg|iHSVWS|False|https://redd.it/ekkeke|72|0.86|0|5|0|europe
+ekfvwv|2020-01-05 17:20:26|French bank shuts down customer accounts after she criticized them on Twitter|https://decrypt.co/15842/french-bank-shuts-down-customer-accounts-over-mild-criticism?utm_source=reddit&utm_medium=social&utm_campaign=sm|DecryptMedia|False|https://redd.it/ekfvwv|183|0.96|0|60|0|europe
+eklgia|2020-01-06 00:05:19|Annual Quadrantid meteor shower as seen in one of the less light-polluted spots in Southern Finland on Jan 4 2020 [OC]|https://i.redd.it/u2ggtg7ut1941.jpg|sissipaska|False|https://redd.it/eklgia|49|0.94|0|2|0|europe
+ekjadv|2020-01-05 21:24:08|Vladislav Hall in Prague Castle 1493–1502 by Benedikt Rejt during the reign of Vladislav II Jagiellon, used for banquets, various ceremonies but also for kinght's tournaments|https://upload.wikimedia.org/wikipedia/commons/b/ba/Prag_Vladislav-Saal.jpg|iwanttosaysmth|False|https://redd.it/ekjadv|81|0.97|0|5|0|europe
+eks2eu|2020-01-06 09:58:47|Lloyds Bank commits to £18bn of lending for UK companies|https://www.cityam.com/lloyds-bank-commits-to-18bn-of-lending-for-uk-companies/|LaromTheDestroyer|False|https://redd.it/eks2eu|10|0.66|0|0|0|europe
+ekwzkr|2020-01-06 17:12:11|Britain's Prince Charles to mark Auschwitz liberation in Jerusalem|https://uk.reuters.com/article/us-britain-royals-charles/britains-prince-charles-to-mark-auschwitz-liberation-in-jerusalem-idUKKBN1Z5175|Cheapo-Git|False|https://redd.it/ekwzkr|2|0.55|0|0|0|europe
+ekq6z6|2020-01-06 06:37:47|Croatia's new president, Zoran Milanović|https://i.redd.it/zvyb2kkws3941.jpg|Kapitein_Kanker|False|https://redd.it/ekq6z6|16|0.64|0|4|0|europe
+eka2j9|2020-01-05 07:52:22|Lake Of Orta, Italy|https://i.imgur.com/uyrTi4U.jpg|Maptwopointoh|False|https://redd.it/eka2j9|913|0.98|0|10|0|europe
+ekkhqv|2020-01-05 22:55:48|Roland statue from 1404 in the marketplace of Bremen. A knight with a drawn sword that signifies the town privileges of a medieval city. Roland statues exist in a number of cities in northern and eastern Germany.|https://i.redd.it/l7l81pg8i1941.jpg|Frptwenty|False|https://redd.it/ekkhqv|60|0.94|0|9|0|europe
+ekcfo4|2020-01-05 12:29:56|"Most Swiss 'reject far-right plan to end free movement with EU' | World news"|https://www.theguardian.com/world/2020/jan/05/most-swiss-reject-far-right-plan-to-end-free-movement-with-eu|koavf|False|https://redd.it/ekcfo4|379|0.87|0|99|0|europe
+ekgp0v|2020-01-05 18:17:11|Kotor, Montenegro|https://i.redd.it/4l4l02qr40941.jpg|the_count_aga|False|https://redd.it/ekgp0v|126|0.93|0|10|0|europe
+ekeh4p|2020-01-05 15:37:52|[OC] Legalization of LGBT in Europe - including same-sex partnerships & marriages|https://i.redd.it/l65oo4fbcz841.gif|Mareizi|False|https://redd.it/ekeh4p|186|0.73|0|121|0|europe
+ekloif|2020-01-06 00:21:44|Ribeira Grande, Azores, Portugal|https://i.redd.it/yoe5wjjsx1941.jpg|-fmvs-|False|https://redd.it/ekloif|36|0.92|0|5|0|europe
+ekjtbk|2020-01-05 22:08:25|The semi-frozen Mirusha Waterfalls in Kosovë. I'm no photographer but I wanted to show the beauty of this place. It falls 14 times down from the Llapusha Hills into pools that can be skated on in the winter and swam in during the summer|https://i.redd.it/xwmgc201a1941.jpg|EmmetEinstein|False|https://redd.it/ekjtbk|55|0.82|0|3|0|europe
+ekdddo|2020-01-05 14:02:45|Pyrgos Vasilissis in Athens, Greece|https://i.redd.it/t4n7k77tty841.jpg|AlbusTheWhiteMagus|False|https://redd.it/ekdddo|221|0.94|0|2|0|europe
+ekgh7y|2020-01-05 18:01:49|Vogel, Slovenia.|https://i.redd.it/yblh42m020941.jpg|HelpPewDiePie|False|https://redd.it/ekgh7y|110|0.95|0|4|0|europe
+ekkop6|2020-01-05 23:09:19|The Netherlands’ New Year greeting did not go down well in China: Dutch embassy empashized the importance of human rights|https://qz.com/1778887/chinese-internet-users-angered-by-the-netherlands-new-year-message/amp/?__twitter_impression=true|realDutchman|False|https://redd.it/ekkop6|41|0.84|0|2|0|europe
+ekh9ry|2020-01-05 18:58:14|EU invites Iran’s foreign minister to Brussels amid tensions with US|https://www.politico.eu/article/eu-invites-iran-foreign-minister-to-brussels-amid-tensions-with-us/|sn0r|False|https://redd.it/ekh9ry|83|0.9|0|31|0|europe
+ekmaa2|2020-01-06 01:07:07|My father, the quiet hero: how Japan’s Schindler saved 6,000 Jews|https://www.theguardian.com/world/2020/jan/04/chiune-sugihara-my-father-japanese-schindler-saved-6000-jews-lithuania?CMP=share_btn_tw&__twitter_impression=true|iwanttosaysmth|False|https://redd.it/ekmaa2|24|0.76|0|11|0|europe
+eky466|2020-01-06 18:33:28|NATO allies stand behind U.S. over Soleimani killing, call for de-escalation|https://www.haaretz.com/world-news/nato-allies-stand-behind-u-s-over-soleimani-killing-call-for-de-escalation-1.8368603|temperok|False|https://redd.it/eky466|0|0.56|0|4|0|europe
+ekde36|2020-01-05 14:04:27|Norwegian politician Guri Melby and Danish politician Uffe Elbæk received Christmas cards from Hong Kong|https://i.redd.it/c75aw4jbvy841.png|Hong-Kong-Pianist|False|https://redd.it/ekde36|188|0.91|0|10|0|europe
+ekme7u|2020-01-06 01:15:32|French police shoot knife-wielding man in Metz, two days after Paris attack|https://www.channelnewsasia.com/news/world/french-police-shoot-knife-wielding-man-in-metz-two-days-after-12235726|ploflo|False|https://redd.it/ekme7u|23|0.79|0|5|0|europe
+ek8art|2020-01-05 04:52:32|Map of Europe If australian fires' smoke spreaded from Lisbon|https://i.redd.it/x0vdkwq75w841.jpg|JustASpanishGuy|False|https://redd.it/ek8art|853|0.91|0|132|0|europe
+eki3og|2020-01-05 19:55:48|Tossa De Mar, Catalonia, Spain|https://i.redd.it/wyx87d87m0941.jpg|TheFantasticFuture|False|https://redd.it/eki3og|53|0.88|0|0|0|europe
+ekm8hg|2020-01-06 01:03:23|Merkel, Macron, Johnson urge Iran not to flout nuclear deal|https://www.france24.com/en/20200105-merkel-macron-johnson-urge-iran-not-to-flout-nuclear-deal|sn0r|False|https://redd.it/ekm8hg|19|0.82|0|23|0|europe
+ekwxxv|2020-01-06 17:09:04|Vote rigging in Eastern Europe: A Q&A with Yale’s Isabel Mares|https://news.yale.edu/2020/01/02/vote-rigging-eastern-europe-qa-yales-isabel-mares|stormforce7916|False|https://redd.it/ekwxxv|1|0.5|0|2|0|europe
+ekhzqm|2020-01-05 19:48:21|Serbs protesting in Montenegro over the decision of Montenegrin government to seize the property of Serbian Orthodox church and declare is at Montenegrin.|https://i.redd.it/q4871xlpk0941.jpg|Dimitrije336|False|https://redd.it/ekhzqm|51|0.77|0|14|0|europe
+ekh95y|2020-01-05 18:57:01|Donkey Farm in Montenegro|https://i.redd.it/7wg8tetkb0941.jpg|Jowan96|False|https://redd.it/ekh95y|61|0.92|0|3|0|europe
+ekbrpt|2020-01-05 11:14:39|Believe it or not, it's France. Gargas, Colorado Provençal|https://i.redd.it/bf5kvvr81y841.jpg|cometomebrucelee|False|https://redd.it/ekbrpt|239|0.94|0|14|0|europe
+ekchja|2020-01-05 12:35:45|Parikkala, Finland. I’m only here for a few days but it’s nice to finally see some snow|https://i.redd.it/1ghq4dk4fy841.jpg|Welcome_to_Russia216|False|https://redd.it/ekchja|183|0.94|0|11|0|europe
+ekhn5q|2020-01-05 19:23:46|Two tone water in Nice, France|https://i.redd.it/8u2tkh8mg0941.jpg|xdaquan|False|https://redd.it/ekhn5q|54|0.86|0|4|0|europe
+ekmd5g|2020-01-06 01:13:19|China-Sweden Tensions Flare Up: Another Trade War in 2020?|https://www.dailyfx.com/forex/fundamental/article/special_report/2020/01/06/China-Sweden-Tensions-Flare-up-Another-Trade-War-in-2020.html|louisamarisa|False|https://redd.it/ekmd5g|19|0.7|0|1|0|europe
+ekkjoa|2020-01-05 22:59:42|French Guiana Amazonian park is the largest national park in the EU|https://en.wikipedia.org/wiki/Guiana_Amazonian_Park|HappyPanicAmorAmor|False|https://redd.it/ekkjoa|24|0.86|0|1|0|europe
+ekqo0d|2020-01-06 07:25:21|Putin Can Cautiously Enjoy the Iran Drama From the Audience|https://www.themoscowtimes.com/2020/01/03/putin-can-cautiously-enjoy-the-iran-drama-from-the-audience-a68810|jurhurdur|False|https://redd.it/ekqo0d|6|0.57|0|9|0|europe
+ekf58q|2020-01-05 16:27:50|Banja Luka|https://i.redd.it/b0slpas8lz841.jpg|MelodicBerries|False|https://redd.it/ekf58q|79|0.88|0|5|0|europe
+eka4l9|2020-01-05 07:59:06|Tajer Lighthouse, Croatia|https://i.imgur.com/C3RZ3og.jpg|__hrga__|False|https://redd.it/eka4l9|310|0.92|0|10|0|europe
+ekaixn|2020-01-05 08:44:54|Solar noon in fell Ylläs, Finland on New Year’s Eve. Taken at 12.25 pm.|https://i.redd.it/gnj5x1unax841.jpg|breezybear1|False|https://redd.it/ekaixn|268|0.93|0|12|0|europe
+eki16x|2020-01-05 19:51:02|Croatian election: Social Democrat Zoran Milanović beats incumbent president in runoff vote|https://www.euronews.com/2020/01/04/croatia-presidential-election-voters-choose-head-of-state-days-after-starting-six-month-eu|CroGamer002|False|https://redd.it/eki16x|31|0.84|0|0|0|europe
+ekitb1|2020-01-05 20:44:40|Aleksanterinkatu in Helsinki, yesterday evening|https://i.redd.it/51ea7yxwu0941.jpg|Jormakalevi|False|https://redd.it/ekitb1|30|0.78|0|3|0|europe
+ejy81c|2020-01-04 15:52:33|Belgrade this evening, Serbia.|https://i.redd.it/4ol970qt9s841.jpg|JaIisco|False|https://redd.it/ejy81c|8518|0.97|0|184|0|europe
+ekse4f|2020-01-06 10:34:08|The decade of illiberalism - the 2010s in Hungary|https://index.hu/english/2020/01/03/hungary_politics_2010s_top_ten_illiberalism/|boxs_of_kittens|False|https://redd.it/ekse4f|3|0.56|0|5|0|europe
+ekbmp8|2020-01-05 10:58:17|Woke up to this view this morning|https://i.redd.it/szd5tlqgyx841.jpg|HellTack|False|https://redd.it/ekbmp8|154|0.9|0|27|0|europe
+ekdphl|2020-01-05 14:33:15|Knife attack near Paris treated as terror-related|https://abcnews.go.com/International/wireStory/knife-attack-paris-treated-terror-related-68068488|ploflo|False|https://redd.it/ekdphl|77|0.9|0|16|0|europe
+eklyha|2020-01-06 00:42:09|Top bosses 'earn average salary within three days'|https://www.bbc.co.uk/news/business-51000217|yolo4everlmi|False|https://redd.it/eklyha|11|0.68|0|11|0|europe
+ekge2i|2020-01-05 17:55:54|Sagunto, Valencian Community, Spain.|https://i.redd.it/u2jmwv5z00941.jpg|Coatzaking|False|https://redd.it/ekge2i|38|0.85|0|4|0|europe
+ekhp46|2020-01-05 19:27:46|British PM says UK will not mourn Soleimani but urges restraint|https://uk.reuters.com/article/uk-iraq-security-iran-britain/british-pm-says-uk-will-not-mourn-soleimani-but-urges-restraint-idUKKBN1Z40QU|Cheapo-Git|False|https://redd.it/ekhp46|25|0.78|0|101|0|europe
+ekc2f0|2020-01-05 11:48:58|Golden Hall, Stockholm City Hall, Sweden|https://i.redd.it/fy437s5e9c841.jpg|gexisthebext|False|https://redd.it/ekc2f0|105|0.95|0|3|0|europe
+ekkvzg|2020-01-05 23:23:40|From the Ritzlihorn to the Wildgärst in the Swiss Alps [12000 x 3710] [OC]|https://i.redd.it/p1m25n1vh1941.jpg|Atellani|False|https://redd.it/ekkvzg|13|0.9|0|0|0|europe
+ekcz3x|2020-01-05 13:25:19|Stockholm on New Year's Day [OC]|https://i.imgur.com/HhqgvB8.jpg|strohball|False|https://redd.it/ekcz3x|67|0.87|0|2|0|europe
+ekb6af|2020-01-05 10:03:21|Kamchatka, Far East of Russia|https://i.redd.it/gyzx18jq9r841.jpg|Neker|False|https://redd.it/ekb6af|126|0.8|0|20|0|europe
+ekezql|2020-01-05 16:16:47|View from Mt Versuvius|https://i.redd.it/l5zs6raajz841.jpg|knowmeforever|False|https://redd.it/ekezql|41|0.86|0|2|0|europe
+ek9vhg|2020-01-05 07:30:29|Osijek Fortress, Slavonia, Croatia|https://i.imgur.com/LaQnLxq.jpg|__hrga__|False|https://redd.it/ek9vhg|191|0.89|0|1|0|europe
+ekb80m|2020-01-05 10:08:54|Budapest, Hungary|https://i.redd.it/89mu0yhnpx841.jpg|apollonovski|False|https://redd.it/ekb80m|114|0.92|0|5|0|europe
+ekaeeb|2020-01-05 08:30:18|The National Library and St Sava's at dawn, Belgrade|https://i.redd.it/4da8arsy7x841.jpg|Porodicnostablo|False|https://redd.it/ekaeeb|146|0.86|0|10|0|europe
+eke0x7|2020-01-05 15:01:31|"Far-right Spanish VOX party ""annexes"" Portugal to one of its posters"|https://www.cnews.fr/monde/2020-01-05/le-parti-dextreme-droite-espagnol-vox-annexe-le-portugal-sur-lune-de-ses-affiches|Kiander|False|https://redd.it/eke0x7|43|0.73|0|22|0|europe
+eka2la|2020-01-05 07:52:33|Yesterday's sunset in Bucharest, Romania|https://i.redd.it/top860vb1x841.jpg|filosoful|False|https://redd.it/eka2la|152|0.91|0|3|0|europe
+ekgj8w|2020-01-05 18:05:33|Austria-Hungary-Croatia state proposed by Dr. Ivo Pilar in 1910|https://upload.wikimedia.org/wikipedia/commons/5/5a/Trijalisti%C4%8Dki_prijedlog_prema_Ivi_Pilaru_1910.png|MarineKingPrime_|False|https://redd.it/ekgj8w|23|0.67|0|28|0|europe
+eke944|2020-01-05 15:20:12|Map of Spain after the 1833 territorial reform|https://verne.elpais.com/verne/imagenes/2020/01/02/articulo/1577961319_822696_1577978428_sumario_grande.jpg|Matrim_WoT|False|https://redd.it/eke944|37|0.89|0|1|0|europe
+ekqdys|2020-01-06 06:56:49|Afghan journalist seeking asylum in Ireland|https://www.rte.ie/news/leinster/2020/0102/1103931-sayed-farid-sanai/|Candid_Cryptographer|False|https://redd.it/ekqdys|1|0.58|0|4|0|europe
+ek8wns|2020-01-05 05:48:23|Zaandijk in Netherlands|https://i.redd.it/sldss6n3fw841.jpg|Grafixart-Photo|False|https://redd.it/ek8wns|206|0.92|0|4|0|europe
+ekaw97|2020-01-05 09:29:42|China accused of buying influence after Czech billionaire Petr Kellner (Home Credit/PPR Group) funds PR push|https://www.theguardian.com/world/2020/jan/05/china-buying-influence-czech-republic-loan-company|br-rand|False|https://redd.it/ekaw97|96|0.87|0|17|0|europe
+ekdx5e|2020-01-05 14:52:21|Drunk driver hits 17, kills 6 in South Tyrol, Italy|https://www.nytimes.com/2020/01/05/world/europe/german-tourists-italy-dead.html|sunshine_enema|False|https://redd.it/ekdx5e|40|0.83|0|41|0|europe
+ekem9k|2020-01-05 15:48:50|Percentage of children under 3 years in day nurseries|https://imgur.com/9dknOmL|devler|False|https://redd.it/ekem9k|30|0.85|0|12|0|europe
+ekgxcg|2020-01-05 18:33:36|Brno Czech Republic|https://i.redd.it/5uysavqn70941.jpg|shtata7|False|https://redd.it/ekgxcg|17|0.78|0|0|0|europe
+ekg6kt|2020-01-05 17:41:30|Romania poll.|https://imgur.com/5HKLz29|le_br1t|False|https://redd.it/ekg6kt|19|0.86|0|36|0|europe
+ekcpel|2020-01-05 12:58:31|Light show in the city center of Como,Italy|https://gfycat.com/merryshimmeringlemur|Maptwopointoh|False|https://redd.it/ekcpel|45|0.88|0|1|0|europe
+ekb4yl|2020-01-05 09:59:11|Bergen, Norway|https://i.redd.it/3h3ypvwwnx841.jpg|apollonovski|False|https://redd.it/ekb4yl|79|0.92|0|18|0|europe
+ekuxrj|2020-01-06 14:38:05|Romania's Roma communities still live in abject poverty|https://www.dw.com/en/romanias-roma-communities-still-live-in-abject-poverty/a-48682707|Therealperson3|False|https://redd.it/ekuxrj|0|0.48|0|33|0|europe
+ekkeup|2020-01-05 22:50:17|"The Power of Identity | Alma Zadic | Designated minister of justice in Austria about her history"|https://www.youtube.com/watch?v=mpiNFYTi8BM|Stadtparkheld|False|https://redd.it/ekkeup|6|0.61|0|7|0|europe
+ekdn27|2020-01-05 14:27:05|UK sends two warships to Persian Gulf|http://www.hurriyetdailynews.com/uk-sends-two-warships-to-persian-gulf-150607|sddgfdbdfbdbgfbfgb|False|https://redd.it/ekdn27|28|0.72|0|20|0|europe
+ekx13e|2020-01-06 17:15:10|“Climate” and “LGBT” chosen as Polish words of the year for 2019|https://notesfrompoland.com/2020/01/06/climate-and-lgbt-chosen-as-polish-words-of-the-year-for-2019/|xorrag|False|https://redd.it/ekx13e|0|0.42|0|5|0|europe
+ekjeme|2020-01-05 21:36:12|Part time employment, male (% of total male employment) (Europe)|https://paintmaps.com/statistics/1353/Part-time-employment-male-percentage-of-total-male-employment-on-europe-map|ytkn55|False|https://redd.it/ekjeme|7|0.64|0|2|0|europe
+ekck3o|2020-01-05 12:43:06|Ultimate serenity @ Lake Brienz, Switzerland|https://i.redd.it/1r3c0826hy841.jpg|ningyake|False|https://redd.it/ekck3o|36|0.82|0|0|0|europe
+ekhwap|2020-01-05 19:41:46|Today is Glöcklerlauf all over Salzkammergut, Austria.|https://www.youtube.com/watch?v=8CB3tlLPKNc|AustrianMichael|False|https://redd.it/ekhwap|10|0.7|0|0|0|europe
+ekdwff|2020-01-05 14:50:36|Chart: The EU Households Spending The Most On Eating Out|https://www.statista.com/chart/20384/eating-out-as-a-share-of-total-household-expenditure/|lughnasadh|False|https://redd.it/ekdwff|21|0.88|0|4|0|europe
+ekbot7|2020-01-05 11:05:18|Shutdown of Germany's 7th to last nuclear power plant|https://i.imgur.com/cmtJ9oo.png|allocater|False|https://redd.it/ekbot7|48|0.81|0|171|0|europe
+ekbvob|2020-01-05 11:27:27|Winter Traditions in Romania|https://i.redd.it/yn7uawjm3y841.png|SobolanAtomic|False|https://redd.it/ekbvob|44|0.82|0|11|0|europe
+ekhq17|2020-01-05 19:29:37|Russia announces plan to ‘use the advantages’ of climate change|https://www.theguardian.com/world/2020/jan/05/russia-announces-plan-to-use-the-advantages-of-climate-change|Wagamaga|False|https://redd.it/ekhq17|9|0.69|0|9|0|europe
+ekgdb3|2020-01-05 17:54:17|Renovation chief: Notre Dame Cathedral is not saved yet|https://apnews.com/6d0ce4d48d82ac116ec8f2bda954a6bb|Cheapo-Git|False|https://redd.it/ekgdb3|10|0.82|0|1|0|europe
+ejt6hu|2020-01-04 06:47:43|Bern, Switzerland|https://i.redd.it/9iyf59rukp841.jpg|filosoful|False|https://redd.it/ejt6hu|10900|0.97|1|300|0|europe
+ek1jgm|2020-01-04 19:57:44|Winter in Southern Transylvania|https://i.redd.it/9typxdorht841.jpg|KingBlana|False|https://redd.it/ek1jgm|499|0.95|0|31|0|europe
+ekd05p|2020-01-05 13:28:12|EU's Borrell invites Iran's foreign affairs minister to Brussels|https://www.reuters.com/article/us-iraq-security-iran-eu-idUSKBN1Z40BP|gsurfer04|False|https://redd.it/ekd05p|18|0.76|0|3|0|europe
+ekhqjb|2020-01-05 19:30:40|Lithuania drafting bill exonerating nation from Holocaust crimes|https://www.jpost.com/Diaspora/Lithuania-drafting-bill-exonerating-nation-from-Holocaust-crimes-613068|iwanttosaysmth|False|https://redd.it/ekhqjb|4|0.57|0|21|0|europe
+ekbt02|2020-01-05 11:18:32|Thousands march in Paris against Macron's pension reforms|https://www.japantimes.co.jp/news/2020/01/05/world/france-emmanuel-macron-pension-reforms-protests/|Sideyon|False|https://redd.it/ekbt02|24|0.73|0|19|0|europe
+ekhsq5|2020-01-05 19:35:00|Qasem Soleimani: Boris Johnson says 'will not lament' Iranian general's death|https://www.bbc.com/news/uk-51001236|casualphilosopher1|False|https://redd.it/ekhsq5|3|0.59|0|5|0|europe
+ekcho3|2020-01-05 12:36:10|Why so many young Swedes live alone|https://www.bbc.com/worklife/article/20190821-why-so-many-young-swedes-live-alone|Nawaao|False|https://redd.it/ekcho3|18|0.76|0|24|0|europe
+eka4ea|2020-01-05 07:58:24|Brexit: EU citizens face paying £4,345 ‘teachers’ tax’ to work in UK for five years - Extra ‘red tape’ before teaching qualifications are recognised will also add to existing recruitment crisis, Liberal Democrats warn|https://www.independent.co.uk/news/uk/politics/brexit-eu-teacher-school-immigration-rights-brexit-recruitment-a9270416.html|OldFashionedJizz|False|https://redd.it/eka4ea|37|0.72|0|16|0|europe
+ejxtd9|2020-01-04 15:18:20|Frankfurt, Germany|https://i.redd.it/sxybjd8y3s841.jpg|FatiaNegra|False|https://redd.it/ejxtd9|711|0.97|0|31|0|europe
+ekb56n|2020-01-05 09:59:52|Tenements in Central Łódź, Poland.|https://i.redd.it/j57yp0h1ox841.jpg|Reditto24|False|https://redd.it/ekb56n|21|0.81|0|3|0|europe
+ek31da|2020-01-04 21:46:15|"Fresh Cambridge Analytica leak ‘shows global manipulation is out of control’ | UK news"|https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation|yolo4everlmi|False|https://redd.it/ek31da|201|0.93|0|50|0|europe
+ekdr2f|2020-01-05 14:37:12|Pedro Sánchez loses first vote, after highly charged investiture debate|https://elpais.com/elpais/2020/01/03/inenglish/1578066750_393888.html|NilFhiosAige|False|https://redd.it/ekdr2f|9|0.8|0|24|0|europe
+ek554y|2020-01-05 00:26:12|Budapest, Hungary|https://i.redd.it/h1tcd4pntu841.jpg|Bamilky|False|https://redd.it/ek554y|123|0.91|0|14|0|europe
+ekbaaa|2020-01-05 10:15:58|Russian foreign minister stresses that Soleimani’s killing violates international law. Lavrov has also called on Washington to abandon unlawful forceful tactics and to resolve issues through negotiations|https://tass.com/politics/1105565|In_der_Tat|False|https://redd.it/ekbaaa|17|0.59|0|66|0|europe
+ekcwa4|2020-01-05 13:17:49|Britain 'on same page' as US over Suleimani killing, says Raab - Foreign secretary says UK sympathetic to Washington and focused on restoring calm|https://www.theguardian.com/politics/2020/jan/05/britain-sympathetic-to-us-over-killing-of-qassem-suleimani|casualphilosopher1|False|https://redd.it/ekcwa4|9|0.64|0|18|0|europe
+ekdvw6|2020-01-05 14:48:58|Prskalo Waterfall, Serbia|"&#x200B;
+
+https://preview.redd.it/8phe53gj3z841.jpg?width=720&format=pjpg&auto=webp&s=0aacde592ee04300eb6322fe6e8bc73d9563d811"|sunsetgalaxy|False|https://redd.it/ekdvw6|7|0.59|0|1|1|europe
+ek5shp|2020-01-05 01:19:04|Picos de Europa|https://i.redd.it/t7khwsw33v841.jpg|gghhjj123456|False|https://redd.it/ek5shp|86|0.92|0|12|0|europe
+ekf85m|2020-01-05 16:33:51|Governments in Europe Find Workarounds to Bail Out Ailing Banks|https://www.wsj.com/articles/governments-in-europe-find-workarounds-to-bail-out-ailing-banks-11577966400|ploflo|False|https://redd.it/ekf85m|5|0.72|0|4|0|europe
+ekezkl|2020-01-05 16:16:27|Gastro epidemic worse in France as ‘flu ‘pre-epidemic’|https://www.connexionfrance.com/French-news/Gastro-epidemic-worsens-in-France-as-flu-confirmed-in-pre-epidemic-stage-and-bronchiolitis-spreads|pacinothere|False|https://redd.it/ekezkl|6|0.64|0|0|0|europe
+ekd4vl|2020-01-05 13:40:38|Finnish PM calls for a 4-day-week and 6-hour-day|https://www.scoop.co.nz/stories/HL2001/S00002/finnish-pm-calls-for-a-4-day-week-and-6-hour-day.htm|NineteenSkylines|False|https://redd.it/ekd4vl|6|0.61|0|9|0|europe
+ekdl0m|2020-01-05 14:22:00|Journey Into Hell: A Reporter Remembers Moscow's Assault On Grozny In 1995|https://www.rferl.org/a/journey-into-hell-in-chechnya-russian-forces-new-year-s-assault-on-grozny-in-1995/30357519.html|TheConquistaa|False|https://redd.it/ekdl0m|6|0.63|0|7|0|europe
+ekh3mr|2020-01-05 18:46:01|How a Jewish girl hid from the Nazis in an Alpine ski resort|https://www.bbc.co.uk/news/stories-50828696|gsurfer04|False|https://redd.it/ekh3mr|3|0.55|0|1|0|europe
+ejvbwb|2020-01-04 10:58:10|A map to please every European country.|https://i.redd.it/ipy6hf4atq841.jpg|ghastly42|False|https://redd.it/ejvbwb|1046|0.83|0|611|0|europe
+ekljrt|2020-01-06 00:11:53|150secWill new claims of censorship threaten TikTok’s presence in Europe?|https://150sec.com/will-new-claims-of-censorship-threaten-tiktoks-presence-in-europe/13293/|Publicize|False|https://redd.it/ekljrt|0|0.53|0|2|0|europe
+ekeww7|2020-01-05 16:10:49|UK election result 'blew away' argument for second Brexit vote: Labour's Starmer|https://www.reuters.com/article/us-britain-eu-starmer-idUSKBN1Z40F3|gsurfer04|False|https://redd.it/ekeww7|4|0.65|0|9|0|europe
+ejyohl|2020-01-04 16:28:32|Zadar, Croatia|https://i.imgur.com/wkBpLFw.jpg|__hrga__|False|https://redd.it/ejyohl|294|0.94|0|44|0|europe
+ek4chc|2020-01-04 23:24:19|Porto, Portugal|https://i.redd.it/s6vq45mniu841.jpg|IsmaaPlay|False|https://redd.it/ek4chc|78|0.93|0|5|0|europe
+ekd9ug|2020-01-05 13:53:28|Trnovacko Lake, Montenegro|"&#x200B;
+
+https://preview.redd.it/ii33tholty841.jpg?width=1024&format=pjpg&auto=webp&s=11126e6231cea627f8fb60c9578ac4f2ea481ebb"|sunsetgalaxy|False|https://redd.it/ekd9ug|3|0.71|0|0|1|europe
+ejxfgh|2020-01-04 14:45:22|Warsaw, Poland. Diseased trees were cut down and the trunks were made into sculptures|https://i.redd.it/e8ta5imdxr841.jpg|hultek|False|https://redd.it/ejxfgh|344|0.94|0|44|0|europe
+ekccz9|2020-01-05 12:21:27|Gross Monthly Average Wages in Europe (list)|" [Source.](https://en.wikipedia.org/wiki/List_of_European_countries_by_average_wage) 
+
+Monaco, Vatican City, Liechtenstein weren't shown up, sorry.
+
+1. Switzerland - 5,485 
+
+2. Iceland - 5,393
+
+3. Denmark - 5,190
+
+4. Luxembourg - 5,030
+
+5. Norway - 4,713
+
+6. Austria - 4,164
+
+7. Germany - 3,997
+
+8. Belgium - 3,401
+
+9. Finland - 3,380
+
+10. Ireland - 3,300
+
+11. Britain - 3,279
+
+12. Sweden - 3,194
+
+\-------------------
+
+13. France - 2,957
+
+14. Faroe Islands (DK) - 2,900
+
+15. Netherlands - 2,855
+
+16. Channel Islands (GB) - 2,760
+
+17. San Marino - 2,595
+
+18. Svalbard & Jan Mayen (NO) - 2,400
+
+19. Italy - 2,390
+
+20. Spain - 2,244
+
+21. Greenland (DK) - 2,230
+
+22. Andorra - 2,110
+
+\----------------------
+
+23. Cyprus - 1,779
+
+24. Slovenia - 1,752
+
+25. Estonia - 1,397
+
+26. Malta - 1,379
+
+27. Czechia - 1,320
+
+28. Lithuania - 1,318
+
+29. Poland - 1,227
+
+30. Portugal - 1,220
+
+31. Croatia - 1,183
+
+32. Hungary - 1,151
+
+33. Slovakia 1,101
+
+34. Romania - 1,071
+
+35. Greece - 1,060
+
+\----------------------
+
+36. Montenegro - 769
+
+37. Serbia - 764
+
+38. Bosnia and Herzegovina - 723
+
+39. Bulgaria - 647
+
+40. Russia - 630
+
+41. North Macedonia - 616
+
+42. Belarus - 492
+
+43. Turkey - 473
+
+44. Albania - 460
+
+45. Kosovo - 450
+
+46. Kazakhstan - 426
+
+47. Ukraine - 408
+
+48. Armenia - 406
+
+49. Georgia - 376
+
+50. Moldova- 338
+
+51. Azerbaijan - 281 
+
+&#x200B;
+
+These were all in Euros and this is what countries average monthly wage is before taxes and rent etc since some countries have crazier taxes and prices."|zwei_3se|False|https://redd.it/ekccz9|7|0.59|0|17|1|europe
+ek3jky|2020-01-04 22:23:36|Today's sunset in Zadar, Croatia|https://i.redd.it/k517lsmt7u841.jpg|antas12|False|https://redd.it/ek3jky|74|0.89|0|0|0|europe
+ek34wf|2020-01-04 21:53:13|Turkey: Nearly 100,000 unregistered Syrians removed from Istanbul|https://www.dw.com/en/turkey-nearly-100000-unregistered-syrians-removed-from-istanbul/a-51888092|andrzej1220|False|https://redd.it/ek34wf|74|0.88|0|3|0|europe
+eke35h|2020-01-05 15:06:34|UK's Raab raises concerns with Cyprus about Briton found guilty of gang rape lie|https://www.reuters.com/article/us-cyprus-crime-tourists-britain-idUSKBN1Z40CU|gsurfer04|False|https://redd.it/eke35h|4|0.62|0|0|0|europe
+ekbqo4|2020-01-05 11:11:09|German grandmothers clash over viral song|https://www.dw.com/en/german-grandmothers-clash-over-viral-song/a-51888515|Genderhood|False|https://redd.it/ekbqo4|6|0.64|0|7|0|europe
+ek3sob|2020-01-04 22:42:58|People chilling on the beach in the middle of the city of Warsaw.|https://i.redd.it/ylg8mm6wau841.png|umotex12|False|https://redd.it/ek3sob|54|0.82|0|14|0|europe
+ekirdn|2020-01-05 20:41:01|High demand prompts launch of Europe’s first cannabis ETF|https://www.ft.com/content/16f96759-2850-4202-9b58-da0c6459f679|tottocotunio|False|https://redd.it/ekirdn|1|0.53|0|0|0|europe
+ekaw4p|2020-01-05 09:29:14|Italy Plan to Cut Number of Lawmakers Will Face 2020 Referendum|https://www.bloomberg.com/news/articles/2019-12-18/italy-plan-to-cut-number-of-lawmakers-will-face-2020-referendum|OkQuantity7|False|https://redd.it/ekaw4p|7|0.72|0|3|0|europe
+ek2edt|2020-01-04 21:00:10|Sils Maria. Switzerland|https://i.redd.it/a8o3edbxst841.jpg|50inch|False|https://redd.it/ek2edt|69|0.88|0|10|0|europe
+ek48ry|2020-01-04 23:16:31|Castel Sant'Angelo in the summer- love the cute little tents!|https://i.redd.it/e6jhdiu2hu841.jpg|grouchyveggie|False|https://redd.it/ek48ry|41|0.84|0|5|0|europe
+ejvb3i|2020-01-04 10:55:20|İstanbul/Turkey at winter|https://i.redd.it/lv1k3t0z5q841.jpg|Maxon1321|False|https://redd.it/ejvb3i|396|0.89|0|49|0|europe
+ek5eqj|2020-01-05 00:47:15|Crazy Good Montenegro - Pesic Lake in Biogradska Gora National Park|https://i.redd.it/h4jdpopfxu841.jpg|Jowan96|False|https://redd.it/ek5eqj|27|0.83|0|3|0|europe
+ejweln|2020-01-04 13:04:06|Rusinowa Polana, close to the polish winter capital, Zakopane|https://i.redd.it/6pvwhewwfr841.jpg|mwalczuk|False|https://redd.it/ejweln|225|0.96|0|2|0|europe
+ejv0ak|2020-01-04 10:18:03|cyberpunkish christmas in finland|https://i.redd.it/09vmzew0hl841.jpg|nulllzero|False|https://redd.it/ejv0ak|364|0.9|0|23|0|europe
+ejm12y|2020-01-03 21:25:32|Lithuania supplies Finland with gas, helping end Russian monopoly|https://www.lrt.lt/en/news-in-english/19/1130155/lithuania-supplies-finland-with-gas-helping-end-russian-monopoly|Penki-|False|https://redd.it/ejm12y|4225|0.96|0|229|0|europe
+ek5jbv|2020-01-05 00:57:52|The sun rising over the alps across the autobahn|https://i.redd.it/mvbr3kkczu841.jpg|kittenworshipper|False|https://redd.it/ek5jbv|22|0.78|0|1|0|europe
+ekgbj3|2020-01-05 17:50:41|Iran crisis: Boris Johnson fails to return to work from Caribbean holiday despite looming war threat|https://www.independent.co.uk/news/uk/politics/boris-johnson-iran-war-crisis-holiday-caribbean-mustique-mark-sedwill-a9270876.html|XuBoooo|False|https://redd.it/ekgbj3|0|0.5|0|24|0|europe
+ek20fv|2020-01-04 20:31:48|Metelkova, Slovenia|https://i.redd.it/yc0ourmvnt841.jpg|itsfredi|False|https://redd.it/ek20fv|49|0.81|0|0|0|europe
+ejul2k|2020-01-04 09:27:13|Fog and pollution in Belgrade yesterday morning|https://i.redd.it/hnjauq79dq841.jpg|Porodicnostablo|False|https://redd.it/ejul2k|348|0.95|0|24|0|europe
+ek7ae9|2020-01-05 03:23:23|Snowy morning in a village near Cadca, Slovakia|https://i.redd.it/oo9llxqapv841.jpg|SvenThePhatEgg|False|https://redd.it/ek7ae9|12|0.69|0|0|0|europe
+ejxkl8|2020-01-04 14:57:56|Cappadocia, Turkey|https://i.redd.it/df11vala0s841.jpg|le_br1t|False|https://redd.it/ejxkl8|114|0.81|0|17|0|europe
+ejvmlb|2020-01-04 11:33:06|The city of Novi Sad last night. Northern Serbia, Vojvodina|https://i.redd.it/o9e1ntorzq841.jpg|BlackJackGG|False|https://redd.it/ejvmlb|215|0.93|0|12|0|europe
+ejwvlq|2020-01-04 13:53:46|Changes in Fossil CO2 Emissions of European countries 1990 - 2017|https://i.redd.it/p8zil8asor841.png|trinitronbxb|False|https://redd.it/ejwvlq|140|0.89|0|91|0|europe
+ejwet8|2020-01-04 13:04:45|Great Wall of Hungary, circa 2018 (colorized, decolorized, then colorized again)|https://upload.wikimedia.org/wikipedia/commons/a/a5/Hungary-Serbia_border_barrier.jpg|Raknel|False|https://redd.it/ejwet8|160|0.85|0|63|0|europe
+ekaf8v|2020-01-05 08:33:00|U.S. strike against Soleimani was reaction to Iran provocations: Germany|https://www.reuters.com/article/us-iraq-security-germany/us-strike-against-soleimani-was-reaction-to-iran-provocations-germany-idUSKBN1Z20YU|RifleSoldier|False|https://redd.it/ekaf8v|3|0.57|0|24|0|europe
+ejy7ga|2020-01-04 15:51:10|January Daily Mean Temperature|https://i.redd.it/j6ubc73q9s841.png|lieverturksdanpaaps|False|https://redd.it/ejy7ga|86|0.94|0|24|0|europe
+ejw4uf|2020-01-04 12:33:32|Český Krumlov, Czechia|https://i.redd.it/w0sdy7tgar841.jpg|mikatom|False|https://redd.it/ejw4uf|157|0.96|0|2|0|europe
+ejx5ky|2020-01-04 14:20:16|The Oosterschelde barrier, part of the Dutch Delta Works (Finished in 1986)|https://i.imgur.com/A37KmT6.jpg|nlx78|False|https://redd.it/ejx5ky|112|0.92|0|8|0|europe
+ek02as|2020-01-04 18:09:23|Czechia, Hungary and Slovakia remain vulnerable to Russian, Chinese and Turkish influence|https://emerging-europe.com/news/czechia-hungary-and-slovakia-remain-vulnerable-to-russian-chinese-and-turkish-influence/|SerendipityQuest|False|https://redd.it/ek02as|53|0.79|0|34|0|europe
+ejyylp|2020-01-04 16:49:46|Italy’s Government Could Collapse Six Different Ways This Month|https://www.bloomberg.com/news/articles/2020-01-02/italy-s-government-could-collapse-six-different-ways-this-month|Plaatinum_Spark|False|https://redd.it/ejyylp|62|0.88|0|53|0|europe
+ejsxz9|2020-01-04 06:24:06|Rovinj, Croatia|https://i.imgur.com/jPys74l.jpg|__hrga__|False|https://redd.it/ejsxz9|433|0.95|0|14|0|europe
+ejvzx1|2020-01-04 12:17:27|Stockholm earlier this week.|https://i.redd.it/28ahfcmo7r841.jpg|rebeccavinter|False|https://redd.it/ejvzx1|137|0.92|0|9|0|europe
+ejw3k3|2020-01-04 12:29:20|Makarska, Croatia|https://i.imgur.com/yhjvEW8.jpg|__hrga__|False|https://redd.it/ejw3k3|118|0.9|0|0|0|europe
+ek1s9y|2020-01-04 20:15:29|NATO suspends Iraq training mission|https://www.politico.eu/article/nato-suspends-iraq-training-mission/|sn0r|False|https://redd.it/ek1s9y|30|0.88|0|2|0|europe
+ejyok7|2020-01-04 16:28:41|Traditional mastiff dog collars, Spain.|https://i.redd.it/upp3k74igs841.jpg|Luc1fer16|False|https://redd.it/ejyok7|55|0.87|0|9|0|europe
+ejz7ew|2020-01-04 17:07:53|Italians launch Unesco World Heritage bid for their beloved espresso|https://www.euronews.com/2020/01/03/italians-launch-unesco-world-heritage-bid-for-their-beloved-espresso|Apalvaldr|False|https://redd.it/ejz7ew|44|0.95|0|11|0|europe
+ek5ww3|2020-01-05 01:28:53|[OC] - downtown belgrade|https://i.redd.it/fr6kyqjv4v841.jpg|DzigiliDaFujznem|False|https://redd.it/ek5ww3|8|0.64|0|8|0|europe
+ejuhmm|2020-01-04 09:15:33|Pompeo accuses Europe of not being 'helpful' over Soleimani attack|https://www.euronews.com/2020/01/04/soleimani-pompeo-accuses-europe-of-not-being-helpful-over-iran-attack|sn0r|False|https://redd.it/ejuhmm|188|0.92|0|389|0|europe
+ejznak|2020-01-04 17:40:19|"Swedish king of Poland, Sigismund III Vasa. In early 20th century, when many country bumpkins with new money visited Warsaw for the first time in their lives, an enterprising local conman named Adolf Cynjan sold this column to many rural tourists, explaining that he ""didn't need it anymore""."|https://upload.wikimedia.org/wikipedia/commons/9/96/Kolumna_Zygmunta_III_Wazy%2CWarszawa.jpg|WillManhunter|False|https://redd.it/ejznak|39|0.82|0|5|0|europe
+ejxfvw|2020-01-04 14:46:28|Istanbul Photo by Elsa Bleda|https://i.redd.it/2d9lngsywr841.jpg|carbonite470|False|https://redd.it/ejxfvw|56|0.81|0|5|0|europe
+ekab7x|2020-01-05 08:19:30|Italy: The Sick Man Of Europe|https://seekingalpha.com/article/4313403-italy-sick-man-of-europe|Los_ches|False|https://redd.it/ekab7x|2|0.57|0|2|0|europe
+ejw6jj|2020-01-04 12:38:51|Bohemian Forest National Park|https://i.redd.it/a0cwhrpfbr841.jpg|TheFantasticFuture|False|https://redd.it/ejw6jj|76|0.9|0|3|0|europe
+ejvl21|2020-01-04 11:27:59|San Sebastián (Donostia), Spanish Basque Country. A very typical view from Monte Igueldo.|https://i.redd.it/fwat6ifqxq841.jpg|OrganicLeek|False|https://redd.it/ejvl21|91|0.94|0|5|0|europe
+ekc43y|2020-01-05 11:54:34|What the killing of Iran's General Soleimani means for Europe ǀ View|https://www.euronews.com/2020/01/04/what-the-killing-of-iran-s-general-soleimani-means-for-europe-view|Tark4|False|https://redd.it/ekc43y|1|0.54|0|7|0|europe
+eke6as|2020-01-05 15:13:37|Russian defense ministry highlights Solemaini’s contribution to combating IS|https://tass.com/defense/1105511|Sideyon|False|https://redd.it/eke6as|0|0.49|0|3|0|europe
+ek4e9c|2020-01-04 23:27:58|"Little shits throwing eggs. Had a similar incident as the guy in video. Is this just in Ireland or other part of Europe is also affected by these ""out of law"" little shits?"|https://www.youtube.com/watch?v=p-D4dFLzelM|ieatalotstillslim|False|https://redd.it/ek4e9c|10|0.7|0|17|0|europe
+ejtyf0|2020-01-04 08:11:29|The Greta effect? More Germans are swapping planes for trains|https://www.weforum.org/agenda/2020/01/german-swedish-flight-shame-train-environment/|LaromTheDestroyer|False|https://redd.it/ejtyf0|115|0.68|0|223|0|europe
+ejyz94|2020-01-04 16:51:11|Mike Pompeo laments 'European allies have not been as helpful' after Trump's order to kill Iranian general|https://www.newsweek.com/mike-pompeo-solemeini-killing-baghdad-iran-1480395|OldFashionedJizz|False|https://redd.it/ejyz94|23|0.72|0|20|0|europe
+ejizk7|2020-01-03 17:56:07|The Eiffel Bridge is a bridge over the River Prut and a checkpoint between Moldova and Romania. Build by Gustave Eiffel.|https://i.ibb.co/7J5QhSf/Most-3.jpg|poyekhavshiy|False|https://redd.it/ejizk7|1428|0.99|1|64|0|europe
+ek1sp2|2020-01-04 20:16:20|Livestock production index (Europe)|https://paintmaps.com/statistics/27/Livestock-production-index-2004-2006---100-on-europe-map|ytkn55|False|https://redd.it/ek1sp2|11|0.76|0|2|0|europe
+ekanb0|2020-01-05 08:59:51|Poll: Most people in Finland gloomy about the future|https://yle.fi/uutiset/osasto/news/poll_most_people_in_finland_gloomy_about_the_future/11144740?origin=rss|DismalShower|False|https://redd.it/ekanb0|0|0.48|0|8|0|europe
+ejv4fz|2020-01-04 10:32:52|Island Pag, Croatia|https://i.redd.it/mhvl0aq0pq841.jpg|AndyBundy|False|https://redd.it/ejv4fz|58|0.87|0|8|0|europe
+ekafad|2020-01-05 08:33:08|Letter from Ingushetia: navigating ethnic tensions and Soviet scars across the Caucasian Iron Curtain — The Calvert Journal|https://www.calvertjournal.com/features/show/11535/north-ossetia-ingushetia-caucasus-ethnic-tension-travel|Tengri_99|False|https://redd.it/ekafad|2|0.55|0|1|0|europe
+eketem|2020-01-05 16:03:39|"Macron was the great hope for centrists. Despite his struggles, the hope is not lost | John Lichfield | Opinion"|https://www.theguardian.com/commentisfree/2020/jan/05/macron-was-great-hope-for-centrists-despite-his-struggles-all-is-not-lost|WillingToGive|False|https://redd.it/eketem|0|0.39|0|1|0|europe
+ek5ihf|2020-01-05 00:55:47|The final stop of my European tour! Copenhagen, Denmark|"&#x200B;
+
+https://preview.redd.it/nu5jqa0myu841.jpg?width=1163&format=pjpg&auto=webp&s=a5a2aa04adbe182443c18c6c8c4610a67a31fa80"|scuzzgod|False|https://redd.it/ek5ihf|4|0.67|0|5|1|europe
+ejuwp7|2020-01-04 10:05:58|~800 year old staff of Sava, first Archbishop of the Serbian Orthodox Church|https://i.redd.it/64sf0hjwjq841.jpg|Porodicnostablo|False|https://redd.it/ejuwp7|59|0.79|0|7|0|europe
+ejwnrg|2020-01-04 13:31:30|Google says it will no longer use 'Double Irish, Dutch sandwich' tax loophole|https://www.theguardian.com/technology/2020/jan/01/google-says-it-will-no-longer-use-double-irish-dutch-sandwich-tax-loophole|NilFhiosAige|False|https://redd.it/ejwnrg|31|0.79|0|25|0|europe
+ejwdha|2020-01-04 13:00:40|European cities mapped from Airbnb guests' location rating|https://i.redd.it/9if2nyx4tp841.jpg|BkkGrl|False|https://redd.it/ejwdha|33|0.76|0|14|0|europe
+ekbyh3|2020-01-05 11:36:58|Tory foreign secretary backs Trump over assassination of Iran military leader, in sudden UK shift|https://www.independent.co.uk/news/uk/politics/trump-iran-soleimani-dominic-raab-pompeo-boris-johnson-latest-a9270841.html|le_br1t|False|https://redd.it/ekbyh3|0|0.44|0|4|0|europe
+ejlca7|2020-01-03 20:37:27|Area of land burnt in Australia and area of smoke coverage shown as equivalent area over Europe [OC]|https://i.redd.it/z180wjicdl841.jpg|Florensvb|False|https://redd.it/ejlca7|656|0.96|0|54|0|europe
+ejbzk2|2020-01-03 07:14:25|When you wake up at 7am as a European|https://i.redd.it/p13sy2apki841.jpg|gessalfellstein|False|https://redd.it/ejbzk2|66759|0.91|1|5871|0|europe
+ek9r2z|2020-01-05 07:16:43|China Denies Reports Shanghai-London Stock Connect Is Halted|https://www.bloomberg.com/news/articles/2020-01-03/china-denies-reports-of-shanghai-london-stock-connect-halt|tre3211|False|https://redd.it/ek9r2z|1|0.5|0|0|0|europe
+ejw2du|2020-01-04 12:25:27|The New Year's skate in Tapiola, a sleepy suburb of Greater-Helsinki region, 1.1.2020|https://i.redd.it/x5vizhwh8r841.jpg|Jormakalevi|False|https://redd.it/ejw2du|30|0.8|0|0|0|europe
+ejyvex|2020-01-04 16:43:14|US regime after Soleimani assassination: 'The Europeans haven't been as helpful as we wish that they could be'|https://thehill.com/homenews/administration/476760-pompeo-after-soleimani-strike-the-europeans-havent-been-as-helpful-as|Augie-Morosco|False|https://redd.it/ejyvex|14|0.65|0|17|0|europe
+ejw66l|2020-01-04 12:37:50|Spain is pulling out of coal and greenhouse gas emissions The company|https://www.fr24news.com/2020/01/spain-is-pulling-out-of-coal-and-greenhouse-gas-emissions-the-company.html|JohnnyElRed|False|https://redd.it/ejw66l|30|0.82|0|1|0|europe
+ejw3p9|2020-01-04 12:29:47|The irresistible beauty of Tapiola, a Greater-Helsinki suburb|https://i.redd.it/gmno4tap9r841.jpg|Jormakalevi|False|https://redd.it/ejw3p9|27|0.77|0|16|0|europe
+ek3mkq|2020-01-04 22:30:12|What is this, lots of huge squares and very bright glowing farmland? (when I saw it in the aeroplane over Brussels)|"&#x200B;
+
+https://preview.redd.it/wn6qcauy8u841.jpg?width=2736&format=pjpg&auto=webp&s=76cf6550a54c1ac1b51c7d10d5fbd2b7905930bf
+
+https://preview.redd.it/f7judvty8u841.jpg?width=3648&format=pjpg&auto=webp&s=6fc9aea9f9138c1d31ac4e7f2078ac70d734353a"|burden12315|False|https://redd.it/ek3mkq|4|0.67|0|9|1|europe
+ekgcby|2020-01-05 17:52:16|'It's hell': Teen migrants in Paris risk homelessness if they can't prove they're under 18|https://worldabcnews.com/its-hell-teen-migrants-in-paris-risk-homelessness-if-they-cant-prove-theyre-under-18/|Robert-Kenneth508|False|https://redd.it/ekgcby|0|0.33|0|4|0|europe
+ek8pap|2020-01-05 05:29:17|Europe Is Ready for Its Own Army|https://foreignpolicy.com/2019/09/05/europe-is-ready-for-its-own-army/|syoxsk|False|https://redd.it/ek8pap|2|0.51|0|2|0|europe
+ejwg3b|2020-01-04 13:08:30|How much are households spending on eating-out?|https://ec.europa.eu/eurostat/web/products-eurostat-news/-/EDN-20200101-2|564sdfgdfg|False|https://redd.it/ejwg3b|19|0.79|0|10|0|europe
+ekbtor|2020-01-05 11:20:48|Serbia accused of threatening peace in Montenegro|https://www.neweurope.eu/article/serbia-accused-of-threatening-peace-in-montenegro/|LaromTheDestroyer|False|https://redd.it/ekbtor|0|0.49|0|2|0|europe
+ejfkyt|2020-01-03 13:45:27|Population of Europe in 1789, on the eve of French revolution|https://i.redd.it/o5g2pxogik841.png|yuropian|False|https://redd.it/ejfkyt|1449|0.97|0|318|0|europe
+ek1vvf|2020-01-04 20:22:21|Jeremy Hunt: US confrontation with Iran is 'dangerous game of chicken'|https://www.theguardian.com/politics/2020/jan/04/jeremy-hunt-us-iran-qassem-suleimani|casualphilosopher1|False|https://redd.it/ek1vvf|4|0.56|0|2|0|europe
+eje0py|2020-01-03 11:08:56|Fireman in Romania, 1912 vs 2019|https://imgur.com/hymu0XW|grgc|False|https://redd.it/eje0py|1592|0.98|0|68|0|europe
+ejmuqo|2020-01-03 22:23:55|Thousands of people gather every day to protest the Law on Religious Freedom in Montenegro.|https://i.redd.it/eqht6o6j2n841.jpg|Helskrim|False|https://redd.it/ejmuqo|190|0.86|0|135|0|europe
+ek1ys3|2020-01-04 20:28:27|What’s the most urgent action we need to take in 2020?|https://horizon-magazine.eu/article/what-s-most-urgent-action-we-need-take-2020.html|sn0r|False|https://redd.it/ek1ys3|3|0.62|0|15|0|europe
+ejwazz|2020-01-04 12:52:55|Montenegro Slams Serbia Over 'Uncivilized' Embassy Attack|https://www.rferl.org/a/montenegro-slams-serbia-over-uncivilized-embassy-attack/30359059.html|Jasko1111|False|https://redd.it/ejwazz|10|0.64|0|12|0|europe
+ejuts2|2020-01-04 09:56:17|Salvini: “Thanks Trump because he got rid of Soleimani, in your face cowards of Italy and UE” - translation in the comments|https://www.corriere.it/politica/20_gennaio_03/salvini-grazie-trump-aver-eliminato-soleimani-faccia-pavidi-italia-ue-4163800e-2e21-11ea-b175-4a50d07a03f0.shtml|lonely_chemist|False|https://redd.it/ejuts2|22|0.63|0|55|0|europe
+ejxswp|2020-01-04 15:17:16|What’s a fun thing that makes you European?|I’ll start: we drive stick.|JoeLesina|False|https://redd.it/ejxswp|5|0.59|0|56|1|europe
+ejtt10|2020-01-04 07:54:28|Romanian anthem accidentally played for Moldova at ATP Cup|https://www.theguardian.com/sport/2020/jan/03/we-are-sincerely-sorry-wrong-anthem-played-for-moldova-at-atp-cup|Udzu|False|https://redd.it/ejtt10|24|0.88|0|8|0|europe
+ejvrm5|2020-01-04 11:49:38|The ECB Policy Most Disliked in Germany Is Now Run by a German|https://www.bloomberg.com/news/articles/2020-01-03/the-ecb-s-most-disliked-policy-in-germany-is-now-run-by-a-german|syoxsk|False|https://redd.it/ejvrm5|10|0.79|0|2|0|europe
+ejvf6f|2020-01-04 11:08:09|A person in the Netherlands got missing. Please call the number if you see him|https://i.redd.it/h6jkwxw87q841.png|nigel12341|False|https://redd.it/ejvf6f|8|0.54|0|4|0|europe
+ejv5w2|2020-01-04 10:38:04|Beautiful clouds in Istanbul|https://i.redd.it/erjsr0fxpq841.jpg|mert3|False|https://redd.it/ejv5w2|12|0.61|0|3|0|europe
+ejn2h8|2020-01-03 22:39:26|The Royal Family of Norway charging their Nissan Leaf's at The Royal Palace.|https://i.imgur.com/fT0EbKv.jpg|allocater|False|https://redd.it/ejn2h8|91|0.8|0|31|0|europe
+ejw49b|2020-01-04 12:31:41|Croatia Calls for Calming Situation in Iraq and Middle East|https://www.total-croatia-news.com/politics/40583-middle-east|cgdb_|False|https://redd.it/ejw49b|8|0.62|0|18|0|europe
+ejm447|2020-01-03 21:31:35|Putin and Macron Talk by Phone About Concerns Over U.S. Killing of Top Iranian General Soleimani|https://www.themoscowtimes.com/2020/01/03/putin-and-macron-talk-by-phone-about-concerns-over-us-killing-of-top-iranian-general-soleimani-kremlin-a68809|jurhurdur|False|https://redd.it/ejm447|107|0.92|0|69|0|europe
+ejxxmc|2020-01-04 15:28:34|'Without coal Wales would be part of England'|https://www.bbc.co.uk/news/uk-wales-50457035|gsurfer04|False|https://redd.it/ejxxmc|3|0.6|0|13|0|europe
+ejkynp|2020-01-03 20:11:26|France, Russia and China condemn slaying of Soleimani as a destabilizing act|https://www.timesofisrael.com/france-russia-and-china-condemn-slaying-of-soleimani-as-a-destabilizing-act/|le_br1t|False|https://redd.it/ejkynp|138|0.86|0|126|0|europe
+ekatsn|2020-01-05 09:21:12|Vegans could legally fight 'unethical' banknotes following landmark ruling|https://www.telegraph.co.uk/news/2020/01/03/vegans-could-legally-fight-unethical-banknotes-following-landmark/|idigporkfat|False|https://redd.it/ekatsn|0|0.36|0|18|0|europe
+ejt2r5|2020-01-04 06:37:34|Germany’s tiny geographic oddity|http://www.bbc.com/travel/story/20190922-germanys-tiny-geographic-oddity|gamyng|False|https://redd.it/ejt2r5|18|0.77|0|2|0|europe
+ejefmc|2020-01-03 11:54:11|Female Nordic prime ministers|https://i.redd.it/a7bjs2xpgj841.png|MarlinMr|False|https://redd.it/ejefmc|567|0.85|0|256|0|europe
+ek9xid|2020-01-05 07:36:51|"Top 10 Best Places To Visit in Europe in 2020 | THE TOURIST"|https://www.youtube.com/watch?v=yITCijAoXkY&feature=youtu.be|Mrfankid|False|https://redd.it/ek9xid|0|0.25|0|1|0|europe
+ejpdu6|2020-01-04 01:29:39|Bosnia - Sarajevo, New Year's Eve 2019|https://i.redd.it/oj2hngl30o841.jpg|kajotem|False|https://redd.it/ejpdu6|43|0.85|0|2|0|europe
+ejl6sz|2020-01-03 20:27:03|Catalan flag now flying alone in the Palace of the Goverment of Catalonia, photo by Jordi Borràs|https://i.redd.it/hgtf6vtxhm841.jpg|AleixASV|False|https://redd.it/ejl6sz|92|0.71|0|200|0|europe
+ek1s0h|2020-01-04 20:15:00|"Tusk: some in Poland's ruling party ""consciously"" help Putin, others are ""useful idiots"""|https://notesfrompoland.com/2020/01/04/tusk-some-in-polands-ruling-party-consciously-help-putin-others-are-useful-idiots/|bm52oc|False|https://redd.it/ek1s0h|3|0.51|0|27|0|europe
+ejjl11|2020-01-03 18:37:43|Røros was named Norway's most cultural municipality five years in a row. It's the most beautiful place I know of.|https://i.redd.it/e4ri4674yl841.jpg|Madscantakeabeating|False|https://redd.it/ejjl11|105|0.91|0|11|0|europe
+ejfs7l|2020-01-03 14:03:13|Man 'neutralised' after stabbing in Paris suburb|https://www.bbc.co.uk/news/world-europe-50986028|Speed_Junkie|False|https://redd.it/ejfs7l|221|0.92|0|170|0|europe
+ejfvgm|2020-01-03 14:10:21|Lidl to remove cartoon characters from cereal packaging to help parents cope with ‘pester power’|https://www.independent.co.uk/life-style/food-and-drink/lidl-cereal-packaging-cartoon-characters-children-parents-a9268901.html|trinitronbxb|False|https://redd.it/ejfvgm|204|0.95|0|81|0|europe
+ejifpp|2020-01-03 17:17:33|Russia halts oil to Belarus, but transit to Europe still flowing|https://www.reuters.com/article/us-russia-oil-belarus/russia-halts-oil-to-belarus-but-transit-to-europe-still-flowing-idUSKBN1Z20UP|iwanttosaysmth|False|https://redd.it/ejifpp|116|0.95|0|76|0|europe
+ejk30g|2020-01-03 19:11:40|Christmas lights in Como, Italy|https://i.redd.it/ygcim3ag4m841.jpg|Lavrentio2LaVendetta|False|https://redd.it/ejk30g|75|0.87|0|0|0|europe
+ejdx4w|2020-01-03 10:57:46|Don't ignore far-left extremists, German police say after Leipzig attacks|https://www.dw.com/en/dont-ignore-far-left-extremists-german-police-say-after-leipzig-attacks/a-51863303|AstronomicalDouche|False|https://redd.it/ejdx4w|329|0.76|1|376|0|europe
+ejldpb|2020-01-03 20:40:05|Morning sky in Keflavik, Iceland|https://i.redd.it/8iig14vfkm841.jpg|xlowab|False|https://redd.it/ejldpb|50|0.83|0|4|0|europe
+ejzvor|2020-01-04 17:56:36|AFTER 14 YEARS AS CHANCELLOR: The bitter balance sheet of Merkel's foreign policy . An analysis by Julian Reichelt (editor-in-chief of Bild.de)|https://www.bild.de/politik/inland/politik-inland/merkel-hat-werte-hergeschenkt-14-jahre-bilanz-des-bild-chefredakteurs-66192194.bild.html|Lrleol|False|https://redd.it/ejzvor|0|0.5|0|2|0|europe
+ejvn0m|2020-01-04 11:34:34|Open Letter Accuses Serbs Of 'Threatening Peace' In Montenegro, Region|https://www.rferl.org/a/open-letter-serbs-threatening-peace-montenegro-region/30357616.html|Jasko1111|False|https://redd.it/ejvn0m|3|0.56|0|2|0|europe
+ejz7og|2020-01-04 17:08:27|Beech Street in London is the first in Britain to ban all petrol and diesel cars|https://www.weforum.org/agenda/2020/01/britain-london-air-quality-zero-emissions-street-ban-petrol-diesel-cars-electric/|LaromTheDestroyer|False|https://redd.it/ejz7og|0|0.5|0|2|0|europe
+ejpnjl|2020-01-04 01:50:02|Traditional Slovak pig slaughter, not for faint-hearted.|https://www.youtube.com/watch?v=R48NhCgDL0w|Jinno69|True|https://redd.it/ejpnjl|11|0.62|0|25|0|europe
+ejf585|2020-01-03 13:04:14|North Macedonia PM resigns over stalled EU talks|https://www.euronews.com/2020/01/03/north-macedonia-pm-zoran-zaev-resigns-over-stalled-eu-talks|sn0r|False|https://redd.it/ejf585|152|0.94|0|227|0|europe
+ejf844|2020-01-03 13:11:47|Lake Bled is beautiful but so is the area around it. This is a photograph I took of a small Slovenian village last summer.|https://i.redd.it/8rh6pklgck841.jpg|Mperorpalpatine|False|https://redd.it/ejf844|148|0.91|0|11|0|europe
+ejhvy7|2020-01-03 16:39:06|The UK government warns Trump that war with Iran 'is in none of our interests'|https://www.businessinsider.com/uk-warns-donald-trump-against-launching-war-iran-qassem-soleimani-2020-1?IR=T|Shodan76|False|https://redd.it/ejhvy7|79|0.88|0|41|0|europe
+ek5t89|2020-01-05 01:20:43|Quite frankly I'd rather burn Belgium off|https://i.redd.it/5jfvvyizdt841.png|Abderraman_V|False|https://redd.it/ek5t89|0|0.38|0|4|0|europe
+ek29cz|2020-01-04 20:49:39|Greater Eurasia: What Is Yet To Be Done?|https://valdaiclub.com/a/highlights/greater-eurasia-what-is-yet-to-be-done/|Sideyon|False|https://redd.it/ek29cz|0|0.42|0|10|0|europe
+ejnfy8|2020-01-03 23:06:38|Yugoslav 70s commercials (PT2. in comments)|https://www.youtube.com/watch?v=OEW6F83owjU|TheExtensionCord|False|https://redd.it/ejnfy8|18|0.79|0|5|0|europe
+ejxa8h|2020-01-04 14:32:38|Brexit - revolution or slow burn?|https://www.rte.ie/news/2019-in-review/2020/0104/1104307-brexit-review/|Eponius|False|https://redd.it/ejxa8h|0|0.44|0|22|0|europe
+ejchi9|2020-01-03 08:10:00|Most Germans say Erdoğan has negative influence on world security - opinion poll|https://ahvalnews-com.cdn.ampproject.org/c/s/ahvalnews.com/recep-tayyip-erdogan/most-germans-say-erdogan-has-negative-influence-world-security-opinion-poll?amp|Los_ches|False|https://redd.it/ejchi9|262|0.9|0|102|0|europe
+ejjia9|2020-01-03 18:32:14|Nice sunset spotted from Everton Park, Liverpool|https://flickr.com/photos/liverpoolpictorial/49323402442|scouserdave|False|https://redd.it/ejjia9|34|0.79|0|1|0|europe
+ejcl2u|2020-01-03 08:21:39|Spain accounted for over one half of the harvested production of oranges in the EU (3.6 million tonnes, 56% of the EU total)|https://i.redd.it/im6ecprowi841.jpg|filosoful|False|https://redd.it/ejcl2u|196|0.94|0|38|0|europe
+ejywnd|2020-01-04 16:45:47|Americans in Europe : Do you have a hard time making friends ?|"I keep hearing americans saying it is very difficult to make good friends in Europe. Is it like that for you too ? And if so, why ?
+
+Edit : grammar"|Shawayne1|False|https://redd.it/ejywnd|0|0.4|0|34|1|europe
+ej3gfd|2020-01-02 20:09:10|No children died in traffic accidents in Norway in 2019|https://www.nrk.no/trondelag/ingen-barn-dode-i-trafikken-i-2019-1.14843386|V2O5|False|https://redd.it/ej3gfd|1744|0.98|0|132|0|europe
+ejk6v6|2020-01-03 19:19:00|Europeans call for calm after US strike kills Iran general|https://www.politico.eu/article/europeans-call-for-calm-after-us-strike-kills-iran-general-jean-yves-le-drian-emmanuel-macron/|sn0r|False|https://redd.it/ejk6v6|22|0.77|0|4|0|europe
+eje3na|2020-01-03 11:17:14|Statement by Charles Michel, President of the European Council, on the situation in Iraq|https://www.consilium.europa.eu/en/press/press-releases/2020/01/03/statement-by-charles-michel-president-of-the-european-council-on-the-situation-in-iraq/|sn0r|False|https://redd.it/eje3na|78|0.9|0|113|0|europe
+ejg7gh|2020-01-03 14:37:46|Police aim to thwart increasing flow of cocaine to Finland while use doubled in Finland|https://yle.fi/uutiset/osasto/news/police_aim_to_thwart_increasing_flow_of_cocaine_to_finland/11143361?origin=rss|DismalShower|False|https://redd.it/ejg7gh|39|0.8|0|12|0|europe
+ejkh0d|2020-01-03 19:38:13|Swiss diplomat to Tehran summoned after Iranian general killed|https://www.swissinfo.ch/eng/us-air-strike_swiss-diplomat-to-tehran-summoned-after-iranian-general-killed/45469878|itstrdt|False|https://redd.it/ejkh0d|15|0.72|0|3|0|europe
+ejm9i3|2020-01-03 21:41:49|Mustang wedding. Berlin, October 2019.|https://flickr.com/photos/joelschalit/49323611032/in/photostream/|Pilast|False|https://redd.it/ejm9i3|12|0.56|0|17|0|europe
+ejcai1|2020-01-03 07:47:52|Old Norse Map of the Viking World|http://www.abroadintheyard.com/wp-content/uploads/Viking-World-Norse-f.jpg|MusicURlooking4|False|https://redd.it/ejcai1|129|0.75|0|75|0|europe
+eiw1g4|2020-01-02 09:17:17|Just Lapland things, the next sunrise is in two weeks|https://i.redd.it/jjvsh1o31c841.png|laamakarhu|False|https://redd.it/eiw1g4|28356|0.95|0|725|0|europe
+ejwmbs|2020-01-04 13:27:07|Portugal has found an antidote to right wing populism|https://kontrast.at/portugal-economy-right-wing?fbclid=IwAR0tIXdPeXiSjClCLnxCfyUave5grijLOLhvwPUBmDaXzSLNPd1o0L7gp70|MelodicBerries|False|https://redd.it/ejwmbs|0|0.49|0|40|0|europe
+ejy0v0|2020-01-04 15:36:12|Sebastian Kurz’s last chance: Coalition with the Greens is a last opportunity to prove that he’s more than just a pretty face.|https://www.politico.eu/article/austria-elections-coalition-sebastian-kurz-last-chance/|surpator|False|https://redd.it/ejy0v0|0|0.44|0|5|0|europe
+ejhjhz|2020-01-03 16:14:46|Austria coalition deal is balance of far-right and environmental policies|https://edition.cnn.com/2020/01/02/europe/austria-kurz-greens-intl/index.html|BusinessFuture6|False|https://redd.it/ejhjhz|21|0.69|0|94|0|europe
+ejgdy9|2020-01-03 14:51:45|This is Ortisei, On the Italian Alps, at the beginning of 2019|https://i.redd.it/jckun3pauk841.png|tommasogalimbertii|False|https://redd.it/ejgdy9|30|0.77|0|2|0|europe
+ej5i1t|2020-01-02 22:30:31|Berlin at Sunset. Three days ago.|https://i.redd.it/i0vtkuf8zf841.jpg|tontschman|False|https://redd.it/ej5i1t|574|0.96|0|18|0|europe
+eji9b4|2020-01-03 17:05:14|Qasem Soleimani: Boris Johnson not told about US airstrike|https://www.bbc.co.uk/news/uk-politics-50981719|1NGR|False|https://redd.it/eji9b4|18|0.66|0|24|0|europe
+ejf3it|2020-01-03 13:00:05|Dispatches From Asgardsrei: Ukraine’s Annual Neo-Nazi Music Festival|https://www.bellingcat.com/news/2020/01/02/dispatches-from-asgardsrei-ukraines-annual-neo-nazi-music-festival/|Sideyon|False|https://redd.it/ejf3it|41|0.72|0|0|0|europe
+ejhg84|2020-01-03 16:08:41|Italy's Salvini looks to avoid trial over migrаnt standoff|https://www.reuters.com/article/us-italy-salvini-migrants/italys-salvini-looks-to-avoid-trial-over-migrant-standoff-idUSKBN1Z21E5|Sideyon|False|https://redd.it/ejhg84|21|0.69|0|19|0|europe
+ejpnux|2020-01-04 01:50:39|Belching in a good way: How livestock could learn from Orkney sheep|https://www.bbc.co.uk/news/stories-50856275|gsurfer04|False|https://redd.it/ejpnux|2|0.62|0|0|0|europe
+ejbko1|2020-01-03 06:33:09|England’s first wild beavers in centuries are ‘helping communities and the climate’|https://www.independent.co.uk/environment/wild-beaver-colony-river-otter-devon-environment-defra-a9267331.html?utm_source=reddit.com|Frogloggers|False|https://redd.it/ejbko1|88|0.9|0|27|0|europe
+ejebha|2020-01-03 11:41:42|Napoli, Piazza del Plebiscito|https://i.redd.it/o4gza52abf841.jpg|clairelions88|False|https://redd.it/ejebha|33|0.8|0|1|0|europe
+ejil6x|2020-01-03 17:28:13|VAT carousel fraudsters arrested with the support of Eurojust|http://www.eurojust.europa.eu/press/PressReleases/Pages/2019/2019-06-12b.aspx|sn0r|False|https://redd.it/ejil6x|10|0.73|0|0|0|europe
+ejiz3p|2020-01-03 17:55:14|Bird flu outbreak spreads in Poland|https://www.9news.com.au/world/bird-flu-outbreak-spreads-in-poland/1a6e2bf4-2b23-4794-a6d0-27891159ade6|westerbypl|False|https://redd.it/ejiz3p|12|0.65|0|2|0|europe
+ejcl9j|2020-01-03 08:22:20|Kazakhstan cancels mandatory registration for foreigners visiting up to 30 days|https://www.neweurope.eu/article/kazakhstan-cancels-mandatory-registration-for-foreigners-visiting-up-to-30-days/|LaromTheDestroyer|False|https://redd.it/ejcl9j|49|0.83|0|3|0|europe
+ejdvcg|2020-01-03 10:51:59|Praha 60. léta - Prague 1960s video for those who didn't see it without tourist crowds|https://www.youtube.com/watch?v=oCQmED9zn50|Jizera|False|https://redd.it/ejdvcg|29|0.87|0|6|0|europe
+ej8eod|2020-01-03 02:06:04|Main etymologies of European currencies (pre-euro)|https://i.redd.it/rzybrvjp0f841.png|GladMacaroon|False|https://redd.it/ej8eod|140|0.92|0|64|0|europe
+ej5tv6|2020-01-02 22:53:39|Denmark sources record 47% of power from wind in 2019|http://news.trust.org/item/20200102104110-o1o6r|DismalShower|False|https://redd.it/ej5tv6|239|0.95|0|42|0|europe
+ejrpsp|2020-01-04 04:32:40|"Russia developed its own separate internet system ""Runet"" - Delhi"|https://www.delhi-magazine.com/2019/12/russia-developed-its-own-separate.html|devkmr|False|https://redd.it/ejrpsp|0|0.53|0|3|0|europe
+ejkfqu|2020-01-03 19:35:52|Statement by the High Representative Josep Borrell on the recent developments in Iraq|https://eeas.europa.eu/headquarters/headquarters-homepage/72663/statement-high-representative-josep-borrell-recent-developments-iraq_en|sn0r|False|https://redd.it/ejkfqu|5|0.62|0|2|0|europe
+ejhg1l|2020-01-03 16:08:19|Maastricht University paid hackers to get back system access|https://www.dutchnews.nl/news/2020/01/maastricht-university-paid-hackers-to-get-back-system-access/|idigporkfat|False|https://redd.it/ejhg1l|11|0.71|0|9|0|europe
+ejk4wg|2020-01-03 19:15:25|London's Extraordinary Surplus of Empty Luxury Apartments Revealed|https://ponderwall.com/index.php/2019/12/31/london-surplus-luxury-apartments/|yolo4everlmi|False|https://redd.it/ejk4wg|7|0.62|0|5|0|europe
+ejek0k|2020-01-03 12:06:18|‘Geopolitical’ Europe could struggle to take shape in troublesome 2020|https://www.euractiv.com/section/global-europe/news/geopolitical-europe-could-struggle-to-take-shape-in-troublesome-2020/|sn0r|False|https://redd.it/ejek0k|16|0.79|0|0|0|europe
+ejqmdt|2020-01-04 03:04:36|Poland rings EU alarm after Russian WW2 slurs|https://euobserver.com/foreign/147018|sn0r|False|https://redd.it/ejqmdt|1|0.5|0|38|0|europe
+ejcckf|2020-01-03 07:54:22|2019 was hottest year on record for Russia|https://www.dhakatribune.com/world/2019/12/31/2019-was-hottest-year-on-record-for-russia|Wagamaga|False|https://redd.it/ejcckf|27|0.72|0|7|0|europe
+ejd9u7|2020-01-03 09:44:14|Russian companies divert oil from Belarus amidst deal impasse|https://www.dw.com/en/russian-companies-divert-oil-from-belarus-amidst-deal-impasse/a-51846284|TheCornOverlord|False|https://redd.it/ejd9u7|18|0.75|0|1|0|europe
+ejeqfb|2020-01-03 12:24:18|Ursula von der Leyen to meet Boris Johnson|https://www.politico.eu/article/ursula-von-der-leyen-to-meet-boris-johnson/|sn0r|False|https://redd.it/ejeqfb|8|0.69|0|0|0|europe
+ejdtnl|2020-01-03 10:46:45|Huntington’s disease and the clash of civilisation-states|https://www.economist.com/europe/2020/01/02/huntingtons-disease-and-the-clash-of-civilisation-states|AnAncientAnatolian|False|https://redd.it/ejdtnl|11|0.72|0|2|0|europe
+ejdbw5|2020-01-03 09:50:51|A Garda Whistleblowers Story – Children of the Digital Age|https://childrenofthedigitalage.org/blog/a-garda-whistleblowers-story/|Giuseppe_Conlon|False|https://redd.it/ejdbw5|14|0.74|0|1|0|europe
+ej28f5|2020-01-02 18:44:11|Norway records warmest ever January day at 19C|https://www.bbc.com/news/world-europe-50971446|theDarkwebguy|False|https://redd.it/ej28f5|216|0.96|0|59|0|europe
+ej5zaj|2020-01-02 23:04:35|Use of Latvian as the primary language at home in 2011 by municipalities of Latvia|https://i.redd.it/63f82k095g841.png|Art1ns|False|https://redd.it/ej5zaj|94|0.91|0|34|0|europe
+ejbjav|2020-01-03 06:29:29|Europe’s employment recovery seems to be nearing an end|https://www.economist.com/europe/2020/01/04/europes-employment-recovery-seems-to-be-nearing-an-end|stormforce7916|False|https://redd.it/ejbjav|22|0.79|0|10|0|europe
+ejg5yo|2020-01-03 14:34:21|#Euro gains and #Sterling shines as growth optimism cheers investors|https://www.eureporter.co/frontpage/2020/01/03/euro-gains-and-sterling-shines-as-growth-optimism-cheers-investors/|sn0r|False|https://redd.it/ejg5yo|7|0.67|0|0|0|europe
+ejndb9|2020-01-03 23:01:19|Have you done the New Years Dive?|https://youtu.be/bXAIewNXuJ8|roderiquebouwnl|False|https://redd.it/ejndb9|0|0.42|0|0|0|europe
+ejhnf0|2020-01-03 16:22:34|EU Patent Office Rejects Two Patent Applications In Which An AI Was Designated As The Inventor|https://www.techdirt.com/articles/20191221/00310443618/eu-patent-office-rejects-two-patent-applications-which-ai-was-designated-as-inventor.shtml|Franklinstink|False|https://redd.it/ejhnf0|4|0.59|0|2|0|europe
+eiyw93|2020-01-02 14:30:22|Kudos to the EU for ending the euro bank transfers racketeering in non-eurozone countries.|I was pleasantly surprised to find out a simple euro bank transfer doesn’t cost €20 anymore in Bulgaria. Turns out, Regulation No 924/2009, effective Dec 15, is behind this. It’s fixing small things like this for ordinary citizens that makes the EU great.|realARST|False|https://redd.it/eiyw93|345|0.97|0|59|1|europe
+ej23f0|2020-01-02 18:34:29|"Greece, Cyprus and Israel sign EastMed deal | Kathimerini"|http://www.ekathimerini.com/248061/article/ekathimerini/news/greece-cyprus-and-israel-sign-eastmed-deal|Ersigia|False|https://redd.it/ej23f0|167|0.91|0|25|0|europe
+ej1qev|2020-01-02 18:08:06|Andrzej Sapkowski tops Danish books sales this week|https://politiken.dk/kultur/boger/art7586149/Polsk-fantasyforfatter-dominerer-den-danske-bestsellerliste-fuldst%C3%A6ndig|stenbroenscooligan|False|https://redd.it/ej1qev|166|0.94|0|66|0|europe
+ej5cja|2020-01-02 22:19:32|Western Balkans left 'betrayed' by EU over membership talks|https://www.theguardian.com/world/2020/jan/01/western-balkans-left-betrayed-by-eu-over-membership-talks-albania-north-macedonia-croatia|RainItIn|False|https://redd.it/ej5cja|68|0.86|0|47|0|europe
+eixecj|2020-01-02 12:00:42|2019 was the first year in three decades when more people came to live in Lithuania than left the country, statistics show.|https://www.lrt.lt/en/news-in-english/19/1129769/lithuania-reports-positive-migration-for-first-year-in-three-decades|Letyat_zhuravli|False|https://redd.it/eixecj|439|0.98|0|82|0|europe
+ejfcgv|2020-01-03 13:23:08|EU crisis: Austria REJECTS major trade deal in huge blow for Brussels|https://worldabcnews.com/eu-crisis-austria-rejects-major-trade-deal-in-huge-blow-for-brussels-world-news/|Robert-Kenneth508|False|https://redd.it/ejfcgv|6|0.55|0|11|0|europe
+ej5p6w|2020-01-02 22:44:25|Beautiful view, Navigli, Milano, Italy.|https://i.redd.it/fevruvlp1g841.jpg|nekokun|False|https://redd.it/ej5p6w|56|0.88|0|6|0|europe
+ejl7r5|2020-01-03 20:28:47|Law, Order, and Repression in Greece|https://jacobinmag.com/2019/12/exarcheia-greece-athens-squats-police-tsipras|Sideyon|False|https://redd.it/ejl7r5|0|0.48|0|0|0|europe
+ejcwl6|2020-01-03 09:00:29|'We are sincerely sorry': Wrong anthem played for Moldova at ATP Cup|https://www.theguardian.com/sport/2020/jan/03/we-are-sincerely-sorry-wrong-anthem-played-for-moldova-at-atp-cup?fbclid=IwAR0c-lCauu1igGDRl5EqNFK3NWzeU-QiaggW-w-11LZfm6pU4Lj7y2-NNe0|poyekhavshiy|False|https://redd.it/ejcwl6|10|0.7|0|14|0|europe
+ejkq1r|2020-01-03 19:55:01|Poland expands Sunday trading ban|https://www.polskieradio.pl/395/7784/Artykul/2430280,Poland-expands-Sunday-trading-ban|kutukola|False|https://redd.it/ejkq1r|0|0.5|0|4|0|europe
+eiycie|2020-01-02 13:39:47|Germany cuts fares for long-distance rail travel in response to climate crisis|https://www.theguardian.com/world/2020/jan/02/germany-cuts-fares-for-long-distance-rail-travel-in-response-to-climate-crisis|spainguy|False|https://redd.it/eiycie|257|0.95|0|162|0|europe
+ejk6gp|2020-01-03 19:18:17|Jews Are Going Underground|https://www.theatlantic.com/ideas/archive/2019/12/after-monsey-will-jews-go-underground/604219/|Sampo|False|https://redd.it/ejk6gp|0|0.49|0|13|0|europe
+ej7va7|2020-01-03 01:24:14|"Wernher von Braun explains the possibility to reach the Moon. ""Man and the Moon"", Dec. 28, 1955"|https://www.youtube.com/watch?v=eXIDFx74aSY|Thurallor|False|https://redd.it/ej7va7|27|0.8|0|8|0|europe
+ej4vy8|2020-01-02 21:47:29|Food window displayed on a street in Florence, Italy (November 2019)|https://i.redd.it/z1natwj7rf841.jpg|jensonslog|False|https://redd.it/ej4vy8|46|0.89|0|4|0|europe
+ejmicr|2020-01-03 21:59:25|Europe in 2020: Time for Europe to live up to its responsibilities|https://voxeurop.eu/en/2020/2020-5124214|europeanman|False|https://redd.it/ejmicr|0|0.48|0|3|0|europe
+eiyqcu|2020-01-02 14:15:31|In 2019, renewable energies exceeded fossil energies in terms of public net electricity generation in Germany for the first time.|https://i.imgur.com/rFNX1zi.png|Spinach_Feta_Wrap|False|https://redd.it/eiyqcu|164|0.95|1|91|0|europe
+ejiwmi|2020-01-03 17:50:29|A divided Electoral Junta agrees by a single vote difference to remove Quim Torra as President of the Generalitat|https://www.eldiario.es/politica/Junta-Electoral-Torra-Generalitat-Supremo_0_980952232.html|AleixASV|False|https://redd.it/ejiwmi|0|0.52|0|44|0|europe
+eivbzu|2020-01-02 07:50:03|[OC] Just Wanted to Say, Ljubljana You Are Beautiful!|https://i.imgur.com/EQNBkhh.jpg|iwillmakethisputt|False|https://redd.it/eivbzu|507|0.94|0|42|0|europe
+ej62zq|2020-01-02 23:11:50|[OC Photo] - Taken in Zemun near Gardos tower|https://i.redd.it/hjtwrwkl6g841.jpg|DzigiliDaFujznem|False|https://redd.it/ej62zq|33|0.8|0|0|0|europe
+ej0g7z|2020-01-02 16:35:09|Austria's conservative People's Party and Greens form coalition|https://www.euronews.com/2020/01/01/austria-s-conservative-people-s-party-forms-coalition-with-the-greens|hrmpfidudel|False|https://redd.it/ej0g7z|98|0.96|0|51|0|europe
+ejtu7i|2020-01-04 07:58:25|VIDEO: Angry pope repeatedly slaps at woman’s hand to free himself|https://www.mazechmedia.com/2020/01/video-angry-pope-repeatedly-slaps-at-womans-hand-to-free-himself/|Nawaao|False|https://redd.it/ejtu7i|0|0.23|0|4|0|europe
+ejqjng|2020-01-04 02:58:42|The government wants to restrict access to pornography for young people. Nothing will change without sex education|https://oko.press/rzad-chce-ograniczyc-dostep-do-pornografii/|bm52oc|False|https://redd.it/ejqjng|0|0.35|0|7|0|europe
+eiz0ae|2020-01-02 14:40:25|Belarus and NATO discuss joint military exercises|https://www.uawire.org/belarus-and-nato-discuss-joint-military-exercises|pavol99|False|https://redd.it/eiz0ae|128|0.89|0|77|0|europe
+ejqbhq|2020-01-04 02:40:37|President’s chief of staff says opposition are “dancing to Putin’s tune” with Brussels rule-of-law visit|https://notesfrompoland.com/2020/01/03/presidents-chief-of-staff-says-opposition-are-dancing-to-putins-tune-with-brussels-rule-of-law-visit/|bm52oc|False|https://redd.it/ejqbhq|0|0.39|0|0|0|europe
+eji3p5|2020-01-03 16:54:07|Orbán considering leaving EPP, says senior Fidesz member|https://www.politico.eu/article/viktor-orban-considers-leaving-epp-senior-fidesz-member/|sn0r|False|https://redd.it/eji3p5|1|0.59|0|2|0|europe
+eji2vi|2020-01-03 16:52:35|ATP Cup apologise after playing wrong national anthem for Moldova|https://www.independent.co.uk/sport/tennis/atp-cup-2020-moldova-national-anthem-romania-apology-sorry-video-a9268746.html|muieporcilor|False|https://redd.it/eji2vi|1|0.5|0|0|0|europe
+ejuahk|2020-01-04 08:50:54|Top 5 diversity trends for 2020s|https://www.forbes.com/sites/bonniechiu/2020/01/03/top-5-diversity-trends-for-2020s/|Sideyon|False|https://redd.it/ejuahk|0|0.26|0|5|0|europe
+ejai3c|2020-01-03 04:55:18|"Britain and France came within an ace of attacking the Soviet Union in 1940. ""As once Finland fell, he argued, Germany and Russia together would be able to dominate Scandinavia. This argument seems well-reasoned."" [MP3]"|https://oldradioprograms.us/My%20Old%20Radio%20Shows/E/Elmer%20Davis%20And%20The%20News/Elmer%20Davis%20and%20the%20News%2040-02-23%20-%20British%20Arctic%20fleet%20watches%20Russians%20and%20Germans.mp3|dinkoplician|False|https://redd.it/ejai3c|9|0.74|0|2|0|europe
+eiy9e6|2020-01-02 13:31:21|Chinese skiers want book removed from Meråker library in Norway|https://norwaytoday.info/news/chinese-skiers-want-book-removed-from-meraker-library/|chinalt|False|https://redd.it/eiy9e6|147|0.93|0|75|0|europe
+ejubd6|2020-01-04 08:53:58|Europeans say immigrаnts contribute more to the region’s culture than its economy|https://qz.com/1775059/data-shows-what-europeans-think-of-immigrants/|Sideyon|False|https://redd.it/ejubd6|0|0.35|0|16|0|europe
+ej0tuj|2020-01-02 17:03:13|"German zoo fire: three women hand themselves in to police | World news"|https://www.theguardian.com/world/2020/jan/02/german-zoo-fire-three-women-hand-themselves-in-to-police|cgdb_|False|https://redd.it/ej0tuj|79|0.94|0|99|0|europe
+ej0ryc|2020-01-02 16:59:29|Supreme Parish and Collegiate Church (Berlin Cathedral).|https://i.redd.it/dui3kr15ce841.jpg|Flumi-|False|https://redd.it/ej0ryc|78|0.92|0|0|0|europe
+ej5f2u|2020-01-02 22:24:38|'We're calling on all the French to mobilise': Union leader calls for pension reform strikes to continue|https://www.france24.com/en/20200102-french-union-leader-calls-strikes-pension-reform-continue|RainItIn|False|https://redd.it/ej5f2u|26|0.74|0|22|0|europe
+ejqlqu|2020-01-04 03:03:14|"UMK will not punish Nalaskowski for homophobic text. Expert: it was a metaphor for ""the spreading LGBT ideology"""|https://oko.press/umk-rozgrzesza-nalaskowskiego-z-homofobicznego-felietonu-to-byla-metafora-szerzacej-sie-ideologii-lgbt/|bm52oc|False|https://redd.it/ejqlqu|0|0.3|0|5|0|europe
+ejl02e|2020-01-03 20:14:07|Catalan president faces being removed from office|https://www.politico.eu/article/catalan-president-faces-being-removed-from-office/|le_br1t|False|https://redd.it/ejl02e|0|0.48|0|2|0|europe
+ej31h7|2020-01-02 19:40:25|Prague mayor cuts ties with Beijing|https://www.neweurope.eu/article/prague-mayor-cuts-ties-with-beijing/|LaromTheDestroyer|False|https://redd.it/ej31h7|45|0.87|0|8|0|europe
+ejepbb|2020-01-03 12:21:10|Vulnerable employment, total (% of total employment) (Europe)|https://paintmaps.com/statistics/1282/Vulnerable-employment-total-percentage-of-total-employment-modeled-ILO-estimate-on-europe-map|ytkn55|False|https://redd.it/ejepbb|2|0.53|0|2|0|europe
+ejbzap|2020-01-03 07:13:33|What's the function of Non-addressed Decisions, when Directives already existed?|"1. I read the emboldened sentence, but I still don't get what Non-addressed Decisions' past function is?
+
+2. What's their function now?
+
+2. Aren't Directives ""an instrument that was directly applicable but lacked direct effect""? 
+
+Directives now have Vertical Direct Effect. The No Horizontal Direct Effects rule has exceptions like the Wide Definition of States, Incidental Horizontal, Indirect Effects through National and Primary EU Law, Indirect Effects through Medium of European Law. 
+
+Note I'm asking about JUST type 2.  Robert Schütze. [*European Union Law* 2 ed. 2018](https://global.oup.com/academic/product/eu-law-9780198714927?cc=ca&lang=en&). pp 92-93.
+
+> This development is now recognised in Article 288(4) TFEU that allows for two types of decisions: **[1]** decisions specifically applicable to those to whom it is addressed, and **[2]** decisions
+that are generally applicable because they are not addressed to anybody
+specifically.
+
+p. 94
+
+>###bb. Non-addressed Decisions
+While not expressly envisaged by the original Treaties, non-addressed
+decisions
+(decisions sui generis) had become a widespread constitutional phenomenon
+within the European Union.<sup>89</sup> The Lisbon Treaty has now ‘officialised’ them
+in Article 288 TFEU. **But what is the function of these decisions? In the past,**
+
+p. 95
+
+>**the Union had recourse to these decisions – instead of regulations – to have an
+instrument that was directly applicable but lacked direct effect.**"|canpostlost|False|https://redd.it/ejbzap|6|0.65|0|0|1|europe
+eju7o5|2020-01-04 08:41:42|The racist reality for migrаnts seeking a new life in Europe|https://www.thetimes.co.uk/article/the-racist-reality-for-migrants-seeking-a-new-life-in-europe-zqdtf89jk|Sideyon|False|https://redd.it/eju7o5|0|0.32|0|12|0|europe
+ej4ke3|2020-01-02 21:25:14|Spain´s Catalan separatists ERC agrees to abstain in Sanchez investiture|https://www.reuters.com/article/us-spain-politics-catalonia/spains-catalan-separatists-erc-agrees-to-abstain-in-sanchez-investiture-idUSKBN1Z11CC|NilFhiosAige|False|https://redd.it/ej4ke3|29|0.85|0|12|0|europe
+ejbbgk|2020-01-03 06:08:43|Sánchez opens the way to a public consultation in Catalonia to overcome the conflict|https://www.lavanguardia.com/politica/20200103/472675349773/psoe-erc-investidura-sanchez-acuerdo-consulta-cataluna.html|Matrim_WoT|False|https://redd.it/ejbbgk|6|0.59|0|4|0|europe
+ejk85k|2020-01-03 19:21:27|Carlos Ghosn is rumored to have signed an exclusivity deal with Netflix for the rights to a film adaptation of his story [article in FR.]|https://www.huffingtonpost.fr/entry/fuite-carlos-ghosn-netflix-hollywood_fr_5e0f20e8e4b0b2520d200937|npjprods|False|https://redd.it/ejk85k|0|0.47|0|1|0|europe
+eivi8t|2020-01-02 08:10:33|The fight for freedom, 1942 poster|https://i.redd.it/xj3ewrcopb841.jpg|Porodicnostablo|False|https://redd.it/eivi8t|320|0.9|0|280|0|europe
+eiw8i8|2020-01-02 09:41:00|Airbus beats delivery targets, surpasses Boeing by wide margin|https://www.reuters.com/article/us-airbus-deliveries-exclusive/exclusive-airbus-beats-goal-with-863-jet-deliveries-in-2019-ousts-boeing-from-top-spot-idUSKBN1Z01Q8|Robi_damian|False|https://redd.it/eiw8i8|229|0.95|0|82|0|europe
+eizfw1|2020-01-02 15:16:20|Turkey's parliament approves military deployment to Libya|https://www.aljazeera.com/news/2020/01/turkey-parliament-approves-military-deployment-libya-200102113511422.html|I_talk_politics|False|https://redd.it/eizfw1|74|0.82|0|169|0|europe
+eiicxp|2020-01-01 13:31:26|Eight Ways to Divide Finland|https://i.imgur.com/mxvHhX0.png|kashluk|False|https://redd.it/eiicxp|25382|0.92|0|574|0|europe
+eiwzie|2020-01-02 11:12:30|Cabinets of Finland (top) and Norway (bottom)|https://i.redd.it/v4u0sx1ylc841.jpg|K_231|False|https://redd.it/eiwzie|132|0.65|0|166|0|europe
+ejdbue|2020-01-03 09:50:39|'Daddy was a man of honor,' daughter of Nazi SS officer insists|https://m.dw.com/en/daddy-was-a-man-of-honor-daughter-of-nazi-ss-officer-insists/a-51853837|RainItIn|False|https://redd.it/ejdbue|3|0.53|0|55|0|europe
+ej1a1c|2020-01-02 17:35:27|Google will finally stop using controversial Irish and Dutch tax loopholes|https://www.theverge.com/platform/amp/2019/12/31/21044662/google-end-tax-loophole-double-irish-dutch-sandwich-2020|Ebadd|False|https://redd.it/ej1a1c|38|0.89|0|8|0|europe
+ej3uza|2020-01-02 20:37:02|Polish, Israeli Ambassadors protest against honouring Ukrainian war criminal|https://polandin.com/42918476/polish-israeli-ambassadors-protest-against-honouring-ukrainian-war-criminal|_DildoFaggins_|False|https://redd.it/ej3uza|22|0.75|0|3|0|europe
+ej1tgo|2020-01-02 18:14:14|New Austrian government will reject Mercosur deal|https://www.politico.eu/article/new-austrian-government-will-reject-mercosur-deal/|Robi_damian|False|https://redd.it/ej1tgo|32|0.87|0|12|0|europe
+ej3wl9|2020-01-02 20:39:57|"Barcelona to open southern Europe's biggest low-emissions zone | World news"|https://www.theguardian.com/world/2019/dec/31/barcelona-to-open-southern-europes-biggest-low-emissions-zone|surpator|False|https://redd.it/ej3wl9|19|0.79|0|4|0|europe
+ej3i5c|2020-01-02 20:12:19|WindFloat Atlantic project starts supplying energy from record 8.4MW floating turbine off the coast of Portugal|http://www.principlepowerinc.com/en/news-press/press-archive/2020/01/02/windfloat-atlantic-project-starts-supplying-clean-energy-in-portugal|V2O5|False|https://redd.it/ej3i5c|19|0.85|0|2|0|europe
+eixl5m|2020-01-02 12:21:44|Police investigate vandalised Hong Kong messages on Lithuania's Hill of Crosses|https://www.lrt.lt/en/news-in-english/19/1129355/police-investigate-vandalised-hong-kong-messages-on-lithuania-s-hill-of-crosses|teimons|False|https://redd.it/eixl5m|84|0.95|0|2|0|europe
+einq6u|2020-01-01 21:01:58|Daily Mail's front page 47 years ago today|https://imgur.com/wmTbPgX|chowieuk|False|https://redd.it/einq6u|1383|0.97|2|199|0|europe
+eiwi3h|2020-01-02 10:13:41|Greece, Cyprus, Israel to sign EastMed pipeline agreement on Thursday|http://www.ekathimerini.com/248028/article/ekathimerini/news/greece-cyprus-israel-to-sign-eastmed-pipeline-agreement-on-thursday|le_br1t|False|https://redd.it/eiwi3h|115|0.87|0|25|0|europe
+eiy481|2020-01-02 13:16:35|Morning in Finland|https://i.redd.it/dmrx6lfe8d841.jpg|Y4hL|False|https://redd.it/eiy481|63|0.89|0|4|0|europe
+eizd86|2020-01-02 15:10:15|Why detached Macron thinks he’s winning: France is hit by record-breaking strikes but the president eyes victory.|https://www.politico.eu/article/why-detached-macron-thinks-hes-winning/|Avreal|False|https://redd.it/eizd86|43|0.75|0|51|0|europe
+ej43q3|2020-01-02 20:53:26|ERC agrees to abstain and clears the way for the investiture of Pedro Sánchez as president of Spain.|https://elpais.com/politica/2020/01/02/actualidad/1577978922_162021.html|Matrim_WoT|False|https://redd.it/ej43q3|14|0.78|0|6|0|europe
+ej7x7t|2020-01-03 01:28:23|What an audit of the British empire’s deadly toll in Africa would reveal|https://www.pressenza.com/2019/12/what-an-audit-of-the-british-empires-deadly-toll-in-southern-africa-would-reveal/|EthiczGradient|False|https://redd.it/ej7x7t|6|0.57|0|4|0|europe
+ej1d7f|2020-01-02 17:41:52|Two days into 2020, Norway has already broken temperature records twice|https://www.thelocal.no/20200102/two-days-into-2020-norway-has-already-broken-temperature-records-twice|PowerfulNumber|False|https://redd.it/ej1d7f|24|0.83|0|5|0|europe
+ej0ybz|2020-01-02 17:11:56|As talks with Russia stall Lukashenko orders Belarus officials to start looking for alternative oil supplies|https://www.uawire.org/as-talks-with-russia-stall-lukashenko-orders-belarus-officials-to-start-looking-for-alternative-oil-supplies|MelodicBerries|False|https://redd.it/ej0ybz|26|0.8|0|20|0|europe
+ejdiuf|2020-01-03 10:12:05|Brexit news – live: Labour seeking two-year extension with EU to avoid no-deal, as Tory MPs demand Big Ben chimes to mark exit|https://www.independent.co.uk/news/uk/politics/brexit-news-live-latest-boris-johnson-no-deal-corbyn-labour-eu-cummings-a9268581.html|OldFashionedJizz|False|https://redd.it/ejdiuf|0|0.5|0|15|0|europe
+ejl8iy|2020-01-03 20:30:12|The Gilets Jaunes Have Changed How France Thinks About Strikes|https://jacobinmag.com/2019/12/gilets-jaunes-strikes-trade-unions-macron|Sideyon|False|https://redd.it/ejl8iy|0|0.38|0|0|0|europe
+ejjgvn|2020-01-03 18:29:25|Big win for 'ethical vegans' in UK work tribunal|https://apnews.com/90cf92db248dc832210d2757c742e695|Cheapo-Git|False|https://redd.it/ejjgvn|0|0.41|0|0|0|europe
+eivwxg|2020-01-02 09:01:47|Estonian branch of Russian news agency stops working after all employees resign, fearing prosecution|https://meduza.io/en/news/2019/12/31/estonian-branch-of-russian-news-agency-stops-working-after-all-employees-resign-fearing-prosecution|jurhurdur|False|https://redd.it/eivwxg|92|0.88|0|60|0|europe
+ej2zf1|2020-01-02 19:36:25|Referendums are a bad idea, Irish leader told EU in 1995|https://www.theguardian.com/uk-news/2019/dec/31/referendums-are-a-bad-idea-irish-leader-told-eu-in-1995|Candid_Cryptographer|False|https://redd.it/ej2zf1|13|0.69|0|36|0|europe
+eizepc|2020-01-02 15:13:33|Denmark sourced nearly half its power from wind in 2019|https://electrek.co/2020/01/02/denmark-sourced-nearly-half-its-power-wind-2019/|Spinach_Feta_Wrap|False|https://redd.it/eizepc|32|0.9|0|1|0|europe
+ej8and|2020-01-03 01:57:29|"H.R. 1616 and European Energy Security | The Borgen Project"|https://borgenproject.org/european-energy-security/|AOShea19|False|https://redd.it/ej8and|4|1.0|0|0|0|europe
+ejhzwg|2020-01-03 16:46:43|Polish court orders official to apologize to judges for calling them ‘thieves’|https://www.neweurope.eu/article/polish-court-orders-official-to-apologize-to-judges-for-calling-them-thieves/|LaromTheDestroyer|False|https://redd.it/ejhzwg|0|0.41|0|2|0|europe
+ej6645|2020-01-02 23:18:05|Professor Koczanowicz: Law and Justice did not come from accident, but from democratic deficits. You have to remedy them|https://oko.press/prof-koczanowicz-pis-nie-wzial-sie-z-przypadku-ale-z-deficytow-demokracji-trzeba-im-zaradzic/|bm52oc|False|https://redd.it/ej6645|6|0.57|0|2|0|europe
+ej10mi|2020-01-02 17:16:32|Spain orders Bolivian diplomats to leave|https://www.neweurope.eu/article/spain-orders-bolivian-diplomats-to-leave/|LaromTheDestroyer|False|https://redd.it/ej10mi|19|0.84|0|3|0|europe
+eiylvk|2020-01-02 14:04:28|Belgian judge suspends warrant for Catalonia’s Puigdemont|https://www.washingtonpost.com/national/belgian-judge-suspends-warrant-for-catalonias-puigdemont/2020/01/02/cf49bfb2-2d65-11ea-bffe-020c88b3f120_story.html|NilFhiosAige|False|https://redd.it/eiylvk|26|0.73|0|7|0|europe
+eixew4|2020-01-02 12:02:26|Dutch city tells floating Georgian monastery to cast off|https://www.reuters.com/article/us-netherlands-georgia-monastery-boat-idUSKBN1YZ0PI?fbclid=IwAR12YGwAqjZ6-AzUoC7Ju4-9y9tzgtQ8mLVACsSOFoQmSjEOIQA6Zr-UOuU|LaromTheDestroyer|False|https://redd.it/eixew4|39|0.87|0|11|0|europe
+eiqbuv|2020-01-02 00:25:54|A huge 1:100 scale Minecraft-map of Europe i'm currently working on (40k x 40k blocks)|https://imgur.com/a/wBeO8Qh|RRyyas|False|https://redd.it/eiqbuv|304|0.93|0|67|0|europe
+ejka9k|2020-01-03 19:25:25|Veganism is a philosophical belief and is therefore protected by law, judge rules|https://www.telegraph.co.uk/news/2020/01/03/veganism-philosophical-belief-therefore-protected-law-judge/|Canadianman22|False|https://redd.it/ejka9k|0|0.4|0|7|0|europe
+eiyq7x|2020-01-02 14:15:12|How Russia and China Are Sowing Division and Gaining Influence in the Czech Republic|https://www.worldpoliticsreview.com/articles/28440/how-russia-and-china-are-sowing-division-and-gaining-influence-in-the-czech-republic|louisamarisa|False|https://redd.it/eiyq7x|24|0.63|0|3|0|europe
+eixstr|2020-01-02 12:44:40|"The psychologist behind the UK's main deradicalisation programme for terror offenders says it can never be certain that attackers have been ""cured""."|https://www.bbc.co.uk/news/uk-50967100|gsurfer04|False|https://redd.it/eixstr|27|0.78|0|10|0|europe
+eizjgs|2020-01-02 15:24:12|China halts stock link on Britain’s political stance on Hong Kong protests|https://scmp.com/business/china-business/article/3044302/china-halts-shanghai-london-stock-link-britains-political|le_br1t|False|https://redd.it/eizjgs|16|0.75|0|6|0|europe
+ej6wmy|2020-01-03 00:11:33|Wanted: Weirdos and misfits - aide to UK's Johnson is hiring|https://www.reuters.com/article/us-britain-politics-idUSKBN1Z11IC|gsurfer04|False|https://redd.it/ej6wmy|2|0.53|0|4|0|europe
+eiwmsz|2020-01-02 10:30:06|ITAP of a cathedral in Prague|https://i.redd.it/hu12pv8pec841.jpg|novembermirrors|False|https://redd.it/eiwmsz|37|0.84|0|4|0|europe
+ej0c1s|2020-01-02 16:26:09|'It was a dump': locals and ecologists clash over future of Spanish island resort|https://www.theguardian.com/world/2020/jan/02/isla-de-valdecanas-locals-ecologists-clash-over-future-of-spanish-island-resort|casualphilosopher1|False|https://redd.it/ej0c1s|11|0.81|0|0|0|europe
+ejb2jj|2020-01-03 05:45:21|Thousands of far-right Ukrainians honour Nazi-linked nationalist Stepan Bandera in march through Kyiv|https://www.itv.com/news/2020-01-01/thousands-of-far-right-ukrainians-honour-nazi-linked-nationalist-stepan-bandera-in-march-through-kyiv/|greedeer|False|https://redd.it/ejb2jj|0|0.51|0|17|0|europe
+eiyuvi|2020-01-02 14:26:58|Hendrix bridge, Zagreb, Croatia.|https://i.redd.it/8131ln2xkd841.jpg|zztopfila|False|https://redd.it/eiyuvi|18|0.71|0|12|0|europe
+ej4o0g|2020-01-02 21:32:21|A Head-Scarf Ban and Carbon Taxes: Austria’s Kurz to Govern With Green Party in Unlikely Partnership|https://www.nytimes.com/2020/01/02/world/europe/austria-kurz-greens-coalition-government.html|ploflo|False|https://redd.it/ej4o0g|5|0.57|0|2|0|europe
+eizz1k|2020-01-02 15:58:26|Turkish MPs pass bill to send troops to support Libyan government|https://www.theguardian.com/world/2020/jan/02/turkish-parliament-to-vote-on-sending-troops-to-libya|ploflo|False|https://redd.it/eizz1k|12|0.7|0|3|0|europe
+eixb94|2020-01-02 11:50:40|2020 British Army Ads to target gen Z|https://i.redd.it/ciawkrsysc841.jpg|Bloke22|False|https://redd.it/eixb94|22|0.69|0|42|0|europe
+eiz2gn|2020-01-02 14:45:38|One Million Electric Volkswagens on the Roads by 2023 - EV Lens|https://evlens.com/ev-news/2020/01/one-million-electric-volkswagens-on-the-roads-by-2023|EvLens|False|https://redd.it/eiz2gn|13|0.73|0|12|0|europe
+ej415s|2020-01-02 20:48:34|Montenegro Opposition leader urges more protests over Religion law|https://balkaninsight.com/2019/12/31/montenegro-opposition-leader-urges-more-protests-over-religion-law/|Sideyon|False|https://redd.it/ej415s|5|0.55|0|0|0|europe
+ej09zv|2020-01-02 16:22:00|Can Merkel and Macron get Franco-German relations back on track?|https://www.theguardian.com/world/2020/jan/02/can-merkel-and-macron-get-franco-german-relations-back-on-track|casualphilosopher1|False|https://redd.it/ej09zv|8|0.61|0|11|0|europe
+ej1ish|2020-01-02 17:52:56|China reportedly suspends UK stock exchange link over politics|https://www.aljazeera.com/ajimpact/china-reportedly-suspends-uk-stock-exchange-link-politics-200102080234629.html|casualphilosopher1|False|https://redd.it/ej1ish|6|0.59|0|7|0|europe
+eihr2t|2020-01-01 12:12:21|Partition of Eastern Europe under the Molotov-Ribbentrop Pact|https://i.redd.it/p7tenz71s5841.jpg|yuropian|False|https://redd.it/eihr2t|1423|0.95|2|582|0|europe
+eijmxt|2020-01-01 15:45:06|Public saunas in Finland|https://i.redd.it/dkroqfjyt6841.jpg|Luutamo|False|https://redd.it/eijmxt|732|0.97|0|106|0|europe
+eiuxix|2020-01-02 07:04:53|Slide to compare: melting glaciers change the face of Switzerland|https://www.euronews.com/2019/12/02/before-and-after-see-how-swiss-glaciers-have-shrunk-dramatically-across-150-years?utm_medium=Social&utm_source=Facebook#Echobox=1577882853|lezazA|False|https://redd.it/eiuxix|44|0.82|0|4|0|europe
+eiyerr|2020-01-02 13:45:46|New statistics yearbook shines light on the good side of Poland|https://www.thefirstnews.com/article/happy-new-fact-new-statistics-yearbook-shines-light-on-the-good-side-of-poland-9543|westerbypl|False|https://redd.it/eiyerr|12|0.7|0|3|0|europe
+ejeu2c|2020-01-03 12:34:28|James Stavridis: Europe will rise above the rest of the world|https://www.irishexaminer.com/breakingnews/views/analysis/james-stavridis/james-stavridis-europe-will-rise-above-the-rest-of-the-world-973303.html|Los_ches|False|https://redd.it/ejeu2c|0|0.18|0|4|0|europe
+ej34um|2020-01-02 19:46:56|Poland continues decline in two international freedom rankings|https://notesfrompoland.com/2020/01/02/poland-continues-decline-in-two-international-freedom-rankings/|bm52oc|False|https://redd.it/ej34um|5|0.53|0|3|0|europe
+ejiczb|2020-01-03 17:12:11|Russia poses no physical threat to West, so who needs NATO?|https://www.theaustralian.com.au/commentary/russia-poses-no-physical-threat-to-west-so-who-needs-nato/news-story/42ea95e86b599036e7802f64cb5127ce|Sideyon|False|https://redd.it/ejiczb|0|0.34|0|28|0|europe
+eirfxq|2020-01-02 01:54:31|"EU Parliament President David Sassoli calls for EU accession talks with Northern Macedonia and Albania | NZZ (deepl)"|https://www.nzz.ch/international/eu-parlamentspraesident-david-sassoli-fordert-eu-beitrittsgespraeche-mit-nordmazedonien-und-albanien-ld.1531466|syoxsk|False|https://redd.it/eirfxq|66|0.88|0|37|0|europe
+eilo98|2020-01-01 18:28:33|Largest exporter to each country between the U.S, E.U, and China|https://imgur.com/4gs8byQ|le_br1t|False|https://redd.it/eilo98|234|0.93|0|80|0|europe
+eii19f|2020-01-01 12:50:42|Silvester is over, now please pick up your trash|https://i.imgur.com/YhGrpTm.jpg|Toxyl|False|https://redd.it/eii19f|638|0.95|0|114|0|europe
+ej3fnv|2020-01-02 20:07:41|The Future of Protest? Catalans outwit Spanish authorities with phone app|https://www.voanews.com/europe/future-protest-catalans-outwit-spanish-authorities-phone-app|Sideyon|False|https://redd.it/ej3fnv|1|0.51|0|3|0|europe
+eial97|2019-12-31 23:27:04|Happy New Year, fellow Europeans|https://i.redd.it/i51wtf5iz1841.jpg|A_9ine_year_old|False|https://redd.it/eial97|67823|0.87|2|963|0|europe
+eiojbm|2020-01-01 22:02:43|New Year's celebrations at the southern tip of Europe - Gibraltar|https://i.imgur.com/zkzkNSz.jpg|Marineray|False|https://redd.it/eiojbm|110|0.97|0|11|0|europe
+ejeziu|2020-01-03 12:49:06|Breakingviews - Greta Thunberg will clog EU budget-airline engines|https://www.reuters.com/article/us-europe-airlines-breakingviews/breakingviews-greta-thunberg-will-clog-eu-budget-airline-engines-idUSKBN1Z10MW|LaromTheDestroyer|False|https://redd.it/ejeziu|0|0.31|0|15|0|europe
+eik5v2|2020-01-01 16:30:35|On this day 13 years ago Romania and Bulgaria joined EU|https://en.wikipedia.org/wiki/2007_enlargement_of_the_European_Union|SSD-BalkanWarrior|False|https://redd.it/eik5v2|289|0.95|0|167|0|europe
+eip8by|2020-01-01 22:59:35|"Polish Jews took the floor regarding the words of Vladimir Putin about Poland. ""Scandalous manipulation"""|http://wiadomosci.gazeta.pl/wiadomosci/7,114881,25556644,polscy-zydzi-zabrali-glos-ws-slow-wladimira-putina-w-polsce.html|Tark4|False|https://redd.it/eip8by|84|0.79|0|17|0|europe
+eiwr2k|2020-01-02 10:44:23|France would 'not extradite' Ghosn if he landed in France|http://www.rfi.fr/en/france/20200102-france-would-not-extradite-ghosn-if-he-landed-france-minister?ref=tw|secure_caramel|False|https://redd.it/eiwr2k|8|0.67|0|11|0|europe
+eihvil|2020-01-01 12:29:39|On this day 80 years ago the Winter War raged on. But that didn't stop the Finns from posing for a New Year's Day picture.|https://i.imgur.com/A5xT6Nd.jpg|kashluk|False|https://redd.it/eihvil|512|0.93|0|38|0|europe
+eigbtd|2020-01-01 08:55:39|Happy new year from Finland! For me the beach season has not yet started, but my 12y old son went swimming.|https://i.redd.it/7vy7y3rxs4841.jpg|InnocentiusLacrimosa|False|https://redd.it/eigbtd|908|0.97|0|54|0|europe
+eir34m|2020-01-02 01:25:47|A photo gallery of Germany's 46 UNESCO World Heritage Sites|https://imgur.com/a/kTClLEy|Skyrunner1998|False|https://redd.it/eir34m|43|0.96|0|2|0|europe
+eipxgt|2020-01-01 23:53:10|[OC] Dawn (08:23) on New Year's Eve, Savica lakes, Croatia|https://i.redd.it/kjdyq61299841.jpg|Gandeloft|False|https://redd.it/eipxgt|50|0.88|0|6|0|europe
+eigzw3|2020-01-01 10:27:21|A Happy New Year - who else is watching?|https://i.redd.it/s4hcorr495841.jpg|Essiggurkerl|False|https://redd.it/eigzw3|562|0.91|0|60|0|europe
+einuy6|2020-01-01 21:11:30|Austria's conservatives, Greens agree to form govt|https://www.rte.ie/news/europe/2020/0101/1103896-austria-politics/|NilFhiosAige|False|https://redd.it/einuy6|73|0.93|0|56|0|europe
+eigmth|2020-01-01 09:37:53|PM2.5 Pollution on 1/1/20 at 1 a.m.|https://i.redd.it/enwb1tbh05841.jpg|Logan_ph5|False|https://redd.it/eigmth|614|0.96|0|146|0|europe
+ejdno2|2020-01-03 10:27:31|Lib Dem MP Layla Moran announces she is pansexual|https://www.bbc.co.uk/news/uk-50978997?ns_campaign=bbcnews&ns_source=twitter&ns_mchannel=social&ocid=socialflow_twitter|AKchesterton|False|https://redd.it/ejdno2|0|0.21|0|30|0|europe
+eij3k3|2020-01-01 14:53:32|Share of people reporting noise from neighbors or the street, 2018|https://i.redd.it/jni9hr6nk6841.png|Colors_Taste_Good|False|https://redd.it/eij3k3|205|0.95|0|71|0|europe
+eim2px|2020-01-01 18:58:59|Place of birth of Holy Roman Emperors|https://i.redd.it/a3o1j6az07841.png|MelodicBerries|False|https://redd.it/eim2px|95|0.9|0|41|0|europe
+eihqpw|2020-01-01 12:10:57|Germany: Fire kills all animals inside monkey sanctuary at Krefeld Zoo|https://news.sky.com/story/germany-fire-kills-all-animals-inside-monkey-house-at-krefeld-zoo-11898973|SahasrahIa|False|https://redd.it/eihqpw|289|0.96|0|130|0|europe
+eij0hd|2020-01-01 14:44:50|Novi Sad, Serbia, New Year 2020|https://i.redd.it/tsoplkh8j6841.jpg|BlackJackGG|False|https://redd.it/eij0hd|160|0.89|0|4|0|europe
+eikmat|2020-01-01 17:07:39|Chiesa di San Giovanni Battista dei Fiorentini, Roma, me, watercolor, 42x56cm|https://i.redd.it/kbny7d2p87841.jpg|majozaur|False|https://redd.it/eikmat|100|0.97|0|0|0|europe
+eiqvk2|2020-01-02 01:08:46|Austria conservatives agree coalition with Greens - BBC News|https://www.bbc.com/news/world-europe-50969001|Spinach_Feta_Wrap|False|https://redd.it/eiqvk2|22|0.82|0|3|0|europe
+ej1boe|2020-01-02 17:38:47|Geirangerfjord & The Atlantic Road - INCREDIBLY SCENIC!!!|https://www.youtube.com/watch?v=D6fS707bN5Q|grrwahrr|False|https://redd.it/ej1boe|0|0.58|0|1|0|europe
+eijxv7|2020-01-01 16:11:48|President of Portugal taking his first bath of the year on Corvo Island (Azores, Portugal)|https://i.redd.it/r1lrqthqy6841.jpg|jet1000|False|https://redd.it/eijxv7|107|0.9|0|6|0|europe
+eiidzr|2020-01-01 13:35:01|"The first act of 2020 in Norway, was to change the counties. One of the new counties is named ""Viken"", creating 1.2M ""Vikings"". Norway just entered the 2nd Viking age."|https://en.wikipedia.org/wiki/Viken_(county)|MarlinMr|False|https://redd.it/eiidzr|158|0.91|0|44|0|europe
+eiin6o|2020-01-01 14:05:07|Happy New Year from Seville, Spain|https://i.redd.it/q6kzi9j5c6841.jpg|AnaS795|False|https://redd.it/eiin6o|144|0.96|0|4|0|europe
+ein06w|2020-01-01 20:07:32|There were nine: In 1959 a group of students set out on a trek into the Ural Mountains. Their frozen bodies - with inexplicable injuries - were discovered in locations that compounded the puzzle of how they died. The Dyatlov Pass mystery spawned many conspiracy theories.|https://www.bbc.co.uk/news/extra/SoLiOdJyCK/mystery_of_dyatlov_pass|boemul|False|https://redd.it/ein06w|43|0.84|0|22|0|europe
+eilp4g|2020-01-01 18:30:22|It’s compulsory to wear reflectors in Estonia so people hang them on trees for anyone to take|https://youtu.be/N0cnNEqOH4Y|EstonianSaunas|False|https://redd.it/eilp4g|57|0.93|0|20|0|europe
+einntt|2020-01-01 20:57:04|Airbus beats 2019 deliveries goal|https://mobile-reuters-com.cdn.ampproject.org/v/s/mobile.reuters.com/article/amp/idUSKBN1Z01Q8?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#aoh=15779118548174&referrer=https%3A%2F%2Fwww.google.com&amp_tf=De%20%251%24s&ampshare=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-airbus-deliveries-exclusive-idUSKBN1Z01Q8|Kkbelos|False|https://redd.it/einntt|39|0.83|0|4|0|europe
+ej32vk|2020-01-02 19:43:16|The EU's evolution into a civilisation state : Huntington’s disease and the clash of civilisation-states|https://www.economist.com/europe/2020/01/04/huntingtons-disease-and-the-clash-of-civilisation-states|le_br1t|False|https://redd.it/ej32vk|0|0.46|0|16|0|europe
+eia0x5|2019-12-31 22:41:24|Bar graph that's only accurate for 19 minutes after posting|https://i.redd.it/sabnaojtq1841.png|Datenegassie|False|https://redd.it/eia0x5|1922|0.97|0|56|0|europe
+eij6n8|2020-01-01 15:02:06|First sunset of the new decade in Bærum, Norway|https://i.redd.it/sfpmesjbm6841.jpg|Pippen-Weens|False|https://redd.it/eij6n8|87|0.93|0|4|0|europe
+eigsmb|2020-01-01 10:00:08|Renewable electricity production in Germany increased to 46% in 2019, coal is down to 29%|https://energy-charts.de/energy_pie.htm|linknewtab|False|https://redd.it/eigsmb|201|0.92|0|105|0|europe
+eih0ja|2020-01-01 10:30:01|City Łódź, Poland. Uses drones instead of fireworks|https://youtu.be/GROZM9GFAYc|bisfhcrew|False|https://redd.it/eih0ja|149|0.94|0|20|0|europe
+eipkh6|2020-01-01 23:24:46|Youths hurl punches, anti-Semitic slurs in Venice attack|https://abcnews.go.com/International/wireStory/youths-hurl-punches-anti-semitic-slurs-venice-attack-68020126|NineteenSkylines|False|https://redd.it/eipkh6|13|0.73|0|5|0|europe
+eitzt4|2020-01-02 05:31:48|2019 in Review: The Global Economy Explained in 5 Charts|https://blogs.imf.org/2019/12/18/2019-in-review-the-global-economy-explained-in-5-charts/|JackRogers3|False|https://redd.it/eitzt4|3|0.6|0|1|0|europe
+ej3t25|2020-01-02 20:33:24|Statement of the Spokesperson of the Ministry of Foreign Affairs, Mr. Hami Aksoy, in Response to a Question Regarding the Signature of the Agreement on the EastMed Project|http://www.mfa.gov.tr/sc_-1_-eastmed-projesine-ili%C5%9Fkin-anlasmanin-imzalanmasi-hk-sc.en.mfa|le_br1t|False|https://redd.it/ej3t25|0|0.37|0|2|0|europe
+eiiykj|2020-01-01 14:39:05|South Harbour in Helsinki today|https://i.redd.it/vq0mzfd5i6841.jpg|Jormakalevi|False|https://redd.it/eiiykj|60|0.87|0|5|0|europe
+eihl7p|2020-01-01 11:50:24|Pope Francis slaps pilgrim's hand after she yanks his arm|https://www.bbc.com/news/av/world-europe-50964548/pope-francis-slaps-pilgrim-s-hand-after-she-yanks-his-arm|georgepordgie|False|https://redd.it/eihl7p|98|0.89|0|83|0|europe
+eiodtn|2020-01-01 21:51:12|Dance of the bear - Romanian traditions|https://imgur.com/a/mwi3Tyo/|janc24|False|https://redd.it/eiodtn|15|0.75|0|2|0|europe
+eiitnh|2020-01-01 14:24:36|Happy New Year from Bieszczady, Poland!|https://i.redd.it/62ooynalf6841.png|lenobiaa|False|https://redd.it/eiitnh|54|0.88|0|5|0|europe
+eiluc6|2020-01-01 18:41:15|Pride parades in Poland over the years|https://www.wykop.pl/cdn/c3201142/comment_O4pjKcBUkWuNystbYsi3PfubfjZe7Ijv.jpg|x0ZK0x|False|https://redd.it/eiluc6|23|0.6|0|19|0|europe
+eikazd|2020-01-01 16:42:35|493+ppm of Carbon Dioxide in Germany, minimal wind. Normal levels are around 400-420, colors in most of Poland (comparison) represent around 420-440. Source: earth.nullschool.net|https://i.redd.it/5b850sx847841.png|Gizmo_Autismo|False|https://redd.it/eikazd|33|0.82|0|24|0|europe
+eik6g3|2020-01-01 16:31:52|Madrid, first sunset of the decade|https://i.redd.it/2svohw4c27841.jpg|elviajedelmapache|False|https://redd.it/eik6g3|34|0.81|0|9|0|europe
+eij0a8|2020-01-01 14:44:16|Two rivaling Sweden's Ferries today in Helsinki|https://i.redd.it/xdxq3n01j6841.jpg|Jormakalevi|False|https://redd.it/eij0a8|43|0.81|0|4|0|europe
+eih4bv|2020-01-01 10:45:00|More UK energy is coming from clean sources than fossil fuels for the first time ever|https://www.independent.co.uk/environment/clean-energy-fossil-fuels-national-grid-2019-statistics-latest-a9266116.html|Wagamaga|False|https://redd.it/eih4bv|87|0.9|0|47|0|europe
+ei1cs2|2019-12-31 10:45:03|Support for the EU's single currency, the Euro|https://i.redd.it/dfaxc5ii7y741.png|le_br1t|False|https://redd.it/ei1cs2|18096|0.92|0|1777|0|europe
+eikfk1|2020-01-01 16:53:04|"Istanbul Canal: Erdogan's dream, Istanbul's nightmare | Erdogan wants to create a second Bosporus. The cost to the economy and environment would be enormous."|https://www.dw.com/en/istanbul-canal-erdogans-dream-istanbuls-nightmare/a-51849822|casualphilosopher1|False|https://redd.it/eikfk1|26|0.72|0|32|0|europe
+eiunl4|2020-01-02 06:35:42|Pope Francis Slaps Woman's Hand After She Grabbed Him|https://www.youtube.com/watch?v=QR2-UWwWkFw&feature=share|Bullahisthebest|False|https://redd.it/eiunl4|2|0.52|0|10|0|europe
+eikorz|2020-01-01 17:13:08|Happy New Year 2020 from Croatia!|https://v.redd.it/ym73uv5ry1841|shoowack|False|https://redd.it/eikorz|25|0.77|0|2|0|europe
+eioi9f|2020-01-01 22:00:40|Terror suspect Lisa Smith pictured in public following bail release|https://m.independent.ie/irish-news/terror-suspect-lisa-smith-pictured-in-public-following-bail-release-38826621.html|RainItIn|False|https://redd.it/eioi9f|8|0.73|0|17|0|europe

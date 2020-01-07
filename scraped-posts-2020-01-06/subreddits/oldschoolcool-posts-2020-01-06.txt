@@ -1,0 +1,515 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+ekvo5k|2020-01-06 15:36:02|The Red Hot Chili Peppers c. 1986|https://i.redd.it/ceoq3u4xg6941.jpg|PansyFine|False|https://redd.it/ekvo5k|6666|0.96|0|296|0|oldschoolcool
+ekw3ov|2020-01-06 16:08:31|Atlantic City, New Jersey - 1940s|https://i.redd.it/zoods96pm6941.jpg|sayknow|False|https://redd.it/ekw3ov|263|0.96|0|9|0|oldschoolcool
+eklmk8|2020-01-06 00:17:50|Bruce Campbell testing out some practical effects for the Comedy/Horror film Army of Darkness, 1992|https://i.imgur.com/9d4YYDR.jpg|Scaulbylausis|False|https://redd.it/eklmk8|4030|0.99|0|82|0|oldschoolcool
+ekhm59|2020-01-05 19:21:50|My wife’s grandpa taking a selfie (date unknown, most likely 60’s or 70’s)|https://i.imgur.com/oLau0Hx.jpg|BandDirectorGuy|False|https://redd.it/ekhm59|24188|0.96|1|339|0|oldschoolcool
+eknxll|2020-01-06 03:15:47|Winnie the welder who helped build ships during WWII, 1943|https://i.redd.it/qghlqw5vs2941.jpg|JustineKeyblade|False|https://redd.it/eknxll|1876|0.97|0|70|0|oldschoolcool
+eku1db|2020-01-06 13:17:59|KISS walking around New York City, 1976.|https://i.redd.it/5qvoacaas5941.jpg|HellsJuggernaut|False|https://redd.it/eku1db|249|0.89|0|42|0|oldschoolcool
+ekvef2|2020-01-06 15:15:01|Helen Williams, the first African American fashion model (1950s)|https://i.redd.it/exy7nbi6d6941.jpg|IMAKILL3R|False|https://redd.it/ekvef2|159|0.97|0|3|0|oldschoolcool
+ekstbv|2020-01-06 11:18:19|[1990s] Here's my mum when she was training to be a Royal Navy medic. Tbh I think that's pretty cool|https://i.redd.it/asjsgaby65941.jpg|Alluhsnackbar911|False|https://redd.it/ekstbv|250|0.92|0|8|0|oldschoolcool
+ekmjxg|2020-01-06 01:27:35|Ute warrior and his dog - Wasatch Mountains, Utah, 1873.|https://i.redd.it/7dyfqp8k92941.jpg|starrfishandcoffee|False|https://redd.it/ekmjxg|1545|0.99|0|29|0|oldschoolcool
+ekjdj6|2020-01-05 21:33:00|Picture of my grandma that my grandpa kept in his wallet, 1940’s|https://i.redd.it/3mqmbt2p31941.jpg|RedQueen91|False|https://redd.it/ekjdj6|3152|0.98|0|56|0|oldschoolcool
+ekpdem|2020-01-06 05:19:05|Martial artist/actor Jim Kelly with actress Gloria Hendry looking cooler than the other side of the pillow in 1974.|https://i.redd.it/yziidh4ve3941.jpg|act1989|False|https://redd.it/ekpdem|631|0.97|0|15|0|oldschoolcool
+ekij5c|2020-01-05 20:24:58|Two guys reading Mad Magazine, 1967|https://i.redd.it/6lfgyaohr0941.png|Frptwenty|False|https://redd.it/ekij5c|3394|0.98|0|56|0|oldschoolcool
+ekugrc|2020-01-06 13:57:28|Evelyn Nesbit 1901|https://i.redd.it/cd82z1p9z5941.jpg|Kelly365|False|https://redd.it/ekugrc|117|0.98|0|10|0|oldschoolcool
+ekjxip|2020-01-05 22:16:52|Audrey Hepburn, 1958.|https://i.redd.it/px0p79jib1941.jpg|StatusItem17|False|https://redd.it/ekjxip|1909|0.97|0|38|0|oldschoolcool
+ekw6kr|2020-01-06 16:14:31|Female British military mechanic fixes a jeep motor, 1945. She would later get promoted.|https://i.redd.it/quazte6qn6941.jpg|Frptwenty|False|https://redd.it/ekw6kr|67|0.91|0|12|0|oldschoolcool
+ekxdaj|2020-01-06 17:39:47|Steve McQueen, Sharon Tate and Roman Polanski party in 1969.|https://i.redd.it/pcyxbfwr27941.jpg|sky0p|False|https://redd.it/ekxdaj|47|0.9|0|10|0|oldschoolcool
+ekx1d1|2020-01-06 17:15:46|Young Sir Ian McKellen in his motorcycle and rocking that awesome stache - 1969|https://i.redd.it/uaw7up8py6941.jpg|sickfloydboy|False|https://redd.it/ekx1d1|52|0.92|0|13|0|oldschoolcool
+ekvha3|2020-01-06 15:21:11|George Silk of the Royal Australian Air Force, feeding a young Joey in 1943.|https://i.redd.it/dyz6lfbae6941.jpg|GerbilTea|False|https://redd.it/ekvha3|54|0.9|0|0|0|oldschoolcool
+eklc23|2020-01-05 23:55:54|My great grandfathers ww1 certificate|https://i.redd.it/i0e0m186t1941.jpg|urmumjefff69|False|https://redd.it/eklc23|823|0.99|0|28|0|oldschoolcool
+ekxb01|2020-01-06 17:35:09|My nan when she was 18 in a green peplum dress she made herself, 1947|https://i.redd.it/wxkrqar527941.jpg|60022151|False|https://redd.it/ekxb01|33|0.94|0|0|0|oldschoolcool
+ekkvyg|2020-01-05 23:23:37|Dead Kennedys 1980|https://i.redd.it/9b8135ifn1941.jpg|DrewCarey420|False|https://redd.it/ekkvyg|847|0.97|0|47|0|oldschoolcool
+ekxmdf|2020-01-06 17:58:11|Dee Dee Ramone on the balcony of the Chelsea Hotel, 90's|https://i.redd.it/6mvthib737941.jpg|stereoscopic_|False|https://redd.it/ekxmdf|27|0.9|0|4|0|oldschoolcool
+eks0bd|2020-01-06 09:52:14|Tupac mother and former black panther, Afeni Shakur. (Circa 1970)|https://i.redd.it/oxa0w4hlr4941.jpg|SwishBishhh|False|https://redd.it/eks0bd|106|0.85|0|3|0|oldschoolcool
+ekt9y2|2020-01-06 12:05:28|Dolly Parton And Friend In The 1970|https://i.redd.it/oh7gvhzaf5941.jpg|Juli333|False|https://redd.it/ekt9y2|64|0.89|0|2|0|oldschoolcool
+ekqk9q|2020-01-06 07:14:29|The Queen of England and her husband at the horse races in 1968|https://i.redd.it/5oph7i7fz3941.jpg|RosarioBaratta|False|https://redd.it/ekqk9q|150|0.92|0|22|0|oldschoolcool
+ekkjxe|2020-01-05 23:00:10|My great-grandmother. We think around 1920|https://i.redd.it/drl5hjg9j1941.jpg|sturtze|False|https://redd.it/ekkjxe|609|0.97|0|15|0|oldschoolcool
+ekd0cy|2020-01-05 13:28:47|Guardian Angels on the NYC subway, 1980|https://i.redd.it/woanuzwapy841.jpg|HellsJuggernaut|False|https://redd.it/ekd0cy|3758|0.95|0|223|0|oldschoolcool
+ekwl6u|2020-01-06 16:44:33|My Yia-Yia in France working as a secretary for the CIA circa 1954|https://i.redd.it/ffp8ig24t6941.jpg|Grantl74|False|https://redd.it/ekwl6u|22|0.89|0|1|0|oldschoolcool
+eku1pe|2020-01-06 13:18:50|Here is another, this is my great nana and same grandad from my post a couple of days ago, photo taken in 1942.|https://i.redd.it/5abxfkufs5941.jpg|Devuda89|False|https://redd.it/eku1pe|38|0.88|0|2|0|oldschoolcool
+ekre3a|2020-01-06 08:43:42|Ernie Small stands next to his federally owned crop of cannabis hidden among corn in Ottawa's Central Experimental Farm in 1971. He grew hundreds of plants on the farm, some as high as 18'. He was given the Order of Canada in December 2017 for his studies.|https://i.redd.it/j2lnwtlzd4941.jpg|gjgary|False|https://redd.it/ekre3a|83|0.98|0|0|0|oldschoolcool
+ekwem2|2020-01-06 16:31:16|Happy Birthday to Syd Barrett, musical legend and founding member of Pink Floyd. Here he is playing his iconic Fender Esquire in 1967.|https://i.redd.it/tjn7o4caq6941.jpg|graceinspace981|False|https://redd.it/ekwem2|20|0.85|0|2|0|oldschoolcool
+eks3q1|2020-01-06 10:02:55|Jackie Stewarts version of a GoPro, 1966|https://i.redd.it/rppuwe2it4941.jpg|still-at-the-beach|False|https://redd.it/eks3q1|65|0.9|0|7|0|oldschoolcool
+ekyfm2|2020-01-06 18:55:47|April 27, 1967: a protestor at the Harlem Peace March to End Racial Oppression. Photograph courtesy of Builder Levy.|https://cdn.historycollection.co/wp-content/uploads/2017/12/No-Vietnamese-sign-.jpg|willflameboy|False|https://redd.it/ekyfm2|11|0.87|0|2|0|oldschoolcool
+eknziw|2020-01-06 03:20:03|At the sixth annual Gay Pride Day march, June 29, 1975.|https://i.redd.it/k01bx9lmt2941.jpg|act1989|False|https://redd.it/eknziw|192|0.84|1|15|0|oldschoolcool
+ekqj29|2020-01-06 07:11:11|Helena Vlahos performing her Nine Quarters belly dance act, 1979. Today she can be found in the Guinness Book of Records for Unique Abdominal Dexterity|https://v.redd.it/97r9zggry3941|Lowcrbnaman|False|https://redd.it/ekqj29|89|0.95|0|3|0|oldschoolcool
+ekwxdi|2020-01-06 17:08:01|Johnny Cash at London's Savoy Hotel. Sept. 17, 1959.|https://i.redd.it/1s2t5226x6941.jpg|sisyphushaditsoeasy|False|https://redd.it/ekwxdi|15|0.86|0|0|0|oldschoolcool
+ekrfgd|2020-01-06 08:47:52|The Rock and Mankind playing some Nintendo 64 backstage [1999]|https://i.redd.it/e5ckbun2g4941.png|-APPEAL-|False|https://redd.it/ekrfgd|58|0.94|0|2|0|oldschoolcool
+ekyklq|2020-01-06 19:05:38|Gordon Ramsay being trained by Marco Pierre White, 1980's.|https://i.redd.it/3iajcekbi7941.jpg|TacoPvP|False|https://redd.it/ekyklq|8|0.91|0|0|0|oldschoolcool
+ekyeb4|2020-01-06 18:53:09|My grandparents, 1960's|https://i.imgur.com/MA55zoL.jpg|awaKen27|False|https://redd.it/ekyeb4|10|1.0|0|2|0|oldschoolcool
+ekv8wu|2020-01-06 15:03:16|My delightfully devilish, great great grandpapa (1900'ish)|https://i.redd.it/5ex3p593b6941.jpg|Ds-dana|False|https://redd.it/ekv8wu|18|0.89|0|2|0|oldschoolcool
+ekvcm4|2020-01-06 15:11:15|Evelyn Nesbit (1884-1967)|https://i.redd.it/cuhuhe0gc6941.jpg|SmoothRice|False|https://redd.it/ekvcm4|17|0.74|0|3|0|oldschoolcool
+ekw5u5|2020-01-06 16:12:57|My Dad’s 30th Birthday back in the 90s.|https://i.redd.it/3q76jfnin6941.jpg|SchmidtytheKid|False|https://redd.it/ekw5u5|13|0.9|0|4|0|oldschoolcool
+ekym7w|2020-01-06 19:08:57|Berlin, Fall of the third reich. c. 1945|https://i.imgur.com/tsd7wRP.jpg|brat_is_back|False|https://redd.it/ekym7w|10|1.0|0|0|0|oldschoolcool
+ekpsof|2020-01-06 05:59:47|My grandmother posing in my grandfather's military uniform sometime in the 1950's.|https://i.redd.it/x402tym4m3941.jpg|AnnieHud|False|https://redd.it/ekpsof|84|0.96|0|12|0|oldschoolcool
+ekwjzm|2020-01-06 16:42:14|Captain Frederick Kopper, Jr in front of the White House in Washington, D.C. 1922. - [Library of Congress photo]|https://i.redd.it/gkwjyolos6941.jpg|rdm55|False|https://redd.it/ekwjzm|12|0.84|0|0|0|oldschoolcool
+ekhc6k|2020-01-05 19:02:39|A shot of my great grandfather from sometime in the very early 1900s|https://i.redd.it/y7na41yvc0941.jpg|ali_h99|False|https://redd.it/ekhc6k|511|0.96|0|11|0|oldschoolcool
+ekttij|2020-01-06 12:57:25|Antarctic explorers Will Steger and Jean-Louis Etienne, 1989|https://i.redd.it/zv9pz2vmo5941.jpg|stuttgart_flugart|False|https://redd.it/ekttij|17|0.91|0|0|0|oldschoolcool
+ekosm2|2020-01-06 04:28:05|Two unknown cigarette girls in Tallahassee, FL - 1956|https://i.redd.it/yzt59mer53941.jpg|mtravisrose|False|https://redd.it/ekosm2|82|0.97|0|7|0|oldschoolcool
+ekqexd|2020-01-06 06:59:41|The Three Stooges out of Character, 1930's|https://i.redd.it/gqznl8atw3941.jpg|DaffyDuckOnLSD|False|https://redd.it/ekqexd|53|0.9|0|10|0|oldschoolcool
+ekq3ny|2020-01-06 06:28:36|Powerful Māori - June 1941|https://i.redd.it/1a6bgzmfa1941.jpg|bcadam|False|https://redd.it/ekq3ny|57|0.91|0|6|0|oldschoolcool
+ekvary|2020-01-06 15:07:23|My grandpa meeting Omar Bradley 1960s|https://i.redd.it/cys3pmhtb6941.jpg|annagora|False|https://redd.it/ekvary|10|0.89|0|2|0|oldschoolcool
+eku00x|2020-01-06 13:14:26|The Edwardian era is the period between 1901 and 1910|https://i.redd.it/5u1sth8hr5941.jpg|JohnWalkar|False|https://redd.it/eku00x|15|0.82|0|2|0|oldschoolcool
+ekqsf3|2020-01-06 07:38:50|Paul Walker and daughter Meadow, 1990s|https://i.redd.it/m8d1slqs34941.jpg|babydoll17448|False|https://redd.it/ekqsf3|41|0.75|0|11|0|oldschoolcool
+ekwd85|2020-01-06 16:28:27|Valentina Tereshkova. June 1964.|https://i.redd.it/5k31alcaq6941.jpg|Dhorlin|False|https://redd.it/ekwd85|7|0.79|0|0|0|oldschoolcool
+ekyf3p|2020-01-06 18:54:47|Elvis’s movie poster (1968). “Live a little Love a little”.|https://i.imgur.com/mdFqS1k.jpg|brat_is_back|False|https://redd.it/ekyf3p|5|1.0|0|0|0|oldschoolcool
+ekv9yw|2020-01-06 15:05:40|Evelyn Nesbit (1884-1967)|https://i.redd.it/626mnylhb6941.jpg|Juli333|False|https://redd.it/ekv9yw|11|0.68|0|1|0|oldschoolcool
+ekovny|2020-01-06 04:35:41|My paternal grandparents just married after my grandfathers return from a tour of 44 missions as a tail gunner in a B-26 out of North Africa. I believe this is sometime in 1944.|https://i.redd.it/fcobkcc473941.jpg|Pdxtechnical44|False|https://redd.it/ekovny|63|0.95|0|5|0|oldschoolcool
+ekhihh|2020-01-05 19:14:36|Leonardo DiCaprio, Johnny Depp, Brad Pitt, 1996|https://i.redd.it/kdospkc0f0941.jpg|mossycaelus|False|https://redd.it/ekhihh|336|0.85|0|21|0|oldschoolcool
+ekta7w|2020-01-06 12:06:10|Kraków in the 1980s|https://i.redd.it/22zu0r2430941.jpg|HunterekPeElek|False|https://redd.it/ekta7w|16|0.91|0|3|0|oldschoolcool
+ektpgj|2020-01-06 12:46:42|Gertrude Stein sitting on a sofa in her Paris studio, with a portrait of her by Pablo Picasso, and other modern art paintings hanging on the wall behind her (1930)|https://i.redd.it/a86qt06lm5941.jpg|thelinearcurve|False|https://redd.it/ektpgj|11|0.84|0|0|0|oldschoolcool
+ektxpg|2020-01-06 13:08:23|My granny in the 50’s...|https://i.redd.it/8w6ulrmkq5941.jpg|Kkh1973|False|https://redd.it/ektxpg|12|0.83|0|3|0|oldschoolcool
+ekpj1e|2020-01-06 05:33:46|Bela Lugosi and the cast of Dracula read the Bram Stoker novel for a promo picture in 1931.|https://i.redd.it/x5f5pbuch3941.jpg|Alex_Sylvian|False|https://redd.it/ekpj1e|47|0.95|0|2|0|oldschoolcool
+ekq8ny|2020-01-06 06:42:21|1983: Harrison Ford, dapper as hell, between takes on INDIANA JONES AND THE TEMPLE OF DOOM.|https://i.redd.it/qxs7fexpt3941.jpg|act1989|False|https://redd.it/ekq8ny|35|0.93|0|0|0|oldschoolcool
+ektmye|2020-01-06 12:40:06|Panama City, FL, 1962. My siblings and I showing off our bling from a swim meet.|https://i.imgur.com/1eC0mq2.jpg|Umanday|False|https://redd.it/ektmye|10|0.94|0|1|0|oldschoolcool
+ekvamb|2020-01-06 15:07:04|First Lady Patricia Nixon with surfer in Southern California. 1971.|https://i.redd.it/vw1yls1qb6941.png|sisyphushaditsoeasy|False|https://redd.it/ekvamb|8|0.77|0|0|0|oldschoolcool
+eksdga|2020-01-06 10:32:09|Robert Plant and Brian May performing Crazy Little Thing Called Love at the Freddie Mercury Tribute Concert for AIDS Awareness on Monday April 20th 1992.|https://i.redd.it/oiwivuwpy4941.jpg|Jim_and_sixes|False|https://redd.it/eksdga|16|0.87|0|0|0|oldschoolcool
+ekf2np|2020-01-05 16:22:28|Jamie Lee Curtis and her mom, actress Janet Leigh - Studio 54, 1970s.|https://i.redd.it/3fpzvvp3kz841.jpg|kinjinsan|False|https://redd.it/ekf2np|448|0.97|0|48|0|oldschoolcool
+ekdw8z|2020-01-05 14:50:10|Atlanta’s first black police officers 1948|https://i.redd.it/p1hjg68u3z841.jpg|Jneebs|False|https://redd.it/ekdw8z|579|0.97|0|17|0|oldschoolcool
+ekx75w|2020-01-06 17:27:27|Siblings and I gave my Mom a few old pictures we found of her and her parents for Christmas. 1947-1960|https://imgur.com/a/AJDkDuf|IseeNekidPeople|False|https://redd.it/ekx75w|5|0.84|0|1|0|oldschoolcool
+ekfpci|2020-01-05 17:07:42|My mom playing Pong or Breakout Christmas 1977. We were ‘high tech’ for a family in the 70s.|https://i.redd.it/7nl5x4idsz841.jpg|awlivjoos|False|https://redd.it/ekfpci|288|0.98|0|13|0|oldschoolcool
+eko4bl|2020-01-06 03:30:56|My Grammie as a 5 year old girl with her brothers and my great grandparents in 1948|https://imgur.com/KKuDrmm|nosoliciting|False|https://redd.it/eko4bl|41|0.95|0|2|0|oldschoolcool
+eklsul|2020-01-06 00:30:48|My grandpa Orrie (right), great-Uncle George (left) and unnamed wrestler circa 1940s. Grandpa almost made it to the Olympics!|https://i.redd.it/bh6f8fffz1941.jpg|ShortcakeAKB|False|https://redd.it/eklsul|73|0.93|0|15|0|oldschoolcool
+ekkx0b|2020-01-05 23:25:44|My dad learning to skateboard, 1968|https://i.redd.it/5w8aeqotn1941.jpg|Thread_the_marigolds|False|https://redd.it/ekkx0b|83|0.98|0|5|0|oldschoolcool
+ekpu3g|2020-01-06 06:03:15|My mom living the 70s farm girl life. (The plank was my grandpa’s solution to my grandma requesting a walkway so the house wouldn’t get so muddy lol)|https://i.redd.it/j4cmkm2qm3941.jpg|wholesome_heresy|False|https://redd.it/ekpu3g|23|0.97|0|8|0|oldschoolcool
+eku0am|2020-01-06 13:15:05|Egon Spuris - In riga's 19th and 20th centuries proletarian districts (1968)|https://i.redd.it/0md4rzmrr5941.jpg|JanosValuskaCTE|False|https://redd.it/eku0am|5|0.88|0|0|0|oldschoolcool
+ekptha|2020-01-06 06:01:40|A picture of my grandfather from the late 50’s|https://i.redd.it/9xucnofgm3941.jpg|xniuq|False|https://redd.it/ekptha|21|0.87|0|3|0|oldschoolcool
+ekmqdq|2020-01-06 01:41:15|Lance Henriksen, Michael Biehn and Bill Paxton celebrating Louise Head’s (Carrie Henn’s stunt double) birthday on the set of Aliens, 1986|https://i.redd.it/jijygptyb2941.jpg|Alex_Sylvian|False|https://redd.it/ekmqdq|48|0.94|0|1|0|oldschoolcool
+ek6r9o|2020-01-05 02:38:29|My husband and son in West Germany. 1981|https://i.redd.it/9abqk5oahv841.jpg|Teejhae|False|https://redd.it/ek6r9o|3395|0.97|0|63|0|oldschoolcool
+eksiap|2020-01-06 10:46:39|The beautiful sisters from the early 1900s. ( between 1910. and 1920. )|https://i.redd.it/dbnv2kp705941.jpg|Detra-|False|https://redd.it/eksiap|8|0.75|0|4|0|oldschoolcool
+ekpa1s|2020-01-06 05:10:45|Grandpa taking a selfie in 1955. He’s still taking them 65 years later.|https://i.redd.it/w3vvjx9dd3941.jpg|LadybirdTheCat|False|https://redd.it/ekpa1s|22|1.0|0|3|0|oldschoolcool
+ekqpui|2020-01-06 07:30:56|Roma boy in bear costume, part of entertainer team for working christmas crowds in Budapest, Hungary 1960|https://i.redd.it/x196hfzd24941.jpg|REVBOOGIE|False|https://redd.it/ekqpui|14|0.85|0|2|0|oldschoolcool
+ekvawm|2020-01-06 15:07:40|Grand master in the old days around the 60s or 70s|https://i.redd.it/j17a0t8vb6941.jpg|JhonArbuckle|False|https://redd.it/ekvawm|4|0.67|0|1|0|oldschoolcool
+ekn5yq|2020-01-06 02:15:13|Marilyn Monroe 1948|https://i.redd.it/tl903hyoh2941.jpg|covertredditaddict|False|https://redd.it/ekn5yq|34|0.9|0|0|0|oldschoolcool
+ekmink|2020-01-06 01:24:41|Meg Moorat (aka Miss Mercury); A WVS motorcycle messenger in London during the war, riding a Triumph Twin in the streets of Whitehall, 1941|https://i.redd.it/0ewn37n192941.jpg|Kid_Fla5h|False|https://redd.it/ekmink|35|0.92|0|2|0|oldschoolcool
+ekipxi|2020-01-05 20:38:23|Sylvester Stallone and his Ferrari F40 circa 1987|https://i.redd.it/lqqgs1w7t0941.jpg|WyldeCutter|False|https://redd.it/ekipxi|86|0.9|0|4|0|oldschoolcool
+ekgqiv|2020-01-05 18:20:09|Aeroplane struck by lightning, she fell 2 miles strapped to her seat and survived in 1971.|https://i.redd.it/lmfhnfna50941.jpg|scouser7796|False|https://redd.it/ekgqiv|129|0.95|0|7|0|oldschoolcool
+ekwd7v|2020-01-06 16:28:26|Old school ewww: singer Jerry Lee Lewis and his 13 year old wife (who was also his third cousin), Myra Gale Brown, arrive at Idlewild Airport in New York City on May 28th 1958.|https://i.redd.it/c5l9bq8aq6941.png|act1989|False|https://redd.it/ekwd7v|2|0.57|0|13|0|oldschoolcool
+ekomiu|2020-01-06 04:13:20|My husband and his band, Seattle 1991|https://imgur.com/SvioJfk|ac19723|False|https://redd.it/ekomiu|18|0.88|0|7|0|oldschoolcool
+ekkbn3|2020-01-05 22:44:05|My grandmother, Caveman Queen 1939 - Cave Junction OR|https://i.redd.it/af79t45eg1941.jpg|rbirnie|False|https://redd.it/ekkbn3|49|0.99|0|7|0|oldschoolcool
+eklxnq|2020-01-06 00:40:30|My grandmother (left) with my great aunts at the Alamo 1965|https://i.redd.it/re0ojnx512941.jpg|TheMadMetalhead|False|https://redd.it/eklxnq|34|0.94|0|3|0|oldschoolcool
+ekm7ua|2020-01-06 01:02:00|Caroline Norton, circa 1863. Norton's destructive marriage and battle to gain access to her own earnings, assets and children - all her husband's property - changed England forever. She brought about the Custody of Infants Act of 1839 - the first to give British women a right to their own children.|https://i.redd.it/xjde8a4l32941.jpg|TheAfternoonStandard|False|https://redd.it/ekm7ua|32|0.95|0|1|0|oldschoolcool
+ekfll5|2020-01-05 17:00:13|Sigourney Weaver, 1983.|https://i.redd.it/r8hr0qg1rz841.jpg|act1989|False|https://redd.it/ekfll5|136|0.96|0|10|0|oldschoolcool
+ekhim5|2020-01-05 19:14:54|German Soldier tanning rat skins in a trench in WWI|https://preview.redd.it/stpm85zivh731.jpg?width=640&crop=smart&auto=webp&s=9eef5d3183523f01a9a6720203b315f2b8842e2a|Krabice|False|https://redd.it/ekhim5|90|0.93|0|16|0|oldschoolcool
+ekcnl0|2020-01-05 12:52:58|[1980s] I know she might not be as cool as everyone else on here. (to me she's pretty cool) Here's my mum (far left) and her mates just having a good time|https://i.redd.it/lrt7jolxiy841.jpg|Alluhsnackbar911|False|https://redd.it/ekcnl0|288|0.92|0|28|0|oldschoolcool
+ekmpzl|2020-01-06 01:40:28|Denzel Washington from his very first movie, Carbon Copy (1981)|https://i.redd.it/yizhq20vb2941.jpg|Cust3r|False|https://redd.it/ekmpzl|27|0.94|0|0|0|oldschoolcool
+eknq5k|2020-01-06 02:59:21|My Mom and Me in 1967|https://i.redd.it/ivdd4amxp2941.jpg|pagauge0|False|https://redd.it/eknq5k|20|0.95|0|4|0|oldschoolcool
+ekyo9a|2020-01-06 19:12:50|Ted Nugent ad in High Times ‘79|https://i.redd.it/sk8xyinlj7941.jpg|ivoryarrow504|False|https://redd.it/ekyo9a|0|0.4|0|0|0|oldschoolcool
+eknhg9|2020-01-06 02:40:19|Collection of images of my grandparents and my grandpa’s military photo. Estimated date is 1955.|https://i.redd.it/6vrumrdjm2941.jpg|flction|False|https://redd.it/eknhg9|20|0.9|1|4|0|oldschoolcool
+ekp2a8|2020-01-06 04:51:28|July 4th 1910, Jack Johnson defeats James J. Jefferies in 'The Fight of the Century' - Reno, Nevada.|https://i.redd.it/3lxhq4tw93941.jpg|TheAfternoonStandard|False|https://redd.it/ekp2a8|15|0.89|0|2|0|oldschoolcool
+ekmvep|2020-01-06 01:52:10|Robin Williams as 'Mork' with the Denver Bronco cheerleaders in 1979 on an episode of 'Mork and Mindy'|https://i.redd.it/mym2anzwd2941.jpg|HellsJuggernaut|False|https://redd.it/ekmvep|25|0.84|0|5|0|oldschoolcool
+ekl7bj|2020-01-05 23:46:39|Ozzy Osbourne with Randy Rhoads, early 1980s|https://i.redd.it/afg4imxjr1941.jpg|MrRockNRollLoser|False|https://redd.it/ekl7bj|36|0.87|0|5|0|oldschoolcool
+ekfzse|2020-01-05 17:28:16|Little girl dancing at Woodstock, 1969|https://i.redd.it/cmgv0gp1wz841.jpg|JustineKeyblade|False|https://redd.it/ekfzse|107|0.92|0|12|0|oldschoolcool
+ekopsb|2020-01-06 04:21:13|The 25th Infantry Bicycle Corps in 1897. The U.S. Army's first and only bicycle division, they were disbanded that year.|https://i.redd.it/7k3zjuli43941.jpg|TheAfternoonStandard|False|https://redd.it/ekopsb|14|0.89|0|6|0|oldschoolcool
+ekbr7c|2020-01-05 11:12:54|Queen Nam Phương - The Last Queen of Vietnam, 1934|https://i.redd.it/whwwgaq60y841.jpg|spiceprincesszen|False|https://redd.it/ekbr7c|318|0.98|0|3|0|oldschoolcool
+ek03o3|2020-01-04 18:12:04|Me in my Snoopy sweater in 1981, my son in the sweater in 2017, and my daughter in the same sweater in 2020.|https://i.redd.it/1urcmk1xys841.jpg|Polytetrahedron|False|https://redd.it/ek03o3|17896|0.94|0|241|0|oldschoolcool
+ekhz76|2020-01-05 19:47:19|Grandma looking like Bonnie in search of Clyde, 1940. She loved her hats.|https://i.redd.it/qb6gdnluk0941.jpg|Micklikesmonkeys|False|https://redd.it/ekhz76|70|0.95|0|1|0|oldschoolcool
+ek52xr|2020-01-05 00:21:18|Always dress your best. 1970’s.|https://i.redd.it/mo645uotsu841.jpg|Elisabethkcmo|False|https://redd.it/ek52xr|2333|0.96|0|52|0|oldschoolcool
+eksfn2|2020-01-06 10:38:49|Someone To Watch Over Me - George Gershwin plays his own composition on the piano (1926)|https://www.youtube.com/watch?v=B4QDsbucFxQ|CuriousLampoon|False|https://redd.it/eksfn2|4|0.83|0|0|0|oldschoolcool
+eknc3y|2020-01-06 02:28:46|The inauguration of the Statue of Liberty, “Liberty Enlightening the World”, in New York Harbor, on October 28, 1886. A military and naval salute, marked the event, presided over by U.S. President Grover Cleveland.|https://i.redd.it/ohsjpq0hk2941.jpg|act1989|False|https://redd.it/eknc3y|18|0.95|0|1|0|oldschoolcool
+ek9c17|2020-01-05 06:30:50|Don’t know if this is interesting to anyone, but my grandfather, the tall dude at the back, was in It’s a Wonderful Life (1946).|https://i.redd.it/pajo404rmw841.jpg|Barbrickey17|False|https://redd.it/ek9c17|695|0.98|0|40|0|oldschoolcool
+ekl609|2020-01-05 23:44:00|My uncle at the zoo in acid wash denim on acid wash denim. 1980 something.|https://i.redd.it/c6n4dym2r1941.jpg|melmelski|False|https://redd.it/ekl609|29|0.97|0|7|0|oldschoolcool
+ekkywf|2020-01-05 23:29:35|Me and pups. 1992|https://i.redd.it/0zdvwc2io1941.jpg|thankgoddessitsme|False|https://redd.it/ekkywf|30|0.96|0|2|0|oldschoolcool
+eklqsh|2020-01-06 00:26:25|My parent's wedding picture, Los Angeles, CA 1940|https://i.redd.it/ecjcmh8ky1941.jpg|gspieler|False|https://redd.it/eklqsh|25|0.92|0|1|0|oldschoolcool
+ekq6dt|2020-01-06 06:36:05|My dad (pink jacket) and his buddies. Ski trip circa '98! 🤙🏼|https://i.redd.it/8a80uzils3941.jpg|sav_ve|False|https://redd.it/ekq6dt|8|0.71|0|8|0|oldschoolcool
+ekntou|2020-01-06 03:07:13|My uncle on a Nashville bus trip in the late 1970s.|https://i.redd.it/ujgc8gzbr2941.jpg|jeremyes|False|https://redd.it/ekntou|15|1.0|0|1|0|oldschoolcool
+ekppmu|2020-01-06 05:51:20|Pictorial review from a 1920's fashion magazine|https://i.imgur.com/objCMny.jpg|softthere|False|https://redd.it/ekppmu|9|0.8|0|2|0|oldschoolcool
+ekjpzr|2020-01-05 22:01:26|(1954) Marilyn Monroe’s military-issued ID card from when she was entertaining US troops with the USO.|https://i.redd.it/4llz118j81941.jpg|BunBunChow|False|https://redd.it/ekjpzr|37|0.85|0|2|0|oldschoolcool
+eki8n1|2020-01-05 20:05:19|Motorcycle chariot race in the 1920s. Can we please revive that sport this decade?|https://i.redd.it/x5reucd2o0941.jpg|Nonkel_Jef|False|https://redd.it/eki8n1|44|0.96|0|6|0|oldschoolcool
+ekbtx4|2020-01-05 11:21:36|Dorothy Counts - The First Black Girl To Attend An All White School In The United States - Being Teased And Taunted By Her White Male Peers At Charlotte’s Harry Harding High School, 1957|https://i.redd.it/pje05gnm2y841.jpg|scouser7796|False|https://redd.it/ekbtx4|239|0.93|0|55|0|oldschoolcool
+ekh7ad|2020-01-05 18:53:10|Italian actress Ornella Muti in the '70s|https://i.redd.it/y3g8cla2b0941.jpg|Pedandick|False|https://redd.it/ekh7ad|61|0.94|0|5|0|oldschoolcool
+ekhkbn|2020-01-05 19:18:24|"""True Legend of 1967"" Faye Dunaway"|https://i.redd.it/tqqfkp0pf0941.jpg|thatchisy63|False|https://redd.it/ekhkbn|55|0.92|0|2|0|oldschoolcool
+ekfug9|2020-01-05 17:17:29|Walt Disney greets some park goers during the opening week of Disneyland, 1955.|https://i.redd.it/m4k5wng4uz841.jpg|act1989|False|https://redd.it/ekfug9|74|0.94|0|8|0|oldschoolcool
+ekokkf|2020-01-06 04:09:04|Picture on the right is my great-grandfather, Joseph Bonanno, and his wife, Vittoria Fiumara. Man with red tie in both pictures on the left is Joseph as an older man with Frank Fiumara, Vittoria’s brother, to the left. Lady in white in bottom left is older Vittoria. More info in comments (1950-1980)|https://i.redd.it/uie7h6bd23941.jpg|ashenscon|False|https://redd.it/ekokkf|11|0.92|0|2|0|oldschoolcool
+ekksue|2020-01-05 23:17:19|I found this picture of my grandmother's brother and I thought he looked like Tom Holland, around 1930|https://i.redd.it/pygfs9mbm1941.jpg|CynthiaBX|False|https://redd.it/ekksue|23|0.9|0|3|0|oldschoolcool
+ekmc9c|2020-01-06 01:11:22|My father-in-law rallying in his mini in the 60s|https://i.redd.it/qdm4lthk62941.jpg|MustavoA|False|https://redd.it/ekmc9c|15|0.94|0|1|0|oldschoolcool
+ekoktg|2020-01-06 04:09:37|New York 1939 enhanced and in color|https://youtu.be/FZ0TDWL8L4k|NobodyNoticeMe|False|https://redd.it/ekoktg|9|0.91|0|0|0|oldschoolcool
+ekl5i9|2020-01-05 23:42:56|Blackie Lawless during the Inside the Electric Circus era. 1987|https://i.redd.it/qrgxpz6wq1941.jpg|MrRockNRollLoser|False|https://redd.it/ekl5i9|19|0.82|0|0|0|oldschoolcool
+ekhgz1|2020-01-05 19:11:53|My grandparents in the Faroe Islands, 1960’s|https://i.redd.it/2yc98c7je0941.jpg|MrsGooseFairy|False|https://redd.it/ekhgz1|48|0.91|0|4|0|oldschoolcool
+ekjpdj|2020-01-05 22:00:11|My great aunts on my grandparents’ wedding day - 1950s|https://i.redd.it/li7sfx5k81941.jpg|Dreamteam1411|False|https://redd.it/ekjpdj|24|0.89|0|5|0|oldschoolcool
+ekefdi|2020-01-05 15:33:54|The real Popeye the sailor from the 1940’s!|https://i.redd.it/3ej2ednbat841.png|fatterthanur|False|https://redd.it/ekefdi|84|0.94|0|6|0|oldschoolcool
+eklboh|2020-01-05 23:55:06|Kraków in the 1980s|https://i.redd.it/w7zttl11t1941.jpg|Turkulainen|False|https://redd.it/eklboh|16|0.92|0|3|0|oldschoolcool
+ekb2s5|2020-01-05 09:51:45|Steve Irwin wrestling a croc with his mother, Lyn, in the late 1990's.|https://imgur.com/Q8WyH5N|TheSoulOfTheRose|False|https://redd.it/ekb2s5|239|0.98|0|5|0|oldschoolcool
+eklhbl|2020-01-06 00:07:05|My grandfather with the British Army of the Rhine (NRW Garrison), July 1959. Bottom row, centre.|https://i.redd.it/vt70b037v1941.jpg|VFLinden|False|https://redd.it/eklhbl|15|0.91|0|3|0|oldschoolcool
+ekjbhf|2020-01-05 21:27:14|Meryl Streep in the 70s|https://imgur.com/M7k2fuo|Makispi|False|https://redd.it/ekjbhf|27|0.81|0|1|0|oldschoolcool
+ekgerx|2020-01-05 17:57:16|Joey Heatherton, 1960s.|https://i.redd.it/69mq7hz710941.jpg|act1989|False|https://redd.it/ekgerx|49|0.92|0|7|0|oldschoolcool
+ekednv|2020-01-05 15:30:18|My Great grandfather and his accordion - 1910|https://i.redd.it/9zmpdd10bz841.jpg|TiCor78|False|https://redd.it/ekednv|78|0.96|0|4|0|oldschoolcool
+ekk0ih|2020-01-05 22:22:41|Mexico City, 1968|https://i.redd.it/lu1ym9akc1941.jpg|crunchyoatmealcookie|False|https://redd.it/ekk0ih|22|0.96|0|0|0|oldschoolcool
+ekngih|2020-01-06 02:38:23|"80"""|https://i.redd.it/uw3s2fw6m2941.jpg|PaulShirley42|False|https://redd.it/ekngih|10|0.87|0|2|0|oldschoolcool
+ekjslr|2020-01-05 22:06:55|Grandpa selfies, 1910|https://i.redd.it/k5nh30fr91941.jpg|r_salis|False|https://redd.it/ekjslr|23|0.85|0|0|0|oldschoolcool
+ek0eb3|2020-01-04 18:33:37|Vintage picture of a very happy interracial couple from the 60s|https://i.redd.it/qxcvgrbq2t841.png|Betamonero|False|https://redd.it/ek0eb3|3789|0.95|1|100|0|oldschoolcool
+ekjq3d|2020-01-05 22:01:38|My grandfather posing in front of Mount Gothic CO, which he mapped for the USGS. 1955|https://i.redd.it/y2uwgj5r81941.jpg|juicygoosekilll|False|https://redd.it/ekjq3d|20|0.96|0|0|0|oldschoolcool
+ekgm8l|2020-01-05 18:11:33|Miyamoto and the team proud of Super Mario World around '89/'90.|https://i.redd.it/jxwk0rsr30941.jpg|Jim_and_sixes|False|https://redd.it/ekgm8l|41|0.98|0|0|0|oldschoolcool
+eka85d|2020-01-05 08:10:06|Me and mom, 1989|https://i.redd.it/cd6r3rig4x841.jpg|AlmostUnknown|False|https://redd.it/eka85d|247|0.95|0|18|0|oldschoolcool
+ekm6m1|2020-01-06 00:59:21|Fred MacMurray, 1940. Well before My Three Sons.|https://i.redd.it/g7t3rkkh42941.jpg|GeorgeOrrBinks|False|https://redd.it/ekm6m1|13|0.84|0|4|0|oldschoolcool
+ejwols|2020-01-04 13:34:09|Singer/actress Chris Noel hosted her own radio show for the GIs in Vietnam. She did 4 tours of Vietnam and her helicopter was shot down twice. (Photo from 1966)|https://i.redd.it/gapo3q58lr841.jpg|HellsJuggernaut|False|https://redd.it/ejwols|18096|0.96|0|440|0|oldschoolcool
+ek48s3|2020-01-04 23:16:32|The cast of Saturday Night Live in 1992.|https://i.redd.it/0d9d9vf9hu841.png|act1989|False|https://redd.it/ek48s3|1224|0.96|1|105|0|oldschoolcool
+ekgmol|2020-01-05 18:12:29|Me after seeing Conan the Barbarian in 1982|https://i.redd.it/ocw2h5lx30941.jpg|theplatypusofdoom|False|https://redd.it/ekgmol|38|0.86|0|7|0|oldschoolcool
+ek354n|2020-01-04 21:53:43|Rene Russo, 1975|https://i.imgur.com/g039N4l.jpg|lupindeathray|True|https://redd.it/ek354n|1587|0.93|0|75|0|oldschoolcool
+ekm0x6|2020-01-06 00:47:10|1989 Basketball was a very serious affair|https://i.redd.it/e4zzzuoc22941.jpg|cdhouch|False|https://redd.it/ekm0x6|9|0.87|0|3|0|oldschoolcool
+ekuaaj|2020-01-06 13:41:31|On October 5th 1937 Franklin D. Roosevelt gave a speech in which he states “It ought to be inconceivable that in this modern era, and in the face of experience, any nation could be so foolish and ruthless as to run the risk of plunging the whole into world”|https://v.redd.it/5baygbegv5941|nzranga|False|https://redd.it/ekuaaj|1|0.47|0|3|0|oldschoolcool
+ekjwbp|2020-01-05 22:14:16|My grandpa looking like a stud tossing the ball in the front yard, 1951.|https://i.redd.it/k87kywa2b1941.jpg|rockiiroad|False|https://redd.it/ekjwbp|16|0.9|0|1|0|oldschoolcool
+ejwaws|2020-01-04 12:52:39|I have recently started tracing back my ancestry and my mother provided me a treasure trove of amazing pictures. This is my grandad, born 1942 in Nainital, India. He was getting ready for fancy dress at school roughly 1950. If you would like to see more let me know.|https://i.redd.it/76jfuugydr841.jpg|Devuda89|False|https://redd.it/ejwaws|26991|0.9|1|421|0|oldschoolcool
+ekipol|2020-01-05 20:37:52|Tom Peternek. Morning of the New year. Belgrade, Serbia, 1960|https://i.imgur.com/3ycTYjM.jpg|highcontrastgrey|False|https://redd.it/ekipol|22|0.93|0|2|0|oldschoolcool
+ekd7ls|2020-01-05 13:47:55|A news clipping of me and my pops during a snow storm, almost 30 years ago|https://i.redd.it/s2l076fqsy841.jpg|farleycatmuzik|False|https://redd.it/ekd7ls|79|0.96|0|14|0|oldschoolcool
+ekjzwy|2020-01-05 22:21:32|Me and my Dad, 1961 or 1962...|https://i.redd.it/fo387k27c1941.jpg|PharoahChromium|False|https://redd.it/ekjzwy|15|0.78|0|7|0|oldschoolcool
+ekjy24|2020-01-05 22:17:58|Elvis Presley and a very dapper dog. 1950s|https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_1192/https://www.ratherrarerecords.com/wp-content/uploads/Elvis_1956_tuxedo_dog_1200x800dark.jpg|shaka_sulu|False|https://redd.it/ekjy24|13|0.8|0|2|0|oldschoolcool
+ekfk7u|2020-01-05 16:57:39|Young me in the 90s in my Ferrari|https://i.redd.it/bv3za4diqz841.jpg|minititof|False|https://redd.it/ekfk7u|40|0.92|0|5|0|oldschoolcool
+ekfa8f|2020-01-05 16:37:55|My Grandad, Mark Ruffalo lookalike. Circa. 1975|https://i.redd.it/096y5yx1nz841.jpg|MSobel00|False|https://redd.it/ekfa8f|41|0.84|0|7|0|oldschoolcool
+ekp7ak|2020-01-06 05:04:05|Zlatan Ibrahimovic as a Malmö player. Probably 1999.|https://i.imgur.com/HjeqQfv.jpg|Triceratoops|False|https://redd.it/ekp7ak|3|0.67|0|1|0|oldschoolcool
+eklbhz|2020-01-05 23:54:43|My grandpa at 15 in 1955. As an adult he kept being invited to weddings because he was handsome and looked good in photos. He hated weddings but kept going anyways.|https://i.redd.it/m942xjpzs1941.jpg|xokaytuhlin|False|https://redd.it/eklbhz|11|0.67|0|0|0|oldschoolcool
+eklli2|2020-01-06 00:15:39|The actresses of The Avengers 1960s UK TV series|https://i.redd.it/o4j9yweyv1941.jpg|DynastyFan85|False|https://redd.it/eklli2|10|0.9|0|2|0|oldschoolcool
+ekjc5y|2020-01-05 21:29:14|Rare 4 door Vette, 40 years ago|https://i.redd.it/thotr6f131941.jpg|mrfin243|False|https://redd.it/ekjc5y|15|0.78|0|10|0|oldschoolcool
+ek7nn8|2020-01-05 03:55:58|Pele gave me his autograph when I was 6. It has sat in a box for 39 years, finally found it to be framed.|https://i.redd.it/7kp9tqc4vv841.jpg|BaronGreenback75|False|https://redd.it/ek7nn8|352|0.98|0|10|0|oldschoolcool
+ekfxsu|2020-01-05 17:24:10|Ozzy and his (then) girlfriend Sharon Levy (late 1970s)|https://i.redd.it/86cvsgbbvz841.jpg|74serieschip|False|https://redd.it/ekfxsu|26|0.77|0|5|0|oldschoolcool
+ejx6vj|2020-01-04 14:23:29|Mom and Dad and Me in 1962|https://i.redd.it/atg2y046ur841.jpg|pagauge0|False|https://redd.it/ejx6vj|4314|0.95|1|155|0|oldschoolcool
+ekiqxd|2020-01-05 20:40:15|George Lucas with his dog Indiana, mid 70s.|https://i.redd.it/23b2zdsau0941.jpg|act1989|False|https://redd.it/ekiqxd|12|0.89|0|3|0|oldschoolcool
+ekdll8|2020-01-05 14:23:26|Uncle Sam with a warning for scientists entering the Manhattan Project site in Oak Ridge, TN, c.1945|https://i.redd.it/02was3k2zy841.jpg|notacockapoo|False|https://redd.it/ekdll8|44|0.88|0|5|0|oldschoolcool
+ekfqe0|2020-01-05 17:09:47|Workers at a missile tracking station on Ascension Island (1950s).|https://i.redd.it/e66mok0dsz841.jpg|spock23|False|https://redd.it/ekfqe0|26|0.93|0|1|0|oldschoolcool
+ekdtt1|2020-01-05 14:43:40|Mary Astor from her silent film days (1920)|https://i.redd.it/n19j3drl2z841.jpg|StoicJim|False|https://redd.it/ekdtt1|41|0.93|0|1|0|oldschoolcool
+ekicrt|2020-01-05 20:12:59|My grandparents in the late 1940s. Young love! They were married over 60 years❤❤❤|https://i.redd.it/5lmjyh3fp0941.jpg|Merrenmia|False|https://redd.it/ekicrt|14|0.82|0|3|0|oldschoolcool
+ek7wnr|2020-01-05 04:18:23|Tommy Lee Jones on the 1968 Harvard varsity football team|https://i.imgur.com/GHle8rK.jpg|piefordays|False|https://redd.it/ek7wnr|257|0.96|0|19|0|oldschoolcool
+ekke6p|2020-01-05 22:49:01|Beanie babies were a big deal in the 90s. Incredible|https://i.imgur.com/vlF7CT2.jpg|motlbrandon|False|https://redd.it/ekke6p|8|0.7|0|2|0|oldschoolcool
+ekdkg2|2020-01-05 14:20:37|My grandfather (right) posing for a pic with a local tv reporter back when he did technical drawings for the Gemini rocket system ~1963-64.|https://i.redd.it/66o8oz3lxy841.jpg|Omiopolis|False|https://redd.it/ekdkg2|37|0.92|0|0|0|oldschoolcool
+eki9e4|2020-01-05 20:06:49|I miss this car the most, and my 1984 hair.|https://i.redd.it/o3poo0zbo0941.jpg|Overreaper|False|https://redd.it/eki9e4|13|0.76|0|2|0|oldschoolcool
+ek4jyj|2020-01-04 23:39:57|"The obligatory ""baby on the bearskin rug photo of the era"" My dad 1927. He would have been tickled pink that this could be shared with the world with a couple of clicks"|https://i.redd.it/0g5qcl75lu841.jpg|Diplodocus114|False|https://redd.it/ek4jyj|558|0.96|0|17|0|oldschoolcool
+ekikfx|2020-01-05 20:27:30|Cool kids (unknown ~1980?)|https://i.redd.it/5g2pnwnwr0941.jpg|co_ordinator|False|https://redd.it/ekikfx|12|0.71|0|7|0|oldschoolcool
+ekdm1l|2020-01-05 14:24:32|My grandmother's first communion photo, 1921 (ish)|https://i.redd.it/3tt9bpd8zy841.jpg|butmynailsarewet|False|https://redd.it/ekdm1l|33|0.89|0|4|0|oldschoolcool
+ekm5w9|2020-01-06 00:57:48|My great-great-great grandfather (b.1847, d.1925) riding an ostrich sometime circa 1900|https://imgur.com/YQlYIw9|Yserem|False|https://redd.it/ekm5w9|5|0.79|0|1|0|oldschoolcool
+ekj4iu|2020-01-05 21:07:37|My mother in the 70s wearing a red dress at a family member's wedding|https://i.imgur.com/JaFOUDB.jpg|butt-fucking-naked|False|https://redd.it/ekj4iu|9|0.76|0|5|0|oldschoolcool
+ekjd6t|2020-01-05 21:32:10|Disneyland summer 1977 brochure, back when Space Mountain first opened and tickets were less than $20.|https://i.redd.it/20q25urb31941.jpg|UnionizePokeMarts|False|https://redd.it/ekjd6t|9|0.82|0|5|0|oldschoolcool
+ekl42y|2020-01-05 23:40:11|1 of my favorite bands from the 80s|https://i.redd.it/0r8nnseeq1941.jpg|MrRockNRollLoser|False|https://redd.it/ekl42y|4|0.72|0|3|0|oldschoolcool
+eki2s8|2020-01-05 19:53:59|Mugshots (1970's)|https://i.redd.it/ye92qdpml0941.png|70dd|False|https://redd.it/eki2s8|11|0.87|0|7|0|oldschoolcool
+ekd1di|2020-01-05 13:31:39|Johnny Cash moose hunting in Newfoundland in 1961|https://i.redd.it/1h4hjnwtpy841.jpg|Black_Turk_Salami|False|https://redd.it/ekd1di|35|0.83|0|5|0|oldschoolcool
+ek89iu|2020-01-05 04:49:25|Sigourney Weaver in Los Angeles, 1978|https://i.redd.it/mwtae6sn4w841.jpg|phoeab|False|https://redd.it/ek89iu|170|0.96|0|4|0|oldschoolcool
+ekfx28|2020-01-05 17:22:39|My great, great grandparents, Circa. 1900|https://i.redd.it/qjf4vqj1vz841.jpg|farmercurtis|False|https://redd.it/ekfx28|18|0.88|0|0|0|oldschoolcool
+ekhpjl|2020-01-05 19:28:37|Sarajevo, 1996, me and my Allied partners: UK, Netherlands, and Bosnian.|https://i.imgur.com/nBRktly.jpg|Umanday|False|https://redd.it/ekhpjl|13|0.87|0|3|0|oldschoolcool
+eka55w|2020-01-05 08:00:56|Iranian music group at a party 1970|https://i.redd.it/2deym1qt2x841.jpg|Jneebs|False|https://redd.it/eka55w|87|0.92|0|16|0|oldschoolcool
+ejy5le|2020-01-04 15:46:56|1969 Buick. The future cars of the past.|https://i.redd.it/nd3mnj129s841.jpg|Tmorals|False|https://redd.it/ejy5le|1799|0.99|0|73|0|oldschoolcool
+ek0qp6|2020-01-04 18:59:01|1978: I'm doing maintenance in the Control Room of a Diesel Submarine|https://i.redd.it/97mml2j77t841.png|Georgreng|False|https://redd.it/ek0qp6|961|0.98|0|70|0|oldschoolcool
+ekt7al|2020-01-06 11:58:30|javed jaffrey cast in Jawani Zindabad Movie 1990|https://i.redd.it/ango62hud5941.jpg|kritikaverma123|False|https://redd.it/ekt7al|0|0.43|0|0|0|oldschoolcool
+ekkfsv|2020-01-05 22:52:01|My dad in the 70s|https://imgur.com/r0tRTpl.jpg|hippojamie|False|https://redd.it/ekkfsv|5|0.76|0|1|1|oldschoolcool
+ekide0|2020-01-05 20:14:12|Florida Sunburst Blossom (postcard; not sure vintage - 50s?)|https://i.redd.it/zq9mc4enp0941.jpg|iforgotwhat8wasfor|False|https://redd.it/ekide0|9|0.79|0|0|0|oldschoolcool
+eker3p|2020-01-05 15:59:01|Old School Cool - a kid opening The Original Trilogy on Christmas 1986|https://i.redd.it/ea1bxikfwr841.jpg|gibson_mel|False|https://redd.it/eker3p|17|0.88|0|2|0|oldschoolcool
+ekfs87|2020-01-05 17:13:08|Ann-Margret and Steve McQueen in The Cincinatti Kid. 1965.|https://i.redd.it/eu8pxokctz841.jpg|Dhorlin|False|https://redd.it/ekfs87|15|0.81|0|6|0|oldschoolcool
+ekdj83|2020-01-05 14:17:43|Rita Hayworth posing for a metal recycling drive in World War II, 1940s|https://i.redd.it/x9z5vwmxxy841.jpg|TheSanityInspector|False|https://redd.it/ekdj83|22|0.9|0|0|0|oldschoolcool
+ek9be6|2020-01-05 06:28:44|Jim Henson with his ever expanding family of Muppets, late 1980s.|https://i.redd.it/etvynbmdmw841.png|act1989|False|https://redd.it/ek9be6|84|0.94|0|2|0|oldschoolcool
+ekfte5|2020-01-05 17:15:20|kids looking at toys in a shop window. Madrid, 1965|https://i.redd.it/13h3frmqtz841.jpg|ElCallejas|False|https://redd.it/ekfte5|13|0.81|0|1|0|oldschoolcool
+ek896n|2020-01-05 04:48:33|Brandon Lee playing with his Gameboy during some downtime on the set of The Crow, 1994.|https://i.redd.it/biww2ixh4w841.jpg|act1989|False|https://redd.it/ek896n|111|0.94|0|8|0|oldschoolcool
+ekgzcx|2020-01-05 18:37:46|Eduard Kalcenaus - Family Portrait (1890)|https://i.redd.it/wwj0v3pd80941.jpg|JanosValuskaCTE|False|https://redd.it/ekgzcx|8|0.9|0|0|0|oldschoolcool
+ekia35|2020-01-05 20:08:11|Jim Morrison giving Jason Bourne vibes, 1963|https://i.redd.it/3a0mkjrko0941.jpg|usehernamechexout|False|https://redd.it/ekia35|5|0.61|0|1|0|oldschoolcool
+ekdz8z|2020-01-05 14:57:32|Rare pic of Gandhi chilling with kid [1940s]|https://i.redd.it/3c4okrju4z841.jpg|mandywasherelearning|False|https://redd.it/ekdz8z|16|0.76|0|4|0|oldschoolcool
+ekfnw4|2020-01-05 17:04:45|History of Women's Basketball in America 1891|https://i.redd.it/yfewuh5urz841.jpg|Juli333|False|https://redd.it/ekfnw4|9|0.79|0|3|0|oldschoolcool
+ek4h5x|2020-01-04 23:33:58|One of the last photos of my great-great grandfather, Clint Woosley, Dec. 1926. He planned to be the first pilot across the Atlantic before going down with his plane. He was a flight instructor for Charles Lindbergh.|https://i.redd.it/1k7p96lcku841.jpg|A_Hendo|False|https://redd.it/ek4h5x|253|0.98|0|4|0|oldschoolcool
+ek49ei|2020-01-04 23:17:47|Aleta (my mom)- 1967 bartender and all around fun person|https://i.imgur.com/ybAfZbN.jpg|NakedKittyAlucard|False|https://redd.it/ek49ei|264|0.96|0|25|0|oldschoolcool
+ekc2m1|2020-01-05 11:49:38|My original post is on r/army where you can find the full story of the picture. My grandpa and his fellow FSLN comrades on captured a armored vehicle during the Nicaraguan revolution late 1970s|https://i.redd.it/r5qekbrm7y841.jpg|winston0405|False|https://redd.it/ekc2m1|27|0.94|0|9|0|oldschoolcool
+ekbh3v|2020-01-05 10:39:18|USSR women's volleyball team at the Olympic Games, 1980, Moscow|https://i.redd.it/s993kma2vx841.jpg|Minimalist55|False|https://redd.it/ekbh3v|29|0.84|0|9|0|oldschoolcool
+ek11mx|2020-01-04 19:21:07|1994. My baby sister after a hard day’s work.|https://i.redd.it/r0b502r9bt841.jpg|audiobridgematt|False|https://redd.it/ek11mx|523|0.97|0|13|0|oldschoolcool
+ekexuq|2020-01-05 16:12:49|My mother (left) early 1960s|https://i.redd.it/wcu7ig0kiz841.jpg|lipby|False|https://redd.it/ekexuq|9|0.93|0|2|0|oldschoolcool
+ejsb22|2020-01-04 05:23:32|Michael J. Fox and Christopher Lloyd posing for the Back to the Future II poster in 1989 that would later be illustrated by Drew Struzan|https://i.redd.it/mnp68v3u5p841.jpg|SappyGilmore|False|https://redd.it/ejsb22|10448|0.98|0|276|0|oldschoolcool
+ek5baz|2020-01-05 00:39:41|Jack Kirby, the co-creator of Captain America, the Hulk, the Fantastic Four, the Black Panther and many more comic book characters was a WW II veteran. 1945|https://i.redd.it/3w7o1233wu841.jpg|HellsJuggernaut|False|https://redd.it/ek5baz|185|0.98|0|10|0|oldschoolcool
+ekgec6|2020-01-05 17:56:25|Dorothy, off to see the wizard, with friends. (1939)|https://i.imgur.com/iogxARi.jpg|bbyr0n|False|https://redd.it/ekgec6|5|0.71|0|4|0|oldschoolcool
+ek1ilz|2020-01-04 19:55:54|Me and Pops - Bradford Beach Milwaukee 94'|https://imgur.com/qqXOnfW|KingDalma|False|https://redd.it/ek1ilz|393|0.95|0|14|0|oldschoolcool
+ek52l4|2020-01-05 00:20:24|Keanu Reeves (1989)|https://i.redd.it/p1if2nynsu841.jpg|Harvickfan4Life|False|https://redd.it/ek52l4|163|0.95|0|12|0|oldschoolcool
+ek6ud6|2020-01-05 02:45:40|The mother near Tequila in 1992|https://i.redd.it/kzwtkkskiv841.jpg|alemangui|False|https://redd.it/ek6ud6|88|0.96|0|10|0|oldschoolcool
+ek5zpz|2020-01-05 01:35:23|Picture of my Grandfather taken in a submarine at sea on the way to Scotland. February 1965.|https://i.redd.it/0guc7nwx5v841.jpg|lindseypojar|False|https://redd.it/ek5zpz|94|0.93|0|25|0|oldschoolcool
+ekd243|2020-01-05 13:33:32|Minimalism in Soviet Union - how was it. 70's. There is also link to the short funny video is in the comment.|https://i.redd.it/00lg9yijoy841.png|IraFly|False|https://redd.it/ekd243|10|0.71|0|5|0|oldschoolcool
+eki6vb|2020-01-05 20:01:52|"""Award winning movie 1967"""|https://i.redd.it/th8u71agn0941.jpg|thatchisy63|False|https://redd.it/eki6vb|5|0.6|0|2|0|oldschoolcool
+ek7ums|2020-01-05 04:13:31|After my family immigrated from Lebanon in the early 1900s, they opened a candy factory in Tyler Texas. Here are some of my great aunts and uncles on their mobile candy truck.|https://i.redd.it/z2rz2ct8yv841.jpg|QueenofKsounds|False|https://redd.it/ek7ums|54|0.96|0|8|0|oldschoolcool
+ekb87z|2020-01-05 10:09:29|Woman With A Gas-Resistant Pram, England, 1938|https://i.redd.it/72euwvdrpx841.jpg|scouser7796|False|https://redd.it/ekb87z|17|0.9|0|1|0|oldschoolcool
+ek95db|2020-01-05 06:11:41|From another mother, circa 84|https://i.redd.it/1hi4p53bjw841.jpg|Overreaper|False|https://redd.it/ek95db|35|0.9|0|1|0|oldschoolcool
+ekbumq|2020-01-05 11:23:55|My grandfather. PFC Fred Grodell. 1940s|https://i.redd.it/jho8xbf13y841.jpg|Jasink1987|False|https://redd.it/ekbumq|14|0.93|0|1|0|oldschoolcool
+ekbzl9|2020-01-05 11:40:27|Harry R. Truman, who became a folk hero for refusing to evacuate his home in the months before Mount St. Helens erupted. Truman was one of 57 people killed in the blast, 1980|https://i.redd.it/5lfumc123y841.jpg|Im_a_Samsquanch29|False|https://redd.it/ekbzl9|12|0.77|0|3|0|oldschoolcool
+ek9exo|2020-01-05 06:39:30|[INSPO] This Japanese guy from the 90s looking fresh|https://i.redd.it/he5aajy23v841.jpg|PANCAKEEZZZ|False|https://redd.it/ek9exo|29|0.94|0|1|0|oldschoolcool
+ek3hs4|2020-01-04 22:19:47|Black Sabbath 1970|https://i.redd.it/ylcy31857u841.jpg|hernanthegoat|False|https://redd.it/ek3hs4|138|0.94|0|6|0|oldschoolcool
+ek98va|2020-01-05 06:21:23|1967 - mind blowing beautiful Sharon Tate|https://i.redd.it/a7mswls0lw841.jpg|Bigrx1|False|https://redd.it/ek98va|30|0.86|0|1|0|oldschoolcool
+ek3pnn|2020-01-04 22:36:36|Michelle Pfeiffer, 1994.|https://i.redd.it/rt2vk2f4au841.jpg|Sofargonept2|False|https://redd.it/ek3pnn|130|0.93|0|6|0|oldschoolcool
+ejygny|2020-01-04 16:11:46|1902 wizard of oz.|https://i.redd.it/ckayyokhds841.jpg|Tmorals|False|https://redd.it/ejygny|409|0.98|0|25|0|oldschoolcool
+ek8o16|2020-01-05 05:26:03|1978. A photo of my mom with the majority of my aunts, uncles, and great grandmother|https://i.redd.it/2w51zt17bw841.jpg|heezyjos|False|https://redd.it/ek8o16|34|0.88|0|7|0|oldschoolcool
+ekggss|2020-01-05 18:01:05|My Pakistani grandfather on his wedding day, 1960s|https://imgur.com/a/lQ73Zno|fabulously-frizzy|False|https://redd.it/ekggss|1|0.7|0|0|0|oldschoolcool
+ek7mhg|2020-01-05 03:52:55|Posing on my cousin’s dirt bike 1984-ish. You can almost hear the “brrrrttt” noise I’m making.|https://i.imgur.com/yg4QNWB.jpg|Bizzlewaf|False|https://redd.it/ek7mhg|41|0.92|0|3|0|oldschoolcool
+ekae8s|2020-01-05 08:29:46|Mr. T and Nancy Reagan during Light Up the White House decorations, 1983.|https://i.redd.it/oqiv471z7x841.jpg|6DegreesOfDepression|False|https://redd.it/ekae8s|16|0.76|0|1|0|oldschoolcool
+ek566w|2020-01-05 00:28:32|Carson Mansion (1902)|https://i.redd.it/dhr5phr2uu841.jpg|Keyboardtyper57|False|https://redd.it/ek566w|70|0.93|0|9|0|oldschoolcool
+ek7fuo|2020-01-05 03:36:54|1986 newspaper found in our wall|https://i.redd.it/g8h8bywmrv841.jpg|macabrejaguar|False|https://redd.it/ek7fuo|37|0.9|0|8|0|oldschoolcool
+ek87wq|2020-01-05 04:45:33|Iranian woman before the 1979 revolution that was supported by the United States.|https://i.redd.it/1bpu4msy3w841.jpg|LoachLounge|False|https://redd.it/ek87wq|31|0.67|0|14|0|oldschoolcool
+ek7dfj|2020-01-05 03:30:59|Nick Nolte and Eddie Murphy, 1982.|https://i.redd.it/ewhs9kblqv841.jpg|Sofargonept2|False|https://redd.it/ek7dfj|35|0.85|0|4|0|oldschoolcool
+ek826w|2020-01-05 04:31:43|"My Italian great grandmother who we called ""Big Grandma"" - 1931"|https://i.redd.it/1a3o08vg1w841.jpg|smhoody|False|https://redd.it/ek826w|28|0.92|0|2|0|oldschoolcool
+ek81p8|2020-01-05 04:30:38|Grew up going to air shows with my dad and brother. The day we got to climb in a real Blue Angel was a special day. Early 90’s.|https://i.redd.it/yq2vupza1w841.jpg|treslittlebirds99|False|https://redd.it/ek81p8|25|0.95|0|3|0|oldschoolcool
+ek3umi|2020-01-04 22:46:53|Albert Einstein in Long Island, New York, 1939|https://i.redd.it/5qu8rpxvbu841.jpg|MauricioDelFuego|False|https://redd.it/ek3umi|73|0.9|0|13|0|oldschoolcool
+ek7ux9|2020-01-05 04:14:19|"Granny ""Bulldog"" would have been 83 years young today! She was one tough lady."|https://imgur.com/aiUEzjR|Kentencat|False|https://redd.it/ek7ux9|26|0.88|0|0|0|oldschoolcool
+ejukob|2020-01-04 09:25:52|Grandma on rollerblades at a school party in Indonesia (1937)|https://i.redd.it/8dkwv8hpcq841.jpg|blikk|False|https://redd.it/ejukob|807|0.94|0|39|0|oldschoolcool
+ek7psb|2020-01-05 04:01:29|Punk band Mission of Burma backstage at CBGB in NYC, 1983|https://i.redd.it/egh8lgh3wv841.jpg|dbear26|False|https://redd.it/ek7psb|25|0.9|0|8|0|oldschoolcool
+ek5fkn|2020-01-05 00:49:02|Saw this old school painting of 2 girls hung over (1800s)|https://i.redd.it/0gy5zs5nxu841.jpg|Keyboardtyper57|False|https://redd.it/ek5fkn|43|0.89|0|6|0|oldschoolcool
+ek2dtg|2020-01-04 20:59:01|Eazy E,Dr Dre,Pete Nice and MF DOOM.(1992?)|https://i.redd.it/b467np9qst841.jpg|Notoriussmall|False|https://redd.it/ek2dtg|78|0.94|0|6|0|oldschoolcool
+ejyzss|2020-01-04 16:52:19|Little Bird, Arapahoe. Portrait by Frank Rinehart (1898)|https://i.redd.it/juw3q9yjks841.jpg|FairlyRegularBeast|False|https://redd.it/ejyzss|168|0.99|0|4|0|oldschoolcool
+ek1csu|2020-01-04 19:44:05|More reasons to take the subway: a belly dancer on the London Underground, 1968.|https://i.redd.it/uw008t9dft841.jpg|act1989|False|https://redd.it/ek1csu|96|0.95|0|10|0|oldschoolcool
+ek06do|2020-01-04 18:17:30|My brother’s birthday party, 1980s|https://i.redd.it/z1e4ry1xzs841.jpg|4pb6|False|https://redd.it/ek06do|124|0.99|0|13|0|oldschoolcool
+ek6yrv|2020-01-05 02:56:10|My grandpa looking dapper circa 1950's|https://i.redd.it/xrlwkhbgkv841.jpg|prss79513|False|https://redd.it/ek6yrv|25|0.89|0|0|0|oldschoolcool
+ek3nw3|2020-01-04 22:32:56|My Grandpa, 18 y.o. in 1967. I wish it wasn't black and white but he has the greenest eyes!|https://i.redd.it/zisfh0lh9u841.jpg|MyBeeBeeDeeCee|False|https://redd.it/ek3nw3|57|0.91|0|13|0|oldschoolcool
+ejsgjh|2020-01-04 05:37:50|Little girl cutting a sunbeam 1886|https://i.redd.it/6asbcjea8p841.jpg|onepersononeidea|False|https://redd.it/ejsgjh|1250|0.98|0|31|0|oldschoolcool
+ek6txo|2020-01-05 02:44:34|Uncle Jon - 1980 something|https://i.redd.it/k1vo1gkdiv841.jpg|Josephrfugate|False|https://redd.it/ek6txo|26|0.89|0|0|0|oldschoolcool
+ekic94|2020-01-05 20:12:05|John Travolta, 1976|https://i.redd.it/86vwpnp8p0941.jpg|dustol|False|https://redd.it/ekic94|0|0.55|0|2|0|oldschoolcool
+ek4mov|2020-01-04 23:45:34|My grandmother circa 1949. She was a model but when she married my grandfather he would make her quit modeling for a “real job” in a factory.|https://i.redd.it/1wscji7gmu841.jpg|sleestak_orgy|False|https://redd.it/ek4mov|42|0.87|0|4|0|oldschoolcool
+ek4c08|2020-01-04 23:23:16|5 generations. Me, my mother, my grandmother, my great grandmother, and my great great grandmother. 1986.|https://i.redd.it/6a51bsxgiu841.jpg|icatnsplle|False|https://redd.it/ek4c08|45|0.89|0|5|0|oldschoolcool
+ek26de|2020-01-04 20:43:37|This is my dad, grandmother, great grandmother and aunts and cousins (1968-ish)|https://i.redd.it/xcs1x5lzpt841.jpg|mrsjonstewart|False|https://redd.it/ek26de|74|0.95|0|5|0|oldschoolcool
+ek7p6w|2020-01-05 03:59:59|My grandfather making sparks in the early 1980’s|https://i.redd.it/fmp6xvqtvv841.jpg|SurprisinglyMellow|False|https://redd.it/ek7p6w|18|0.92|0|0|0|oldschoolcool
+ek3ttm|2020-01-04 22:45:17|Bill Gates Circa 1970-ish - Gotta love the 'chopper' bicycle|https://i.redd.it/ejj4l0gfbu841.jpg|PioneerStandard|False|https://redd.it/ek3ttm|46|0.85|0|5|0|oldschoolcool
+ek2j8g|2020-01-04 21:09:38|Steve McQueen’s racing license from 1964.|https://i.redd.it/4lox99omut841.jpg|act1989|False|https://redd.it/ek2j8g|61|0.9|0|1|0|oldschoolcool
+ek4k89|2020-01-04 23:40:32|Best friends on the night of their year 12 formal (Australian version of prom) 1994. Taken with a 1950s Russian camera I picked up in a pawn shop for $5|https://i.redd.it/vfaehcqqku841.jpg|subtle_anarchist|False|https://redd.it/ek4k89|38|0.91|0|6|0|oldschoolcool
+ek44q4|2020-01-04 23:08:02|My great grandfather riding a 1914 Excelsius motorcycle.|https://i.imgur.com/oT3QA6y.jpg|jackalopacabra|False|https://redd.it/ek44q4|41|0.93|0|4|0|oldschoolcool
+ek80hq|2020-01-05 04:27:39|Lancelot Link playing with the evolution revolution around 1970|https://i.redd.it/90nuae1s0w841.jpg|mrfin243|False|https://redd.it/ek80hq|17|0.84|0|2|0|oldschoolcool
+ek3mcw|2020-01-04 22:29:44|Abuela, early 1960s, Holguín, Cuba|https://i.redd.it/av974y9w8u841.jpg|wasabi_me|False|https://redd.it/ek3mcw|50|0.91|0|2|0|oldschoolcool
+ek4unr|2020-01-05 00:02:53|My Grandfather, Circa 1930's|https://i.imgur.com/RcOS47i.jpg|ProfessorJV|False|https://redd.it/ek4unr|39|0.87|0|3|0|oldschoolcool
+ejyrfb|2020-01-04 16:34:46|Jodie Foster, Eiffel Tower 1977|https://i.redd.it/4p58yx6lhs841.jpg|qdolobp|False|https://redd.it/ejyrfb|135|0.93|0|10|0|oldschoolcool
+ek47x3|2020-01-04 23:14:43|My Great-Grandfather in the early 1980s|https://i.redd.it/9cvqkizxgu841.jpg|ionlyeatassontuesday|False|https://redd.it/ek47x3|34|0.89|0|8|0|oldschoolcool
+ek0ohq|2020-01-04 18:54:26|Meatloaf and Tim Curry 1975|https://imgur.com/PdNKGAn|Wizzmer|False|https://redd.it/ek0ohq|83|0.89|0|13|0|oldschoolcool
+ek2hl3|2020-01-04 21:06:33|My grandmother at 18 in 1965|https://i.redd.it/4z5ig1m2ut841.jpg|doggojasper|False|https://redd.it/ek2hl3|51|0.93|0|1|0|oldschoolcool
+ejqjp8|2020-01-04 02:58:49|The more things change from 1920, the more they stay the same today|https://i.redd.it/zl589s9xdo841.jpg|gibson_mel|False|https://redd.it/ejqjp8|1443|0.96|0|55|0|oldschoolcool
+ek50k2|2020-01-05 00:16:16|Photographer Steve McCurry captures a group of camels as they flee the apocalyptic destruction Iraqi forces unleashed upon Kuwait by setting fire to that nation's oil facilities in 1991.|https://i.redd.it/8b8v2ygxru841.jpg|act1989|False|https://redd.it/ek50k2|30|0.77|0|4|0|oldschoolcool
+ek92ct|2020-01-05 06:03:57|My Mum centre. Guess her friends were not having a good Day Manchester 1953|https://i.redd.it/qqnkl1gihw841.jpg|Diplodocus114|False|https://redd.it/ek92ct|9|0.84|0|9|0|oldschoolcool
+ek4g2l|2020-01-04 23:31:39|Power tool 1954|https://gfycat.com/appropriatecelebratedhorsechestnutleafminer|Maximusuber|False|https://redd.it/ek4g2l|29|0.94|0|4|0|oldschoolcool
+ek4v2c|2020-01-05 00:03:43|People soaking in the hot mineral water/mud in Hot Springs, New Mexico early 20th Century (town was renamed to Truth or Consequences in 1950)|https://i.redd.it/dral7nknpu841.jpg|midimarc|False|https://redd.it/ek4v2c|26|0.86|0|7|0|oldschoolcool
+ek5vf5|2020-01-05 01:25:32|Me and too many girls in 1967|https://i.redd.it/ir9l4j9a4v841.jpg|pagauge0|False|https://redd.it/ek5vf5|18|0.92|0|2|0|oldschoolcool
+ejzqsj|2020-01-04 17:46:54|All the photos of my Great Grandparents are stoic... Besides this one. 1939|https://i.redd.it/hpjkopqwss841.jpg|ValueOfL|False|https://redd.it/ejzqsj|82|0.96|0|4|0|oldschoolcool
+ejzcwo|2020-01-04 17:19:18|My mom in the 80s. I wish I've inherited her beauty but I look more like my uncle in 2001.|https://i.redd.it/a7izahbjps841.jpg|Lars_Amandi|False|https://redd.it/ejzcwo|90|0.95|0|16|0|oldschoolcool
+ek1omg|2020-01-04 20:08:18|My parents before they married in 1975|https://imgur.com/XHX2XTd|jambeatsjelly|False|https://redd.it/ek1omg|49|0.94|0|10|0|oldschoolcool
+ek3nsh|2020-01-04 22:32:42|Kurt Cobain in his home, 1989.|https://i.redd.it/tlyjpgac8u841.jpg|Sofargonept2|False|https://redd.it/ek3nsh|35|0.82|0|5|0|oldschoolcool
+ek2nf4|2020-01-04 21:17:59|Cathy O'Donnell, 1940s|https://i.redd.it/us5i7kd4wt841.jpg|lupindeathray|False|https://redd.it/ek2nf4|37|0.9|0|2|0|oldschoolcool
+ek63jk|2020-01-05 01:43:50|Postcard sent to my uncle from his friend whilst they were patrolling the The Red Sea Desert in 1955|https://i.redd.it/i3va764j7v841.jpg|Hazhord|False|https://redd.it/ek63jk|19|0.94|0|1|0|oldschoolcool
+ejzk25|2020-01-04 17:34:10|Danny DeVito (looking suave!) in his high school senior yearbook, circa 1961.|https://i.redd.it/kkyiltt6ss841.jpg|act1989|False|https://redd.it/ejzk25|69|0.93|0|11|0|oldschoolcool
+ejym3a|2020-01-04 16:23:15|My grandfather had just finished building his Harley and my grandma razzed him about it. And his tummy. 1990|https://i.redd.it/qlzdtrihfs841.jpg|kimcheeandeggs|False|https://redd.it/ejym3a|84|0.98|0|9|0|oldschoolcool
+ek66um|2020-01-05 01:51:28|Wanted to share some F1/LeMans pictures my father took in the 80s, ft. Senna, Rosberg, and Bell|https://i.redd.it/ck92hjpw8v841.jpg|oldracingphotos|False|https://redd.it/ek66um|13|0.82|0|1|0|oldschoolcool
+ek0ea1|2020-01-04 18:33:33|Little American cowboy poses in front of an English guard, 1966|https://i.redd.it/sjm91b3s2t841.jpg|JustineKeyblade|False|https://redd.it/ek0ea1|57|0.93|0|3|0|oldschoolcool
+ek83s8|2020-01-05 04:35:30|My Godfather Donny and I the day I came home from the hospital January 3rd 1981.|"Don was my Dad's best friend growing up. The stories they had about things that even I wouldn't have gotten away with. The guy raced stock cars and snowmobiles and he was damn good, he had the room full of trophies to prove it. He passed away in March of 2008 :(
+
+https://preview.redd.it/8nwl8rpr2w841.jpg?width=2636&format=pjpg&auto=webp&s=2dec2c2a2bc4178d717b5f1b30f439d1c142f83a"|roto31|False|https://redd.it/ek83s8|10|0.91|0|0|1|oldschoolcool
+ek1q7s|2020-01-04 20:11:24|David Bowie and Liz Taylor sharing a cig 1975|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-52173290-master-1533841334.jpg?crop=1xw:0.9883923389437028xh;center,top&resize=768:*|shaka_sulu|False|https://redd.it/ek1q7s|35|0.88|0|6|0|oldschoolcool
+ejyjtw|2020-01-04 16:18:24|The cast of Milos Forman's ONE FLEW OVER THE CUCKOO'S NEST at Oregon State Hospital, Salem, Oregon where they filmed, 1974.|https://i.redd.it/0nvy505oes841.jpg|act1989|False|https://redd.it/ejyjtw|67|0.95|0|10|0|oldschoolcool
+ek5ad5|2020-01-05 00:37:46|My mom and my grandma, 1977|https://i.redd.it/5rg5fxjrvu841.jpg|honeybunsguy|False|https://redd.it/ek5ad5|15|0.94|0|1|0|oldschoolcool
+ek3kpa|2020-01-04 22:26:06|Shibuya Crossing, 1953|https://i.redd.it/odl2ep258u841.jpg|ShounenSuki|False|https://redd.it/ek3kpa|22|0.8|0|1|0|oldschoolcool
+ek0hg7|2020-01-04 18:40:13|My grandmas blue bathroom, circa early 1980’s.|https://i.redd.it/c4oq83ox3t841.jpg|thatpiccnurse|False|https://redd.it/ek0hg7|44|0.9|0|13|0|oldschoolcool
+ek2mg7|2020-01-04 21:16:05|Shadi Ghadirian, Untitled from the Ghajar Series 1998-1999, C-print 213 x 152 cm.|https://i.redd.it/77gnhsvkvt841.jpg|MyHeartAndIAgree|False|https://redd.it/ek2mg7|27|0.87|0|4|0|oldschoolcool
+ek3haj|2020-01-04 22:18:42|Winona Ryder for Rolling Stone Magazine, 1994.|https://i.redd.it/fsuebg3v6u841.jpg|Sofargonept2|False|https://redd.it/ek3haj|23|0.91|0|2|0|oldschoolcool
+ek4jcq|2020-01-04 23:38:38|My great-grandparents, my Mom, and my aunt at Disneyland around 1984-6|https://i.redd.it/ucig1up7lu841.jpg|honeybunsguy|False|https://redd.it/ek4jcq|16|0.77|0|1|0|oldschoolcool
+ek1dw8|2020-01-04 19:46:19|My mother was a Kiss-O-Gram girl back in the 80s. This was her promo photo.|https://i.redd.it/x82rnurqft841.jpg|Mort432|False|https://redd.it/ek1dw8|31|0.87|0|10|0|oldschoolcool
+ejiu9n|2020-01-03 17:46:01|My mom and dad goofing around on their wedding day, 1991|https://imgur.com/nPHegBy|HiImPlatos|False|https://redd.it/ejiu9n|4104|0.99|0|62|0|oldschoolcool
+ejpxxg|2020-01-04 02:11:57|Joan Jett on Santa Monica pier, 1977|https://i.imgur.com/7sRlVjN.jpg|d3adandbr0k3n|False|https://redd.it/ejpxxg|773|0.97|0|23|0|oldschoolcool
+ek10g3|2020-01-04 19:18:41|1953 leather jacket cool, my grandfather in Rutland VT at 18.|https://i.redd.it/am6j4fwqat841.jpg|My_Sp00n_is_too_big|False|https://redd.it/ek10g3|34|0.93|0|1|0|oldschoolcool
+ejxa4g|2020-01-04 14:32:20|Black Sabbath, 1970|https://i.redd.it/0nqvhuuqvr841.jpg|data-explorer|False|https://redd.it/ejxa4g|78|0.94|0|3|0|oldschoolcool
+ek0xox|2020-01-04 19:12:53|My uncle taking a bath (1954)|https://i.imgur.com/mxnklQa.jpg|RX_AssocResp|False|https://redd.it/ek0xox|32|0.94|0|6|0|oldschoolcool
+ek3gsu|2020-01-04 22:17:39|My grandparents in the 1950’s in seven falls, Colorado. My grandpa was a handsome fellow!|https://i.redd.it/ryo02gjr6u841.jpg|bugg1024|False|https://redd.it/ek3gsu|19|0.92|0|0|0|oldschoolcool
+ejvdf5|2020-01-04 11:02:57|Jackie Gleason as Sheriff Buford T. Justice in Smokey and the Bandit, 1977|https://i.redd.it/szgwzm55uq841.jpg|Im_a_Samsquanch29|False|https://redd.it/ejvdf5|132|0.96|0|17|0|oldschoolcool
+ejsfxd|2020-01-04 05:36:16|A younger Chris Farley from The 70s.|https://i.redd.it/k88uerw38p841.jpg|Sleeeepy_Hollow|False|https://redd.it/ejsfxd|356|0.96|0|10|0|oldschoolcool
+ek0h3b|2020-01-04 18:39:35|My dad asleep on the job, 1986|https://i.redd.it/ep5y2axu3t841.jpg|kdav19|False|https://redd.it/ek0h3b|30|0.95|0|2|0|oldschoolcool
+ejyz29|2020-01-04 16:50:45|My Russian grandparents (1964)|https://i.redd.it/5za96gxfks841.jpg|martitela|False|https://redd.it/ejyz29|38|0.95|0|6|0|oldschoolcool
+ek15by|2020-01-04 19:28:53|My dad and his brother in laws playing cards in the 70s. Looks like a scene out of Goodfellas.|https://i.redd.it/i5bfs81nct841.jpg|boomer4411|False|https://redd.it/ek15by|24|0.88|0|5|0|oldschoolcool
+ek40sh|2020-01-04 22:59:55|My late grandparents, my dad on front right, my uncle in the middle, my aunt on front left. If you were to compare my pics at my dad's age I'd be his smitten image. Taken around 1968 or '69 in Southwest Alaska|https://i.redd.it/njes50raeu841.jpg|K3nFr0st|False|https://redd.it/ek40sh|12|0.79|0|9|0|oldschoolcool
+ejubof|2020-01-04 08:55:06|Olivia de Havilland, 1938|https://i.redd.it/yomtrhyk7q841.jpg|lupindeathray|False|https://redd.it/ejubof|158|0.96|0|17|0|oldschoolcool
+ejywlx|2020-01-04 16:45:42|Bette Davis, 'a liberated woman in a male dominated industry'. 1930s.|https://i.redd.it/9iy1zzhjjs841.jpg|Dhorlin|False|https://redd.it/ejywlx|37|0.94|0|0|0|oldschoolcool
+ek2crf|2020-01-04 20:56:47|US Sailor aboard USS Otter (DE 210), March 1945|https://i.redd.it/goiokpwbst841.jpg|mtravisrose|False|https://redd.it/ek2crf|17|0.82|0|8|0|oldschoolcool
+ek03m1|2020-01-04 18:11:58|My grandparents back in 1967, picture was taken shortly after they got married. My venezuelan grandmother and Italian grandfather.|https://i.redd.it/a1cwve7uys841.jpg|bbryanttt|False|https://redd.it/ek03m1|27|0.94|0|0|0|oldschoolcool
+ek0ri0|2020-01-04 19:00:32|Ol' Hank shaking hands with young Doug Sahm (December 19, 1952 at the Skyline Club in Austin, TX). It was the last show that Hank gave before his death on January 1, 1953.|https://i.redd.it/t0lcdxx67t841.jpg|LooongGoooneDaddy|False|https://redd.it/ek0ri0|23|0.95|0|3|0|oldschoolcool
+ejzq4v|2020-01-04 17:45:45|Me and my Grandma 1961, I am not that cool but, she certainly was!|https://i.redd.it/myvqcsl4rs841.jpg|PharoahChromium|False|https://redd.it/ejzq4v|31|0.96|0|3|0|oldschoolcool
+ejetq6|2020-01-03 12:33:30|Soldier nursing a kitten during the Korean War 1953.|https://i.redd.it/8xld0hqm5k841.jpg|pvtjoker3567|False|https://redd.it/ejetq6|8290|0.97|0|113|0|oldschoolcool
+ek1pkp|2020-01-04 20:10:08|Jodie Foster skateboarding in front of the Eiffel Tower in 1977|https://i.redd.it/ub14j5tm1s841.jpg|negrospiritual|False|https://redd.it/ek1pkp|16|0.8|0|2|0|oldschoolcool
+ek2936|2020-01-04 20:49:04|Canadian Motorcycle Army Unit 1942 (source in comments)|https://v.redd.it/zxrtx36unt841|AntonioG-S|False|https://redd.it/ek2936|13|0.84|0|7|0|oldschoolcool
+ejyomv|2020-01-04 16:28:50|Grandfather with one of the planes he flew, circa 1940s|https://i.redd.it/qxxo5jzigs841.jpg|jash56|False|https://redd.it/ejyomv|29|0.95|0|6|0|oldschoolcool
+ejrqfv|2020-01-04 04:34:09|Picture I found if my dad from the late '80s/'90s. Looking like Julian from Trailer Park Boys.|https://i.redd.it/v55pvz10xo841.jpg|Anus_Drippings|False|https://redd.it/ejrqfv|261|0.93|0|29|0|oldschoolcool
+ek624t|2020-01-05 01:40:41|1996 had no faith in Bill Gates and videogames|https://i.redd.it/hvu12m5z6v841.jpg|Way_To_Go_PAUL|False|https://redd.it/ek624t|5|0.72|0|0|0|oldschoolcool
+ejxbyo|2020-01-04 14:36:44|Jeff Bezos in his office in 1999.|https://i.redd.it/qa4sm4wiwr841.jpg|pratmess96|False|https://redd.it/ejxbyo|36|0.74|0|10|0|oldschoolcool
+ek3lol|2020-01-04 22:28:16|Princess Diana, 1970|"&#x200B;
+
+https://preview.redd.it/b3ez43rh8u841.jpg?width=460&format=pjpg&auto=webp&s=331ba7cc3269fd6b784962af7e716f83c3932a51"|mwsoccergirl5|False|https://redd.it/ek3lol|9|0.72|0|0|1|oldschoolcool
+ejlsd8|2020-01-03 21:08:27|My wife and I in 1984, just moved from Louisiana to West Germany.|https://imgur.com/QRqYxFG|awaywardsaint|False|https://redd.it/ejlsd8|830|0.97|0|52|0|oldschoolcool
+ek6bv8|2020-01-05 02:03:18|Watching the Wildcard games reminds me of this amazing photo! In 1961, Time magazine was able to get 14 NFL Quarterbacks together on their day off. Photo by Ralph Morse.|https://i.redd.it/j2tobju0bv841.jpg|aim179|False|https://redd.it/ek6bv8|4|0.67|0|16|0|oldschoolcool
+ejr78a|2020-01-04 03:50:36|Cool story of a Baboon rail worker. 1800s.|https://i.redd.it/stl3j219mn841.jpg|mercurial_dude|False|https://redd.it/ejr78a|236|0.95|0|33|0|oldschoolcool
+ejx03s|2020-01-04 14:06:24|My Mom in Paris in the Mid 60's|https://i.redd.it/wdzh4re4rr841.jpg|pagauge0|False|https://redd.it/ejx03s|32|0.91|0|0|0|oldschoolcool
+ejnes3|2020-01-03 23:04:11|Went home to my grandmother’s house on Christmas and she showed me my mom’s high school yearbook photo, 1978. Needless to say mine is much, much worse.|https://i.redd.it/bqlghhm5an841.jpg|versacegarbagebag|False|https://redd.it/ejnes3|564|0.97|0|28|0|oldschoolcool
+ek7acs|2020-01-05 03:23:18|Family Photo in Brazil .1950’s|"&#x200B;
+
+https://preview.redd.it/n8kiwqlocv841.jpg?width=720&format=pjpg&auto=webp&s=b4bd6bdedc453313fe9c0247e43e33270667d1cc"|emptyplace1|False|https://redd.it/ek7acs|3|0.72|0|0|1|oldschoolcool
+ejpiuc|2020-01-04 01:40:18|Ozzy Osbourne early 1970's|https://i.redd.it/oiuw1now1o841.jpg|Heliocentrist|False|https://redd.it/ejpiuc|340|0.94|0|37|0|oldschoolcool
+ejvoj6|2020-01-04 11:39:32|Eisenhower's farewell address warning about the military industrial complex (1961)|https://www.youtube.com/watch?v=OyBNmecVtdU|Hado0301|False|https://redd.it/ejvoj6|48|0.87|0|6|0|oldschoolcool
+ejzuq5|2020-01-04 17:54:42|Hunting party in a village deep in the Greek mountains. 1900-1930.|https://i.redd.it/saiio2auvs841.jpg|xris519|False|https://redd.it/ejzuq5|15|0.99|0|0|0|oldschoolcool
+ejzav6|2020-01-04 17:15:00|My Grandpa providing a military parade escort to India's first prime minister (1950s?, signed photo, colorized by deepfilter)|https://i.imgur.com/fGqfF44.jpg|amarnro|False|https://redd.it/ejzav6|18|0.95|0|1|0|oldschoolcool
+eka9w7|2020-01-05 08:15:22|Edit on a 1978 Indian movie|https://www.youtube.com/watch?v=r_vNLOw_9Ok|cantcodeme|False|https://redd.it/eka9w7|0|0.5|0|1|0|oldschoolcool
+ejtzxi|2020-01-04 08:16:19|"1995: Tom Hanks and Kevin Bacon in zero gravity, preparing for ""Apollo 13"""|https://i.redd.it/8ap7mjvn0q841.jpg|act1989|False|https://redd.it/ejtzxi|79|0.95|0|1|0|oldschoolcool
+ejs8h1|2020-01-04 05:16:57|R2-D2 and C-3PO visiting Sesame Street, 1980.|https://i.redd.it/6yfnbyrn4p841.jpg|JustineKeyblade|False|https://redd.it/ejs8h1|122|0.97|0|1|0|oldschoolcool
+ejwzlz|2020-01-04 14:05:08|My Mom in Paris in the mid 60's|https://i.redd.it/j7jc5i7wqr841.jpg|pagauge0|False|https://redd.it/ejwzlz|26|0.91|0|0|0|oldschoolcool
+ejk9i7|2020-01-03 19:24:00|My mother's mugshot from 1964. She was 20yrs old.|https://i.redd.it/9ezdvg0v6m841.jpg|DismalTank|False|https://redd.it/ejk9i7|744|0.95|0|72|0|oldschoolcool
+ejyf2f|2020-01-04 16:08:16|My father (right) and a cousin, sitting outside the family’s cabin in Norway. 1977.|https://i.redd.it/4mo5c55vcs841.jpg|-TMac-|False|https://redd.it/ejyf2f|13|0.94|0|0|0|oldschoolcool
+ejycbm|2020-01-04 16:02:19|Aunts and Uncles clowning around 1950s.|https://i.redd.it/mn2mgcwsbs841.jpg|ckptchickie|False|https://redd.it/ejycbm|15|0.9|0|0|0|oldschoolcool
+ejwifb|2020-01-04 13:15:12|Marc Bolan digs in, 1973|https://i.redd.it/7ir8nsguhr841.jpg|MOOzikmktr|False|https://redd.it/ejwifb|20|0.91|0|1|0|oldschoolcool
+ekcwa7|2020-01-05 13:17:49|1989 the old guy|"&#x200B;
+
+https://preview.redd.it/ps9rdyo6ny841.png?width=735&format=png&auto=webp&s=93d8994c7c6b8e91fc99e06d7fe7c72084bcf37b"|1959Chicagoan|False|https://redd.it/ekcwa7|0|0.27|0|0|1|oldschoolcool
+ejstex|2020-01-04 06:11:23|A publicity photo for The Terminator with Michael Beihn and Linda Hamilton (1984)|https://i.redd.it/tmptkofdep841.jpg|TheNameIsJackson|False|https://redd.it/ejstex|71|0.92|0|6|0|oldschoolcool
+ejykc2|2020-01-04 16:19:35|June Brown (Dot Cotton from Eastenders) photo late 1940s|https://i.redd.it/l2wys0kdes841.jpg|Diplodocus114|False|https://redd.it/ejykc2|12|0.92|0|0|0|oldschoolcool
+ek0dkt|2020-01-04 18:32:03|Paul and Linda McCartney during a Wings concert in the 1970s|https://i.redd.it/38u0269per841.jpg|janpampoen|False|https://redd.it/ek0dkt|9|0.73|0|1|0|oldschoolcool
+ek0u1w|2020-01-04 19:05:38|Wes Harrison: Owning the web since before the web existed. 1969|https://i.imgur.com/nQshJ74.jpg|KCDeVoe|False|https://redd.it/ek0u1w|4|0.67|0|1|0|oldschoolcool
+ejmdx4|2020-01-03 21:50:17|Me 41 years ago|https://i.redd.it/tqdlyhbswm841.jpg|bigcityornot|False|https://redd.it/ejmdx4|234|0.96|0|31|0|oldschoolcool
+ej8z9v|2020-01-03 02:50:21|My beautiful grandmother, recovering from tuberculosis at the Irene Byron Tuberculosis Sanatorium, circa 1950.|https://i.redd.it/yfzy3f8l9h841.jpg|yam70|False|https://redd.it/ej8z9v|18242|0.95|1|237|0|oldschoolcool
+ejpx4o|2020-01-04 02:10:15|Sissy Spacek and Carrie Fisher, 1978.|https://i.redd.it/hd34efi87o841.jpg|Sofargonept2|False|https://redd.it/ejpx4o|94|0.95|0|3|0|oldschoolcool
+ejhl7a|2020-01-03 16:18:08|A family putting on smiles through The Great Depression, 1930|https://i.redd.it/nqd4n2op9l841.jpg|JustineKeyblade|False|https://redd.it/ejhl7a|532|0.98|0|28|0|oldschoolcool
+ejknm3|2020-01-03 19:50:25|Steve Martin, NYC 1977.|https://i.redd.it/p52mii2lbm841.jpg|dainthomas|False|https://redd.it/ejknm3|250|0.97|0|18|0|oldschoolcool
+ejr6dv|2020-01-04 03:48:35|My uncle climbing the West Face on El Cap in 1989|https://i.redd.it/atveg54woo841.jpg|saltypizzagaming|False|https://redd.it/ejr6dv|54|0.97|0|2|0|oldschoolcool
+ejfawd|2020-01-03 13:18:55|My grandparents in the early fifties|https://i.redd.it/k1s5duygdk841.jpg|Melaena_|False|https://redd.it/ejfawd|750|0.97|0|22|0|oldschoolcool
+ejvcfc|2020-01-04 10:59:58|My great uncle Circa 1910s-1920s, I’m not positive, I know he passed away in his late 20s in 1931.|https://i.redd.it/ocrg4cxutq841.jpg|SallyHardesty|False|https://redd.it/ejvcfc|12|0.81|0|0|0|oldschoolcool
+ejpxqd|2020-01-04 02:11:32|Tim Burton and Michelle Pfeiffer at the premiere for Batman Returns, 1992.|https://i.redd.it/abhbfelh7o841.jpg|Sofargonept2|False|https://redd.it/ejpxqd|54|0.93|0|2|0|oldschoolcool
+ejhze6|2020-01-03 16:45:43|The woman that owned the barn I used to board my horses with, early 1950's. Toughest, smartest horsewoman I've ever met.|https://i.redd.it/qu3nx8olel841.jpg|pacingpilot|False|https://redd.it/ejhze6|308|0.95|0|18|0|oldschoolcool
+ejnu7u|2020-01-03 23:35:41|A party at my great aunt's house, c. 1960s. Extremely 1960s.|https://i.redd.it/u62moqzrfn841.jpg|MF_Bfg|False|https://redd.it/ejnu7u|86|0.97|0|16|0|oldschoolcool
+ejilov|2020-01-03 17:29:16|Cher Makeup Center circa 1977|https://i.redd.it/slhod9aeml841.jpg|lumiaglow|False|https://redd.it/ejilov|244|0.96|0|17|0|oldschoolcool
+ek44d0|2020-01-04 23:07:17|Farbrausch - fr-025: the.popular.demo| [https://www.youtube.com/watch?v=YBpo5GHcmsE](https://www.youtube.com/watch?v=YBpo5GHcmsE)|tanapox|False|https://redd.it/ek44d0|1|0.54|0|0|1|oldschoolcool
+ejsi94|2020-01-04 05:42:15|Priscilla Presley and Robert Kardashian, Beverly Hills, March 27, in 1976.|https://i.imgur.com/aJRwx7r.jpg|Youarethebigbang|False|https://redd.it/ejsi94|23|0.82|0|7|0|oldschoolcool
+ejs7gt|2020-01-04 05:14:27|My Dad (r) & his Brother, wearing Gangsta Suits, circa 1941|https://i.redd.it/1r9z0q104p841.jpg|IntelligentHuman|False|https://redd.it/ejs7gt|25|0.92|0|5|0|oldschoolcool
+ejpd66|2020-01-04 01:28:09|My father in-law’s Trans Am. 80’s in south Alabama.|https://i.redd.it/2cpqpd2uzn841.jpg|RandyOrphan555|False|https://redd.it/ejpd66|53|0.96|0|6|0|oldschoolcool
+ejqp57|2020-01-04 03:10:44|My dad backpacking Jackson Hole, Wyoming in 1976|https://i.redd.it/3m505o05io841.jpg|drconnan|False|https://redd.it/ejqp57|38|0.95|0|5|0|oldschoolcool
+ejpn93|2020-01-04 01:49:26|[1933] Future President Gerald Ford, football player at University of Michigan|https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTYxNjI2NDE5MDg3MjIyMzk3/presidents-athletes-gerald-ford-getty-615297028.jpg|GarthHooks99|False|https://redd.it/ejpn93|45|0.93|0|10|0|oldschoolcool
+ejo3l5|2020-01-03 23:54:33|The real Winnie the Pooh and Christopher Robin, circa 1927.|https://i.redd.it/9o05kd25jn841.jpg|act1989|False|https://redd.it/ejo3l5|64|0.92|0|2|0|oldschoolcool
+ejwkiz|2020-01-04 13:21:45|(1951) a video we may find useful in the near future...|https://youtu.be/IKqXu-5jw60|brocksicle|False|https://redd.it/ejwkiz|3|0.65|0|6|0|oldschoolcool
+ejpk4h|2020-01-04 01:43:00|My Mother and Father at a Halloween Gala in 1962|https://i.redd.it/bhd1bfnh2o841.jpg|pagauge0|False|https://redd.it/ejpk4h|40|0.82|0|20|0|oldschoolcool
+ejp2rx|2020-01-04 01:06:15|Frida Kahlo at age 12, 1919. Restored and Colourized by me.|https://i.redd.it/gv6413byun841.jpg|colouringhistory|False|https://redd.it/ejp2rx|45|0.87|0|1|0|oldschoolcool
+ejtikl|2020-01-04 07:22:41|Rhode Island, 1991|https://i.redd.it/wn09h483rp841.jpg|MyLittleButtercup225|False|https://redd.it/ejtikl|15|0.74|0|14|0|oldschoolcool
+ejg36g|2020-01-03 14:27:53|Found this old pic of my Aunt & Uncle. Dad says he took the pic the day before their wedding - circa 1972|https://i.redd.it/k6o21zi1qk841.jpg|I_are_fabulous|False|https://redd.it/ejg36g|311|0.95|0|32|0|oldschoolcool
+ejl9ba|2020-01-03 20:31:48|Catherine O' Hara in the 80s.|https://i.redd.it/x95fc8oxim841.jpg|Makispi|False|https://redd.it/ejl9ba|101|0.88|0|12|0|oldschoolcool
+ejpla2|2020-01-04 01:45:22|Dad (middle) and my uncles (c. 1984)|https://i.redd.it/55kodhvr2o841.jpg|LegoMaster2149|False|https://redd.it/ejpla2|36|0.9|0|6|0|oldschoolcool
+ejp7sx|2020-01-04 01:16:51|Jewish children with their teacher, Samarkand year 1907!|https://i.redd.it/ijv9vaotxn841.jpg|Tobby_96|False|https://redd.it/ejp7sx|36|0.89|0|1|0|oldschoolcool
+ejj6g0|2020-01-03 18:09:07|Pops just turned 70 last week. Here he is as a kiddo with my grandmother in the 1950s. (Juarez, MX)|https://i.redd.it/41xql4iitl841.jpg|adeadbee|False|https://redd.it/ejj6g0|144|0.94|0|11|0|oldschoolcool
+ejrzxq|2020-01-04 04:56:08|My uncle, aunt, and dad (from left to right) in Colombia in the late 60s or early 70s|https://i.redd.it/9mzj355y0p841.jpg|ibellahappy|False|https://redd.it/ejrzxq|19|0.89|0|2|0|oldschoolcool
+ejq882|2020-01-04 02:33:51|Me, my sister & the station wagon. circa 1975|https://i.redd.it/o7r7v0akbo841.jpg|chasethekat18|False|https://redd.it/ejq882|29|0.91|0|16|0|oldschoolcool
+ejrju2|2020-01-04 04:18:35|My Great Grandfather flew 10 bombing missions during WWII, but was too stubborn to quit... so he became an on-base firefighter until the end of the war. This photo is from 1945.|https://i.redd.it/5xlcwmv8uo841.jpg|FailureisMySpecialty|False|https://redd.it/ejrju2|20|0.86|0|0|0|oldschoolcool
+ejr2st|2020-01-04 03:40:52|My great grandpa who was a ventriloquist back in the 60s/70s|https://i.redd.it/a7ppcmrhno841.jpg|iamnotacat13|False|https://redd.it/ejr2st|23|0.9|0|1|0|oldschoolcool
+ejuoc5|2020-01-04 09:38:17|Augusts Kohs, Unknown Woman, Riga, about 1920 [3700X3000]|https://i.redd.it/7wc3go47fq841.jpg|JanosValuskaCTE|False|https://redd.it/ejuoc5|6|0.84|0|2|0|oldschoolcool
+ejrdru|2020-01-04 04:05:04|I find this a bit nerdy but still a cool idea. Futuristic yet old school. 1959.|https://gfycat.com/anxiousthunderousalaskanmalamute|mercurial_dude|False|https://redd.it/ejrdru|21|0.89|0|2|0|oldschoolcool
+ejqxxo|2020-01-04 03:30:04|My grandpa in a C-130 during the Vietnam war.|https://imgur.com/a/i9PndGh|nameberry|False|https://redd.it/ejqxxo|20|0.92|0|2|0|oldschoolcool
+ejds3x|2020-01-03 10:42:06|Elin Wägner standing next to roughly 350,000 signatures demanding women get the right to vote. Sweden 1914.|https://i.redd.it/ku2qflbrlj841.jpg|froggysaysno|False|https://redd.it/ejds3x|420|0.96|0|8|0|oldschoolcool
+ejodgi|2020-01-04 00:14:20|Little me aged about 1 and a bit . 18 months max.|https://i.redd.it/w60ga4qdmn841.jpg|Diplodocus114|False|https://redd.it/ejodgi|36|0.91|0|4|0|oldschoolcool
+ejqojk|2020-01-04 03:09:23|My Dad and his motorcycle in '79|https://i.redd.it/xxt7ei9who841.jpg|MissHunbun|False|https://redd.it/ejqojk|20|0.82|0|3|0|oldschoolcool
+ejmjmd|2020-01-03 22:02:00|My groovy stepmom and her friends in the late 70's|https://i.redd.it/vnmnohjsxm841.jpg|Saltypoison|False|https://redd.it/ejmjmd|44|0.88|0|21|0|oldschoolcool
+ejqawh|2020-01-04 02:39:19|Natalie Wood and Robert Wagner aboard their yacht, Splendour, in Marina del Rey, CA on July 7, 1978.|https://i.redd.it/f2owkoyico841.jpg|HellsJuggernaut|False|https://redd.it/ejqawh|19|0.75|0|9|0|oldschoolcool
+ejlkfn|2020-01-03 20:53:05|My Dad On His 21st Birthday, 1993|https://i.redd.it/qqmfhzlnmm841.jpg|Papyrus_Pete|False|https://redd.it/ejlkfn|53|0.9|0|8|0|oldschoolcool
+ejhfya|2020-01-03 16:08:09|Sarala Thakral, the first Indian woman to become a pilot (1936)|https://i.redd.it/8i33iu1u7l841.jpg|friskyfrog|False|https://redd.it/ejhfya|124|0.95|0|2|0|oldschoolcool
+ejo8v8|2020-01-04 00:04:45|Rainn Wilson 1976|https://i.redd.it/uv6m2ew4kn841.jpg|MrMystery777|False|https://redd.it/ejo8v8|26|0.82|0|5|0|oldschoolcool
+ejoo84|2020-01-04 00:35:40|My Grandfather (Leonard) and Grandmother (Louis Lane) on his 1941 Knucklehead|https://i.redd.it/j0af585von841.jpg|Mikeslotth|False|https://redd.it/ejoo84|22|0.88|0|1|0|oldschoolcool
+ejgehz|2020-01-03 14:52:50|Calendar for 1992 identical dates to 2020.|https://i.redd.it/b3nr24ehbk841.jpg|Summerbt|False|https://redd.it/ejgehz|139|0.94|0|15|0|oldschoolcool
+ejq4oi|2020-01-04 02:26:19|German Chaplain on Horseback, WWI|https://i.redd.it/wbvxlvx5ao841.jpg|CorsairAce|False|https://redd.it/ejq4oi|14|0.88|0|2|0|oldschoolcool
+ejp4bh|2020-01-04 01:09:32|My grandpa lighting a cig for my grandma, circa 1981|https://i.redd.it/o8afuqriwn841.jpg|18b36|False|https://redd.it/ejp4bh|18|0.96|0|2|0|oldschoolcool
+ejmzhh|2020-01-03 22:33:29|Summer of 1994... It was my Mustang eater. 1967 Ford Fairlane GT. I sold it in 95 to buy an 81 Camaro while I was stationed in CT. That’s the back of my 1984 Monte Carlo in front of it.|https://i.redd.it/ych9h0do4n841.jpg|qualifiedPI|False|https://redd.it/ejmzhh|32|0.82|0|13|0|oldschoolcool
+ejkn3n|2020-01-03 19:49:24|My grandma in the early 70’s|https://i.redd.it/8s86d67ebm841.jpg|smoochypillow|False|https://redd.it/ejkn3n|45|0.87|0|3|0|oldschoolcool
+ejqi5y|2020-01-04 02:55:21|the last boy scout in the village 1936|https://i.redd.it/vt074ihafo841.jpg|Diplodocus114|False|https://redd.it/ejqi5y|12|0.79|0|3|0|oldschoolcool
+ejfaem|2020-01-03 13:17:38|Woody Guthrie taking a stand, early 1940's|https://i.redd.it/ldgkglvhdk841.jpg|Heliocentrist|False|https://redd.it/ejfaem|145|0.89|0|5|0|oldschoolcool
+ejju89|2020-01-03 18:54:53|My Grandmother and her brother water skiing, in Acapulco, México. 1950|https://i.redd.it/oqrukdcj1m841.jpg|Colfeba|False|https://redd.it/ejju89|53|0.88|0|4|0|oldschoolcool
+eiyuec|2020-01-02 14:25:41|"George Carlin being arrested after performing the controversial routine ""Seven Words You Can Never Say On Television"" May 27th 1972"|https://i.redd.it/rqlb1fkqkd841.jpg|Sleeeepy_Hollow|False|https://redd.it/eiyuec|60115|0.95|3|2563|0|oldschoolcool
+ejl2af|2020-01-03 20:18:21|Brigitte Bardot 1959|https://i.redd.it/ip7m6ubkgm841.jpg|Toffeeapple16|False|https://redd.it/ejl2af|34|0.8|0|0|0|oldschoolcool
+ejo8ck|2020-01-04 00:03:38|[1983] David Bowie on a French Postcard|https://i.redd.it/0zudx08rkn841.jpg|mistermajik2000|False|https://redd.it/ejo8ck|17|0.81|0|1|0|oldschoolcool
+ejgplu|2020-01-03 15:16:04|My father in Vietnam in 1969|https://i.redd.it/fgpx5mwmyk841.jpg|Mrina18|False|https://redd.it/ejgplu|83|0.9|0|8|0|oldschoolcool
+ejga1o|2020-01-03 14:43:20|Carl Sagan and the Dalai Lama 1991|https://i.redd.it/i3cqbutssk841.jpg|Saganism1996|False|https://redd.it/ejga1o|91|0.94|0|8|0|oldschoolcool
+ejn1r0|2020-01-03 22:38:04|My dad, flying huey's in the Middle East, '86|https://i.redd.it/vamb0p9h5n841.jpg|starsighed|False|https://redd.it/ejn1r0|18|0.78|0|1|0|oldschoolcool
+ejdxe6|2020-01-03 10:58:37|Teddy Roosevelt 1870s|https://i.redd.it/uf8b79wooj841.jpg|Dudebro3001|False|https://redd.it/ejdxe6|150|0.96|0|12|0|oldschoolcool
+ejp2j7|2020-01-04 01:05:43|blockbuster video grand opening, 1990|https://preview.redd.it/51yc2ky53k841.jpg?auto=webp&s=51fcbe6a0377c634a6e70bf973ee31e16e3e32cb|padawrong|False|https://redd.it/ejp2j7|12|0.79|0|2|0|oldschoolcool
+ejjbas|2020-01-03 18:18:12|This photo was taken by my dad in 1983 when we took trip to London. That’s me on the right next to my mom, sister and nan.|https://i.redd.it/v4zi6l14vl841.jpg|Mittius|False|https://redd.it/ejjbas|37|0.83|0|2|0|oldschoolcool
+ejo094|2020-01-03 23:47:39|My grandfather in the early 70s* smackin’ white. He still plays and even has a tournament named after the family at the local course.|https://i.redd.it/beam9howhn841.jpg|ArchticStyx|False|https://redd.it/ejo094|13|0.85|0|1|0|oldschoolcool
+eje604|2020-01-03 11:24:59|AC/DC on New Years Day 1976, backstage at a press conference.|https://i.redd.it/mwb7mzo1tj841.jpg|Theriooo|False|https://redd.it/eje604|126|0.93|0|9|0|oldschoolcool
+ej8n6x|2020-01-03 02:24:27|Pam Grier in her tennis gear, 1976.|https://i.redd.it/d557smxx4h841.jpg|Sofargonept2|False|https://redd.it/ej8n6x|657|0.95|0|27|0|oldschoolcool
+ejouq2|2020-01-04 00:48:26|My Mother and Father at a Halloween Gala in 1962|https://i.redd.it/8f1p1n4rsn841.jpg|pagauge0|False|https://redd.it/ejouq2|9|0.69|0|1|0|oldschoolcool
+ejsgbm|2020-01-04 05:37:16|Madonna, 1976|"&#x200B;
+
+https://preview.redd.it/5n2mku998p841.jpg?width=370&format=pjpg&auto=webp&s=87bb7015c840f10117ffa1b30d923b9fc545fa11"|mwsoccergirl5|False|https://redd.it/ejsgbm|2|0.67|0|1|1|oldschoolcool
+ejfwp8|2020-01-03 14:13:06|A bleeding reporter interviews a bleeding activist after one of the mass anti-war demonstrations at the 1968 Democratic National Convention, which were violently broken up by Chicago police and federal troops. [800x977]|https://i.redd.it/7vv2evqjoj841.jpg|mars131|False|https://redd.it/ejfwp8|69|0.9|0|3|0|oldschoolcool
+ejhdj2|2020-01-03 16:03:29|A silent era movie actress- Seetha Devi, in 1925|https://i.redd.it/qp7n0u227l841.png|friskyfrog|False|https://redd.it/ejhdj2|46|0.87|0|0|0|oldschoolcool
+ejf3uq|2020-01-03 13:01:00|Nate Dogg and E40's son playing Wrestle Mania 1995.|https://i.redd.it/0365feejak841.jpg|pvtjoker3567|False|https://redd.it/ejf3uq|83|0.91|0|8|0|oldschoolcool
+ejh7ma|2020-01-03 15:52:05|Lady on a Lambretta at the Gateway of India, Bombay – 1971.|https://i.redd.it/qzza469t4l841.jpg|friskyfrog|False|https://redd.it/ejh7ma|49|0.87|0|1|0|oldschoolcool
+ejot1f|2020-01-04 00:44:48|Bruce Springsteen 1980s|https://i.redd.it/4yj9hpv3sn841.jpg|Hamarjadid|False|https://redd.it/ejot1f|10|0.76|0|1|0|oldschoolcool
+ejhh0l|2020-01-03 16:10:07|A student at the University of Madras (present day India) in 1948, where they usually tied their hair to a nail to keep from falling asleep while studying|https://i.redd.it/5xo7sqq58l841.jpg|friskyfrog|False|https://redd.it/ejhh0l|40|0.83|0|6|0|oldschoolcool
+ejlk20|2020-01-03 20:52:19|Screaming fans at the 1964 Beatles concert at the ABC Cinema, Edinburgh.|https://i.redd.it/unomizlmmm841.jpg|NoneOfUsComeOutAlive|False|https://redd.it/ejlk20|13|0.76|0|3|0|oldschoolcool
+ejik9s|2020-01-03 17:26:16|My friend’s dad in the late 1950’s. Cool to see this, as he was a retired Judge. We forget our parents were ever fun sometimes.|https://i.redd.it/7e4lquavll841.jpg|twistedmatron7|False|https://redd.it/ejik9s|27|0.82|0|1|0|oldschoolcool
+ejk1mg|2020-01-03 19:09:06|David Gilmour as a teen in the '60s playing an A5 chord.|https://i.redd.it/127z59ujgk841.jpg|madd74|False|https://redd.it/ejk1mg|19|0.84|0|4|0|oldschoolcool
+ejaoc5|2020-01-03 05:10:05|Cree chief Pitikwahanapiwiyin, 1885|https://www.imgur.com/665kToO.png|hanky1979|False|https://redd.it/ejaoc5|252|0.97|0|17|0|oldschoolcool
+ejhe69|2020-01-03 16:04:41|The Rolls Royce Depot in Bombay - 1930s|https://i.redd.it/g1z6pek97l841.jpg|friskyfrog|False|https://redd.it/ejhe69|33|0.86|0|1|0|oldschoolcool
+ejca4u|2020-01-03 07:46:47|Princess Leia and Vader August 1983|https://i.redd.it/ea7w6n5hqi841.jpg|Annamman|False|https://redd.it/ejca4u|153|0.93|0|10|0|oldschoolcool
+ejhd35|2020-01-03 16:02:38|At the bus station (April 19th 1983)|https://i.imgur.com/AWcwGPV.jpg|grisigt|False|https://redd.it/ejhd35|33|0.87|0|1|0|oldschoolcool
+ej8o1q|2020-01-03 02:26:17|Lynda Carter and Marvin Gaye at the AMA's, 1979.|https://i.redd.it/vqdy2xs75h841.jpg|Sofargonept2|False|https://redd.it/ej8o1q|388|0.95|0|12|0|oldschoolcool
+ek325u|2020-01-04 21:47:44|Lesboan couple kisses in the 60s|https://i.redd.it/uiicugbdes841.jpg|ironcaptain101|False|https://redd.it/ek325u|0|0.48|0|11|0|oldschoolcool
+ejolca|2020-01-04 00:29:53|"Mike Mareen, disco artist from Germany, known for hits such as ""Agent of Liberty"" and ""Love Spy"", 1980's"|https://i.redd.it/y5w1aoi3pn841.jpg|AgapeSaturn|False|https://redd.it/ejolca|5|0.87|0|0|0|oldschoolcool
+ejk8yv|2020-01-03 19:22:55|My Grandfather, 1939ish. He shared a few good stories of WW2 and had lots of cool guns and other stuff he brought back from the war... including arms full of tattoos. :)|https://i.redd.it/lhmveedo6m841.jpg|qualifiedPI|False|https://redd.it/ejk8yv|15|0.87|0|2|0|oldschoolcool
+ejhtvu|2020-01-03 16:35:08|Greta Garbo in the movie Camille. (1936).|https://i.redd.it/fzezqsvqcl841.jpg|Dhorlin|False|https://redd.it/ejhtvu|23|0.84|0|1|0|oldschoolcool
+ejasz0|2020-01-03 05:21:40|My grandparents at there wedding in 1971 in Guayanilla, Puerto Rico. Grandmother 19, Grandfather 22.|https://i.redd.it/07t7m18l0i841.jpg|fargo_loko|False|https://redd.it/ejasz0|180|0.94|0|9|0|oldschoolcool
+ejii0y|2020-01-03 17:21:52|Ozzy Osbourne was pretty hot, 1972|https://i.redd.it/ngdwlvs2ll841.jpg|MrRockNRollLoser|False|https://redd.it/ejii0y|16|0.7|0|5|0|oldschoolcool
+ejmaj1|2020-01-03 21:43:47|USS Narwhal SSN-671 anchored 5 nm off the short of Equador in 1996 as we ride the “liberty launch” back from the beach.|https://i.redd.it/62lhgg4tvm841.jpg|qualifiedPI|False|https://redd.it/ejmaj1|8|0.84|0|4|0|oldschoolcool
+ejg0m0|2020-01-03 14:21:50|My grandfather doing his thing ca 1965|https://i.redd.it/oc9fjziyok841.jpg|MissyC123|False|https://redd.it/ejg0m0|28|0.84|0|8|0|oldschoolcool
+ejhc2d|2020-01-03 16:00:37|"""The Bandit Queen"" Phoolan Devi somewhere in Central India - 1981"|https://i.redd.it/8whg6sah6l841.jpg|friskyfrog|False|https://redd.it/ejhc2d|23|0.84|0|0|0|oldschoolcool
+ejac54|2020-01-03 04:41:04|My grandfather looking dapper as hell. 1948|https://i.redd.it/kr4k34hcth841.jpg|Jasink1987|False|https://redd.it/ejac54|170|0.94|0|15|0|oldschoolcool
+ejjlg7|2020-01-03 18:38:27|My parents in the 80s(?) I think!|https://i.redd.it/044y8msqyl841.jpg|bulletproofcupid_|False|https://redd.it/ejjlg7|15|0.81|0|21|0|oldschoolcool
+ej9cj4|2020-01-03 03:19:03|Sioux Indian in tribal wear visiting an American history class, 1899|https://i.redd.it/rtrp6mspeh841.jpg|courtesy_flush_plz|False|https://redd.it/ej9cj4|205|0.98|0|9|0|oldschoolcool
+ejibno|2020-01-03 17:09:34|My Greek grandpa circa 1953|https://i.redd.it/7eohji7ril841.jpg|Lazaross24|False|https://redd.it/ejibno|14|0.88|0|1|0|oldschoolcool
+ejjjvq|2020-01-03 18:35:26|aviator Federico Semprini, 1917|https://i.redd.it/75k9kxa7yl841.jpg|cumonfeelthenoyz|False|https://redd.it/ejjjvq|11|0.86|0|3|0|oldschoolcool
+ej93ic|2020-01-03 02:59:44|My Dad when he was 17 in 1971|https://i.redd.it/2ipkgml4bh841.jpg|Crazyness24|False|https://redd.it/ej93ic|164|0.95|0|25|0|oldschoolcool
+ejhl24|2020-01-03 16:17:50|Bob Backlund, Mean Gene Okerlund, and Hulk Hogan. January 3, 1984.|https://i.redd.it/7fnm56bh9l841.png|sisyphushaditsoeasy|False|https://redd.it/ejhl24|15|0.73|0|3|0|oldschoolcool
+ejbjwj|2020-01-03 06:31:13|My grandfather a man who made a escape from a Nazi work camp and stole food to feed families, photo taken in 1960’s|https://i.redd.it/p93nvvszci841.jpg|KaisersAndKaiserins|False|https://redd.it/ejbjwj|78|0.93|0|4|0|oldschoolcool
+ejhhxt|2020-01-03 16:11:56|Local college advertising their media technology program at the local mall in the 80's|https://imgur.com/bcoqliY|blh12|False|https://redd.it/ejhhxt|15|0.86|0|0|0|oldschoolcool
+ejind5|2020-01-03 17:32:37|Young stars of Space Camp in ‘85|https://i.redd.it/qvm9u96a7h841.jpg|thebiggestletdown|False|https://redd.it/ejind5|9|0.74|0|3|0|oldschoolcool
+eje1fh|2020-01-03 11:10:48|An American medic patches up an Iraqi during the Persian Gulf War, 1990-1991|https://i.redd.it/d0zi2novqj841.jpg|EssoEssex|False|https://redd.it/eje1fh|29|0.85|0|2|0|oldschoolcool
+ej3hbz|2020-01-02 20:10:52|My mom around 1978|https://i.redd.it/8856diebaf841.jpg|mired8998|False|https://redd.it/ej3hbz|454|0.95|0|18|0|oldschoolcool
+ej978x|2020-01-03 03:07:49|Alice Cooper on The Muppet Show, bargaining for souls in 1978|https://i.redd.it/guejh6toch841.jpg|rdm778|False|https://redd.it/ej978x|120|0.96|0|1|0|oldschoolcool
+ejajjb|2020-01-03 04:58:45|Cats catching milk at a California dairy farm, 1954|https://i.redd.it/oi94dl2iwh841.jpg|courtesy_flush_plz|False|https://redd.it/ejajjb|84|0.88|0|10|0|oldschoolcool
+ejeuo5|2020-01-03 12:36:11|My dad (far right), uncle (far left) and the boys preparing a mean bbq in the late 70’s.|https://i.redd.it/aq4uuux36k841.jpg|AnatolianTree|False|https://redd.it/ejeuo5|21|0.88|0|0|0|oldschoolcool
+ejeigo|2020-01-03 12:02:01|A group of teddy boys enjoy an evening out at the Mecca Dance Hall in Tottenham, London, May 1954. Photo by Joseph McKeown for Picture Post.|https://i.redd.it/8byfyh400k841.jpg|HellsJuggernaut|False|https://redd.it/ejeigo|23|0.82|0|6|0|oldschoolcool
+ej7fi2|2020-01-03 00:50:09|So I was on the highway today and saw my favourite version of the Batmobile. 1960s but I took this last week.|https://i.redd.it/6ogjowg5og841.jpg|GilligansCorner|False|https://redd.it/ej7fi2|178|0.95|0|8|0|oldschoolcool
+ej5dmn|2020-01-02 22:21:45|Leonardo DiCaprio & Kate Winslet chilling in costume on the set of ‘Titanic’ (1997)|https://i.redd.it/46m2yw6oxf841.jpg|hernameisDAEM|False|https://redd.it/ej5dmn|277|0.96|0|10|0|oldschoolcool
+ejfwee|2020-01-03 14:12:22|Victoria Principal turns 70 today. Here she is with Andy Gibb in 1981.|https://i.redd.it/jogb5tu4nk841.png|sisyphushaditsoeasy|False|https://redd.it/ejfwee|17|0.8|0|4|0|oldschoolcool
+ejf6vw|2020-01-03 13:08:45|My grandparents music made it to the whitehouse (1978)|https://i.redd.it/exjvcybxbk841.jpg|Jollyboy8D|False|https://redd.it/ejf6vw|19|0.85|0|3|0|oldschoolcool
+ej1d0p|2020-01-02 17:41:27|In 1995 I got a picture of George Clinton holding my son in a cow suit. It’s 2020 and I still have my son and the cow suit. Maybe Reddit can help get George Clinton to recreate the picture.|https://i.imgur.com/8VybgJk.jpg|BigBobby2016|False|https://redd.it/ej1d0p|647|0.9|0|35|0|oldschoolcool
+ejlkqu|2020-01-03 20:53:44|Tintype (magnetic) of 6 unknown handsome men (sometime between 1855–1940's)|"I have researched (unsuccessfully) the identity of these men so I post it to the world once a year or so in the hopes of getting a clue.  Enjoy:) Send any suggestions of date or names if you have them.  This is a tintype that has been in our family for eons but we do not believe they are relatives. This tintype could have been a farm auction purchase (if it was then it most likely was from an Ohio farm). 
+
+https://preview.redd.it/9mj56z3gmm841.jpg?width=617&format=pjpg&auto=webp&s=54c3ad14a609b262d22201247fd14335626621d4"|readingHappiness|False|https://redd.it/ejlkqu|5|0.63|0|0|1|oldschoolcool
+ejcfmn|2020-01-03 08:04:04|Pablo Escobar standing in front of the white house with his son in 1981.(Tell me if this has been posted before)|https://i.redd.it/2cwc5lbkti841.jpg|ysmain|False|https://redd.it/ejcfmn|45|0.77|0|6|0|oldschoolcool
+ejdls8|2020-01-03 10:21:44|[Est. 1930] A photo my Dad found recently of my Great-Great-Grandad! Think he looks pretty suave! (Colour restoration I did in comments)|https://i.redd.it/pyl0m724ij841.png|WarrilowJ|False|https://redd.it/ejdls8|25|0.94|0|2|0|oldschoolcool
+eje7w8|2020-01-03 11:31:00|The Gods of Metal Together: Lemmy and Ozzy (Circa 1980's)|https://i.redd.it/wigchsbduj841.jpg|DaExtinctOne|False|https://redd.it/eje7w8|22|0.84|0|2|0|oldschoolcool
+ejgcti|2020-01-03 14:49:20|Ruth Handler, inventor of Barbie and co-founder of Mattel, 1961.|https://i.redd.it/qmzjh4kstk841.jpg|Slow-moving-sloth|False|https://redd.it/ejgcti|11|0.77|0|0|0|oldschoolcool
+ejd568|2020-01-03 09:28:49|Singer/model Christa Päffgen a.k.a. Nico (1960)|https://i.redd.it/lj3iuxi16j841.jpg|earthmoonsun|False|https://redd.it/ejd568|31|0.92|0|2|0|oldschoolcool
+ejb3a7|2020-01-03 05:47:06|“The Survivors” 1985|https://i.redd.it/e9fv61645i841.jpg|Dudebro3001|False|https://redd.it/ejb3a7|56|0.86|0|7|0|oldschoolcool
+ejgxkb|2020-01-03 15:32:16|My late grandparents around mid to late '60s|https://i.redd.it/sjgrxa0j1l841.jpg|K3nFr0st|False|https://redd.it/ejgxkb|8|0.86|0|1|0|oldschoolcool
+ejc97k|2020-01-03 07:43:58|Black Sabbath 1969|https://i.redd.it/xlgx2s6zpi841.jpg|hernanthegoat|False|https://redd.it/ejc97k|34|0.91|0|3|0|oldschoolcool
+ej50tr|2020-01-02 21:57:04|Korean War goodbye kiss, L.A. 9/6/1950|https://i.redd.it/44o5lqk9tf841.jpg|courtesy_flush_plz|False|https://redd.it/ej50tr|212|0.97|0|9|0|oldschoolcool
+ejek3c|2020-01-03 12:06:30|My mom & dad in California in late 1989. Our strong point is our hair obviously|https://i.redd.it/pgqtedxs0k841.jpg|imreallyaturtle23|False|https://redd.it/ejek3c|13|0.83|0|6|0|oldschoolcool
+ej7vfw|2020-01-03 01:24:34|The best punk band ever, The Misfits posing for a picture (possibly the best band ever). - late 70’s early 80’s|https://i.redd.it/c53agvm6ug841.jpg|drw2003|False|https://redd.it/ej7vfw|102|0.83|0|21|0|oldschoolcool
+eiz8d6|2020-01-02 14:59:31|1961. My Stunning Grandma.|https://i.redd.it/8gsy4cnrqd841.jpg|ColorfulFlowers|False|https://redd.it/eiz8d6|687|0.97|0|36|0|oldschoolcool
+ej0f60|2020-01-02 16:32:53|My grandpa, I believe the year is 1967.. makes him 53 years old. He used to climb a rope to get to the second story of his home.|https://i.redd.it/job101af7e841.jpg|cccrandall|False|https://redd.it/ej0f60|510|0.97|0|62|0|oldschoolcool
+ejjiiz|2020-01-03 18:32:43|André Breton photographed by Man Ray, 1920 circa|https://i.redd.it/cebsc9xixl841.jpg|cumonfeelthenoyz|False|https://redd.it/ejjiiz|2|0.67|0|0|0|oldschoolcool
+ej1uv2|2020-01-02 18:17:09|My parents, at 17 and 18 in ‘65, who are still together today.|https://i.redd.it/i8unzc21qe841.jpg|this_blonde_says|False|https://redd.it/ej1uv2|335|0.95|0|18|0|oldschoolcool
+ej657z|2020-01-02 23:16:16|Freddie Mercury performing 1975|https://i.redd.it/b28nq5ee7g841.jpg|hernanthegoat|False|https://redd.it/ej657z|132|0.93|0|5|0|oldschoolcool
+ej06u7|2020-01-02 16:15:10|Exxon issued my dad this desk about 1970. Cool metal retro. I’ll keep until I retire|https://i.redd.it/m3oogqq94e841.jpg|rgursk1|False|https://redd.it/ej06u7|461|0.96|1|55|0|oldschoolcool
+ej28mm|2020-01-02 18:44:30|Little boy taking a picture, 1910|https://i.redd.it/09cp5ptwue841.jpg|JustineKeyblade|False|https://redd.it/ej28mm|286|0.99|0|10|0|oldschoolcool
+ej9e1b|2020-01-03 03:22:23|My Dad back in the day. 1984 ish?|https://i.redd.it/9pvkgo3bfh841.jpg|sunshineontheriver|False|https://redd.it/ej9e1b|55|0.93|0|6|0|oldschoolcool
+ej7zw6|2020-01-03 01:34:21|an Abacus seller, St. Petersburg, Russia, 1860|https://i.redd.it/lfeq8j21wg841.jpg|courtesy_flush_plz|False|https://redd.it/ej7zw6|79|0.95|0|6|0|oldschoolcool
+ejp6y3|2020-01-04 01:15:08|i can’t, he’s dead. 60s!|https://i.redd.it/stv4qilixn841.jpg|iforgotwhat8wasfor|False|https://redd.it/ejp6y3|0|0.5|0|6|0|oldschoolcool
+ej9yo2|2020-01-03 04:09:06|My grandparents in 1949. It took my family 50 years to connect the dots and figure out my grandma was 4 months pregnant in this photo and they’d been covering it up for my aunt’s whole life.|https://i.redd.it/jjhu3wymnh841.jpg|xstellaforstarx|False|https://redd.it/ej9yo2|48|0.94|0|7|0|oldschoolcool
+ejamqa|2020-01-03 05:06:10|1958 - Paul Newman reading a script|https://i.redd.it/yts96entxh841.jpg|spacemonkster|False|https://redd.it/ejamqa|37|0.89|0|5|0|oldschoolcool
+ej70n1|2020-01-03 00:19:37|Blackhawks and Maple Leafs looking for a contact lens, 1962.|https://i.redd.it/6s6q8a8pig841.jpg|jimmyd8466|False|https://redd.it/ej70n1|87|0.97|0|7|0|oldschoolcool
+ejhuvl|2020-01-03 16:36:59|My Papaw with a PBR 1969|"&#x200B;
+
+https://preview.redd.it/xvl7bs9ycl841.jpg?width=720&format=pjpg&auto=webp&s=40b5e497bf69a5a199deb278c97a285e956b8e5f"|PoppetFFN|False|https://redd.it/ejhuvl|5|0.78|0|0|1|oldschoolcool
+ejf68a|2020-01-03 13:06:54|Jordanian Television new year,1987|https://v.redd.it/tqh9t1y0q7841|Ayham_abusalem|False|https://redd.it/ejf68a|7|0.65|0|2|0|oldschoolcool
+ejal10|2020-01-03 05:02:21|My great-grandfather Thomas and his friends. 30s|https://i.redd.it/r5y9o9qzwh841.jpg|-nyltiac|False|https://redd.it/ejal10|29|0.93|0|0|0|oldschoolcool
+ejeyhy|2020-01-03 12:46:23|My Granny from Kentucky circa '40's in the hospital for tuberculosis|https://ibb.co/HN81JW7|VikDaven|False|https://redd.it/ejeyhy|5|0.84|0|1|0|oldschoolcool
+eiqlz3|2020-01-02 00:47:16|1977 - Presidio Park, San Diego, CA. I was proud serving on a submarine stationed at the Naval Base Point Loma, and I was proud of my '68 Shelby.|https://i.redd.it/5tghjiljg9841.png|Georgreng|False|https://redd.it/eiqlz3|6926|0.97|2|289|0|oldschoolcool
+ejegrf|2020-01-03 11:57:18|Hockey game stopped for a contact lens, 1962.|https://i.redd.it/jau885khgg841.png|BobrovskyIsMyDad|False|https://redd.it/ejegrf|7|0.68|0|1|0|oldschoolcool
+eizk2z|2020-01-02 15:25:34|Jean Reno and Natalie Portman on the set of Léon: The Professional, 1994.|https://i.redd.it/o835ozkdvd841.jpg|Sofargonept2|False|https://redd.it/eizk2z|344|0.95|0|22|0|oldschoolcool
+ej7kpw|2020-01-03 01:01:49|“Get in the choppa!!” (Or tank in this case). Arnold Schwarzenegger in the Austrian Army, 1965.|https://i.redd.it/0m9tz0jg7lc31.jpg|nomemesguey|False|https://redd.it/ej7kpw|52|0.93|0|3|0|oldschoolcool
+ej96j6|2020-01-03 03:06:20|Visiting a reservation with my grandparents. Mid-1980s.|https://i.redd.it/79ad4w3gch841.jpg|kitefly77|False|https://redd.it/ej96j6|34|0.94|0|0|0|oldschoolcool
+ejbnec|2020-01-03 06:40:44|Humphrey Bogart posing for a photographers shot, circa 1948.|https://i.redd.it/63gy75csdi841.png|Senile_Sapien|False|https://redd.it/ejbnec|19|0.85|0|1|0|oldschoolcool
+ej8ril|2020-01-03 02:33:56|My grandfather, a WWII vet at a New Years Eve party|https://i.redd.it/ka28h02l6h841.jpg|Jasink1987|False|https://redd.it/ej8ril|43|0.88|0|3|0|oldschoolcool
+ej9qd2|2020-01-03 03:50:03|My Okinawan grandpa in his Japanese Imperial Army Uniform during WWII|https://i.redd.it/4tvz99a8kh841.png|SulkySobaBoi|False|https://redd.it/ej9qd2|28|0.8|0|16|0|oldschoolcool
+ej4x6k|2020-01-02 21:49:55|My dad and his skate crew sometime in the early 80s|https://i.redd.it/f0cl3tfzrf841.jpg|goldfishgwen|False|https://redd.it/ej4x6k|84|0.97|0|6|0|oldschoolcool
+ej9ps8|2020-01-03 03:48:41|My mom (2nd from left) and her brother and sister with emcee Bert Parks on early television “Break the Bank” November 23, 1952. My mom was 14 and is now 81 with Alzheimer’s.|https://i.redd.it/kgrhxh7zjh841.jpg|scottrockandroll|False|https://redd.it/ej9ps8|31|0.89|0|0|0|oldschoolcool
+ej6gdi|2020-01-02 23:38:51|Grandpa and Grandma, circa 1950. Grandpa was a US Treasury Agent who fought the Youngstown, PA mob.|https://i.redd.it/6zox5u0fbg841.jpg|LeisureSuitLaurie|False|https://redd.it/ej6gdi|59|0.96|0|15|0|oldschoolcool
+ejb3rv|2020-01-03 05:48:16|Ahh shit here we go again (The Iron Sheik 1988)|https://i.redd.it/89n1ch0c5i841.jpg|Cumzilla-420|False|https://redd.it/ejb3rv|19|0.78|0|2|0|oldschoolcool
+ejawjd|2020-01-03 05:30:40|A few commenters suggested that I post this here, 1997.|https://i.redd.it/m72q8lmgrf841.jpg|18021982|False|https://redd.it/ejawjd|18|0.76|0|4|0|oldschoolcool
+ejgrao|2020-01-03 15:19:25|Yankee Stadium in New York gets it first ATM machine - circa 1992.|https://i.redd.it/sa5zvxj8zk841.jpg|NuevoJerz|False|https://redd.it/ejgrao|2|0.55|0|2|0|oldschoolcool
+ej9hu8|2020-01-03 03:31:02|My grandma, the majorette! Cow Creek, Williams County, North Dakota, about 1940.|https://i.redd.it/m2mkgmough841.jpg|Junogrrl|False|https://redd.it/ej9hu8|25|0.87|0|1|0|oldschoolcool
+ej6iap|2020-01-02 23:42:37|Angela Lansbury with husband Peter Shaw in 1948|https://i.redd.it/wpzsntrjag841.jpg|covertredditaddict|False|https://redd.it/ej6iap|52|0.92|0|1|0|oldschoolcool
+ej0cb5|2020-01-02 16:26:36|Bunnies on strike at The Playboy Club in Chicago, 1975.|https://i.redd.it/o4c9rz7b6e841.jpg|act1989|False|https://redd.it/ej0cb5|194|0.96|0|16|0|oldschoolcool
+ej7jap|2020-01-03 00:58:44|Grandma. 1945. She loved her hats.|https://i.redd.it/uohclodopg841.jpg|Micklikesmonkeys|False|https://redd.it/ej7jap|41|0.95|0|1|0|oldschoolcool
+ej2p4x|2020-01-02 19:16:27|The Heart or Star Wars all in one Car (Harrison Ford, Mark Hamill, & Carrie Fisher) Circa 1980|https://i.redd.it/qx0oo73m0f841.jpg|InkintoDark|False|https://redd.it/ej2p4x|97|0.91|0|7|0|oldschoolcool
+ej8rzq|2020-01-03 02:34:57|Here is a photo of my grandfather circa 1944 either during his WW2 deployment or immediately after.|https://i.redd.it/h89i5hiu6h841.jpg|derek4real315|False|https://redd.it/ej8rzq|23|0.87|0|3|0|oldschoolcool

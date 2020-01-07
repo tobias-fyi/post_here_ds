@@ -1,0 +1,520 @@
+unique_id|created_utc|title|body|author|nsfw|url|score|upvote_ratio|total_awards|comment_count|text_only|subreddit
+dvxssv|2019-11-13 20:32:37|[MOD POST] We now have Community Awards!|"Hi r/FoodPorn,
+
+We've just put together eight different Community Awards, each a different food. There's an: apple, banana, chili, burger, hot dog, donut, steak, and drumstick.
+
+Every one of them costs 500 Reddit coins (\~2 USD), and can be given to any post or comment of r/FoodPorn. If you have feedback on the current awards or ideas for ones we could make in the future, feel free to tell us.
+
+\- u/squid50s and the r/FoodPorn Mod Team
+
+P.S. Credit to [Tony Thomas](https://medialoot.com/item/free-vector-food-icons/) for the icons used in the Community Awards."|squid50s|False|https://redd.it/dvxssv|49|0.9|0|6|1|foodporn
+e8449d|2019-12-09 03:15:35|[MOD POST] Changes to the sidebar/rules on mobile and new Reddit|"Hi r/FoodPorn,
+
+Over the past few days, we’ve made some changes to the sidebar/rule layout of mobile and new Reddit. Here’s what’s new:
+
+- The one large sidebar widget has been split into two parts: *Info and Rules* and *Subreddits You May Enjoy*. *Info and Rules* contains information about the subreddit, along with general guidelines in regards to posting. *Subreddits You May Enjoy* is a list of other food-related subreddits. If you moderate (or know) a food-related subreddit you want to be on the list, let us know (we require subreddits listed on the sidebar to have at least 1,000 subscribers). 
+
+- Two rules have been created. These aren’t “new”, but more a simplified version of the list of rules that were in the sidebar prior to these changes. The rules are “Only Submit Images and Gifs” and “Include Context in the Title”. These rules are somewhat self-explanatory, but we recommend you read them (using the drop down) once.
+
+As always, we value your feedback and would love to hear what you think. Feel free to give any feedback in the comments or via a modmail messages. 
+
+Signing off,
+- u/squid50s and the r/FoodPorn Mod Team"|squid50s|False|https://redd.it/e8449d|17|0.85|0|2|1|foodporn
+eku5qh|2020-01-06 13:29:44|Homemade Wagamama beef brisket ramen 🍜|https://i.redd.it/w25kprfeu5941.jpg|QueenBoo42|False|https://redd.it/eku5qh|2413|0.98|0|20|0|foodporn
+eks8ha|2020-01-06 10:16:52|Chimneycones filled with soft icecream in Prague 🤤|https://i.redd.it/yb8kn40zv4941.jpg|NachoDippy|False|https://redd.it/eks8ha|4465|0.98|0|87|0|foodporn
+ekuca1|2020-01-06 13:46:23|[OC] Roasted Marshmallow Creme Brulee. surprisingly not too sweet and nailed that toasty flavor|https://i.redd.it/bjwzyhgtw5941.png|Forced2bike|False|https://redd.it/ekuca1|1024|0.98|0|14|0|foodporn
+ekxqfc|2020-01-06 18:06:20|The most beautiful sandwich I’ve ever made.|https://i.redd.it/4ef45zjk77941.jpg|Zeslartibartfast|False|https://redd.it/ekxqfc|219|0.92|0|10|0|foodporn
+ekukl8|2020-01-06 14:06:54|Vanilla Crème brûlée, with brown sugar. My son's favorite desert!|https://i.redd.it/bopysyv016941.jpg|topdogmex|False|https://redd.it/ekukl8|334|0.97|0|13|0|foodporn
+ekvf3m|2020-01-06 15:16:32|Club Sandwich|https://i.redd.it/k0hxpg5gd6941.jpg|PapaMidnite91|False|https://redd.it/ekvf3m|252|0.97|0|9|0|foodporn
+ekkirv|2020-01-05 22:57:57|I made Nashville Hot Fried Pickles instead of chicken and I'm not mad about it.|https://i.redd.it/3rkbejboi1941.jpg|The_Vulgar_Chef|False|https://redd.it/ekkirv|7155|0.96|1|115|0|foodporn
+ekwg65|2020-01-06 16:34:31|I made a tray of spicy deliciousness|https://i.redd.it/99wbxd3dr6941.jpg|miss_elmarie|False|https://redd.it/ekwg65|149|0.92|0|9|0|foodporn
+ekkih4|2020-01-05 22:57:21|(OC) S’mores cookie|https://i.imgur.com/GsDV9jf.jpg|NotAFoodie|False|https://redd.it/ekkih4|4363|0.98|1|49|0|foodporn
+ekuh91|2020-01-06 13:58:42|My breakfast today in Budapest *-*|https://i.redd.it/3iinpjgfz5941.jpg|carmelo_lunez|False|https://redd.it/ekuh91|207|0.95|0|17|0|foodporn
+ekyw6x|2020-01-06 19:28:24|Nebraska Nachos|https://i.redd.it/4uq2nt5em7941.jpg|vicemagnet|False|https://redd.it/ekyw6x|76|0.98|0|6|0|foodporn
+eki5f2|2020-01-05 19:59:14|"Sichuan style ""zhong dumplings"" made by my co worker"|https://i.redd.it/80y5fe5zm0941.jpg|Cody_Nova|False|https://redd.it/eki5f2|6272|0.98|0|78|0|foodporn
+ekyhtl|2020-01-06 19:00:09|Damn Hot! Chicken Sandwich from Hattie B’s in Birmingham, Alabama.|https://i.redd.it/p4afl0i0h7941.jpg|Donger69|False|https://redd.it/ekyhtl|65|0.94|0|5|0|foodporn
+ekwwnw|2020-01-06 17:06:36|Italian style sub|https://i.redd.it/7kwyuc33x6941.jpg|itsalwaysmyday|False|https://redd.it/ekwwnw|89|0.9|0|4|0|foodporn
+ekw3dx|2020-01-06 16:07:56|Gluten free coconut flour pancakes|https://i.redd.it/j3fssl8dm6941.jpg|glutendence_g|False|https://redd.it/ekw3dx|99|0.94|0|9|0|foodporn
+el0f97|2020-01-06 21:13:14|(Homemade) Sous Vide Venison loin with a wild mushroom pie, roast chestnut and parsnip purée, wide chanterelles, roast vegetables and hispi cabbage|https://i.redd.it/56teaoe358941.jpg|Unabomberman|False|https://redd.it/el0f97|31|0.94|0|2|0|foodporn
+ekxdto|2020-01-06 17:40:48|Hummus and falafel in Jerusalem. Humble and fulfilling meal|https://i.redd.it/kmbo3f6537941.jpg|tara795|False|https://redd.it/ekxdto|58|0.83|0|5|0|foodporn
+ekumcw|2020-01-06 14:11:13|Starry Pasta Night. Play with your food, have fun, make art.|https://i.redd.it/z8y8b3op16941.jpg|totilolofood|False|https://redd.it/ekumcw|98|0.89|0|8|0|foodporn
+ekur2o|2020-01-06 14:22:18|I made my first curry! Coconut milk braised chicken with sweet potato and rice. I will 86 the sweet potato next time and sub butternut squash. Naan was from Costco. (Recipe credit: Half Baked Harvest from Instagram)|https://i.redd.it/pfs7ydoq36941.jpg|KatefromCanada789|False|https://redd.it/ekur2o|95|0.94|0|3|0|foodporn
+ekzqj3|2020-01-06 20:25:50|Double meat turkey club!|https://i.imgur.com/W9tMBK0.jpg|-CoAlpha-|False|https://redd.it/ekzqj3|31|0.92|0|4|0|foodporn
+eky73u|2020-01-06 18:39:17|Pumpkin Pie with Caramel Sauce|https://i.redd.it/pc1z4zlmd7941.jpg|BourbonBuddha|False|https://redd.it/eky73u|32|0.86|0|3|0|foodporn
+ekzprs|2020-01-06 20:24:17|Fish and Chips|https://i.redd.it/gucq87vcw7941.jpg|ahalolmaoyeetme|False|https://redd.it/ekzprs|20|0.88|0|0|0|foodporn
+ekxpe5|2020-01-06 18:04:14|Shrimp Cobb Salad|https://i.imgur.com/fyg0DCb.jpg|treatmymouth|False|https://redd.it/ekxpe5|29|0.9|0|4|0|foodporn
+el00wk|2020-01-06 20:45:41|My friend and I made some General Tso Chicken with Fried Rice|https://i.redd.it/j0sh02d608941.jpg|Jackkieny|False|https://redd.it/el00wk|17|0.89|0|0|0|foodporn
+ekt490|2020-01-06 11:49:53|I made a Malawach with cheese for my girlfriend, came out more photogenic then I expected|https://i.redd.it/eo0hmi3lc5941.jpg|yuvif|False|https://redd.it/ekt490|76|0.93|0|5|0|foodporn
+ekzvng|2020-01-06 20:35:44|[OC] Roasted Rib Meat in a garlicky Torpedo Roll with Gorgonzola Cheese, Chopped Habanero Peppers, and Tomato.|https://i.redd.it/t5addt9yx7941.jpg|YZXFILE|False|https://redd.it/ekzvng|14|0.95|0|2|0|foodporn
+el068b|2020-01-06 20:56:01|Pizza for breakfast? Hell yeah!|https://imgur.com/u1lLbHE|bitteraspects|False|https://redd.it/el068b|14|0.83|0|0|0|foodporn
+ekwosy|2020-01-06 16:51:28|Chicken Burger|https://imgur.com/qyNfS1m|LargeJerm|False|https://redd.it/ekwosy|28|0.82|0|0|0|foodporn
+ekujwj|2020-01-06 14:05:14|[Homemade] Peanut butter and Peanut butter cup cookies with Reece, Snickers, and Rolos minis|https://i.redd.it/7sksm12q06941.jpg|northernCan81|False|https://redd.it/ekujwj|45|0.88|0|2|0|foodporn
+ekxoih|2020-01-06 18:02:29|Classic Cheeseburger|https://i.redd.it/l7dww1w177941.jpg|CPatt8989|False|https://redd.it/ekxoih|23|0.88|0|1|0|foodporn
+ekyc83|2020-01-06 18:49:17|Picked up fresh pasta and other ingredients at Eataly Toronto to make pasta this weekend.|https://i.redd.it/dp5478jef7941.jpg|mirasol13|False|https://redd.it/ekyc83|18|0.88|0|0|0|foodporn
+el04jj|2020-01-06 20:52:40|Homemade - Steak pie with minted mushy peas and mashed potato|https://imgur.com/GeZ9eY0|Agent4nderson|False|https://redd.it/el04jj|15|0.87|0|3|0|foodporn
+el1cec|2020-01-06 22:16:23|Bistecca Fiorentina (Steak Florentine) I got in Florence. Hands down best steak I've ever had|https://i.redd.it/nmd0tfocg8941.jpg|que_la_fuck|False|https://redd.it/el1cec|10|1.0|0|0|0|foodporn
+el14h7|2020-01-06 22:01:21|6 layers of banana cake, filled with a banana caramel filling, and covered in buttercream.|https://i.redd.it/3cpffecod8941.jpg|HannibalK|False|https://redd.it/el14h7|10|1.0|0|1|0|foodporn
+ekzglv|2020-01-06 20:06:44|Just some homemade rye sourdough with salted butter|https://i.redd.it/sryoofb8t7941.jpg|the_bread_code|False|https://redd.it/ekzglv|17|0.91|0|1|0|foodporn
+ekitqo|2020-01-05 20:45:33|Homegrown jalapeños stuffed with homemade goat cheese and homegrown shredded pork, wrapped in homemade bacon. Enough said.|https://i.redd.it/rlmboer8v0941.jpg|Greenleeman|False|https://redd.it/ekitqo|1052|0.96|0|44|0|foodporn
+el1adl|2020-01-06 22:12:27|7 bone grass fed standing rib roast, roasted veg, cupcake mashed potato, creamed spinach and stuffing|https://i.redd.it/4qm0x3fnf8941.jpg|zen_master_EZ|False|https://redd.it/el1adl|9|0.91|0|0|0|foodporn
+ekkhpx|2020-01-05 22:55:45|Tried out my new baking steel with some homemade pizza|https://i.redd.it/pn4nvf1hi1941.jpg|EB27|False|https://redd.it/ekkhpx|639|0.97|0|29|0|foodporn
+ekw8vq|2020-01-06 16:19:27|Homemade tapioca pearls (you can use it for bubble tea). Delicious!|https://i.redd.it/e7p15n6jn6941.jpg|glutendence_g|False|https://redd.it/ekw8vq|23|0.88|0|6|0|foodporn
+ekyi4s|2020-01-06 19:00:40|My Boiled Crayfish. The Best Beer Snack from Russia :D|https://i.redd.it/fl9m09aig7941.jpg|LavenderViolet88|False|https://redd.it/ekyi4s|16|0.88|0|0|0|foodporn
+ekdgbx|2020-01-05 14:10:18|Hangover Italian Grinder; ham, salami, pepperoni, mozzarella, pesto, sundried tomato, iceberg, mayostard w/ cayenne. Delicious|https://i.redd.it/l5etdt6qwy841.jpg|dopeassfood|False|https://redd.it/ekdgbx|3536|0.98|0|74|0|foodporn
+ekwmpo|2020-01-06 16:47:34|Homemade Cinnamon Babka|https://i.redd.it/5xcnaqent6941.jpg|DoctorPoodle|False|https://redd.it/ekwmpo|25|0.91|0|2|0|foodporn
+el02ph|2020-01-06 20:49:12|Ippudo NY Ramen|https://i.redd.it/bam5mmts08941.jpg|Sabmarine|False|https://redd.it/el02ph|12|0.87|0|0|0|foodporn
+ekxi2x|2020-01-06 17:49:31|Shredded Beef, braised in chicken stock, IPA, and apple cider vinegar on a brioche bun, topped with caramelized red onions, grilled bell pepper, and homemade coleslaw|https://i.redd.it/jghb2gfq47941.jpg|ThyShirtIsBlue|False|https://redd.it/ekxi2x|16|0.91|0|0|0|foodporn
+ekxhl1|2020-01-06 17:48:34|Black rice and octopus ink Paella|https://i.redd.it/ueooru5k47941.jpg|SodomizedPanda|False|https://redd.it/ekxhl1|18|0.89|0|2|0|foodporn
+ekszgd|2020-01-06 11:36:09|11oz Fillet steak, Dauphinois potatoes and tenderstem brocolli, steak is brushed with teriyaki sauce too|https://i.redd.it/t0x5ake4a5941.jpg|wakefield74|False|https://redd.it/ekszgd|47|0.93|0|0|0|foodporn
+ekzqy7|2020-01-06 20:26:38|Duck teriyaki|https://i.redd.it/xc2bhd6rw7941.jpg|hectatiu|False|https://redd.it/ekzqy7|11|0.81|0|0|0|foodporn
+ekxg8t|2020-01-06 17:45:47|"(OC) Homemade ""Roscón de reyes"""|https://i.imgur.com/DGcmmZk.jpg|Rielbe|False|https://redd.it/ekxg8t|12|0.84|0|1|0|foodporn
+ekxes1|2020-01-06 17:42:44|[Seen on Twitter] Heart cookies didn’t exactly come out right!|https://i.imgur.com/pgipQhZ.jpg|aus10w|False|https://redd.it/ekxes1|16|0.81|0|7|0|foodporn
+eky0hf|2020-01-06 18:25:49|Macaroni with five veggie sauce, ground beef and parmesan|https://i.redd.it/afwdv505b7941.jpg|Venicci87|False|https://redd.it/eky0hf|10|0.85|0|3|0|foodporn
+ekbqlv|2020-01-05 11:11:02|Vanilla bean creme brulee I had at new years|https://i.redd.it/o9v99nbo0y841.jpg|Gizzmotek|False|https://redd.it/ekbqlv|5137|0.98|0|33|0|foodporn
+ekwue0|2020-01-06 17:02:27|My Sister-in-law's Christmas Cheese Board was the Bomb|https://i.redd.it/hfkwhqo9w6941.jpg|AppaloosaLuver|False|https://redd.it/ekwue0|13|0.77|0|3|0|foodporn
+ekwucx|2020-01-06 17:02:23|Tea and a sweet bar. Lake Agnes AB, Canada|https://i.redd.it/kt4fuw8cw6941.jpg|gnomeshepard|False|https://redd.it/ekwucx|15|0.81|0|4|0|foodporn
+ekl7bo|2020-01-05 23:46:39|[OC] Blood Orange Meringue Tart|https://i.redd.it/gmiwjq0kr1941.jpg|rayw512|False|https://redd.it/ekl7bo|364|0.99|0|9|0|foodporn
+ekosus|2020-01-06 04:28:42|Grilled Teriyaki Venison Loin!|https://i.redd.it/viwrpajv53941.jpg|BourbonBuddha|False|https://redd.it/ekosus|150|0.98|0|5|0|foodporn
+el1mv0|2020-01-06 22:36:51|[OC] Homemade porchetta with rosemary, sage and shaved orange slices|https://i.redd.it/opn22y50k8941.jpg|JEFFJNH|False|https://redd.it/el1mv0|5|1.0|0|1|0|foodporn
+el002h|2020-01-06 20:44:04|Broccoli and cauluflower slightly grilled in oven|https://i.redd.it/c6w3dxjvz7941.jpg|indyleo81|False|https://redd.it/el002h|8|0.69|0|3|0|foodporn
+el1l30|2020-01-06 22:33:27|Seeing as shops in the UK have already started selling Easter chocolate, I thought I’d share the Creme Egg Brownies I made...|https://i.redd.it/mnd3qdmej8941.jpg|BakedByLiv|False|https://redd.it/el1l30|5|1.0|0|1|0|foodporn
+eklrgc|2020-01-06 00:27:54|Getting the wellies out in rainy London|https://i.redd.it/7pdodnvwy1941.jpg|silhill|False|https://redd.it/eklrgc|291|0.97|0|10|0|foodporn
+eke9oz|2020-01-05 15:21:24|Homemade cheesecake with blackberry sauce|https://i.redd.it/g4ow5rue9z841.jpg|tomover9000|False|https://redd.it/eke9oz|1641|0.99|0|13|0|foodporn
+el0m6b|2020-01-06 21:26:18|Panini con panelle a Palermo -Sicily|https://i.redd.it/gh4fu17f78941.jpg|sanvitoweb|False|https://redd.it/el0m6b|7|1.0|0|0|0|foodporn
+el036w|2020-01-06 20:50:02|Homemade citrus-blueberry cream tarte with vanilla and mint.|https://i.redd.it/m2qgrmpt08941.jpg|charlieTheCharmer|False|https://redd.it/el036w|7|0.88|0|0|0|foodporn
+ekwpnd|2020-01-06 16:53:11|I simmered some beef jerky in low in whole milk, sage, bay leaves, black pepper, red pepper flakes, clove, and garlic to rehydrate and flavor it and made a very old fashioned sage and spice biscuit and gravy. It turned out delicious!|https://i.redd.it/vtv36s3pu6941.jpg|barnavy|False|https://redd.it/ekwpnd|11|0.8|0|8|0|foodporn
+ekztue|2020-01-06 20:32:16|Char Siu Pork Bao Buns. Took 3 and a half hours to make but they were a religious experience.|https://i.redd.it/fn6orjyrx7941.jpg|SaltyPotatoStick|False|https://redd.it/ekztue|6|0.88|0|0|0|foodporn
+ekzsmo|2020-01-06 20:29:52|"The best ribs I’ve ever eaten | Prague, Czech Republic 🇨🇿"|https://i.redd.it/29nz9gqcx7941.jpg|Sevue|False|https://redd.it/ekzsmo|6|0.82|0|0|0|foodporn
+ekq6fn|2020-01-06 06:36:15|homemade cream puff for my friend's birthday|https://i.redd.it/xs8rw86js3941.jpg|DesperateCroissant|False|https://redd.it/ekq6fn|76|0.97|0|5|0|foodporn
+ekvoyy|2020-01-06 15:37:53|Liver with bulgur, onions and sour cream|https://i.redd.it/asdkxad7h6941.jpg|LooongGoooneDaddy|False|https://redd.it/ekvoyy|16|0.79|0|4|0|foodporn
+ekrorv|2020-01-06 09:16:54|Eggs Benedict with duck sausage and spruce tip hollandaise|https://i.redd.it/lyco3p5al4941.jpg|Waazzzup|False|https://redd.it/ekrorv|48|0.92|0|2|0|foodporn
+ekmhjv|2020-01-06 01:22:22|Been seeing a lot of dumplings lately. So here are some pan fried pork dumplings my mother made. I could eat these for every meal.|https://i.redd.it/kx56iy4m82941.jpg|ImplicationOfDanger|False|https://redd.it/ekmhjv|190|0.99|0|6|0|foodporn
+ekn0zi|2020-01-06 02:04:18|Snow crab, old bay shrimp, white corn, potato for seafood sunday|https://i.redd.it/6t1kmys3g2941.jpg|zen_master_EZ|False|https://redd.it/ekn0zi|166|0.99|0|6|0|foodporn
+el07yp|2020-01-06 20:59:20|Kat’s Deli Pastrami sandwich and Dr. Brown’s cherry cola|https://i.redd.it/z8cwj10m28941.jpg|Sabmarine|False|https://redd.it/el07yp|5|0.73|0|0|0|foodporn
+ekvqwv|2020-01-06 15:42:07|First we eat with our eyes (i.e. Blueberry Streussel)... [OC][2646x6363]|https://imgur.com/6VDn8bG|MSL0727|False|https://redd.it/ekvqwv|11|0.71|0|0|0|foodporn
+ekur37|2020-01-06 14:22:19|Peruvian Ceviche. Whitefish cooked in lime with pickled onion and cilantro. Served over with sweet potato.|https://i.redd.it/smiutazr36941.jpg|KweenPrancine|False|https://redd.it/ekur37|16|0.79|0|2|0|foodporn
+ekza6h|2020-01-06 19:54:54|Dinner tonight herb crusted trout over mushroom risotto and asparagus with a lemon, garlic, white wine sauce on top|https://i.redd.it/tyot9tz3r7941.jpg|riskylog|False|https://redd.it/ekza6h|5|1.0|0|0|0|foodporn
+ekshqn|2020-01-06 10:44:49|My favorite ribs, tender, juicy... and the best bbq sauce I’ve ever had. Sloppy Joe’s.|https://i.redd.it/twuw8n6z05941.jpg|Ferxwing|False|https://redd.it/ekshqn|27|0.87|0|0|0|foodporn
+el1mun|2020-01-06 22:36:50|[Homemade] Dried fruit and nut board for family Sunday dinner.|https://i.redd.it/yyrhs98zj8941.jpg|highpoetssociety|False|https://redd.it/el1mun|3|1.0|0|0|0|foodporn
+ekm846|2020-01-06 01:02:34|Cheesesteaks for me and the wifey.|https://i.redd.it/kwcstke352941.jpg|Sapnasty45|False|https://redd.it/ekm846|158|0.95|1|13|0|foodporn
+eky80l|2020-01-06 18:41:03|Panettone bread and butter pudding with raspberry jam and lindor white chocolate pieces.|https://i.redd.it/4xw0fkixd7941.jpg|James_Iny|False|https://redd.it/eky80l|6|1.0|0|0|0|foodporn
+ekgldk|2020-01-05 18:09:55|[I made] classic swedish steak on a plank, oven roasted tenderloin, mashed potatoes, broccoli and tomato with sauce bearnaise|https://i.redd.it/o1hu501h30941.jpg|syke555|False|https://redd.it/ekgldk|551|0.99|0|27|0|foodporn
+ekntgk|2020-01-06 03:06:43|26oz Wagyu Rib Steak|https://i.redd.it/ulnrcul8r2941.jpg|Eatapedia|False|https://redd.it/ekntgk|97|0.96|0|6|0|foodporn
+ekykce|2020-01-06 19:05:09|[I made] rice, scrambled eggs, pork steak and various vegetables (celery, tomatoes, peppers, aubergine and potatoes with Japanese creamy mayo)!|https://i.redd.it/ohx2m68rh7941.jpg|Essarie|False|https://redd.it/ekykce|5|0.8|0|2|0|foodporn
+ektv1g|2020-01-06 13:01:31|Foodlocator piece of art|https://i.redd.it/7fwomj2bp5941.jpg|FlufyDon|False|https://redd.it/ektv1g|14|0.79|0|0|0|foodporn
+ekx9u8|2020-01-06 17:32:54|[Homemade] Marcella Hazan’s bolognese sauce recipe over fresh tagliatelle|https://i.redd.it/mwd6enxr17941.jpg|sacredgeometry711|False|https://redd.it/ekx9u8|6|0.86|0|2|0|foodporn
+ekou3u|2020-01-06 04:31:47|First Crack at Lemon Ricotta Pancakes.|https://i.redd.it/9k3c3roe63941.jpg|Georgeyk17|False|https://redd.it/ekou3u|66|0.96|0|5|0|foodporn
+ekpzjz|2020-01-06 06:17:20|Chocolate oreo donut|https://i.redd.it/74x75oo8p3941.jpg|sticky-rice69|False|https://redd.it/ekpzjz|45|0.84|0|5|0|foodporn
+ekqbf8|2020-01-06 06:49:41|Sushi Platter, nigiri shrimp, tuna, yellowtail, salmon, crab, mackerel, scallop, rainbow and dragon roll, sashimi mix bowl. Delicious|https://i.redd.it/xaz7i3v0v3941.jpg|dopeassfood|False|https://redd.it/ekqbf8|43|0.95|0|0|0|foodporn
+ekszux|2020-01-06 11:37:21|Chicken pie!! 🥧|https://i.redd.it/lwuhl7rba5941.jpg|Quinzee_|False|https://redd.it/ekszux|17|0.77|0|3|0|foodporn
+ekunvk|2020-01-06 14:14:35|I made some fig jam|https://i.redd.it/cih350ld26941.jpg|zendeganiyemar|False|https://redd.it/ekunvk|8|1.0|0|2|0|foodporn
+el1fes|2020-01-06 22:22:07|Has anyone used an instapot to hard boil eggs? I refused to make them before because they were such a nightmare to peel. Now they are a dream and so perfect!|https://i.redd.it/x124szych8941.jpg|saintleelyon|False|https://redd.it/el1fes|2|1.0|0|2|0|foodporn
+ekx4qz|2020-01-06 17:22:25|Salty Caramel ice cream in Tel Aviv, Israel|https://i.redd.it/r1reip5vz6941.jpg|tara795|False|https://redd.it/ekx4qz|4|0.6|0|1|0|foodporn
+ekorv7|2020-01-06 04:26:03|Some traditional tonkatsu I got to devour|https://i.redd.it/vscyuqce53941.jpg|Brankles273|False|https://redd.it/ekorv7|52|0.92|0|4|0|foodporn
+ektn3j|2020-01-06 12:40:25|Calzone: shrimp, roasted garlic and artichoke with white sauce. Pizza: spicy Italian sausage, zucchini and mushrooms. Pesto garlic knots|https://i.redd.it/owf2amoll5941.jpg|Porkbellyflop|False|https://redd.it/ektn3j|11|0.79|0|1|0|foodporn
+ekv32q|2020-01-06 14:50:20|(I ate) Kotzonet at Kotipizza in Oulu, Finland|https://i.redd.it/ww08070s86941.jpg|maaxhae|False|https://redd.it/ekv32q|7|1.0|0|0|0|foodporn
+ektcux|2020-01-06 12:13:00|Chunky Double chocolate chip cookies|https://i.redd.it/m1csw8yn9y841.jpg|omarst9|False|https://redd.it/ektcux|11|0.82|0|1|0|foodporn
+ekt7ms|2020-01-06 11:59:25|A hearty chicken stew with plenty of veggies and chili oil infused broth bringing some warmth to a cold dark winter day|https://i.redd.it/u1ehotxgd5941.jpg|MTedronai|False|https://redd.it/ekt7ms|11|0.93|0|0|0|foodporn
+ekw4uf|2020-01-06 16:10:48|Collard green sandwich|https://i.redd.it/cnfn1ps4n6941.jpg|texaswig|False|https://redd.it/ekw4uf|6|0.63|0|1|0|foodporn
+ekiyuz|2020-01-05 20:55:26|My arteries are probably crying but damn so good! Potato skins with cheese, bacon and tri tip|https://i.redd.it/gmq92wsuw0941.jpg|805dino|False|https://redd.it/ekiyuz|169|0.99|0|5|0|foodporn
+ekx174|2020-01-06 17:15:24|Giant Chewy Chocolate Meringues|https://i.redd.it/tzbrzv5my6941.jpg|turkishturtles|False|https://redd.it/ekx174|4|1.0|0|1|0|foodporn
+ekeybr|2020-01-05 16:13:45|Bandeja Paisa 😋|https://i.redd.it/vpoh3n5riz841.jpg|guyfromatl|False|https://redd.it/ekeybr|374|0.98|0|19|0|foodporn
+ekc888|2020-01-05 12:07:33|First dish of the year, hasselback potatoes with cheese and chives 🤤|https://i.redd.it/bhzslx3ray841.jpg|alexangraphy|False|https://redd.it/ekc888|768|0.94|0|17|0|foodporn
+ekk15f|2020-01-05 22:24:02|French toast glazed doughnut. Delaying my New Year's resolution another day.|https://i.redd.it/r4ljie8tc1941.jpg|La_Peregrina|False|https://redd.it/ekk15f|107|0.95|0|3|0|foodporn
+ekkxc9|2020-01-05 23:26:24|Tried our hand at a classic pepperoni pizza.|https://i.redd.it/eskc9lnxn1941.jpg|oshidoman|False|https://redd.it/ekkxc9|91|0.86|0|13|0|foodporn
+ekmrjp|2020-01-06 01:43:40|My first attempt at twice-baked potatoes, topped with broccoli and shredded cheese, then air fried.|https://i.redd.it/ubkuc5kec2941.jpg|authorpoet81|False|https://redd.it/ekmrjp|57|0.94|0|0|0|foodporn
+eklp81|2020-01-06 00:23:10|Homemade stuffed shells|https://i.redd.it/m0wvafb2y1941.jpg|GoDevilsX|False|https://redd.it/eklp81|70|0.91|0|10|0|foodporn
+ekmd8e|2020-01-06 01:13:32|Just some chocolate chip peanut butter cookies I made for the fam today.|https://i.redd.it/d4qpbcaz62941.jpg|SewAlone|False|https://redd.it/ekmd8e|57|0.92|0|2|0|foodporn
+ekp64j|2020-01-06 05:01:22|Charcuterie anyone?|https://i.redd.it/9of4f5apb3941.jpg|BourbonBuddha|False|https://redd.it/ekp64j|29|0.83|0|4|0|foodporn
+ekmlsu|2020-01-06 01:31:39|Vacationing in Florida and the wife decided to make Key Lime Pie.|https://i.redd.it/i4lijqs9a2941.jpg|datravi|False|https://redd.it/ekmlsu|50|0.91|0|8|0|foodporn
+ekooo6|2020-01-06 04:18:36|Homemade Beef and Broccoli over rice|https://i.redd.it/7pc9j9d243941.jpg|BourbonBuddha|False|https://redd.it/ekooo6|28|0.91|0|3|0|foodporn
+ekoj64|2020-01-06 04:05:52|Shepards pie stuffed twice baked potatoes|https://i.redd.it/f84g7pjs13941.jpg|Postal_Dude83|False|https://redd.it/ekoj64|31|0.93|0|6|0|foodporn
+el1qio|2020-01-06 22:43:51|Homemade Shepherds Pie straight from the oven|https://i.redd.it/dqot7r69l8941.jpg|charlotteflewk|False|https://redd.it/el1qio|1|1.0|0|0|0|foodporn
+el1qd7|2020-01-06 22:43:32|Tortellini Soup|https://i.redd.it/x6q9pea7l8941.jpg|Syrus687|False|https://redd.it/el1qd7|1|1.0|0|0|0|foodporn
+el1oht|2020-01-06 22:40:02|Eat-All-ian|https://i.redd.it/umjktnskk8941.jpg|artedeeea|False|https://redd.it/el1oht|1|1.0|0|0|0|foodporn
+ekkwh1|2020-01-05 23:24:44|Not the prettiest, but fire noodles, soft boiled eggs, and baby bok choy|https://i.redd.it/o1kkuj0nn1941.jpg|shibaboba|False|https://redd.it/ekkwh1|74|0.91|0|7|0|foodporn
+ekkij8|2020-01-05 22:57:29|[OC] I made seafood paella with saffron.|https://i.redd.it/ms9z6pzri1941.jpg|cabe-rawit|False|https://redd.it/ekkij8|77|0.94|0|2|0|foodporn
+eklgwv|2020-01-06 00:06:12|Chicken curry and rice!|https://i.redd.it/4pt1rhk1v1941.jpg|BushyEyes|False|https://redd.it/eklgwv|62|0.96|0|1|0|foodporn
+ekn8n4|2020-01-06 02:21:09|These were the best dinner rolls I’ve ever had. Made using the Japanese Hokkaido method.|https://i.redd.it/0xdi9424j2941.jpg|shootemupy2k|False|https://redd.it/ekn8n4|39|0.98|0|10|0|foodporn
+ekij1e|2020-01-05 20:24:45|I Made Eye fillet beef Wellington with a mushroom and aged sherry duxelles.|https://i.redd.it/qtb5sxvir0941.jpg|marybenny-|False|https://redd.it/ekij1e|111|0.96|0|6|0|foodporn
+eknekk|2020-01-06 02:34:06|Carbonara w/ Seared Scallops|https://i.redd.it/kzrc260fl2941.jpg|madbear84|False|https://redd.it/eknekk|36|0.88|0|1|0|foodporn
+ekw0q2|2020-01-06 16:02:23|Wow this burger has a delicious taste, trust me you would like to have some of it.|https://i.redd.it/cd1v14sml6941.jpg|Alyss004|False|https://redd.it/ekw0q2|5|0.63|0|4|0|foodporn
+ekoil0|2020-01-06 04:04:34|[Homemade] I made gochujang chicken with stir fried veggies and rice|https://imgur.com/JX7CpcP|MsSnarkitysnarksnark|False|https://redd.it/ekoil0|30|0.91|0|1|0|foodporn
+ek5fk0|2020-01-05 00:49:00|I made dumplings for the first time ☺|https://imgur.com/FeYTKDZ|k_tolliver|False|https://redd.it/ek5fk0|5666|0.97|0|59|0|foodporn
+ekn690|2020-01-06 02:15:56|[OC] Homemade white sangria|https://i.redd.it/azi66mb6i2941.jpg|JEFFJNH|False|https://redd.it/ekn690|33|1.0|0|3|0|foodporn
+ekn4pz|2020-01-06 02:12:21|I made some spinach and mushroom lasagna roll ups tonight for dinner. The filling has mushroom, spinach, vegan cream cheese, and Greek yogurt, all on top of a scallion and basil “crema,” and then topped with cashew pesto.|https://i.redd.it/mwe41mmjh2941.jpg|claytoncolt|False|https://redd.it/ekn4pz|37|0.92|0|2|0|foodporn
+ek979u|2020-01-05 06:17:01|Handmade dumplings (made by mom, pan-fried by me)|https://i.redd.it/t3fyrv5akw841.jpg|wcmj|False|https://redd.it/ek979u|1400|0.98|0|23|0|foodporn
+ekoqk1|2020-01-06 04:22:56|This amazing meal prep|https://i.redd.it/p8ypw0sgr2941.jpg|Dragosanie|False|https://redd.it/ekoqk1|24|0.9|0|1|0|foodporn
+ekpemt|2020-01-06 05:21:58|A year ago, Lexington. Craving one of my favorite foods today|https://i.redd.it/4enia1jdf3941.jpg|Maiahelena|False|https://redd.it/ekpemt|17|0.92|0|0|0|foodporn
+ekjj9i|2020-01-05 21:46:56|Hooter’s Texas BBQ dry rub smoked wings|https://i.redd.it/bhzu81w661941.jpg|Yaegerh|False|https://redd.it/ekjj9i|74|0.82|0|8|0|foodporn
+ekoz5v|2020-01-06 04:43:55|Hickory Smoked Boneless Prime Rib|https://i.redd.it/tnh4oj6l83941.jpg|agentofbinary|False|https://redd.it/ekoz5v|21|0.89|0|1|0|foodporn
+ekmixn|2020-01-06 01:25:20|pillsbury pizza made from scratch!|https://i.redd.it/1px455q592941.jpg|SalmonTheSalesman|False|https://redd.it/ekmixn|38|0.84|0|7|0|foodporn
+eki2n2|2020-01-05 19:53:41|Greens and beans I had on New Year's Day.|https://imgur.com/Nnw3bLc|Crystalillium|False|https://redd.it/eki2n2|101|0.93|0|3|0|foodporn
+ekp0gd|2020-01-06 04:47:03|Beef brisket, chicken wing, potato salad and cole slaw!|https://i.redd.it/o3emhkc593941.jpg|DaddyLoongDong|False|https://redd.it/ekp0gd|18|0.92|0|1|0|foodporn
+eko7jp|2020-01-06 03:38:22|Top sirloin with spinach, rice, and sautéed mushrooms and onions|https://i.redd.it/qh5ajt0ww2941.jpg|hotmayo69|False|https://redd.it/eko7jp|22|0.91|0|0|0|foodporn
+ekibv5|2020-01-05 20:11:19|1st attempt. 8 hour pork belly sous vide then seared on a cast iron.|https://i.redd.it/srmbd8t4p0941.jpg|shitswood|False|https://redd.it/ekibv5|92|0.94|0|5|0|foodporn
+ekn7is|2020-01-06 02:18:46|I’ve never made cheesecake before yet these mini cheesecakes (topped with fresh strawberries) turned out beautifully|https://i.redd.it/stxkugjoi2941.jpg|_alexiswashere|False|https://redd.it/ekn7is|31|0.91|0|1|0|foodporn
+ekpdq8|2020-01-06 05:19:43|[OC] Hojicha Shaved Ice (Bingsoo) With Whipped Cream and Boba|https://i.redd.it/fov2w34ze3941.jpg|berkberkbezerk|False|https://redd.it/ekpdq8|14|0.88|0|0|0|foodporn
+ekn6wi|2020-01-06 02:17:22|Homemade Roast and Veggies|https://imgur.com/KiOvKlk|schwootiepa55|False|https://redd.it/ekn6wi|29|0.92|0|3|0|foodporn
+eke99h|2020-01-05 15:20:31|Oil spill noodles , a traditional delicacy in Shaanxi|https://i.redd.it/4o5kg1j89z841.jpg|hot-style|False|https://redd.it/eke99h|196|0.97|0|9|0|foodporn
+ekp1vf|2020-01-06 04:50:30|Breakfast with a view (Anjuna beach,Goa)|https://i.redd.it/w0x5bcgr93941.jpg|sgog51|False|https://redd.it/ekp1vf|16|0.9|0|0|0|foodporn
+eki7ix|2020-01-05 20:03:08|Golden Dragonfruit|https://i.redd.it/i2w6k86on0941.jpg|VR_Angel|False|https://redd.it/eki7ix|84|0.93|0|5|0|foodporn
+eknxex|2020-01-06 03:15:18|After years of trying I've finally perfected berry/jalapeno jelly! This is Cranberry Jalapeno.|https://imgur.com/DbUlmb8|adalab|False|https://redd.it/eknxex|21|0.79|0|7|0|foodporn
+ekl9q0|2020-01-05 23:51:08|[OC] Make waffles, not war.|https://i.redd.it/6846c7j4f1941.jpg|cabe-rawit|False|https://redd.it/ekl9q0|43|0.91|1|1|0|foodporn
+ekmq3d|2020-01-06 01:40:40|Coke marinated skirt steak with smokey mango puree, house made hot sauce and green onion/cilantro.|https://i.redd.it/7jasp5gvb2941.jpg|bigge04|False|https://redd.it/ekmq3d|29|0.77|0|8|0|foodporn
+eklgui|2020-01-06 00:06:05|Pulled duck, Asian slaw and black garlic aioli sliders|https://i.redd.it/kpqc8z4nu1941.jpg|qbekk|False|https://redd.it/eklgui|35|0.87|0|2|0|foodporn
+ekml9f|2020-01-06 01:30:31|Spaghetti and meatballs and a glass of wine make for a good Sunday night|https://i.redd.it/2f870e33a2941.jpg|sadiemae602|False|https://redd.it/ekml9f|26|0.94|0|1|0|foodporn
+ekqsxj|2020-01-06 07:40:27|First attempt at homemade pizza|https://imgur.com/6Se9N0p|AgentWhiskey|False|https://redd.it/ekqsxj|6|0.75|0|1|0|foodporn
+ekp63z|2020-01-06 05:01:19|Made some elk roast to finish off my long holiday vacation|https://i.redd.it/msxbjbuob3941.jpg|fcking_username84|False|https://redd.it/ekp63z|14|0.89|0|0|0|foodporn
+eknzrn|2020-01-06 03:20:33|Sandwich|https://i.redd.it/ibzanlfpt2941.jpg|armenianjew|False|https://redd.it/eknzrn|15|0.82|0|2|0|foodporn
+ekfjo9|2020-01-05 16:56:33|A two inch thick steak from NYE that I smoked then Seared.|https://i.imgur.com/WurwSYq.jpg|GetYourPhil1|False|https://redd.it/ekfjo9|116|0.84|0|21|0|foodporn
+ekhy7w|2020-01-05 19:45:27|Surf & Turf|https://i.redd.it/8szca8tik0941.jpg|cookiemonster--|False|https://redd.it/ekhy7w|68|0.88|0|15|0|foodporn
+eklp9v|2020-01-06 00:23:16|Crab cake with roasted potato (not pictured - house salad)|https://i.redd.it/vy921tx2y1941.jpg|WookieBushy|False|https://redd.it/eklp9v|27|0.88|0|0|0|foodporn
+ekmael|2020-01-06 01:07:25|Seductive bread pull from fresh brioche.|https://i.redd.it/yh15kxby52941.gif|ijustmayshipmypants|False|https://redd.it/ekmael|22|0.9|0|2|0|foodporn
+ekoc5o|2020-01-06 03:48:42|[i ate] pan-fried Brussels sprout with bacon and garlic aioli sauce|https://i.redd.it/9v9ifd5py2941.jpg|kmilone17|False|https://redd.it/ekoc5o|14|1.0|0|0|0|foodporn
+ekouxa|2020-01-06 04:33:41|Hickory/pecan smoked brisket|https://i.redd.it/pwiwke5q63941.jpg|PhilFlag|False|https://redd.it/ekouxa|13|0.88|0|0|0|foodporn
+ekidhn|2020-01-05 20:14:21|Smoked chicken with homemade BBQ sauce|https://i.redd.it/ktyfle7np0941.jpg|freshnoodles12|False|https://redd.it/ekidhn|53|0.92|0|1|0|foodporn
+ekk4v4|2020-01-05 22:31:04|New York bacon cheeseburger with sweet potato fries|https://i.redd.it/tues7y91e1941.jpg|menoknowgoodusername|False|https://redd.it/ekk4v4|36|0.83|0|2|0|foodporn
+ekkuq4|2020-01-05 23:21:08|Avec Amour, Paris, France|https://i.redd.it/b8mfeg40n1941.jpg|Itzz_HeroZ|False|https://redd.it/ekkuq4|31|0.9|0|1|0|foodporn
+ekovp3|2020-01-06 04:35:47|Just went to the Gordon Ramsay restuarant in Kansas City with a friend. It was really damn good|https://i.redd.it/c7sp20p473941.jpg|jameszilla11|False|https://redd.it/ekovp3|10|0.79|0|3|0|foodporn
+ekor9o|2020-01-06 04:24:35|Stir fried brown rice mixed in spinach, salmon furikake, and fried onions with 2 chicken skewers|https://i.redd.it/8x56yts453941.jpg|i-weddit|False|https://redd.it/ekor9o|12|1.0|0|3|0|foodporn
+ekmbho|2020-01-06 01:09:43|Churros with chocolate sauce and cream|https://i.redd.it/ixiec68d62941.jpg|lospolloshermanaxx|False|https://redd.it/ekmbho|20|1.0|0|1|0|foodporn
+eklhnv|2020-01-06 00:07:47|I made pan-seared blue crab omusubi for my first home cooked meal of 2020 [OC]|https://i.redd.it/h3g9rbgbv1941.jpg|ssnapcracklepopp|False|https://redd.it/eklhnv|22|1.0|0|3|0|foodporn
+ekn138|2020-01-06 02:04:32|Rare NY Strip at J Timothy's in Plainville, CT|https://i.imgur.com/EiMK8Fd.jpg|From_My_Brain|False|https://redd.it/ekn138|15|0.86|0|2|0|foodporn
+ekm90m|2020-01-06 01:04:27|[OC] duck breast with wild mushrooms and foie gras sauce|https://i.redd.it/zmy0cdpf52941.jpg|anotherone-|False|https://redd.it/ekm90m|19|1.0|0|0|0|foodporn
+ekllis|2020-01-06 00:15:42|I made ( and ate ) a homemade snickerdoodle cast iron skillet cookie|https://i.redd.it/uzgb3t4pw1941.jpg|helpimdead_|False|https://redd.it/ekllis|21|0.88|1|3|0|foodporn
+ekiexv|2020-01-05 20:17:10|First time making eggs Benedict|https://i.redd.it/sem1mkb6q0941.jpg|chelseacountryman|False|https://redd.it/ekiexv|46|0.86|0|6|0|foodporn
+ekmue5|2020-01-06 01:49:55|Triple meat thin crust with jalapeños and a chipotle honey glaze|https://i.imgur.com/jxFPRE8.jpg|Bbiron01|False|https://redd.it/ekmue5|16|0.86|0|0|0|foodporn
+ekfu5h|2020-01-05 17:16:52|Spaghetti Carbonara I made.|https://i.redd.it/0smdqm6ztz841.jpg|Papa_Dabz|False|https://redd.it/ekfu5h|76|0.84|0|12|0|foodporn
+ekf9gb|2020-01-05 16:36:28|[I ate] South Indian style tawa fried Pomfret with spicy mango dip|https://i.redd.it/u8j85vhqmz841.jpg|ribsteak|False|https://redd.it/ekf9gb|85|0.98|0|3|0|foodporn
+ekl5j6|2020-01-05 23:43:00|And there you have it. Smoked salmon eggs bennies on latkes with ricotta, capers, and red onion.|https://i.redd.it/8qir44iwq1941.jpg|BurbleUnicorn|False|https://redd.it/ekl5j6|23|0.86|0|1|0|foodporn
+ek68uy|2020-01-05 01:56:19|Simple, yet satisfying. Adult lunchables.|https://i.redd.it/utgg8qnr9v841.jpg|lilginger22|False|https://redd.it/ek68uy|1329|0.91|0|66|0|foodporn
+eklav2|2020-01-05 23:53:27|Sausage and bacon! Truly the best!|https://i.redd.it/xrymzw4rs1941.jpg|lemon213|False|https://redd.it/eklav2|24|0.91|0|3|0|foodporn
+eknj26|2020-01-06 02:43:51|Steak fajitas|https://i.redd.it/r3kemp84n2941.jpg|Where_The_Food_At|False|https://redd.it/eknj26|14|1.0|0|0|0|foodporn
+ekl7xz|2020-01-05 23:47:47|BBQ chicken flatbread pizza|https://i.redd.it/geu1ig6rr1941.jpg|karma-electra|False|https://redd.it/ekl7xz|21|0.94|0|0|0|foodporn
+ekpszb|2020-01-06 06:00:34|Crispy soft shell crabs, creamy kimchee sauce, edamame shaved radish and black garlic.|https://i.redd.it/g0hmpvj9m3941.jpg|cra333666|False|https://redd.it/ekpszb|7|0.89|0|3|0|foodporn
+ekn4wd|2020-01-06 02:12:45|[I made] Bulgogi and Japchae|https://i.redd.it/1edo78mlh2941.jpg|ShaunTheDog|False|https://redd.it/ekn4wd|14|0.89|0|1|0|foodporn
+ekj2xt|2020-01-05 21:03:35|Steak with some roasted baby potatoes and green beans, cherry tomatoes, baby carrots and onions|https://i.redd.it/3b0m1d1vx0941.jpg|thatguylawlzz|False|https://redd.it/ekj2xt|36|0.93|0|1|0|foodporn
+ekp9c5|2020-01-06 05:09:05|Avocado toast with poached egg, bacon, salad and sprouts. Topped with olive oil, lime juice and a pinch of salt!|https://i.redd.it/aia40pu2d3941.jpg|tzatzikiiii|False|https://redd.it/ekp9c5|8|0.83|0|4|0|foodporn
+ekq8d4|2020-01-06 06:41:30|Jalapeno & Grilled Chicken Pizza w/ Garlic Parmesan Sauce from Domino's|https://i.redd.it/c0z9vmckt3941.jpg|untimelyaftershock|False|https://redd.it/ekq8d4|6|0.61|0|8|0|foodporn
+ekzfpr|2020-01-06 20:05:03|Homemade shrimp ceviche|https://i.redd.it/l1wpkldxs7941.jpg|BigFlappyJohnson|False|https://redd.it/ekzfpr|0|0.42|0|0|0|foodporn
+ekp5fr|2020-01-06 04:59:30|potato and leek soup|https://i.redd.it/7yynix8db3941.jpg|viennalabeef|False|https://redd.it/ekp5fr|9|0.79|0|0|0|foodporn
+ekixfx|2020-01-05 20:52:31|Nutella Cheesecake with Pretzel Crust|https://i.redd.it/48dx49ghw0941.jpg|chalillianaire|False|https://redd.it/ekixfx|38|0.92|0|0|0|foodporn
+ekj5g7|2020-01-05 21:10:12|I had this Monte Cristo sandwich at Beverly's in Coeur d'Alene, Idaho. It was the best thing I've ever eaten.|https://i.imgur.com/urDGOWK.png|TickleTh1sElmo|False|https://redd.it/ekj5g7|35|0.95|0|5|0|foodporn
+ekcgsz|2020-01-05 12:33:24|Hadn't made poached eggs in a few years and feared I'd lost the knack!|https://i.redd.it/xqumfdrffy841.jpg|copper92|False|https://redd.it/ekcgsz|157|0.93|0|10|0|foodporn
+ekatyg|2020-01-05 09:21:48|Home-made margherita fresh out of the oven|https://i.redd.it/hvt4dox8hx841.jpg|jamespayne0|False|https://redd.it/ekatyg|282|0.96|0|12|0|foodporn
+eklcfr|2020-01-05 23:56:40|[Homemade] Jalapeno chicken enchiladas verdes and Mexican rice|https://i.redd.it/t7blx07ct1941.jpg|romietomatoes|False|https://redd.it/eklcfr|18|0.92|0|3|0|foodporn
+eknmmj|2020-01-06 02:51:28|Polenta fries with garlic aioli and romesco sauce|https://i.redd.it/lb6zcagio2941.jpg|Stuartsingleton|False|https://redd.it/eknmmj|12|0.93|0|0|0|foodporn
+ekmkcy|2020-01-06 01:28:35|New York style cheese cake with dark chocolate ganache.|https://i.imgur.com/hRIzUUr.jpg|The_colorblind_|False|https://redd.it/ekmkcy|15|0.94|0|0|0|foodporn
+ek375q|2020-01-04 21:57:59|I Made A Triple Layer Oreo Cake Topped With Ganache!|https://i.redd.it/dclyhs793u841.jpg|pallladium|False|https://redd.it/ek375q|2633|0.98|0|57|0|foodporn
+eknpf6|2020-01-06 02:57:48|Sunday Pho Day - Saigon Pho Kitchen - Morgantown, WV[OC]|https://imgur.com/Qkiv8Eo|onemantwohands|False|https://redd.it/eknpf6|9|1.0|0|0|0|foodporn
+ekmxv7|2020-01-06 01:57:39|Homemade duck a'orange|https://i.redd.it/mqh5bp5xe2941.jpg|tyleraz98|False|https://redd.it/ekmxv7|14|0.85|0|1|0|foodporn
+ekih3s|2020-01-05 20:21:14|$2.65 Costco Sunday/Churro combo dessert!!|https://i.redd.it/971t7ckwq0941.jpg|EpicNotTaken|False|https://redd.it/ekih3s|32|0.8|0|0|0|foodporn
+eknjjr|2020-01-06 02:44:43|Spicy Chicken Sandwich|https://i.redd.it/koqi59nan2941.jpg|Skvora|False|https://redd.it/eknjjr|11|0.92|0|3|0|foodporn
+ekmq9v|2020-01-06 01:41:01|Spring rolls at Le Delights in Memphis, Tn|https://i.redd.it/54yz6zoxb2941.jpg|YouSoBroke|False|https://redd.it/ekmq9v|11|0.93|0|4|0|foodporn
+ekos6h|2020-01-06 04:26:55|Simple but delicious thai inspired sweet and spicy panko crusted chicken|https://i.redd.it/ljtih10k53941.jpg|hbbot|False|https://redd.it/ekos6h|8|0.88|0|0|0|foodporn
+ekmk9a|2020-01-06 01:28:21|Classic chocolate chip|https://i.redd.it/xsgob8zo92941.jpg|WarMaiden666|False|https://redd.it/ekmk9a|11|0.93|0|0|0|foodporn
+ekeabh|2020-01-05 15:22:49|Homemade cheesy garlic bread can brighten a simple dinner|https://i.redd.it/2ua4monn9z841.jpg|violetpiano|False|https://redd.it/ekeabh|79|0.9|0|2|0|foodporn
+ekmihk|2020-01-06 01:24:23|Filipino Brunch – Longanisa, Fried Eggs, Garlic Rice & Fish|https://i.redd.it/b7kw0m2k82941.jpg|molinayadigg|False|https://redd.it/ekmihk|11|0.93|0|4|0|foodporn
+eknosj|2020-01-06 02:56:21|Fried chicken with pickles, Szechuan sauce, orange, coriander, scallion pancake - Acorn - Pittsburgh, PA[OC]|https://imgur.com/2ZBvkFt|onemantwohands|False|https://redd.it/eknosj|9|0.91|0|0|0|foodporn
+ekiaam|2020-01-05 20:08:32|Flower candy floss|https://i.redd.it/40nvd9mlo0941.jpg|Pancake-1|False|https://redd.it/ekiaam|28|0.91|0|4|0|foodporn
+ekkrfp|2020-01-05 23:14:37|Whole Wheat Biscuit Top Chicken Pot Pie|https://i.redd.it/szkrrrrtl1941.jpg|llesp|False|https://redd.it/ekkrfp|20|0.85|0|1|0|foodporn
+ekh0h7|2020-01-05 18:39:52|"New years dessert, Camembert ""Brûlée"" with cloudberry ice cream, cloudberry jam, fried parsley and almonds"|https://i.redd.it/7m0aonft80941.jpg|HpNaCl|False|https://redd.it/ekh0h7|40|0.96|0|4|0|foodporn
+ejx7z3|2020-01-04 14:26:36|Felt bored at work yellow and white egg omelette. Fully loaded with home fries and garnish.|https://i.redd.it/k10ucvrour841.jpg|senorseniortaco|False|https://redd.it/ejx7z3|11173|0.95|1|228|0|foodporn
+ekloan|2020-01-06 00:21:15|Getting some salmon ready for dinner|https://i.redd.it/1cxb3a6qx1941.jpg|Nuclear_Minded|False|https://redd.it/ekloan|12|0.94|0|3|0|foodporn
+ekncqv|2020-01-06 02:30:04|[I ate] Crawfish and Gator Nachos|https://i.redd.it/s9ga1jgpk2941.jpg|ceedees28|False|https://redd.it/ekncqv|6|0.78|0|5|0|foodporn
+ek7d9b|2020-01-05 03:30:33|Sous vide porterhouse seared in cast iron|https://i.redd.it/i0tvyqykqv841.jpg|EJ8-E90|False|https://redd.it/ek7d9b|481|0.97|0|10|0|foodporn
+ekeyn9|2020-01-05 16:14:27|Crepes and a lot of different fillings to choose on your own.|https://i.redd.it/g6dz7ywuiz841.jpg|MarkoMeZovu|False|https://redd.it/ekeyn9|47|0.91|0|6|0|foodporn
+ekkrun|2020-01-05 23:15:27|Pesto bow tie shrimp pasta. First time cooking shrimp and I overcooked it unfortunately but I’ll nail down the cook time and perfect this ❤️|https://i.redd.it/6iip2e7zl1941.jpg|uly_96|False|https://redd.it/ekkrun|14|0.81|0|3|0|foodporn
+ekgwj4|2020-01-05 18:32:09|Homemade BBQ beef sandwich on toasted onion roll w/white american cheese. BBQ sauce made from scratch KC style and spicy.|https://i.redd.it/cdwnsmxf70941.jpg|meja1|False|https://redd.it/ekgwj4|27|0.78|0|2|0|foodporn
+ekl5jy|2020-01-05 23:43:03|Marinated and grilled pork tenderloin|https://i.redd.it/6kss1wovq1941.jpg|jester33455|False|https://redd.it/ekl5jy|9|0.87|0|0|0|foodporn
+ek59s5|2020-01-05 00:36:35|I made this cheese board for my aunt to take to a New Year’s Eve party. I hand-dipped the dried apricots and my mom made the mini cheesecake bites with strawberry topping. Grazing is my love language.|https://i.redd.it/3kws94ojvu841.jpg|mrsspacemanspiff|False|https://redd.it/ek59s5|715|0.96|0|32|0|foodporn
+ekeqjz|2020-01-05 15:57:47|Ramen with all the fixings|https://i.redd.it/o4z76eiwfz841.jpg|president-mcquatsch|False|https://redd.it/ekeqjz|38|0.92|0|1|0|foodporn
+ekigf3|2020-01-05 20:19:59|Fresh gnocchi! :)|https://i.redd.it/n60hsbcoq0941.jpg|abellisnotabell|False|https://redd.it/ekigf3|19|0.85|0|1|0|foodporn
+ekmjt1|2020-01-06 01:27:18|Sticky Ribs Sunday...|https://i.redd.it/m2tbxoci92941.jpg|YogiBear06|False|https://redd.it/ekmjt1|6|0.88|0|0|0|foodporn
+ekkiuw|2020-01-05 22:58:07|Kimchi flavored udon with Chinese sausage and napa cabbage|https://i.redd.it/qfgdfr1wi1941.jpg|i-weddit|False|https://redd.it/ekkiuw|13|0.93|0|1|0|foodporn
+ekmg2l|2020-01-06 01:19:34|Homemade shrimp alfredo|https://i.redd.it/qi2md92482941.jpg|toasterman2507|False|https://redd.it/ekmg2l|9|0.9|0|0|0|foodporn
+ekbybp|2020-01-05 11:36:29|Making ravioli for lunch|https://i.redd.it/jsqv8h5a5y841.jpg|Capable_Revolution|False|https://redd.it/ekbybp|84|0.94|0|5|0|foodporn
+ekf9r1|2020-01-05 16:37:03|Nigerian Jollof rice and chicken with plantains|https://i.redd.it/xut7zapwmz841.jpg|tuppennyupright|False|https://redd.it/ekf9r1|37|0.85|0|3|0|foodporn
+ekmzli|2020-01-06 02:01:27|Not a bad imitation of some Texas bbq|https://i.redd.it/o4fp0melf2941.jpg|BeforeAndAbner|False|https://redd.it/ekmzli|6|0.7|0|3|0|foodporn
+ekhpdz|2020-01-05 19:28:18|Brunch I made for myself turned out more beautiful than me|https://i.redd.it/1kkvw47dh0941.jpg|velvet_waist|False|https://redd.it/ekhpdz|19|0.87|0|2|0|foodporn
+ekhu9n|2020-01-05 19:38:03|Sweet potato and brussel sprouts hash with homemade bacon, all topped with fried eggs.|https://i.redd.it/csn799v6j0941.jpg|Mishamuse|False|https://redd.it/ekhu9n|20|0.84|0|2|0|foodporn
+ekoibc|2020-01-06 04:03:55|So I've recently got a new phone (Google Pixel 4) and it has a great camera and I love to cook, so I started an Instagram and take pictures of everything I eat. Any advice when taking pictures of food?|https://i.redd.it/bhcfvazf13941.jpg|TheXGM|False|https://redd.it/ekoibc|6|0.67|0|1|0|foodporn
+ekibh8|2020-01-05 20:10:39|Breakfast for the girlfriend|https://i.imgur.com/3pWDka2.jpg|Meatball_|False|https://redd.it/ekibh8|19|0.79|0|4|0|foodporn
+ekiw8l|2020-01-05 20:50:16|Homemade Jalapeño-Scotch Bonnet-Smoked Cheese Sausages. Water Simmered to cook - cast finish to brown!|https://i.redd.it/9vle1bp2w0941.jpg|Greenleeman|False|https://redd.it/ekiw8l|13|0.78|0|2|0|foodporn
+ekh0hs|2020-01-05 18:39:55|Sunday pancakes|https://i.redd.it/3mcatxlt80941.jpg|allready50|False|https://redd.it/ekh0hs|23|0.84|0|2|0|foodporn
+ekm0qk|2020-01-06 00:46:45|Just finished baking this apple bread..house smell good.|https://i.redd.it/egk2egr722941.jpg|Bunsocakes|False|https://redd.it/ekm0qk|6|1.0|0|0|0|foodporn
+eklzwu|2020-01-06 00:44:54|A wonderful scallop dish I had at an Irish pub|https://i.redd.it/ofv63cxx12941.png|organicspacecow|False|https://redd.it/eklzwu|8|0.9|0|0|0|foodporn
+eki1lg|2020-01-05 19:51:44|Posole Rojo|https://i.redd.it/cez7j3mll0941.jpg|boxer_santaros_2020|False|https://redd.it/eki1lg|15|0.77|0|1|0|foodporn
+ekl5fx|2020-01-05 23:42:48|Made my very first banana bread and I don't like bananas made it for friends.|https://i.redd.it/5x53vl4vq1941.jpg|jexinta|False|https://redd.it/ekl5fx|9|0.74|0|6|0|foodporn
+ekife6|2020-01-05 20:18:03|Homemade hot wings|https://i.redd.it/ev824wc9q0941.jpg|safespacesubreddit|False|https://redd.it/ekife6|13|0.7|0|2|0|foodporn
+ekhxkn|2020-01-05 19:44:12|Classic bacon and eggs|https://i.redd.it/smb9h1b9k0941.jpg|fleekonpoint|False|https://redd.it/ekhxkn|18|0.76|0|1|0|foodporn
+ekm65p|2020-01-06 00:58:24|Homemade breakfast: Merguez, eggs, foul (fava beans, chickpeas, garlic and olive oil), raw onions and tomatoes. Just how I used to eat it in Lebanon 😍|https://i.redd.it/3w19glsc42941.jpg|cantchoosefuck|False|https://redd.it/ekm65p|6|1.0|0|3|0|foodporn
+ekkb6e|2020-01-05 22:43:11|Homemade almond-crusted brioche French toast with Vermont maple syrup- breakfast for dinner is the best!|https://i.redd.it/lu2kdys7g1941.jpg|moncoeurquibat|False|https://redd.it/ekkb6e|10|0.75|0|3|0|foodporn
+ekg81j|2020-01-05 17:44:15|Veggie mac n cheeze chowder|https://i.imgur.com/72tCWu0.jpg|takiplow|False|https://redd.it/ekg81j|20|0.83|0|3|0|foodporn
+ekl4au|2020-01-05 23:40:34|Grilled swordfish (olive oil, lemon juice, basil, parsley, salt and pepper) mango salsa, roasted brussels sprouts, jasmine rice and pinot grigio.|https://i.redd.it/8stov7rfq1941.jpg|penn_ifer|False|https://redd.it/ekl4au|6|0.9|0|0|0|foodporn
+ekgcti|2020-01-05 17:53:18|My version of Huevos Rancheros this morning.|https://i.redd.it/8ciqx2ji00941.jpg|Porque_es_muy_rapido|False|https://redd.it/ekgcti|19|0.82|0|2|0|foodporn
+ekloeb|2020-01-06 00:21:28|[OC] Raclette with family. Including beer,cheese,different types of meat and other delicious stuff|https://i.redd.it/17ivk5grx1941.jpg|j4k0bpf4nn3r|False|https://redd.it/ekloeb|6|1.0|0|3|0|foodporn
+ekffjw|2020-01-05 16:48:21|[OC] I made breakfast. Two eggs, scrambled, one English muffin, toasted, half an avacado, and some coffee. Can't forget Cholula hot sauce and Everything But The Bagel seasoning.|https://i.redd.it/rvqkn8vwoz841.jpg|Tbob217|False|https://redd.it/ekffjw|22|0.86|0|1|0|foodporn
+ekjk5e|2020-01-05 21:48:50|Not sure if /r/shittyfood porn but, left over New Years charcuterie on last nights left over pizza (ny local spot)|https://i.imgur.com/xbH1P5D.jpg|XxSCRAPOxX|False|https://redd.it/ekjk5e|11|0.71|0|4|0|foodporn
+ekldjl|2020-01-05 23:59:08|Fish Tacos [OC]|https://imgur.com/yKP4aZj|venom9122|False|https://redd.it/ekldjl|7|0.7|0|1|0|foodporn
+ekfu6y|2020-01-05 17:16:58|(Homemade) sushi|https://i.redd.it/3ojyiad0uz841.jpg|Contrariwise2|False|https://redd.it/ekfu6y|19|0.91|0|0|0|foodporn
+ekpgfy|2020-01-06 05:26:48|Fresh caught lobster tail I had from Navarre Seafood Market in FL.|https://i.redd.it/zrz19aq8g3941.jpg|Kaydub96|False|https://redd.it/ekpgfy|4|0.56|0|1|0|foodporn
+ekgitu|2020-01-05 18:04:40|Zaalouk with pita and halloumi|https://i.redd.it/mzxbh8bj20941.jpg|IramDei|False|https://redd.it/ekgitu|16|0.86|0|1|0|foodporn
+ekey0i|2020-01-05 16:13:10|Whole duck prepared 5+ ways|https://i.redd.it/xi0rtqaniz841.jpg|chunkybrewster55|False|https://redd.it/ekey0i|21|0.82|0|5|0|foodporn
+ekgoy3|2020-01-05 18:17:02|Duck over pumpkin polenta with a pomegranate reduction (White Dog Cafe, Philadelphia PA)|https://i.redd.it/ga5y9wsq40941.jpg|CanIPetYourDawg|False|https://redd.it/ekgoy3|15|0.79|0|7|0|foodporn
+ekizsn|2020-01-05 20:57:20|[OC] Nachos San Fernando|https://i.redd.it/we46vn7cx0941.jpg|T30X1S|False|https://redd.it/ekizsn|10|0.72|0|0|0|foodporn
+eki08k|2020-01-05 19:49:17|Soft-shell veggie tacos I made for me and my girlfriend last night!|https://i.redd.it/rev60sr2l0941.jpg|douchebag716|False|https://redd.it/eki08k|12|0.75|0|0|0|foodporn
+ekfu13|2020-01-05 17:16:37|Lunch time, grilled steak and beans with mash!|https://i.imgur.com/btv9UWr.jpg|Washfloorking|False|https://redd.it/ekfu13|17|0.91|0|0|0|foodporn
+ekhs0f|2020-01-05 19:33:35|Fruit bowl with yogurt, granola and a chocolate chip muffin|https://i.redd.it/9692u8kei0941.jpg|cookiemonster--|False|https://redd.it/ekhs0f|10|0.79|0|1|0|foodporn
+ekgdyb|2020-01-05 17:55:38|Fried lion fish with rice and beans|https://i.redd.it/63lalv3x00941.jpg|f_n_a_|False|https://redd.it/ekgdyb|14|0.75|0|10|0|foodporn
+ekn6qn|2020-01-06 02:17:03|Homemade penne alfredo (from a packet but still pretty good)|https://i.redd.it/1vkgr5pdi2941.jpg|aria_comet|False|https://redd.it/ekn6qn|3|0.59|0|0|0|foodporn
+eki9ho|2020-01-05 20:07:01|Homemade ukrainian kutya|https://i.redd.it/rcik99gco0941.jpg|Nazarii-Kravchenko|False|https://redd.it/eki9ho|7|0.85|0|0|0|foodporn
+ekcnks|2020-01-05 12:52:57|Roast duck|https://i.redd.it/5zpei01siy841.jpg|mich6831|False|https://redd.it/ekcnks|33|0.67|0|6|0|foodporn
+ekio0u|2020-01-05 20:34:38|Red pepper and rosemary iced green tea, served with a slice of lemon|https://i.redd.it/tbjpg777t0941.jpg|irinablabla|False|https://redd.it/ekio0u|9|0.82|0|0|0|foodporn
+ekfr1d|2020-01-05 17:11:02|Peppered Eggs, Bacon, Skillet Hash Browns, Toast and Black Coffee.|https://i.redd.it/u3mu906xsz841.jpg|VenomXTs|False|https://redd.it/ekfr1d|13|0.94|0|0|0|foodporn
+eknuyz|2020-01-06 03:10:06|English muffin, dark forest ham, egg, and cheese|https://i.redd.it/mp0wumwrr2941.jpg|penguinyeeter9001|False|https://redd.it/eknuyz|1|0.53|0|5|0|foodporn
+ekkw40|2020-01-05 23:23:57|[I Ate] Kalua Pork Nachos (more details in comments)|https://i.redd.it/ml0q81ugn1941.jpg|beastofthefarweast|False|https://redd.it/ekkw40|4|0.61|0|1|0|foodporn
+ekju77|2020-01-05 22:10:08|Lettuce pause to appreciate celeriac soup with cream & truffle oil drizzle|https://i.redd.it/bmhptpsba1941.jpg|miaaowwow|False|https://redd.it/ekju77|5|0.7|0|2|0|foodporn
+ekht8n|2020-01-05 19:36:04|My first miroir glaze vanilla mousse cake|https://i.redd.it/2eo1007pi0941.jpg|assiakoundi|False|https://redd.it/ekht8n|11|0.86|0|2|0|foodporn
+ek6dw1|2020-01-05 02:07:51|First time turned out perfect. Grass fed NY strip steak.|https://i.redd.it/w5t7duxtbv841.jpg|rebeccalexc|False|https://redd.it/ek6dw1|199|0.94|0|11|0|foodporn
+ekj3kg|2020-01-05 21:05:03|crostata🤤|https://i.redd.it/o187h5spy0941.jpg|lucasdillenburg|False|https://redd.it/ekj3kg|5|0.72|0|4|0|foodporn
+ek9nun|2020-01-05 07:07:18|Brined and smoked (butterflied) chicken w/ brown butter parsnip purée, peas & tarragon jus|https://i.redd.it/de5alz86tw841.jpg|AnotherFoodBlogger|False|https://redd.it/ek9nun|75|0.96|0|2|0|foodporn
+ekh465|2020-01-05 18:47:05|Vanilla ice cream with caramel and chocolate topping. Chocolate and strawberry donuts Location: Do’nut stop|https://i.redd.it/13l0mrl3a0941.jpg|froggysaysno|False|https://redd.it/ekh465|9|0.92|0|0|0|foodporn
+ekhnd0|2020-01-05 19:24:12|Always love when a plan comes together. This is my take on Sweet and Sour Pork Meatballs. Sauce was a bit spicier than normal but it was delicious. Let's eat?|https://i.redd.it/oceathcqg0941.jpg|pantieslace|False|https://redd.it/ekhnd0|9|0.83|0|0|0|foodporn
+ekcb0w|2020-01-05 12:16:03|Made roast duck for the first time after being inspired by another post from this sub :) turned out so much better than expected!!|https://i.redd.it/o6q7pvdccy841.jpg|absolutdisgrace|False|https://redd.it/ekcb0w|28|0.86|0|5|0|foodporn
+ekivk5|2020-01-05 20:49:02|Fettuccine Alfredo w/ Turkey|https://i.redd.it/2au0x9ftv0941.jpg|champagnecinema|False|https://redd.it/ekivk5|6|0.73|0|2|0|foodporn
+ekchnl|2020-01-05 12:36:08|pancakes with poppy seeds and cottage cheese|https://i.redd.it/azdko84xfy841.jpg|Nazarii-Kravchenko|False|https://redd.it/ekchnl|26|0.89|0|0|0|foodporn
+ekctgb|2020-01-05 13:10:02|My girlfriend was craving summer breakfast, so I made her pancakes with yoghurt, raspberries, cereal and chocolate sirup.|https://i.redd.it/fbycdf3zly841.jpg|hardter_tobak|False|https://redd.it/ekctgb|23|0.78|0|6|0|foodporn
+eki06f|2020-01-05 19:49:11|New Favorite Sushi Roll: Philly Crab Roll. I didn’t think cream cheese would be good with fish but it is! It’s also nice because I have a wisdom tooth coming in so there’s no crunching lol.|https://i.redd.it/3zliivf6l0941.jpg|Gamerchic300|False|https://redd.it/eki06f|9|0.69|0|0|0|foodporn
+ekhtgv|2020-01-05 19:36:30|Beef Wellington|https://i.redd.it/o5aj9hdxi0941.jpg|adammiles292929|False|https://redd.it/ekhtgv|7|0.72|0|0|0|foodporn
+ekfztk|2020-01-05 17:28:20|I made Jamaican Jerk chicken, parmesan noodles and green beans for lunch|https://i.redd.it/t1u507u1wz841.jpg|AnimeDreama|False|https://redd.it/ekfztk|9|0.82|0|1|0|foodporn
+ekaebm|2020-01-05 08:30:03|[I made] Sundried tomato and garlic pesto 🍝|https://i.redd.it/j2hco9s08x841.jpg|berlinwall_|False|https://redd.it/ekaebm|52|0.87|0|1|0|foodporn
+ekbbo8|2020-01-05 10:20:29|Torta de carne adobada|https://i.redd.it/di26gf1qrx841.jpg|Elpipiripaaau|False|https://redd.it/ekbbo8|33|0.89|0|1|0|foodporn
+ekiqp3|2020-01-05 20:39:50|Spicy Cajun oven baked fries with special mild bbq sauce|https://i.redd.it/421qikp7u0941.jpg|HaaaaaHeeeeHooooo|False|https://redd.it/ekiqp3|4|0.62|0|0|0|foodporn
+ek1hqi|2020-01-04 19:54:04|Buttery garlic knots|https://i.redd.it/jtfpq371ht841.jpg|johnfoster8|False|https://redd.it/ek1hqi|469|0.98|0|12|0|foodporn
+ekhobb|2020-01-05 19:26:07|Chilli mozerella tomato leek & redcurrant stuffed pork fillet wrapped in bacon. Roasted sweet potato & aubergine slices. Garlic & chilli steamed carrots. Sweet potato & aubergine mash. Chilli & peppered leeks. Caramelised Shallot, leek, mozerella, white wine & apple condiment. 2 slices of apple.|https://i.redd.it/xb0ip5a2h0941.jpg|tokertm|False|https://redd.it/ekhobb|6|0.82|0|0|0|foodporn
+ek544k|2020-01-05 00:23:55|[Homemade] sweetcorn fritters, homemade spicy guac and poached egg.|https://i.redd.it/5mfvxxn9tu841.jpg|Tomb_Brader|False|https://redd.it/ek544k|197|0.96|0|6|0|foodporn
+ek3ktk|2020-01-04 22:26:23|Shrimp & Broccoli Alfredo|https://i.redd.it/wcltpllb8u841.jpg|Viruhs|False|https://redd.it/ek3ktk|279|0.97|0|5|0|foodporn
+ek89bp|2020-01-05 04:48:53|[Homemade] Steak and Eggs|https://i.redd.it/2m47uknc2w841.jpg|mac4321|False|https://redd.it/ek89bp|82|0.86|0|0|0|foodporn
+ekfvjp|2020-01-05 17:19:39|Chocolate Pot Creme|https://i.redd.it/1gvmwp6iuz841.jpg|LeopoldStoch1|False|https://redd.it/ekfvjp|8|0.74|0|2|0|foodporn
+ekazgj|2020-01-05 09:40:37|Made this bacon cheesburger with my boyfriend’s mum for dinner|https://i.redd.it/9zzlhotlkx841.jpg|lospolloshermanaxx|False|https://redd.it/ekazgj|29|0.77|0|5|0|foodporn
+ekhsb9|2020-01-05 19:34:10|The delicious Escargots I had last week on my cruise ship.|https://i.redd.it/nd0u89tgi0941.jpg|ksudirtyj|False|https://redd.it/ekhsb9|7|0.72|0|1|0|foodporn
+ek5g10|2020-01-05 00:50:04|Lobster Roll with an aioli on a Hawaiian bun.|https://i.redd.it/yi4zzc5yxu841.jpg|GivemethebrisketMan|False|https://redd.it/ek5g10|153|0.96|0|0|0|foodporn
+ekd6kx|2020-01-05 13:45:09|Homemade tenderloin broiled in cast iron w/ rosemary garlic butter, roasted red potatoes, arugula salad, and Syrah 🍷🍴|https://i.redd.it/y84vpxn8sy841.jpg|lanourriture|False|https://redd.it/ekd6kx|15|0.82|0|1|0|foodporn
+ekfq0j|2020-01-05 17:09:06|Baked red snapper, literally the best fish I have ever eaten.|https://i.redd.it/p2k8mcnmsz841.jpg|aynseebanansee|False|https://redd.it/ekfq0j|7|0.69|0|2|0|foodporn
+ek9gia|2020-01-05 06:44:13|wild strawberry and blueberry ice cream from Prague|https://i.redd.it/k0is8ru4nw841.jpg|VuIturous|False|https://redd.it/ek9gia|44|0.85|0|0|0|foodporn
+ekfnie|2020-01-05 17:04:04|Chicken Gon Bao Noodles with homemade gon bao sauce|https://i.redd.it/xx9obeylqz841.jpg|Venicci87|False|https://redd.it/ekfnie|8|1.0|0|0|0|foodporn
+ek6kfp|2020-01-05 02:22:18|Smoked pork belly. This was heaven.|https://i.redd.it/q4mfgnkeev841.jpg|docroc-----|False|https://redd.it/ek6kfp|102|0.95|0|0|0|foodporn
+ek93w3|2020-01-05 06:08:05|Tuna Nigiri|https://i.redd.it/2fs03mioiw841.jpg|theyeoflight|False|https://redd.it/ek93w3|49|0.91|0|0|0|foodporn
+ek81up|2020-01-05 04:30:57|Homemade Fettuccini with mushroom and bacon sauce|https://i.redd.it/xpb07cg61w841.jpg|The_Raxyl|False|https://redd.it/ek81up|66|0.96|0|2|0|foodporn
+ekf8jv|2020-01-05 16:34:36|A SIMPLE Sunday breakfast pinoy style...kaina na.|https://i.redd.it/ef03e6qfmz841.jpg|Bunsocakes|False|https://redd.it/ekf8jv|5|0.8|0|8|0|foodporn
+ek7d53|2020-01-05 03:30:14|Steak Fajitas 👍|https://i.redd.it/haw14adiqv841.jpg|T-roy42oh|False|https://redd.it/ek7d53|74|0.93|0|4|0|foodporn
+ekaenh|2020-01-05 08:31:10|[I made] Patatas Bravas 🥔|https://i.redd.it/rlc18ay78x841.jpg|berlinwall_|False|https://redd.it/ekaenh|32|0.88|0|0|0|foodporn
+ekhdoh|2020-01-05 19:05:31|Loaded Avocado Toast w/ Falafel & Kim Chi|https://i.redd.it/mhjb7inad0941.jpg|tukkerdees|False|https://redd.it/ekhdoh|4|0.8|0|2|0|foodporn
+ekdpo3|2020-01-05 14:33:41|My boiled spiny lobster|https://i.redd.it/174n5c2s0z841.jpg|LavenderViolet88|False|https://redd.it/ekdpo3|7|0.79|0|2|0|foodporn
+ek46r0|2020-01-04 23:12:13|Pimento cheese burger with sweet bacon jam at Succotash in Washington, DC.|https://i.redd.it/ithsmavbgu841.jpg|Euphoric_Translator|False|https://redd.it/ek46r0|152|0.99|0|4|0|foodporn
+ekdhal|2020-01-05 14:12:38|Sheet pan gnocchi with butternut squash, crimini mushrooms, Italian sausage and onions.|https://i.redd.it/ofenyj54xy841.jpg|08bullitt5657|False|https://redd.it/ekdhal|7|0.82|0|3|0|foodporn
+ekb3yk|2020-01-05 09:55:46|[Home made] Chicken Pilau, Burger and Wedges. Hmmm..?|https://i.redd.it/cx2h7g4bnx841.jpg|semakitu|False|https://redd.it/ekb3yk|16|0.8|0|1|0|foodporn
+ek7lj2|2020-01-05 03:50:38|Scallop & Shrimp & Grits|https://i.imgur.com/uS5ax8b.jpg|sun-up-sun-down|False|https://redd.it/ek7lj2|53|0.89|0|1|0|foodporn
+ekadet|2020-01-05 08:26:58|[I made] Creamy mushroom chicken 🤨|https://i.redd.it/y6oy2czg7x841.jpg|berlinwall_|False|https://redd.it/ekadet|24|0.8|0|0|0|foodporn
+ekbod4|2020-01-05 11:03:45|I made baked chicken thigh fillet with vegetables for the first time|https://i.redd.it/wo4qx0qfzx841.jpg|ontherocks391|False|https://redd.it/ekbod4|14|0.83|0|0|0|foodporn
+ek8q9c|2020-01-05 05:31:40|Spam fried rice ❤︎|https://i.redd.it/3094rni6cw841.jpg|Bisswithcravings|False|https://redd.it/ek8q9c|40|0.84|0|4|0|foodporn
+ek85eo|2020-01-05 04:39:25|Nashville Hot Chicken|https://i.redd.it/gafo7ocv2w841.jpg|DanielJW85|False|https://redd.it/ek85eo|46|0.89|0|0|0|foodporn
+ek9z7d|2020-01-05 07:42:07|The best box brownies [oc]|https://i.redd.it/fejao9tgzw841.jpg|Rude_Girl69|False|https://redd.it/ek9z7d|22|0.86|0|3|0|foodporn
+ekdel1|2020-01-05 14:05:44|Panna cotta w/ jurka (grape) jelly 🤩|https://i.redd.it/4wy15ltwvy841.jpg|testkurva22|False|https://redd.it/ekdel1|8|0.71|0|5|0|foodporn
+ek6a9b|2020-01-05 01:59:41|Pork chop with peas, lumpini beans, pearl onions, and fennel! [Homemade]|https://i.redd.it/ixzespndav841.jpg|BushyEyes|False|https://redd.it/ek6a9b|58|0.93|0|2|0|foodporn
+ek72f4|2020-01-05 03:04:55|Breaking in my new cast iron skillet by sauteing top sirloin and bacon wrapped cheese stuffed jalapenos in garlic butter.|https://i.redd.it/82t2ob60mv841.jpg|Eisie|False|https://redd.it/ek72f4|44|0.91|0|0|0|foodporn
+ek1zxu|2020-01-04 20:30:46|I made a bacon, egg and cheddar bagel|https://i.redd.it/xyy4p2xnnt841.jpg|elijahbeck|False|https://redd.it/ek1zxu|151|0.96|0|4|0|foodporn
+ejvmps|2020-01-04 11:33:31|Me and my mates have a cooking competition here and there so heres a strip steak and some nice homemade fries I made for them.|https://i.redd.it/2e11g2cuzq841.jpg|collinlt1|False|https://redd.it/ejvmps|771|0.98|0|18|0|foodporn
+eka4rt|2020-01-05 07:59:38|Oven baked pulled pork.|https://i.redd.it/f60xfn7l2x841.jpg|CashBandicootch|False|https://redd.it/eka4rt|17|0.74|0|6|0|foodporn
+ek6p7v|2020-01-05 02:33:38|Dry brined top sirloin with bone marrow compound butter and onion friz.|https://i.redd.it/4l34z2ffgv841.jpg|Cgm89|False|https://redd.it/ek6p7v|44|0.92|0|1|0|foodporn
+ekbrlp|2020-01-05 11:14:17|Made some vegetarian sweet potato tacos|https://i.redd.it/e1ou7mmb1y841.jpg|bert1589|False|https://redd.it/ekbrlp|8|0.7|0|1|0|foodporn
+ekadw9|2020-01-05 08:28:29|Made an amazing rare NY strip with mushrooms|https://i.redd.it/73jdj7rq7x841.jpg|Nerokram|False|https://redd.it/ekadw9|13|0.86|0|0|0|foodporn
+ek1uk9|2020-01-04 20:19:55|[Homemade] Cacio e Pepe. It's all about the technique.|https://i.redd.it/em63546rlt841.jpg|perryyyyyy|False|https://redd.it/ek1uk9|123|0.99|0|7|0|foodporn
+ejxgiv|2020-01-04 14:47:48|NYC Hero from street vendor.|https://i.redd.it/af0mf9bbyr841.jpg|Imabigprick|False|https://redd.it/ejxgiv|321|0.94|0|28|0|foodporn
+ek95wy|2020-01-05 06:13:18|I love Sashimi. This is from a spot in Indianapolis, I forgot what it is called.|https://i.redd.it/hljexutjjw841.jpg|SanJJ_1|False|https://redd.it/ek95wy|18|0.88|0|2|0|foodporn
+ejo9e0|2020-01-04 00:05:55|Marvelous Burger & Hot Dog, Paris|https://i.redd.it/e2lu6hy5ln841.jpg|Itzz_HeroZ|False|https://redd.it/ejo9e0|6896|0.95|0|190|0|foodporn
+ek8d2y|2020-01-05 04:58:25|[I made] Whole grain Dijon marinated steak. Grilled asparagus and fries. One of the customers favorites here at the hotel I work.|https://i.redd.it/c77wk7e96w841.jpg|YouHave-NoEyedea|False|https://redd.it/ek8d2y|22|0.83|0|1|0|foodporn
+ek6b9c|2020-01-05 02:01:56|Unagi, Maguro, Sake, and Hamachi nigiri|https://i.redd.it/dv96ymurav841.jpg|Homer-Griffin|False|https://redd.it/ek6b9c|38|0.93|0|1|0|foodporn
+ekafor|2020-01-05 08:34:29|[I made] Menudo 🥘|https://i.redd.it/84o79i8t8x841.jpg|berlinwall_|False|https://redd.it/ekafor|10|0.88|0|4|0|foodporn
+ek9nso|2020-01-05 07:07:06|Loaded chicken alfredo stuffed bell pepper|https://i.redd.it/6jvn4xz6tw841.jpg|Forsaken-Examination|False|https://redd.it/ek9nso|13|0.79|0|0|0|foodporn
+ek5g2q|2020-01-05 00:50:12|Mushroom dessert from Billy Button Dessert Bar in Vancouver. Found in the mycology subreddit|https://i.redd.it/jy8k4i0eiu841.jpg|Nocturnal377|False|https://redd.it/ek5g2q|43|0.93|0|0|0|foodporn
+ek81rj|2020-01-05 04:30:46|Chicken sandwich|https://i.redd.it/0rwbppub1w841.jpg|notanazzhole|False|https://redd.it/ek81rj|20|0.87|0|1|0|foodporn
+ejydkh|2020-01-04 16:04:56|[OC] Homemade puff pastry Galette des Rois, frangipane filling|https://i.redd.it/j6kiwez5cs841.jpg|GreenMedallion|False|https://redd.it/ejydkh|200|0.99|0|19|0|foodporn
+ek5cau|2020-01-05 00:41:46|Parigi Caffè, Paris, France|https://i.redd.it/w683ag5hwu841.jpg|Itzz_HeroZ|False|https://redd.it/ek5cau|38|0.9|0|9|0|foodporn
+ek4qou|2020-01-04 23:54:13|Larb Nur from a local Thai shop. It was spicy and perfect|https://i.redd.it/g7h1r8pznu841.jpg|NonsensicalWizard|False|https://redd.it/ek4qou|49|0.93|0|3|0|foodporn
+ek74tu|2020-01-05 03:10:34|[OC] homemade chicken nachos|https://i.redd.it/g1ei35q0nv841.jpg|BDontCare|False|https://redd.it/ek74tu|25|0.89|0|2|0|foodporn
+ek6dqc|2020-01-05 02:07:25|Five cheddars is too many, four is your number|https://i.redd.it/c2dcs44rbv841.jpg|WookieBushy|False|https://redd.it/ek6dqc|32|0.88|0|3|0|foodporn
+ekigyc|2020-01-05 20:20:55|Thick cut bacon fresh out of the oven.|https://www.reddit.com/r/Bacon/comments/ekgtxb/fresh_out_of_the_oven/?utm_source=share&utm_medium=ios_app&utm_name=iossmf|bimmford|False|https://redd.it/ekigyc|2|0.75|0|0|0|foodporn
+ek54vm|2020-01-05 00:25:34|French toast sticks with cinnamon sugar dust and maple syrup|https://i.redd.it/5bxxdanjtu841.jpg|warzar112|False|https://redd.it/ek54vm|36|0.88|0|1|0|foodporn
+eka89x|2020-01-05 08:10:30|Homemade Mini Tuna Patties|https://i.redd.it/6qtmoozi4x841.jpg|callowix|False|https://redd.it/eka89x|9|0.78|0|0|0|foodporn
+ek8uf7|2020-01-05 05:42:30|The Instant Pot gods provided me with this excellent sticky rice and black pepper beef dish this eve. 🧞‍♂️👨🏻‍🍳🙏|https://i.redd.it/w8jthsf4ew841.jpg|barnavy|False|https://redd.it/ek8uf7|14|0.8|0|3|0|foodporn
+ek4t4u|2020-01-04 23:59:37|Finished Tomahawk. Reversed seared.|https://i.redd.it/ji3tiodxou841.jpg|RobRobRobRobRobRob|False|https://redd.it/ek4t4u|41|0.96|0|7|0|foodporn
+ek89mm|2020-01-05 04:49:40|Lemon mousse cake|https://i.redd.it/1bh1mt5p4w841.jpg|_PonySlayStation_|False|https://redd.it/ek89mm|16|0.91|0|0|0|foodporn
+ek39jl|2020-01-04 22:02:38|A Chocolate brownie chimney cone|https://i.redd.it/yjdtlj434u841.jpg|Boourns101|False|https://redd.it/ek39jl|53|0.93|0|5|0|foodporn
+ek7pb7|2020-01-05 04:00:14|Vietnamese rice dish with pork|https://i.redd.it/8q4dtp9vvv841.jpg|i-weddit|False|https://redd.it/ek7pb7|16|0.83|0|0|0|foodporn
+ek0e6i|2020-01-04 18:33:21|Franklin BBQ feast - 5.5 hour wait in line.|https://i.redd.it/7n7lmqno2t841.jpg|GivemethebrisketMan|False|https://redd.it/ek0e6i|102|0.89|1|28|0|foodporn
+ek54f4|2020-01-05 00:24:35|My Best buffalo chicken..|https://i.redd.it/s5z4qmndtu841.jpg|jrparrillero|False|https://redd.it/ek54f4|32|0.88|0|1|0|foodporn
+ek7cw3|2020-01-05 03:29:29|[OC] Had some deliciously spicy hotpot broth today|https://i.redd.it/khr3y9fdqv841.jpg|slurpyslurps|False|https://redd.it/ek7cw3|21|0.89|0|1|0|foodporn
+ek8baf|2020-01-05 04:53:48|[i ate] cinnamon waffles with nuttela|https://i.redd.it/wih777hc5w841.jpg|zendeganiyemar|False|https://redd.it/ek8baf|14|0.87|0|0|0|foodporn
+ek2rjv|2020-01-04 21:26:19|Homemade Sourdough|https://imgur.com/pPQ3grR|MissSuperSilver|False|https://redd.it/ek2rjv|57|0.96|0|2|0|foodporn
+ek4bqa|2020-01-04 23:22:42|Bacon wrapped cheese and jalapeño stuffed sausage|https://i.imgur.com/PD1bqGN.jpg|munx1er|False|https://redd.it/ek4bqa|39|0.88|0|4|0|foodporn
+ek6i4l|2020-01-05 02:17:05|[OC] Made a cashew pesto tortellini bowl with roasted mushrooms, cherry tomatoes, and broccoli for dinner tonight. Super healthy, and delicious!|https://i.redd.it/1jyi8a4hdv841.jpg|claytoncolt|False|https://redd.it/ek6i4l|22|0.88|0|4|0|foodporn
+ek5s7j|2020-01-05 01:18:26|Homemade gnocchi with broccoli, anchovies, black olives, capers and pine nuts|https://i.redd.it/ju3y4sj03v841.jpg|tigullio|False|https://redd.it/ek5s7j|24|0.86|0|0|0|foodporn
+ek4yz8|2020-01-05 00:12:36|Homemade Pizza (Top: Philly Cheesesteak, Bottom: Sausage and Cherry Pepper)|https://i.redd.it/07soaet9ru841.jpg|d_traiin|False|https://redd.it/ek4yz8|27|0.84|0|1|0|foodporn
+ek6rc0|2020-01-05 02:38:41|I have the munchies and just made seasoned miranated medium rare steak|https://i.redd.it/643x5u4chv841.jpg|Mets4Ever2k|False|https://redd.it/ek6rc0|20|0.8|0|7|0|foodporn
+ek9fg6|2020-01-05 06:41:09|Always a satisfying pleasure to stretch out pizza dough|https://i.redd.it/zxrn8bvkow841.jpg|tacosoup_|False|https://redd.it/ek9fg6|11|0.82|0|2|0|foodporn
+ek7ksd|2020-01-05 03:48:44|Who doesnt love christmas cookiess|https://i.redd.it/rfbltqtttv841.jpg|jennybowerssss|False|https://redd.it/ek7ksd|15|0.84|0|0|0|foodporn
+ek4xht|2020-01-05 00:09:17|Just made beef stew|https://i.redd.it/fxggvqkoqu841.jpg|Mets4Ever2k|False|https://redd.it/ek4xht|29|0.82|0|2|0|foodporn
+ek4cz8|2020-01-04 23:25:22|Beef short rib and kimchi fried rice. [OC]|https://i.redd.it/4fc7o9nriu841.jpg|WarMaiden666|False|https://redd.it/ek4cz8|31|0.93|0|5|0|foodporn
+ek559t|2020-01-05 00:26:31|I was put in charge of the ‘cheeseboard and nibbles’ for Boxing Day..... did I go overboard?|https://i.redd.it/v3qf0o5qtu841.jpg|Tomb_Brader|False|https://redd.it/ek559t|22|0.79|0|13|0|foodporn
+ek6qwj|2020-01-05 02:37:35|White Truffle!|https://i.redd.it/jwx2eey4hv841.jpg|hmmmmmmmmmmmmmxcv|False|https://redd.it/ek6qwj|15|0.95|0|1|0|foodporn
+ek5nbt|2020-01-05 01:07:10|Eye fillet served with broad beans sautéed with bacon and garlic on potato and celeriac mash with a red wine jus.|https://i.redd.it/rwnrkqfk0v841.jpg|The_Raxyl|False|https://redd.it/ek5nbt|22|0.93|0|4|0|foodporn
+ek5fys|2020-01-05 00:49:57|Extra cheesy - Jack the Ripper Burger - Jekyll and Hyde|https://i.redd.it/4w3xrqsxxu841.jpg|spensto_715|False|https://redd.it/ek5fys|23|0.82|0|1|0|foodporn
+ek2xq1|2020-01-04 21:39:05|First Philly cheese sandwich ever! Dieter Sanchez, Hamburg, Germany.|https://i.redd.it/xjtuj1rvzt841.jpg|edelkoikarpfen|False|https://redd.it/ek2xq1|38|0.84|0|3|0|foodporn
+ek4oiw|2020-01-04 23:49:19|Made crockpot red beans and rice today. It was yum.|https://i.redd.it/p577gac3nu841.jpg|Murderino67|False|https://redd.it/ek4oiw|21|0.85|0|6|0|foodporn
+ejxmnk|2020-01-04 15:02:55|Classic Gourmet Yellow Cake! One of my favorites, how about you?|https://i.redd.it/pwdbm1a71s841.jpg|Beno-james|False|https://redd.it/ejxmnk|112|0.98|0|1|0|foodporn
+ek00mf|2020-01-04 18:06:09|Khao Soi: Coconut Curry Chicken Soup|https://i.redd.it/5w9iig2wxs841.jpg|jayfallon|False|https://redd.it/ek00mf|61|0.97|0|2|0|foodporn
+ek1gh0|2020-01-04 19:51:33|[Homemade] Maple Pepper Bacon|https://i.redd.it/tea32i2pgt841.jpg|WizardofUz|False|https://redd.it/ek1gh0|39|0.91|0|6|0|foodporn
+ek43r5|2020-01-04 23:05:59|Butter Chicken Sliders|https://i.redd.it/kgdp0wpdfu841.jpg|anotheruser45|False|https://redd.it/ek43r5|24|0.83|0|0|0|foodporn
+ek2evm|2020-01-04 21:01:07|A red curry bao and a pork belly bao with sesame noodles|https://i.redd.it/hmv15kw3tt841.jpg|blender124|False|https://redd.it/ek2evm|33|0.89|0|2|0|foodporn
+ejxla3|2020-01-04 14:59:38|Homemade pepperoni Pizza. Being a German I added extra layers of Wurst.|https://i.redd.it/12xv1m5m0s841.jpg|the_bread_code|False|https://redd.it/ejxla3|96|0.91|0|6|0|foodporn
+ek6u20|2020-01-05 02:44:53|Pineapple Goat 🤤🤤🤤🤤|https://i.redd.it/jo310jofiv841.jpg|fritz5601|False|https://redd.it/ek6u20|13|0.75|0|1|0|foodporn
+ejy8sq|2020-01-04 15:54:19|[OC] My sous vide prime rib roast.|https://i.redd.it/mc2g4scdas841.jpg|FirstFyres|False|https://redd.it/ejy8sq|82|0.97|0|6|0|foodporn
+ek1mmc|2020-01-04 20:04:11|Homemade no yeast donuts - Mémère Béland’s recipe|https://i.redd.it/9jjc289yit841.jpg|marilmad|False|https://redd.it/ek1mmc|36|0.88|0|2|0|foodporn
+ejzfhg|2020-01-04 17:24:59|Pho for the win! Nature’s hangover cure :)|https://i.redd.it/r6ibdxmjqs841.jpg|dreamweaver421|False|https://redd.it/ejzfhg|52|0.86|0|2|0|foodporn
+ek1oqy|2020-01-04 20:08:35|Just some good lookin sushi. [OC]|https://i.redd.it/fo87wrcqjt841.jpg|tnich89|False|https://redd.it/ek1oqy|31|0.86|0|2|0|foodporn
+ek3jc0|2020-01-04 22:23:02|Grilled Rack of Lamb Indian Style. Spiced with Garlic, Ginger, and Chillies|https://i.redd.it/250a40fl7u841.png|shekyboy|False|https://redd.it/ek3jc0|20|0.86|0|3|0|foodporn
+ek57cm|2020-01-05 00:31:11|Cane’s must never know of my infidelity.|https://i.redd.it/x61w9eokuu841.jpg|happiebunnie96|False|https://redd.it/ek57cm|13|0.73|0|5|0|foodporn
+ek4se4|2020-01-04 23:57:56|Vegan Rice Pudding. My first attempt and it’s absolutely amazing.|https://i.redd.it/ilo7m9nnou841.jpg|CindyRaquelDevitt|False|https://redd.it/ek4se4|14|0.77|0|3|0|foodporn
+ek4yjn|2020-01-05 00:11:36|Lo mein noodle soup with beef stir fry topped with green onions|https://i.redd.it/r2ezlo03ru841.jpg|kiko5566|False|https://redd.it/ek4yjn|14|0.84|0|0|0|foodporn
+ek1ir8|2020-01-04 19:56:12|Spinach dip in a rye bread bowl for my afternoon delight|https://i.redd.it/smarkhaght841.jpg|LibraDeeds|False|https://redd.it/ek1ir8|29|0.87|0|0|0|foodporn
+ek5cp5|2020-01-05 00:42:43|[homemade] My friends initial attempt at a New York strip steak.|https://imgur.com/dVpFB1T|pectus_excavoltron|False|https://redd.it/ek5cp5|10|0.72|0|4|0|foodporn
+ek4lzy|2020-01-04 23:44:08|$150 cheese board.|https://i.redd.it/vynzfef6mu841.jpg|sirkeithirish|False|https://redd.it/ek4lzy|13|0.72|0|10|0|foodporn
+ek3byj|2020-01-04 22:07:38|Feeling lazy and don't want anything heavy? Cold soba to the rescue|https://i.redd.it/nms0sw5z4u841.jpg|HitokiriRod|False|https://redd.it/ek3byj|18|0.81|0|1|0|foodporn
+ejzbgc|2020-01-04 17:16:14|Chicken pozole.|https://i.redd.it/rlxtcuezos841.jpg|rizznutz|False|https://redd.it/ejzbgc|40|0.94|0|3|0|foodporn
+ejvvwf|2020-01-04 12:04:24|[Homemade] Chili Mac with Garlic & Herbs|https://i.redd.it/arx6ttpc5r841.jpg|untimelyaftershock|False|https://redd.it/ejvvwf|105|0.95|0|8|0|foodporn
+ek56h2|2020-01-05 00:29:10|Garlic Parmesan Chicken|https://i.redd.it/4nds5vc2uu841.jpg|BlueBunny5|False|https://redd.it/ek56h2|10|0.92|0|2|0|foodporn
+ek0joj|2020-01-04 18:44:27|[OC] This is a Salmon Sandwich with Celery and Aioli [Garlic Mayonnaise] in a Toasted Seven Grain Bread.|https://i.redd.it/84umu77k4t841.jpg|YZXFILE|False|https://redd.it/ek0joj|31|0.88|0|7|0|foodporn
+ek3bkg|2020-01-04 22:06:50|Grilled chicken pita wrap with garlic sauce|https://i.redd.it/dhsq6bkr4u841.jpg|PartyofDog|False|https://redd.it/ek3bkg|15|0.82|0|5|0|foodporn
+ek4mik|2020-01-04 23:45:10|Made some soufflé|https://i.redd.it/78681qmdmu841.jpg|Ronwassili|False|https://redd.it/ek4mik|14|0.89|0|1|0|foodporn
+ejzf46|2020-01-04 17:24:13|Smoked Elk Sausage and Morel Pizza|https://i.redd.it/s6ufdcscqs841.jpg|RaddIce|False|https://redd.it/ejzf46|36|0.96|0|0|0|foodporn
+ek0gs0|2020-01-04 18:38:57|[Homemade] Grilled Duck filet on parsnip creme with fried quiona and veggies. Zucchini rolls with feta and roasted walnuts on the side. Enjoy!|https://i.redd.it/68qrwveq3t841.jpg|patjag_d|False|https://redd.it/ek0gs0|26|0.85|0|3|0|foodporn
+ejw6yl|2020-01-04 12:40:08|[Homemade] Chicken Alfredo Pasta; I’m 16 learning to cook and made this. I accidentally put in onion instead of garlic and instead of caramelizing it I undercooked it. Dish was delicious so I guess the trick IS to undercook the onions.|https://i.imgur.com/FukFEjm.jpg|Mhmarcush|False|https://redd.it/ejw6yl|83|0.79|0|12|0|foodporn
+ek8dbq|2020-01-05 04:59:06|[OC] assorted sushi including tuna and avocado rolls, vegetable tempura, and seaweed salad over rice in tofu skins|https://imgur.com/a/hUtF3qz|tea-addicted-taemint|False|https://redd.it/ek8dbq|6|0.84|0|2|0|foodporn
+ek6uyx|2020-01-05 02:46:53|First time making homemade pizza, crust and sauce all made by scratch. It also tastes as good as it looks|https://i.redd.it/mn0kajcsiv841.jpg|Papa_Boris|False|https://redd.it/ek6uyx|7|0.6|0|4|0|foodporn
+ejt6ye|2020-01-04 06:49:06|Cheese plate my wife made. It tastes even better than it looks!|https://i.redd.it/cnle37xckp841.jpg|funeralgoose|False|https://redd.it/ejt6ye|232|0.95|0|11|0|foodporn
+ek4dbl|2020-01-04 23:26:05|Homemade Chicken Noodle Soup With Toast|https://i.redd.it/33asoz7tiu841.jpg|VenomXTs|False|https://redd.it/ek4dbl|14|0.79|0|0|0|foodporn
+ek5k4r|2020-01-05 00:59:47|Croissants made from einkorn! First time to try croissants of any kind and they turned out great 💗|https://i.redd.it/kut6lauozu841.jpg|happenstancegoddess|False|https://redd.it/ek5k4r|7|1.0|0|2|0|foodporn
+ek0xmb|2020-01-04 19:12:44|Swan Oyster Depot in San Fran. Seafood feast.|https://i.redd.it/k051sp5q9t841.jpg|GivemethebrisketMan|False|https://redd.it/ek0xmb|26|0.87|0|16|0|foodporn
+ejzezz|2020-01-04 17:23:57|[Homemade] Pierogi Bar with Kielbasa|https://i.redd.it/73d8s2kcqs841.jpg|romgm|False|https://redd.it/ejzezz|31|0.89|0|13|0|foodporn
+ejyibp|2020-01-04 16:15:16|[I made] pastéis de nata ( Portuguese egg tarts)|https://i.redd.it/bxfjknk3es841.jpg|momyoucantzoomin|False|https://redd.it/ejyibp|35|0.95|0|4|0|foodporn
+ejzv10|2020-01-04 17:55:18|cooked myself some steak on butter and garlic after gym, tomatoes and broccoli go in the same pan after the steak is done and resting (that’s the fat on top of the broccoli and no, I haven’t eaten those pieces :) )|https://i.redd.it/pfj71s7yvs841.jpg|damnkay|False|https://redd.it/ejzv10|26|0.84|0|0|0|foodporn
+ekfwew|2020-01-05 17:21:24|Rainbow unicorn ice cream|https://i.redd.it/2ederiktuz841.jpg|bbtyrannosaurusrex|False|https://redd.it/ekfwew|0|0.36|0|2|0|foodporn
+ejydgq|2020-01-04 16:04:42|I've made this amazingly soft sourdough sandwich bread|https://i.redd.it/qwbfbac7cs841.jpg|trudslev|False|https://redd.it/ejydgq|38|0.89|0|4|0|foodporn
+ek0mf4|2020-01-04 18:50:02|Creme brûlée Cappuccino|https://i.redd.it/t31mqgyp5t841.jpg|abellisnotabell|False|https://redd.it/ek0mf4|23|0.84|0|14|0|foodporn
+ejyara|2020-01-04 15:58:57|Starting the 2020 diet correctly. Slow roast garlic pork belly.|https://i.redd.it/5wo7tf57bs841.jpg|experfailist|False|https://redd.it/ejyara|34|0.95|0|3|0|foodporn
+ejezll|2020-01-03 12:49:18|Philly Cheese Steak New York style.|https://i.redd.it/h3m5pxl28k841.jpg|Imabigprick|False|https://redd.it/ejezll|8232|0.94|0|339|0|foodporn
+ejx6pb|2020-01-04 14:23:03|Some homemade eggs benny with prosciutto and asparagus for early morning breakfast|https://i.redd.it/ds1z2ey2ur841.jpg|Katbappy|False|https://redd.it/ejx6pb|45|0.9|0|0|0|foodporn
+ejxzrb|2020-01-04 15:33:35|hello , galette des rois 👑 #recipe|https://i.redd.it/ob97249o6s841.jpg|gateauetcuisine|False|https://redd.it/ejxzrb|36|0.86|0|2|0|foodporn
+ejzzv0|2020-01-04 18:04:44|[Homemade] Omelette with with sautéed mushrooms, onions, and red bell peppers, spinach, peppered bacon and a roasted heirloom tomato sauce.|https://i.redd.it/vea0v83nxs841.jpg|cammarcz|False|https://redd.it/ejzzv0|22|0.88|0|1|0|foodporn
+ejq5bl|2020-01-04 02:27:41|(OC) Pulled pork fries|https://i.imgur.com/gUno8a4.jpg|NotAFoodie|False|https://redd.it/ejq5bl|387|0.97|0|10|0|foodporn
+ek4um2|2020-01-05 00:02:46|Roasted italian chicken and veggies|https://i.redd.it/gljps2hipu841.jpg|Lejohns52|False|https://redd.it/ek4um2|10|0.69|0|2|0|foodporn
+ek398h|2020-01-04 22:02:05|Vegetable wellington [OC]|https://i.redd.it/pgpaoigx3u841.jpg|JellyfishMcsavaloy|False|https://redd.it/ek398h|10|0.68|0|5|0|foodporn
+ejx6j6|2020-01-04 14:22:36|Homemade Cannoli - Recipe in Comments|https://i.redd.it/t2499egztr841.jpg|saucesandwich_|False|https://redd.it/ejx6j6|39|0.91|0|1|0|foodporn
+ek11au|2020-01-04 19:20:28|Homemade ranch potato chip|https://i.redd.it/4iebyk65bt841.jpg|afrankie94|False|https://redd.it/ek11au|17|0.82|0|1|0|foodporn
+ek1lfx|2020-01-04 20:01:55|[I Ate] IHOP Pancakes & French Toast w/ Fruit, Bacon, Cottage Cheese, Potatoes & Eggs (extras from home!)|https://i.redd.it/n5mfvspjit841.jpg|untimelyaftershock|False|https://redd.it/ek1lfx|16|0.84|0|1|0|foodporn
+ek0877|2020-01-04 18:21:14|Stuffed eggplants.|https://i.redd.it/j6ro8bjk0t841.jpg|Jampaha|False|https://redd.it/ek0877|19|1.0|0|3|0|foodporn
+ejmd6o|2020-01-03 21:48:49|[Homemade] Coconut Curry soup! Filled with onions, bell pepper, chicken and shrimp!|https://i.redd.it/llxkxyuowm841.jpg|thedesertdish|False|https://redd.it/ejmd6o|843|0.99|0|37|0|foodporn
+ejy5ak|2020-01-04 15:46:17|Happy with the new stone, pepperoni pizza hot off the grill|https://i.redd.it/d7esa7bx8s841.jpg|Doggo-Lovato|False|https://redd.it/ejy5ak|31|0.93|0|2|0|foodporn
+ejp6qm|2020-01-04 01:14:35|Shake shack cheeseburger with cheese fries-Illinois|https://i.redd.it/0o0gu24fxn841.jpg|ronniegonzalez123|False|https://redd.it/ejp6qm|400|0.95|0|14|0|foodporn
+ek6da7|2020-01-05 02:06:24|[OC] Citrus-pineapple pork loin for dinner made with blood oranges....melts in your mouth amazing!|https://i.redd.it/dlyb1fokbv841.jpg|madearaven|False|https://redd.it/ek6da7|7|0.72|0|3|0|foodporn
+ejxwvv|2020-01-04 15:26:44|The Babà with rum, whipped cream and Nutella|https://i.redd.it/5l5wdhbg5s841.jpg|SimplePhysician|False|https://redd.it/ejxwvv|27|1.0|0|1|0|foodporn
+ek0f5k|2020-01-04 18:35:30|One of the many home made cookie trays made by my fiancee, her mom, and her grandmother. Clockwise from the left: Lace cookie, peanut butter cookie, triple chocolate with spice, lemon bars. In the center: candied chipotle walnuts, mint brownie, and Costco peppermint bark (not homemade)|https://imgur.com/SxhBwgi|JohnnyNapkins|False|https://redd.it/ek0f5k|15|0.91|0|2|0|foodporn
+ek44wc|2020-01-04 23:08:26|Pani Puri Shots!|https://i.redd.it/aqx0gt6tfu841.jpg|anotheruser45|False|https://redd.it/ek44wc|7|0.77|0|2|0|foodporn
+ek1dj4|2020-01-04 19:45:32|Vegetable Wellington [OC]|https://i.redd.it/abxqhwlkft841.jpg|JellyfishMcsavaloy|False|https://redd.it/ek1dj4|12|0.73|0|7|0|foodporn
+ek0mjf|2020-01-04 18:50:21|Baked eggs filled Eggplant with some veggies on the side|https://i.redd.it/zfgwioyr5t841.jpg|WildLAppears|False|https://redd.it/ek0mjf|14|0.83|0|5|0|foodporn
+ejthzm|2020-01-04 07:20:43|Rate my girlfriend’s kimchi dumpling|https://i.redd.it/7juayvqqqp841.jpg|ChefsSalad1007|False|https://redd.it/ejthzm|102|0.93|0|12|0|foodporn
+ejycf4|2020-01-04 16:02:30|Family first gingerbread competition, vote 1, 2, or 3, for the winner. Start number from left to right. C’mon ... join in the fun!|https://i.redd.it/zhqwheosbs841.jpg|insthotchkiss|False|https://redd.it/ejycf4|20|0.87|0|46|0|foodporn
+ejspfa|2020-01-04 06:01:09|Corned Beef + Egg + Steamy Rice|https://i.redd.it/c5rd253jcp841.jpg|dropkicksoul|False|https://redd.it/ejspfa|122|0.94|0|4|0|foodporn
+eju1t0|2020-01-04 08:22:37|I made Al Pastor tacos & homemade tortilla chips|https://i.redd.it/1n4fkmsm1q841.jpg|4strokegangsuewoo|False|https://redd.it/eju1t0|84|0.96|0|6|0|foodporn
+ek1l8t|2020-01-04 20:01:29|[OC] My homemade shrimp aguachile recipe|https://imgur.com/NwhtHY4|SiNosDejan|False|https://redd.it/ek1l8t|8|0.78|0|0|0|foodporn
+ejzxdm|2020-01-04 17:59:56|[Homemade] Thought I'd recreate my fav|https://imgur.com/nKBan5f|Starlordy-|False|https://redd.it/ejzxdm|14|0.77|0|5|0|foodporn
+ejzapb|2020-01-04 17:14:39|I bought an egg mold just for this breakfast sammich (1 Net Carb)|https://i.redd.it/8t9vj2dpos841.jpg|GoodBull1748|False|https://redd.it/ejzapb|12|0.75|0|5|0|foodporn
+ejskrv|2020-01-04 05:48:33|Garlic butter lobster tails...|https://i.redd.it/l56r318aap841.jpg|luv_myfrenchie301|False|https://redd.it/ejskrv|113|0.97|0|2|0|foodporn
+ek3pye|2020-01-04 22:37:17|Simple pork chop, butter seared and finished with salt, peppercorn, and shichimi togarashi|https://i.imgur.com/BgVfmuy.jpg|percussivePanda|False|https://redd.it/ek3pye|5|0.66|0|2|0|foodporn
+ek3pkd|2020-01-04 22:36:25|Air fryer wings|https://i.redd.it/tvittvo3au841.jpg|last_lesson|False|https://redd.it/ek3pkd|5|0.78|0|3|0|foodporn
+ejrboe|2020-01-04 04:00:25|Homemade Pizza on the BGE|https://i.redd.it/qmz0a360ro841.jpg|mijeep86|False|https://redd.it/ejrboe|148|0.97|0|5|0|foodporn
+ek4ezn|2020-01-04 23:29:19|Double Smashburger with truffles, mushrooms and swiss.|https://i.imgur.com/6EMRkOc.jpg|archangelsidekick|False|https://redd.it/ek4ezn|6|0.64|0|4|0|foodporn
+ejx6ca|2020-01-04 14:22:05|Poached eggs on toast|https://i.imgur.com/K5VCoMi.jpg|tobias_henn|False|https://redd.it/ejx6ca|21|0.92|0|0|0|foodporn
+ejlskl|2020-01-03 21:08:52|I made beef stew and dumplings for dinner, perfect winter night food|https://i.redd.it/1h6zixmkpm841.jpg|brunettedoll|False|https://redd.it/ejlskl|486|0.97|0|19|0|foodporn
+ejztun|2020-01-04 17:52:59|[Homemade] Traditional Romanian holiday meal consisting of sarmale (stuffed cabbage), friptura (pork loin stuffed with garlic and mushrooms), salata de boeuf (beef salad), and various cold cuts and cheese. Yum!|https://i.redd.it/wzo3m95jvs841.jpg|romgm|False|https://redd.it/ejztun|8|0.88|0|0|0|foodporn
+ejw9dl|2020-01-04 12:47:55|Awesome pulled beef burger|https://i.redd.it/o2catta3dr841.jpg|FTRUR|False|https://redd.it/ejw9dl|25|0.94|0|2|0|foodporn
+ejs2yp|2020-01-04 05:03:25|[Homemade] Shrimp Spring Rolls|https://i.redd.it/6kff07c82p841.jpg|romgm|False|https://redd.it/ejs2yp|95|0.94|0|2|0|foodporn
+ek0z7o|2020-01-04 19:16:09|Scrambled eggs with ham, hash browns, toast, and a slice of orange for breakfast|https://i.redd.it/nmuu5tddat841.jpg|i-weddit|False|https://redd.it/ek0z7o|9|0.7|0|0|0|foodporn
+ek0o9z|2020-01-04 18:53:57|Zucchini For Breakfast Anyone?|https://i.redd.it/85rs8z3f6t841.jpg|abellisnotabell|False|https://redd.it/ek0o9z|9|0.81|0|1|0|foodporn
+ejt55q|2020-01-04 06:44:05|Raspberry White Chocolate Mousse Entremet - first time making anything like this!|https://i.redd.it/55yxti97kp841.jpg|abellisnotabell|False|https://redd.it/ejt55q|64|0.95|0|5|0|foodporn
+ejzbb6|2020-01-04 17:15:55|Curry Cod and rice, wth nan-bread and raita :) first time making, first time trying curry and cod together 😊😊|https://i.redd.it/a6j4bylvos841.jpg|kmmr93|False|https://redd.it/ejzbb6|8|0.83|0|0|0|foodporn
+ejvx8l|2020-01-04 12:09:01|This French toast. Chocolate soil, raspberry crisps, berry sorbet and baked peaches|https://i.redd.it/ea9qcr126r841.jpg|joshisnotitalian21|False|https://redd.it/ejvx8l|24|0.89|0|0|0|foodporn
+ejz323|2020-01-04 16:59:13|Homemade Dutch Baby, Extra Thicc|https://i.redd.it/znol5w2yls841.jpg|mr_munshun|False|https://redd.it/ejz323|8|0.8|0|1|0|foodporn
+ejx512|2020-01-04 14:18:48|milanesa napolitana and air fried french fries|https://i.redd.it/ce91vlvbtr841.jpg|rachienasty|False|https://redd.it/ejx512|13|0.89|0|0|0|foodporn
+ejy13b|2020-01-04 15:36:41|[OC] made layered cupcakes for friends birthday layered chocolate chip cookies and brownie and chocolate cake|https://i.redd.it/1bjqc4x77s841.jpg|mattd2414|False|https://redd.it/ejy13b|10|0.88|0|1|0|foodporn
+ejsi4f|2020-01-04 05:41:53|Saw this clear lemon pie on r/blackmagicfuckery seen on r/mildlyinteresting|https://i.redd.it/om22mch39p841.jpg|SylvanEvergreen|False|https://redd.it/ejsi4f|64|0.88|0|3|0|foodporn
+ek0e4w|2020-01-04 18:33:15|One of the best burger I have ever cooked|https://i.redd.it/3kbqeqgp2t841.png|wilican|False|https://redd.it/ek0e4w|6|0.74|0|5|0|foodporn
+ejvwvg|2020-01-04 12:07:44|[I ate] self-made chicken risotto|https://i.redd.it/dmpky40y5r841.jpg|Die_Michii|False|https://redd.it/ejvwvg|19|0.87|0|3|0|foodporn
+ek4v8t|2020-01-05 00:04:09|I've been practicing with my griddle. 1/2 Lb creole-seasoned butter burger on sourdough.|https://i.redd.it/yqtigbzqpu841.jpg|Revan7even|False|https://redd.it/ek4v8t|2|0.6|0|1|0|foodporn
+ek1ry5|2020-01-04 20:14:52|[Homemade] Air-fryer Egg White & Veggie bakes! Egg white, celery or bell pepper, onion, garlic, salt, pepper, mozzarella. Air fry for 10 minutes. Nutrition info in comments.|https://imgur.com/a/foimAZ3|huckler|False|https://redd.it/ek1ry5|5|0.76|0|1|0|foodporn
+ejxfdy|2020-01-04 14:45:11|Vegetable floriculture in a hot pot shop|https://i.redd.it/dgwx6m41yr841.jpg|GCgoood|False|https://redd.it/ejxfdy|11|0.84|0|0|0|foodporn
+ejxq74|2020-01-04 15:11:15|Had a Tuna and Shrimp Poke Bowl at Bango Bowl|https://i.redd.it/vu7cihro2s841.jpg|_JTEE_|False|https://redd.it/ejxq74|8|0.73|0|0|0|foodporn
+ejsfu5|2020-01-04 05:36:04|Chopped Brisket, Pork Ribs, Jalapeño Sausage and sides from La Barbecue (Austin, TX, USA). Worth the wait!|https://i.redd.it/38i9f9a28p841.jpg|willjmill3|False|https://redd.it/ejsfu5|56|0.95|0|3|0|foodporn
+ejnxmz|2020-01-03 23:42:33|Nothing is better than chicken ramen on a cold day|https://i.redd.it/2h0gtt2zgn841.jpg|Overthinking36587|False|https://redd.it/ejnxmz|160|0.94|0|12|0|foodporn
+ejsn49|2020-01-04 05:54:49|[OC] Spicy beef ramen with brisket, mushrooms, cabbage, soft boiled eggs, cilantro, and scallions.|https://imgur.com/QWV5Qdj|Serpentwyne|False|https://redd.it/ejsn49|50|0.96|0|3|0|foodporn
+ek1akf|2020-01-04 19:39:33|I am a French native living in the US and tonight we are having Choucroute Garnie|https://imgur.com/a/Y7Fz37i|Veroonzebeach|False|https://redd.it/ek1akf|6|0.79|0|0|0|foodporn
+ejmukg|2020-01-03 22:23:35|[Homemade] Buche de noel|https://imgur.com/5W1sTxA|allonsyalonsooo|False|https://redd.it/ejmukg|195|0.99|0|8|0|foodporn
+ejpi51|2020-01-04 01:38:52|My first time making Chicken Noodle Soup from scratch (We didn’t have egg noodles, so I just used small pieces of linguine).|https://i.redd.it/mf96m6lq1o841.jpg|97Mariama11|False|https://redd.it/ejpi51|107|0.9|0|4|0|foodporn
+ejvbse|2020-01-04 10:57:49|[i ate ] hot chicken!|https://i.redd.it/yigcf37btq841.jpg|zendeganiyemar|False|https://redd.it/ejvbse|17|0.79|0|0|0|foodporn
+ejnq32|2020-01-03 23:27:20|Miniature Carrot Cake|https://i.redd.it/v52wy78aen841.jpg|genevievesprings|False|https://redd.it/ejnq32|140|0.97|0|13|0|foodporn
+ejvi6e|2020-01-04 11:17:47|Arugula Chicken Salad *nomnom*|https://i.redd.it/fa4sn6s0xq841.jpg|4nnka|False|https://redd.it/ejvi6e|16|0.88|0|1|0|foodporn
+ejrr0e|2020-01-04 04:35:29|(Homemade) Bacon, lettuce, and caramelized pepper on a toasted bagel|https://i.imgur.com/03GQv6K.jpg|Gold-Pony-Boy|False|https://redd.it/ejrr0e|48|0.91|0|1|0|foodporn
+ek30ly|2020-01-04 21:44:39|Vegan Pizza I made for funnies|https://i.redd.it/mkt1s5mv0u841.jpg|tacosoup_|False|https://redd.it/ek30ly|1|0.59|0|3|0|foodporn
+ejr0ak|2020-01-04 03:35:14|Patatas Bravas (Amada, Philadephia, PA)|https://i.redd.it/nqqq1ejimo841.jpg|CanIPetYourDawg|False|https://redd.it/ejr0ak|55|0.95|0|8|0|foodporn
+ejd0xf|2020-01-03 09:14:45|Blueberry Ice Cream with a Mt. Fuji cookie to the side and the actual Mt. Fuji in the background.|https://i.redd.it/plgfx3556j841.jpg|DatNoypiKid620|False|https://redd.it/ejd0xf|1593|0.98|0|21|0|foodporn
+ek4z6u|2020-01-05 00:13:07|Made some roasted potaoes|https://i.redd.it/edwhms4dru841.jpg|Mets4Ever2k|False|https://redd.it/ek4z6u|1|0.58|0|3|0|foodporn
+ek1tzy|2020-01-04 20:18:49|Turkey roulade, potato fondant, turned carrots, and green beans with a mushroom mornay sauce.|https://i.redd.it/lct92ky2lt841.jpg|NQ2V|False|https://redd.it/ek1tzy|3|0.6|0|0|0|foodporn
+ejwu1n|2020-01-04 13:49:13|Cool|https://i.redd.it/gel77d71or841.jpg|IDKWMUNSBSICT|False|https://redd.it/ejwu1n|6|0.79|0|0|0|foodporn
+ejvyen|2020-01-04 12:12:38|Holidays|https://i.redd.it/p8agq66o6r841.jpg|MMZB|False|https://redd.it/ejvyen|8|0.78|0|0|0|foodporn
+ejrree|2020-01-04 04:36:23|[I Ate] Seared Scallops with Shishito Peppers, Bacon, Mushrooms and Peas over Beurre Blanc|https://i.redd.it/4yezeerexo841.jpg|Myexisthedevil|False|https://redd.it/ejrree|30|0.97|0|0|0|foodporn
+ejpo43|2020-01-04 01:51:13|Massive chunk of Al Pastor|https://i.redd.it/yd68af1y3o841.jpg|ThomasThuhTrain|False|https://redd.it/ejpo43|54|0.93|0|1|0|foodporn
+ejqmrq|2020-01-04 03:05:29|Fermented Garlic Honey Wings|https://i.redd.it/l2luwwo6ho841.jpg|CloverHoneyBee|False|https://redd.it/ejqmrq|39|0.93|0|2|0|foodporn
+ejkscn|2020-01-03 19:59:32|You can never go wrong with lasagna|https://i.redd.it/louawqh7dm841.jpg|_marcella_|False|https://redd.it/ejkscn|145|0.94|0|4|0|foodporn
+eja6ny|2020-01-03 04:28:04|[Homemade] Fried Chicken|https://i.redd.it/owjblqy0rh841.jpg|saltz7|False|https://redd.it/eja6ny|2826|0.98|0|68|0|foodporn
+ejmw1t|2020-01-03 22:26:31|[OC] Cast Iron Pizza|https://i.redd.it/xvycsjpf3n841.jpg|rayw512|False|https://redd.it/ejmw1t|88|0.97|0|1|0|foodporn
+ejqzi0|2020-01-04 03:33:23|I made Chili Chicken and Mushroom Fried Rice|https://i.redd.it/ljg6qz36mo841.jpg|RoReRo123|False|https://redd.it/ejqzi0|27|1.0|0|0|0|foodporn
+ejuea1|2020-01-04 09:04:18|Seafood served in skillets served with this restaurant’s secret recipe sauce|https://i.redd.it/pnm3mhs79q841.jpg|ontherocks391|False|https://redd.it/ejuea1|9|0.93|0|1|0|foodporn
+ejqf2n|2020-01-04 02:48:34|[OC] [Homemade] New Mexican Red Chile Posole, cooked for 6 hours.|https://i.redd.it/pxaebdl6eo841.jpg|thedesertdish|False|https://redd.it/ejqf2n|30|0.93|0|3|0|foodporn
+ejlym0|2020-01-03 21:20:30|Fried food cart in Seoul, Korea|https://i.redd.it/to0j54knrm841.jpg|flyinhawaiian1|False|https://redd.it/ejlym0|84|0.96|0|2|0|foodporn
+ej7biz|2020-01-03 00:41:46|My wife made some sausage and havarti filled aebleskivers for dinner tonight.|https://i.redd.it/dhkgkyhnmg841.jpg|chaosmode|False|https://redd.it/ej7biz|4284|0.97|0|199|0|foodporn
+ejuk1u|2020-01-04 09:23:44|Home made beetroot carpaccio|https://i.redd.it/lcckbgtocq841.jpg|Spaulaner|False|https://redd.it/ejuk1u|10|0.67|0|0|0|foodporn
+ejpmxp|2020-01-04 01:48:44|Pork belly ramen|https://i.redd.it/qyfo89ii3o841.jpg|spicegorl|False|https://redd.it/ejpmxp|31|0.91|0|1|0|foodporn
+ejgj5j|2020-01-03 15:02:33|Most filling nachos I've ever had in my life|https://i.redd.it/rc5rrf38wk841.jpg|Rcknr1|False|https://redd.it/ejgj5j|226|0.87|0|37|0|foodporn
+ejrulh|2020-01-04 04:43:41|White shrimp taco, Morro Bay, California.|https://i.redd.it/wzdhenxpyo841.jpg|dmvgreg|False|https://redd.it/ejrulh|16|0.91|0|6|0|foodporn
+ejoukp|2020-01-04 00:48:06|Crab Rangoon dip with old bay deep fried chips.|https://i.redd.it/qfp129cosn841.jpg|hottsauce345543|False|https://redd.it/ejoukp|37|0.94|0|1|0|foodporn
+ejkzup|2020-01-03 20:13:41|A Dog and Fries Vegas Style|https://i.redd.it/ukfa0ptpfm841.jpg|infogurrrle|False|https://redd.it/ejkzup|80|0.93|0|7|0|foodporn
+ejuynj|2020-01-04 10:12:29|"Completely vegan banoffee desert I make for my restaurant, vegan toffe popcorn, vegan caramel on plate, vegan digestive crumb, caramelised banana, sugar tuille and finally when served it gets banana ""nicecream"" otherwise known as vegan banana icecream"|https://i.redd.it/2aizjlodlq841.jpg|littlenakedprincess|False|https://redd.it/ejuynj|8|0.71|0|0|0|foodporn
+ejr4jh|2020-01-04 03:44:36|Chocolate fondue|https://i.redd.it/7crpphw3oo841.jpg|saintleelyon|False|https://redd.it/ejr4jh|20|0.96|0|3|0|foodporn
+ejq806|2020-01-04 02:33:22|Oreo Cake|https://i.redd.it/mp7qyzigbo841.jpg|yunmif7|False|https://redd.it/ejq806|21|0.89|0|0|0|foodporn
+ejqjqd|2020-01-04 02:58:54|[OC] These baked Baja cod tacos with roja sauce really hit the spot tonight!|https://i.redd.it/w07w5bx0go841.jpg|claytoncolt|False|https://redd.it/ejqjqd|21|0.96|0|2|0|foodporn
+ejpxfq|2020-01-04 02:10:55|Homemade Pasta Fagioli|https://i.redd.it/7s2njjvg7o841.jpg|malice486|False|https://redd.it/ejpxfq|24|1.0|0|6|0|foodporn
+ejrl78|2020-01-04 04:21:46|The colour gradient on these pancakes(and nutella!)|https://i.redd.it/p36a9ibtuo841.jpg|Fortniteusedtobefun|False|https://redd.it/ejrl78|19|0.82|0|0|0|foodporn
+ej8ycc|2020-01-03 02:48:13|Homemade NY Strip Steak and Crispy Potatoes|https://i.imgur.com/Z7wLt2d.jpg|_GORK|False|https://redd.it/ej8ycc|1900|0.98|0|18|0|foodporn
+ejjb60|2020-01-03 18:17:57|[Homemade] Red Velvet Macarons|https://i.redd.it/7y8i8nu2vl841.png|20secondsvid|False|https://redd.it/ejjb60|101|0.96|0|2|0|foodporn
+ek6tcp|2020-01-05 02:43:11|Yeah. I went there.|https://i.redd.it/prg9h2a2iv841.jpg|fosterprice9|False|https://redd.it/ek6tcp|0|0.44|0|6|0|foodporn
+ejqp39|2020-01-04 03:10:35|Animal Style Fries|https://i.redd.it/y0sv51f3io841.jpg|varulven4|False|https://redd.it/ejqp39|18|0.81|0|6|0|foodporn
+ejrsoa|2020-01-04 04:39:18|I made cream of broccoli n cheddar soup with a healthy dollop of sour cream and strong dash of fresh cracked black pepper to finish|https://i.redd.it/yl7wcuqxxo841.jpg|mantrawish|False|https://redd.it/ejrsoa|14|0.85|0|0|0|foodporn
+ejr9dq|2020-01-04 03:55:25|Amazing Char-Siu pork I had in Guangzhou, China|https://i.imgur.com/DUZ5DNb.jpg|lacraquotte|False|https://redd.it/ejr9dq|17|0.94|0|1|0|foodporn
+ejqfqq|2020-01-04 02:50:04|Our first time making pasta!|https://i.redd.it/cmzzbh3geo841.jpg|althedon7|False|https://redd.it/ejqfqq|19|0.91|0|7|0|foodporn
+ejosv4|2020-01-04 00:44:30|Chocolate chip pancakes for dinner 😍|https://i.redd.it/g7l56ls1sn841.jpg|unbreakable95|False|https://redd.it/ejosv4|24|0.86|0|0|0|foodporn
+ejkze5|2020-01-03 20:12:53|Slow braised beef cheeck bao bun.|https://i.redd.it/lmw4s75lfm841.jpg|economistfoodie|False|https://redd.it/ejkze5|52|0.95|0|2|0|foodporn
+ejn65c|2020-01-03 22:46:40|Passion fruit and raspberry cake|https://i.redd.it/jwkr1wy07n841.jpg|callmemagic|False|https://redd.it/ejn65c|37|0.97|0|2|0|foodporn
+ejmj8h|2020-01-03 22:01:13|[Homemade] Teriyaki Salmon Bowl with Rice and Cucumber|https://i.redd.it/oqslagfwym841.jpg|Yelbuzz|False|https://redd.it/ejmj8h|37|0.93|0|0|0|foodporn
