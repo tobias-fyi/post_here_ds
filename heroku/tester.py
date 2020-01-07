@@ -2,9 +2,10 @@ import json
 import requests
 
 # if you want to test local
-url = "http://localhost:9000"
+# url = "http://localhost:9000"
 
 # deployed
+url = "http://nlp-subreddit-predictor.herokuapp.com/"
 
 ##
 
