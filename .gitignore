@@ -1,10 +1,13 @@
 # ====== Project-Specific ====== #
-docs/notebooks/*.pkl
-# *.pkl
-dox/
+# The nearestneighbor pickle file for this project is over 200mb
+nn_*.pkl
+
+Pipfile
+Pipfile.lock
 
 # Misc
 node_modules/
+dox/
 
 # Compiled source
 *.com
@@ -188,11 +191,11 @@ dmypy.json
 .venv/
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
