@@ -27,6 +27,4 @@ Data Engineers
 - Brian Ross
 
 
-## API
-
 ![Documentation](https://i.imgur.com/WSQh9Q3.png)
