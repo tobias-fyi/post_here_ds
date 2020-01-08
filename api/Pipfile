@@ -6,10 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask = "*"
-flask-cors = "*"
-requests = "*"
-jsonify = "*"
+flask-bcrypt = "*"
+flask-restplus = "*"
+flask-migrate = "*"
+pyjwt = "*"
+flask-script = "*"
+flask-testing = "*"
 pandas = "*"
 gunicorn = "*"
 
