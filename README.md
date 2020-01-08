@@ -25,3 +25,6 @@ Data Engineers
 
 - Claudia Chajon
 - Brian Ross
+
+
+![Documentation](https://i.imgur.com/WSQh9Q3.png)
