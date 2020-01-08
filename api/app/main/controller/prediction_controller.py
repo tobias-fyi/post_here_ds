@@ -8,7 +8,7 @@ api = PredictionDto.api
 _pred = PredictionDto.preds
 
 @api.route('/')
-@api.param( 'post_body','numbers of predictions to return')
+@api.param( 'post_body','body of the post being used to make a prediction')
 @api.param('return_count', 'int amount of predictions to return')
 class Prediction(Resource):
     @api.doc('model predictions')
