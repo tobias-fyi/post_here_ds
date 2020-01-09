@@ -1,7 +1,7 @@
 # ====== Project-Specific ====== #
 # The model pickle files are large
-*_nn.pkl
-*_nb.pkl
+_nn.pkl
+_nb.pkl
 
 
 Pipfile
@@ -193,11 +193,13 @@ dmypy.json
 .venv/
 
 ### VisualStudioCode ###
-.vscode/
+
+#.vscode/
 # !.vscode/settings.json
 # !.vscode/tasks.json
 # !.vscode/launch.json
 # !.vscode/extensions.json
+
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
