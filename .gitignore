@@ -1,6 +1,8 @@
 # ====== Project-Specific ====== #
-# The nearestneighbor pickle file for this project is over 200mb
-nn_*.pkl
+# The model pickle files are large
+*_nn.pkl
+*_nb.pkl
+
 
 Pipfile
 Pipfile.lock
