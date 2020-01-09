@@ -6,10 +6,10 @@ import pickle
 import lzma
 from traceback import format_exc
 
+
+
 __location__ = os.path.realpath(
     os.path.join(os.getcwd(), os.path.dirname(__file__)))
-
-
 
 def load_pickle(f):
     try:
@@ -21,28 +21,18 @@ def load_pickle(f):
         tb = format_exc()
         print(tb)
 
-# def nearestneighbors():
-#     f = 'nearestneighbors.pkl.xz'
-#     p = load_pickle(f)
-#     return p
-
-def multiNB():
-    f = 'multinomialNB.pkl'
-    p = load_pickle(f)
-    return p
-
-def vectorizer():
-    f = 'TfidfVectorizer.pkl'
+def rfc():
+    f = '04_rfc.pkl'
     p = load_pickle(f)
     return p
 
 def vocab():
-    f = 'vocab.pkl'
+    f = '04_vocab.pkl'
     p = load_pickle(f)
     return p
 
 def encoder():
-    f = 'labelencoder.pkl'
+    f = '04_le.pkl'
     p = load_pickle(f)
     return p
 

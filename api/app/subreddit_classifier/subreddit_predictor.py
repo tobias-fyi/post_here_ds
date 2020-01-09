@@ -27,13 +27,13 @@ def predict(post: str, n: int = 5) -> dict:
          {'subreddit': 'Rowing', 'proba': 0.005206}]
 
     """
-    vocab, nb, le = load_mvp()
+    vocab, rfc, le = load_mvp()
 
     # Vectorize the post -> sparse doc-term matrix
     post_vec = vocab.transform([post])
     
     # Generate predicted probabilities from trained model
-    proba = nb.predict_proba(post_vec)
+    proba = rfc.predict_proba(post_vec)
     
     #Wrangle into correct format
     return (pd

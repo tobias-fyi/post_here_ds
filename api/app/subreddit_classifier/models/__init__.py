@@ -1,12 +1,12 @@
 """Initialize Models Here"""
-from .model_assets.pre_trained import vocab, multiNB, encoder
+from .model_assets.pre_trained import vocab, rfc, encoder
 
 
 
 def load_mvp():
 
     corpus = vocab()
-    nb = multiNB()
+    forest = rfc()
     le = encoder()
 
-    return corpus, nb, le
+    return corpus, forest, le

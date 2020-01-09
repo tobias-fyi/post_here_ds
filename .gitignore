@@ -1,7 +1,7 @@
 # ====== Project-Specific ====== #
 # The model pickle files are large
-_nn.pkl
-_nb.pkl
+*_nn.pkl
+*_nb.pkl
 
 
 Pipfile

@@ -16,4 +16,4 @@ api = Api(blueprint,
 
 api.add_namespace(pred_ns, path='/predict')
 
-# vocab, nb, le = load_mvp()
+
