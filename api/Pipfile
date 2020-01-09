@@ -15,6 +15,9 @@ flask-testing = "*"
 pandas = "*"
 gunicorn = "*"
 flask-cors = "*"
+python-dotenv = "*"
+python-decouple = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
