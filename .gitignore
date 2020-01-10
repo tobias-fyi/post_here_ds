@@ -1,10 +1,15 @@
 # ====== Project-Specific ====== #
-docs/notebooks/*.pkl
-# *.pkl
-dox/
+# The model pickle files are large
+*_nn.pkl
+*_nb.pkl
+
+
+Pipfile
+Pipfile.lock
 
 # Misc
 node_modules/
+dox/
 
 # Compiled source
 *.com
@@ -13,6 +18,8 @@ node_modules/
 *.exe
 *.o
 *.so
+
+
 
 # Packages
 # it's better to unpack these files and commit the raw source
@@ -188,11 +195,13 @@ dmypy.json
 .venv/
 
 ### VisualStudioCode ###
-.vscode/*
-.vscode/settings.json
-.vscode/tasks.json
-.vscode/launch.json
-.vscode/extensions.json
+
+#.vscode/
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
