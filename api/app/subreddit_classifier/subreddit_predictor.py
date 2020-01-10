@@ -40,7 +40,7 @@ def predict(post: str, n: int = 5) -> dict:
                 .DataFrame(proba, columns=[le.classes_])  # Classes as column names
                 .T  # Transpose so column names become index
                 .reset_index()  # Pull out index into a column
-                .rename(columns={"level_0": "subreddit", 0: "proba"})  # Rename for aesthetics
+                .rename(columns={"level_0": "name", 0: "proba"})  # Rename for aesthetics
                 .sort_values(by="proba", ascending=False)  # Sort by probability
                 .iloc[:n]  # n-top predictions to serve
                 .to_dict(orient="records")
