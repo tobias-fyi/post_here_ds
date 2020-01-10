@@ -13,7 +13,7 @@ class Config:
 
 class DevelopmentConfig(Config):
 
-    SQLALCHEMY_DATABASE_URI = postgres_local_base
+    SQLALCHEMY_DATABASE_URI = config('DATABASE_URL')
     DEBUG = True
     SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'api.db')
     SQLALCHEMY_TRACK_MODIFICATIONS = False
