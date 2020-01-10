@@ -14,6 +14,6 @@ class Prediction(Resource):
     @api.doc('model predictions')
     @api.expect(_pred)
     def post(self):
-        """subreddit classificat using machine learning"""
+        """subreddit classification using machine learning"""
         data = request.json
         return make_prediction(data)
