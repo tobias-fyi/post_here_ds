@@ -19,5 +19,6 @@ python-dotenv = "*"
 python-decouple = "*"
 sklearn = "*"
 
+
 [requires]
 python_version = "3.7"

@@ -1,5 +1,6 @@
 import os
-
+from decouple import config
+from dotenv import load_dotenv
 
 # postgres_local_base = os.environ['DATABASE_URL']
 
@@ -28,7 +29,7 @@ class TestingConfig(Config):
 
 class ProductionConfig(Config):
     DEBUG = False
-    SQLALCHEMY_DATABASE_URI = postgres_local_base
+    SQLALCHEMY_DATABASE_URI = config('DATABASE_URL')
 
 
 config_by_name = dict(

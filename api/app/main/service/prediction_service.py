@@ -10,9 +10,11 @@ def make_prediction(data):
     try:
         n = data['return_count']
         text = data['submission_text']
+
         response = predict(text, n)
 
         response_object = {'predictions': response}
+
 
         return response_object, 201
 
