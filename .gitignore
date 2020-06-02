@@ -3,6 +3,8 @@
 *_nn.pkl
 *_nb.pkl
 
+# Dataset is almost 1gb
+data/
 
 Pipfile
 Pipfile.lock
